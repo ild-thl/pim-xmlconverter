@@ -1,0 +1,3136 @@
+<Modulbeschreibungen>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Selected Topics of the Finite Element Method</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>STFEM</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Schieck, Berthold, Prof. Dr.-Ing.</M_Modulverantwortliche>
+         <M_Fachbereich>Mechanical Engineering and Business Administration</M_Fachbereich>
+         <M_Studiengang>Mechanical Engineering, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Compulsory</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SuSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>English</M_Lehrsprache>
+         <M_Pruefsprache>English</M_Pruefsprache>
+         <M_Bewertungssystem_PL>One-third Grades</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Portfolio Exam</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>120</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>The students understand the basics of the mechanics of solids, restricted to linear theory and Cartesian coordinates: vector and matrix calculus (including summation convention), differential calculus on vector fields, stress tensor, balance of linear and angular momentum, strain tensor, linear elastic isotropic material, elasticity tensor, the principles of virtual work and of minimum of total potential.</p>
+                  <p>They understand the derivations of the basic equations of the Finite Element Method (FEM) in pure displacement formulation (classic standard FEM) and understand, how standard finite elements can be established, including trial functions, continuity requirements, load vector, stiffness matrix and coincidence matrix by the examples of simple membrane triangle and quad elements, 3 dim tetrahedron and brick elements, and have same basic knowledge about plate and shell elements.</p>
+                  <p>They have first experience in applications, including h and p refinement, and typical problems like stress concentrations and singularities.</p>
+                  <p>Finally, they understand the basics of dynamics: d´Alembert´s principle, explicit and implicit time integration and the basic features of modal analysis and its application.</p>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache/>
+         <M_GD_Anpassung_Didaktik/>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit>
+            <html>
+               <body>
+                  <p>The present module is closely related to the course on Computer Aided Techniques in Design (wind turbine project), which can be considered as a practical training in FEM, too.</p>
+               </body>
+            </html>
+         </M_Verwendbarkeit>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Selected Topics of the Finite Element Method</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>STFEM</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Lecture</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht>false</L1_Anwesenheitspflicht>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>English</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>
+                        <b>Basics of the mechanics of solids, restricted to linear theory and Cartesian coordinates:</b>
+                     </p><ul><li>Vector and matrix calculus (including summation convention), differential calculus on vector fields</li>
+                     <li>Stress tensor, balance of linear and angular momentum</li>
+                     <li>Strain tensor</li>
+                     <li>Linear elastic isotropic material, elasticity tensor</li>
+                     <li>The principles of virtual work and of minimum of total potential</li></ul><p>
+                        <b>The basic equations of the Finite Element Method (FEM)</b> in pure displacement formulation (classic standard FEM):</p><ul><li>Trial functions</li>
+                     <li>Continuity requirements</li>
+                     <li>Load vector</li>
+                     <li>Stiffness matrix</li>
+                     <li>Coincidence matrix</li></ul><p>
+                        <b>Examples:</b>
+                     </p><ul><li>Simple membrane triangle and quad elements</li>
+                     <li>3 dim tetrahedron and brick elements</li>
+                     <li>Basic knowledge about plate and shell elements</li>
+                     <li>h and p refinement</li>
+                     <li>Typical problems like stress concentrations and singularities</li></ul><p>
+                        <b>Dynamics: </b>
+                     </p><ul><li>d´Alembert´s principle</li>
+                     <li>Explicit and implicit time integration</li>
+                     <li>Modal analysis and its application</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>
+                        <b>Bathe, Klaus-Jürgen:</b> Finite Element Procedures in Engineering Analysis. Prentice Hall Inc., Englewood Cliffs, NJ, USA, 1982, 2nd revised edition 1995, 2014.</p>
+                     <p>
+                        <b>Zienkiewicz, O. C., Taylor, R. L.:</b> The finite element method. 5th edition. Vol. 1: the basis; vol. 2: solid mechanics; vol. 3: fluid dynamics. Butterworth Heinemann, Oxford, Auckland, Boston, etc. 2000.</p>
+                     <p>
+                        <b>A. Bertram:</b> Elasticity and plasticity of large deformations. An introduction. Springer, Berlin, Heidelberg, 2005</p>
+                     <p>
+                        <b>Basar, Y., Krätzig, W.B.:</b> Theory of Shell Structures, VDI Verlag 2000</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Selected Topics in Engineering Mathematics</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>SeToMa</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Kral, Roland, Prof. Dr.-Ing.</M_Modulverantwortliche>
+         <M_Fachbereich>Mechanical Engineering and Business Administration</M_Fachbereich>
+         <M_Studiengang>Mechanical Engineering, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Compulsory</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SuSe and WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>English</M_Lehrsprache>
+         <M_Pruefsprache>English</M_Pruefsprache>
+         <M_Bewertungssystem_PL>One-third Grades</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Written Exam</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>120</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>After successful completion of this course, the students are able to</p><ul><li>understand mathematical proofs</li>
+                  <li>to apply advanced mathematical methods to engineering problems.</li>
+                  <li>to solve individual problems with the aid modern software tools like MATLAB</li>
+                  <li>to describe and analyze the behavior of dynamical systems mathematically.</li></ul><p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen>
+            <html>
+               <body>
+                  <p>Mathematics I, II, III (Bachelor Level)</p>
+               </body>
+            </html>
+         </M_Teilnahmevoraussetzungen>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit>
+            <html>
+               <body>
+                  <p> will be used in other courses like Simulation and Control, Selected Topics of Finite Element Methods, Mechanics of Solids, Toolbox for Fluid Mechanical Design.</p>
+               </body>
+            </html>
+         </M_Verwendbarkeit>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Selected Topics in Engineering Mathematics (Lecture)</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>SeToMa</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Lecture</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>English</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Linear Algebra:</p>
+                     <p>Bases, change of base, orthogonal, unitary symmetric and positive definite matrices, rotations, eigenvalues and eigenvectors, normal form or Schur, principle vectors, Theorem of Cayley-Hamilton, block-diagonal normal form</p>
+                     <p/>
+                     <p>Linear Differential Equations (ODEs):</p>
+                     <p>Matrix exponential function, linear differential equation of order n, solution for linear system, stability</p>
+                     <p/>
+                     <p>Boundary Value and Eigenvalue Problems:</p>
+                     <p>Fundamental matrices, linear boundary value problem for systems of differential equations, linear boundary value problems for differential equations of order n, Green functions, eigenvalue problems</p>
+                     <p/>
+                     <p>Partial Differential Equations (PDEs):</p>
+                     <p>Basic definitions and introductory examples, DPEs of order 2, classification, separation of variables, vibrating string, heat transfer, problem of Dirichlet, solution with Green’s functions</p>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body><ul><li>Kreyszig, Erwin: Advanced Engineering Mathematics, Wiley &amp; Sons</li>
+                     <li>Shima/Nakuyama: Higher Mathematics for Physics and Engineering, Berlin: Springer-Verlag</li>
+                     <li>Mayberg/Vachenauer: Höhere Mathematik 1, 2: Berling: Springer-Verlag</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Material Science</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>MatSc</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Prof. Dr.-Ing. Ulrike Täck</M_Modulverantwortliche>
+         <M_Fachbereich>Mechanical Engineering and Business Administration</M_Fachbereich>
+         <M_Studiengang>Mechanical Engineering, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Compulsory</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SuSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>English</M_Lehrsprache>
+         <M_Pruefsprache/>
+         <M_Bewertungssystem_PL/>
+         <M_Pruefungsleistung/>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse/>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit>
+            <html>
+               <body>
+                  <p>This module is related tot he modules Advanced material Testing and all modules which are about engineering design</p>
+               </body>
+            </html>
+         </M_Verwendbarkeit>
+         <M_Bemerkungen>
+            <html>
+               <body>
+                  <p>The total grade of this module is calculated from the written exam of the lecture (60 %) and of the portfolio project work (40 %)</p>
+               </body>
+            </html>
+         </M_Bemerkungen>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Material Science Lecture</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>MatSc</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Lecture</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>3</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>3</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>90</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>45</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>45</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>English</L1_Lehrsprache>
+            <L1_Pruefsprache>English</L1_Pruefsprache>
+            <L1_Pruefungsleistung>Written Exam</L1_Pruefungsleistung>
+            <L1_Dauer_PL_in_Minuten>60</L1_Dauer_PL_in_Minuten>
+            <L1_Bewertungssystem_PL>One-third Grades</L1_Bewertungssystem_PL>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Background: physical metallurgy</p>
+                     <p>Steel and Aluminium alloys: structure, processing, properties</p>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse>
+               <html>
+                  <body>
+                     <p>Knowing basics of structure and behavior of metallic materials</p>
+                     <p>Knowing steel and aluminium alloys in depth</p>
+                  </body>
+               </html>
+            </L1_Lernergebnisse>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>W. D. Callister: Materials Science and Engineering, an Introduction, John Wiley &amp; Sons, Inc.</p>
+                     <p>J. Roesler et.al.: Mechanical Behaviour of Engineering Materials, Springer</p>
+                     <p>P. Haasen: Physical Metallurgy, Cambridge University Press</p>
+                     <p>V. Läpple: Werkstofftechnik Maschinenbau, Europa Lehrmittel</p>
+                     <p>G. Gottstein: Physikalische Grundlagen der Materialkunde, Springer</p>
+                     <p>R. Bürgel: Festigkeitslehre und Werkstoffmechanik, Bd. 1 und Bd. 2, Vieweg</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Material Science Portfolio</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel>MatSc</L2_Stundenplankuerzel>
+            <L2_Lehrveranstaltungsart>Project Work</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Online supported with presence hours</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte>2</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>1</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>60</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>15</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>45</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht/>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache>English</L2_Lehrsprache>
+            <L2_Pruefsprache>English</L2_Pruefsprache>
+            <L2_Pruefungsleistung>Portfolio Exam</L2_Pruefungsleistung>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL>One-third Grades</L2_Bewertungssystem_PL>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Student chose material related topics for project work. This can be special materials and materials technologies of current scientific interest</p>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse>
+               <html>
+                  <body>
+                     <p>Specialisation on application and scientific oriented materials science</p>
+                  </body>
+               </html>
+            </L2_Lernergebnisse>
+            <L2_Literatur>
+               <html>
+                  <body>
+                     <p>Students research selfdepend their own literature: scientific publications and books with specialzed topics</p>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen>
+               <html>
+                  <body>
+                     <p>Material Science Lecture from same module</p>
+                  </body>
+               </html>
+            </L2_Teilnahmevoraussetzungen>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Advanced Product Development</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>APD</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Jacobs, Olaf, Prof. Dr.-Ing.; Kohlhase, Nils, Prof. Dr.-Ing.</M_Modulverantwortliche>
+         <M_Fachbereich>Mechanical Engineering and Business Administration</M_Fachbereich>
+         <M_Studiengang>Mechanical Engineering, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Compulsory</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SuSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>English</M_Lehrsprache>
+         <M_Pruefsprache>English</M_Pruefsprache>
+         <M_Bewertungssystem_PL>One-third Grades</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Written Exam</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>120</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>The students understand</p><ul><li>Finding solutions systematically</li>
+                  <li>Methods for cost estimation </li>
+                  <li>Variant orientated product construction methods</li>
+                  <li>Management of R&amp;D</li>
+                  <li>The procedure of a life cycle assessment basically and apply this schematic to a simple application exemplarily</li>
+                  <li>The systematic method to develop a material requirements list and apply this method to a simple application,</li>
+                  <li>Derivation of performances indices acc. to the Ashby method for simple examples.</li></ul><p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen>
+            <html>
+               <body>
+                  <p>Product Development (PD) (3. Semester)</p>
+               </body>
+            </html>
+         </M_Teilnahmevoraussetzungen>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>false</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit>
+            <html>
+               <body>
+                  <p>Product Development (3. Semester)</p>
+                  <p>Composite Materials</p>
+                  <p>MSc thesis</p>
+               </body>
+            </html>
+         </M_Verwendbarkeit>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Advanced Product Development</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>APD</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Lecture</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht>true</L1_Anwesenheitspflicht>
+            <L1_Teilnahmebeschraenkung>30</L1_Teilnahmebeschraenkung>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>English</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Advanced Methods for Product Development (Prof. Kohlhase)</p><ul><li>Advanced methods for systematic solution finding</li>
+                     <li>Methods for cost estimation</li>
+                     <li>Size series development</li>
+                     <li>Modular system development</li>
+                     <li>R&amp;D Management</li></ul><p/>
+                     <p>Materials selection (Prof. Jacobs)</p><ul><li>Impact of material selection on production costs, utility, and ecological performance of the product.</li>
+                     <li>Overview of engineering materials and their comparison. Discussion of simple product examples that can be made of various materials.</li>
+                     <li>Overview of material testing and practical significance of characteristic material properties.</li>
+                     <li>Systematic method to compile a materials requirement list.</li>
+                     <li>Ashby method of performance indices. Derivation of performance indices for various applications and their discussion.</li>
+                     <li>Life cycle Assessment and its application to various products</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body><ul><li>Pahl, G., Beitz W., Feldhusen J., Grote, K. H.: Engineering Design, A Systematic Approach, 3rd Edition, Springer-Verlag London Limited 2007</li>
+                     <li>Ehrlenspiel, K. u.a.: Kostengünstig Entwickeln und Konstruieren: Kostenmanagement bei der integrierten Produktentwicklung, Springer Vieweg 2014</li>
+                     <li>Lindemann, U.: Handbuch Produktentwicklung, Hanser 2016</li>
+                     <li>M.F. Ashby, Metarials selection in Mechanical Design</li>
+                     <li>DIN EN ISO 14040 and 14044</li>
+                     <li>Additional materials in moodle course</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Management and Leadership</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>MgLs</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Management and Leadership</M_Modulname_englisch>
+         <M_Modulverantwortliche>Klein, Jürgen, Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Maschinenbau und Wirtschaft</M_Fachbereich>
+         <M_Studiengang>Mechanical Engineering, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SoSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Englisch</M_Lehrsprache>
+         <M_Pruefsprache>Englisch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Projektarbeit</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p> The students can</p><ul><li>describe the typical roles of management and leadership in organizations </li>
+                  <li>explain factors affecting behavior and performance</li>
+                  <li>examine Factors which influence Leadership skills</li>
+                  <li>describe the process of motivation and the conditions of change management</li></ul><p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Management and Leadership</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>MgLs</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Management and Leadership</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Englisch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Introduction </p>
+                     <p/>
+                     <p>Management in Organizations</p><ul><li>Individual and oranizational needs</li>
+                     <li>Perception and Communication</li></ul><p/>
+                     <p>Fundamental Elements of Management &amp; Leadership</p>
+                     <p/>
+                     <p>Strategic Planning on the Basis of Change-Management </p><ul><li>Resistance to Change</li>
+                     <li>Change-Management</li></ul><p/>
+                     <p>Functions and Characteristics of Leadership </p>
+                     <p/>
+                     <p>Developing Leadership Skills (Case Studies)</p>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Literature according to the current list given during the lecture.</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Seminar I: Current Topics in Research</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>Sem I</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Sandra Achilles/all lecturers from THL</M_Modulverantwortliche>
+         <M_Fachbereich>Mechanical Engineering and Business Administration</M_Fachbereich>
+         <M_Studiengang>Mechanical Engineering, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Compulsory</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>2</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>30</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>120</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SuSe and WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>English</M_Lehrsprache>
+         <M_Pruefsprache>English</M_Pruefsprache>
+         <M_Bewertungssystem_PL>One-third Grades</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Project Work</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body><ul><li>The students will gain experience in acquainting themselves with complex R&amp;D topics.</li>
+                  <li>The students will gain an overview of current research topics with special emphasis on the research fields.</li>
+                  <li>The students will train scientific writing.</li>
+                  <li>The students will get practical training in scientific presentations and improvement of their presentation skills.</li></ul><p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen>
+            <html>
+               <body>
+                  <p>second or higher semester</p>
+               </body>
+            </html>
+         </M_Teilnahmevoraussetzungen>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit>
+            <html>
+               <body>
+                  <p>Seminar II</p>
+               </body>
+            </html>
+         </M_Verwendbarkeit>
+         <M_Bemerkungen>
+            <html>
+               <body>
+                  <p>This seminar will prepare the students for scientific work of the master thesis and scientific work after graduating. An overview of the current R&amp;D trends in mechanical and materials engineering will be given. Detailed information about current R&amp;D projects at the universities participating in this program will be presented and subjects of master theses discussed on scientific level. The underlying scientific information and the project plan have to be presented and defended in the seminar. Presentation methods and organising technical reports will be trained simultaneously.</p>
+                  <p/>
+                  <p>Professional key competences achieved are competence in methods, self-competence/personal competence and intercultural competence. </p>
+                  <p/>
+               </body>
+            </html>
+         </M_Bemerkungen>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Seminar I: Current Topics in Research</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>Sem I</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Seminar</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>2</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>30</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>120</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht>true</L1_Anwesenheitspflicht>
+            <L1_Teilnahmebeschraenkung>20</L1_Teilnahmebeschraenkung>
+            <L1_Gruppengroesse>4</L1_Gruppengroesse>
+            <L1_Lehrsprache>English</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>
+                        <i>Current topics in R&amp;D</i>
+                     </p><ul><li>Overview worldwide (mechanical engineering, materials  science and engineering, design and systems engineering)</li>
+                     <li>R&amp;D at participating universities</li></ul><p/>
+                     <p>
+                        <i>Reporting and presentations</i>
+                     </p><ul><li>different types of reports</li>
+                     <li>writing of scientific papers and reports</li>
+                     <li>different types of presentations</li>
+                     <li>presentation techniques</li>
+                     <li>exercises</li></ul><p/>
+                     <p/>
+                     <p>
+                        <i>Presentations by students</i>
+                     </p><ul><li>introduction into a certain research field and the research topic addressed</li>
+                     <li>first project plan of scientific project and paper</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Literature will be addressed during coursework.</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen>
+               <html>
+                  <body>
+                     <p>
+                        <i>Requi</i>
+                        <i>rements for granting of credits</i>
+                     </p><ul><li>successful passing of exercises</li>
+                     <li>successful writing of a report</li>
+                     <li>successful oral presentations</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Bemerkungen>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Product Development in Production</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>PrDev</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Rosenthal, Arnd, Prof. Dr.-Ing.; Kohlhase, Nils, Prof. Dr.-Ing.</M_Modulverantwortliche>
+         <M_Fachbereich>Mechanical Engineering and Business Administration</M_Fachbereich>
+         <M_Studiengang>Mechanical Engineering, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Compulsory</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>English</M_Lehrsprache>
+         <M_Pruefsprache/>
+         <M_Bewertungssystem_PL/>
+         <M_Pruefungsleistung/>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse/>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>false</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit>
+            <html>
+               <body>
+                  <p>Computer Aided Techniques (CAT) (1. Semester)</p>
+               </body>
+            </html>
+         </M_Verwendbarkeit>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Product Development in Production (Lecture and Practical Work)</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>PrDev</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Lecture</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung>25</L1_Teilnahmebeschraenkung>
+            <L1_Gruppengroesse>3</L1_Gruppengroesse>
+            <L1_Lehrsprache>English</L1_Lehrsprache>
+            <L1_Pruefsprache>English</L1_Pruefsprache>
+            <L1_Pruefungsleistung>Portfolio Exam</L1_Pruefungsleistung>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL>One-third Grades</L1_Bewertungssystem_PL>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body><ul><li>Module 1: Design for minimum cost: Standardization (Lecture, Prof. Kohlhase)</li>
+                     <li>Module 2: CAD/CAM-Coupling (Lecture and Practical Work, Prof. Rosenthal)</li>
+                     <li>Module 3: Design for minimum cost: Value Analysis; Design for quality: FMEA (Lecture, Prof. Kohlhase)</li>
+                     <li>Module 4: Fast Ramp-Up of Series Production (Prof. Rosenthal)</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse>
+               <html>
+                  <body>
+                     <p>The student understands:</p><ul><li>The strong interrelationship between R&amp;D and manufacturing</li>
+                     <li>The needs of manufacturing improvement after SOP</li>
+                     <li>The dynamic product chance influenced by cooperation between different department from purchase to sales/marketing and engineering </li>
+                     <li>The complex process to start production within the required cost and time limit</li>
+                     <li>R&amp;D methods for </li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lernergebnisse>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Course packs and/or recommended literature in class</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen>
+               <html>
+                  <body>
+                     <p>Computer Aided Techniques (CAT) (1. Semester)</p>
+                     <p>Product Development (PD) (3. Semester)</p>
+                  </body>
+               </html>
+            </L1_Teilnahmevoraussetzungen>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen>
+               <html>
+                  <body>
+                     <p>Parts of Portfolio Examination:</p><ol><li>Participation in practical work (Pass)</li>
+                     <li>Mid-term test (One-third grades)</li>
+                     <li>Presentation of a product using lecture contents in groups (One-third grades)</li></ol><p/>
+                  </body>
+               </html>
+            </L1_Bemerkungen>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Seminar II: Guide to Systematic and Scientific Work</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>Sem II</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Sandra Achilles/all lecturers from THL</M_Modulverantwortliche>
+         <M_Fachbereich>Mechanical Engineering and Business Administration</M_Fachbereich>
+         <M_Studiengang>Mechanical Engineering, Master</M_Studiengang>
+         <M_Fachsemester>3</M_Fachsemester>
+         <M_Verpflichtungsgrad>Compulsory</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>2</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>30</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>120</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SuSe and WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>English</M_Lehrsprache>
+         <M_Pruefsprache>English</M_Pruefsprache>
+         <M_Bewertungssystem_PL>One-third Grades</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Project Work</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Professional key competences achieved and improved by the participants are competence in methods, social competence, media competence, self-competence/personal competence and intercultural competence. </p>
+                  <p/>
+                  <p>Students have learned to plan and control their projects systematically. They are able to present in a professional, scientific manner, create scientific handouts and posters. They are accustomed to explain their work, methods and set-ups to an audience. They are familiar with different type of reports, its presentations and their target groups. The students understand, assess and discuss research reports of colleagues, give recommendation and are familiar with a focus on innovative solutions.</p>
+                  <p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen>
+            <html>
+               <body>
+                  <p>third or higher semester</p>
+               </body>
+            </html>
+         </M_Teilnahmevoraussetzungen>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit>
+            <html>
+               <body>
+                  <p>Seminar II</p>
+               </body>
+            </html>
+         </M_Verwendbarkeit>
+         <M_Bemerkungen>
+            <html>
+               <body>
+                  <p>Successful engineers in a professional environment need a lot more skills than only technical expertise: planning and controlling of projects, presentation of own results in working groups or on conferences, discussion of the colleague’s work, target group oriented reporting in oral and written form. The master’s thesis offers a good opportunity to train these skills within this seminar. </p>
+                  <p>Moreover, the seminar will guide the students through the master’s thesis; gives support in the evaluation of the results and in writing the theses itself.</p>
+                  <p/>
+                  <p/>
+                  <p/>
+               </body>
+            </html>
+         </M_Bemerkungen>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Seminar II: Guide to Systematic and Scientific Work</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>Sem I</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Seminar</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>2</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>30</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>120</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht>true</L1_Anwesenheitspflicht>
+            <L1_Teilnahmebeschraenkung>20</L1_Teilnahmebeschraenkung>
+            <L1_Gruppengroesse>4</L1_Gruppengroesse>
+            <L1_Lehrsprache>English</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Course topics are:</p>
+                     <p>
+                        <i>Introduction: reports and presentations</i>
+                     </p><ul><li>Typical characteristics of various types of reports (short status reports, lab reports, final project reports, etc.)</li>
+                     <li>Characteristics of different presentations (status report in project meeting, conference speeches, lectures, etc.)</li>
+                     <li>Planning and writing of a master thesis</li>
+                     <li>Characteristics of a handout</li></ul><p/>
+                     <p>
+                        <i>Status reports, discussions and Workshops</i>
+                     </p><ul><li>Every student will present the project plan of his/her master project incl. preparation and visualization it in a proper manner</li>
+                     <li>Every student will give regular status reports in oral and written form incl. updates of his/her project plan</li>
+                     <li>Every student must actively participate in the discussion of the status reports (questions, hints, ideas)</li>
+                     <li>Every student actively participates in the poster workshop and designs a poster in the given corporate design</li></ul><p/>
+                     <p>
+                        <i>Final report/Poster exhibition</i>
+                     </p><ul><li>Every student has to present his/her scientific poster which must be based on the master project</li>
+                     <li>Every student must actively participate in the exhibition, related questions and discussions</li></ul><p/>
+                     <p>Course type and methods are:</p><ul><li>interactive lecture/discussion</li>
+                     <li>exercises, case studies, examples</li>
+                     <li>presentations by students and poster exhibition</li></ul><p/>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Literature is given during the seminar. </p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen>
+               <html>
+                  <body>
+                     <p>
+                        <i>Requirements for granting </i>
+                        <i>of credits</i>
+                     </p><ul><li>successful writing of status reports and handouts</li>
+                     <li>successful oral presentation of status reports</li>
+                     <li>successful design of a scientific poster and its presentation in person</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Bemerkungen>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Abschluss/Graduation</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>MT</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Hahn, Martin, Prof. Dr.-Ing.</M_Modulverantwortliche>
+         <M_Fachbereich>Mechanical Engineering and Business Administration</M_Fachbereich>
+         <M_Studiengang>Mechanical Engineering, Master</M_Studiengang>
+         <M_Fachsemester>3</M_Fachsemester>
+         <M_Verpflichtungsgrad>Compulsory</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>25</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden/>
+         <M_Arbeitsaufwand_in_Stunden>750</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden/>
+         <M_Selbststudiumsstunden>750</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>(Flexible)</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>English</M_Lehrsprache>
+         <M_Pruefsprache/>
+         <M_Bewertungssystem_PL/>
+         <M_Pruefungsleistung/>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse/>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>false</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Master Thesis (Project)</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>MT-PW</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Project Work</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>22</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>0</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>660</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>0</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>660</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>English</L1_Lehrsprache>
+            <L1_Pruefsprache>English</L1_Pruefsprache>
+            <L1_Pruefungsleistung>Thesis</L1_Pruefungsleistung>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL>One-third Grades</L1_Bewertungssystem_PL>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>The contents of the Master-Thesis follow the given, special assignment. The thesis should contain at least the following elements:</p><ul><li>Introduction</li>
+                     <li>State of the art</li>
+                     <li>Analysis, scope and approach</li>
+                     <li>Concept for realization and implementation</li>
+                     <li>Critical vies on results</li>
+                     <li>Conclusion and future prospects</li></ul><p/>
+                     <p>The executed work is put down in a scientific documentation (Master-Thesis). The above-mentioned elements should be considered in an adequate manner. The typical length of a thesis is about 50 to 80 pages without annex.</p>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse>
+               <html>
+                  <body>
+                     <p>In the scientific Master-Thesis the students show their ability to apply the scientific knowledge from their master studies on an industrial and/or a research-oriented project.</p>
+                     <p>They show especially that they</p><ul><li>can apply techniques of scientific work widely in their own research-related work.</li>
+                     <li>can structure and work through a project in work packages independently.</li>
+                     <li>can deepen their knowledge of a partially unknown field of work and work out the necessary information.</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lernergebnisse>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Literature related to the given project task.</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen>
+               <html>
+                  <body><ul><li>Examination prerequisites according to the examination regulations for the study program Master of Science Mechanical Engineering</li>
+                     <li>Coordination of the final assignment with the assigned advisor from the official teaching stuff of the TH Lübeck.</li>
+                     <li>Approval of the provided assignment prior to the start of the Master-Thesis by the examination board of the department.</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Teilnahmevoraussetzungen>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Abschlusskolloquium/Final Colloquium</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel>MT-K</L2_Stundenplankuerzel>
+            <L2_Lehrveranstaltungsart>Project Work</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Presence</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte>3</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>0</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>90</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>0</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>90</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht/>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache>English</L2_Lehrsprache>
+            <L2_Pruefsprache>English</L2_Pruefsprache>
+            <L2_Pruefungsleistung>Colloquium</L2_Pruefungsleistung>
+            <L2_Dauer_PL_in_Minuten>60</L2_Dauer_PL_in_Minuten>
+            <L2_Bewertungssystem_PL>One-third Grades</L2_Bewertungssystem_PL>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>The colloquium finalizes the graduation, is reviewed and evaluated by the examiners of the thesis together and includes two parts:</p><ul><li>A presentation (appr. 20 minutes) of the contents and the major results of the master thesis.</li>
+                     <li>An oral discussion/exam related to the written master-thesis, the presentation and the study program</li></ul><p/>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse>
+               <html>
+                  <body>
+                     <p>The students are able to</p><ul><li>present a scientific task to a professional audience in a structured, understandable and accurate way, both orally and in writing.</li>
+                     <li>answer questions in a professional discussion competently and at the same time in a way that is appropriate for the target group and to represent their own assessments convincingly.</li></ul><p/>
+                  </body>
+               </html>
+            </L2_Lernergebnisse>
+            <L2_Literatur>
+               <html>
+                  <body>
+                     <p>Literature related to the given project task.</p>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen>
+               <html>
+                  <body><ul><li>The Master-Thesis must have been handed in in time and must have been graded at least with passed (ausreichend).</li>
+                     <li>Successful completion (at least passed) of all other teaching modules.</li></ul><p/>
+                  </body>
+               </html>
+            </L2_Teilnahmevoraussetzungen>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Computer Aided Techniques in Design</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>CAT</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Warnack, Dieter, Prof. Dr.-Ing.</M_Modulverantwortliche>
+         <M_Fachbereich>Mechanical Engineering and Business Administration</M_Fachbereich>
+         <M_Studiengang>Mechanical Engineering, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Compulsory</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SuSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>English</M_Lehrsprache>
+         <M_Pruefsprache>English</M_Pruefsprache>
+         <M_Bewertungssystem_PL>One-third Grades</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Written Exam</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>90</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>The students should be able to understand the underlying physics of different computational methods as named under the contents of lecture below. They should be able to have a critical view on the applicability of the methods.</p>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen>
+            <html>
+               <body>
+                  <p>Understanding of lectures in mathematics, fluid mechanics, mechanics of solid, CAD</p>
+               </body>
+            </html>
+         </M_Teilnahmevoraussetzungen>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>false</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>false</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit>
+            <html>
+               <body>
+                  <p>product development in production, finite element methods</p>
+               </body>
+            </html>
+         </M_Verwendbarkeit>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Computer Aided Techniques in Design (Lecture)</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>CAT</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Lecture</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>3</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>3</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>90</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>45</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>45</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht>false</L1_Anwesenheitspflicht>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>English</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>virtual design loop containing fluids and solids design</p>
+                     <p>virtual testing of flow features and structure with simplified models</p>
+                     <p>geometry definition with CAD</p>
+                     <p>virtual testing with 3D models - FEM, CFD</p>
+                     <p>outlook – further steps - rapid prototyping - experiments</p>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>as recommended in class</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Computer Aided Techniques in Design (Practical Training)</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel>CAT P</L2_Stundenplankuerzel>
+            <L2_Lehrveranstaltungsart>Practical Training</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Presence</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte>2</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>1</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>60</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>15</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>45</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht>true</L2_Anwesenheitspflicht>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache>English</L2_Lehrsprache>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung>Practical Training</L2_Studienleistung>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL>Pass</L2_Bewertungssystem_SL>
+            <L2_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>A virtual design is applied to a model wind turbine or an axial pump The underlying methods correspond to the methods as described in contents of lecture.</p>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse/>
+            <L2_Literatur>
+               <html>
+                  <body>
+                     <p>as recommended in class</p>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Simulation and Control</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>SiCo</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Hahn, Martin, Prof. Dr.-Ing.</M_Modulverantwortliche>
+         <M_Fachbereich>Mechanical Engineering and Business Administration</M_Fachbereich>
+         <M_Studiengang>Mechanical Engineering, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Compulsory</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>English</M_Lehrsprache>
+         <M_Pruefsprache>English</M_Pruefsprache>
+         <M_Bewertungssystem_PL>One-third Grades</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Written Exam</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>90</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>The student shall learn to build up a simulation model for a dynamical technical system. The emphasis is laid on mechanic or mechatronic systems. This will be done in two steps: In the first step, the equations of motions are derived and in a second step, these equations are implemented on a computer. Using some laboratory experiments, the students have the possibility to compare simulated and measured result and they are asked to compare the real behavior with the expected behavior of the system. They learn also how to design advanced controllers (linear and nonlinear).</p>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen>
+            <html>
+               <body>
+                  <p>Advanced Topics in Engineering Mathematics, Control Systems</p>
+               </body>
+            </html>
+         </M_Teilnahmevoraussetzungen>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>false</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Simulation and Control (Lecture)</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>SiCo-L</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Lecture</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>4</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>3</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>120</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>45</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>75</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>English</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>For the design and the construction of a complicated technical system it becomes more and more important to derive a mathematical simulation model which puts the engineer in a position to show that his design is feasible, to estimate the performance of the system and to optimize parameters. One reason for the fact that simulation models become very popular in an early stage of the system design is that since some years there exist very powerful SW tools which help the engineer to build up the model and to run it with efficient algorithms. Despite of this, the derivation of the model and the correct interpretation of the simulation results or the measurements require a profound knowledge of the underlying theory. Additionally, since automatization plays an increasing role, the knowledge how to design a controller is of great importance.</p>
+                     <p/>
+                     <p>
+                        <b>Introduction</b>
+                     </p>
+                     <p>Simulation and the evolution of learning, innovation drivers for mechanical engineering products, methods of function development and mechatronic system design, methods of control engineering, development environments, hardware-in-the-loop testbed applications, position and velocity control revisited, examples.</p>
+                     <p/>
+                     <p>
+                        <b>Mechatronic systems and their components</b>
+                     </p>
+                     <p>Components of mechatronic systems, actuators, sensors, information processing, electronic control units, AD and DA converters, use of FPGAs for high-speed control applications,</p>
+                     <p/>
+                     <p>
+                        <b>Modelling of Mechatronic Systems</b>
+                     </p>
+                     <p>Base principles of mechanic system modelling, modelling of multibody systems, modelling of the mechanic and electrical subsystems of a maglev-system, standard representation of mechanical systems, linear and nonlinear state space repre-sentation, transformation of 2nd order systems to state space representation, modelling of hydraulic subsystems, modelling multidomain models.</p>
+                     <p/>
+                     <p>
+                        <b>Simulation and Computation of Mechatronic Systems</b>
+                     </p>
+                     <p>Simulation, linearization, eigenvalue and eigenvector calculation, frequency response, FFT, realtime-requirements to use models in testbed applications, algorithms for the solution of systems in state space representation (ode-solvers), mathe-matics of single-step and multistep-solvers (esp. Euler, Heun and Runge-Kutta-algorithms, stepsize and order control, nu-merical stability), </p>
+                     <p/>
+                     <p>
+                        <b>Analysis of Mechatronic Systems</b>
+                     </p>
+                     <p>Laplace transformation, partial fraction decomposition, basic rules, transformation of unsteady periodic excitation signals, system stability analysis (linear and nonlinear), block diagram conversion rules, analysis of systems in linear and nonline-ar state space representation, solution in Laplace s-domain, transfer-matrix, eigenvalues, hydraulic servo system example and a maglev system </p>
+                     <p> </p>
+                     <p>
+                        <b>Synthesis and Control</b>
+                     </p>
+                     <p>Overview of linear and nonlinear control theory, basic controller types, classic and modern control approaches, frequency response design methods for controllers, Bode diagram, control settling time, influence of disturbances and nonlinearities, closed loop in state space representation, parameter sensitivity.</p>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>A list of suitable textbooks is provided at the beginning of the lecture.</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Simulation and Control (Practical Training)</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel>SiCo-PT</L2_Stundenplankuerzel>
+            <L2_Lehrveranstaltungsart>Practical Training</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Presence</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte>1</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>1</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>30</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>15</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>15</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht>true</L2_Anwesenheitspflicht>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse>12</L2_Gruppengroesse>
+            <L2_Lehrsprache>English</L2_Lehrsprache>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung>Practical Training</L2_Studienleistung>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL>Pass</L2_Bewertungssystem_SL>
+            <L2_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>
+                        <b>Simulation and laboratory experiments</b>
+                     </p>
+                     <p>Introduction into the use blockdiagram based development environments, nonlinear state space representation of 1st and 2nd order system examples, numerics and stability of a rotary manipulator simulation model, symbolic solution and exact numerical errors for a nonlinear system, frequency response methods</p>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse/>
+            <L2_Literatur>
+               <html>
+                  <body>
+                     <p>A list of suitable textbooks is provided at the beginning of the lecture.</p>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Advanced Material Testing</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>AMT</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Prof. Dr.-Ing. Ulrike Täck</M_Modulverantwortliche>
+         <M_Fachbereich>Mechanical Engineering and Business Administration</M_Fachbereich>
+         <M_Studiengang>Mechanical Engineering, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Compulsory</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>75</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>75</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>English</M_Lehrsprache>
+         <M_Pruefsprache/>
+         <M_Bewertungssystem_PL/>
+         <M_Pruefungsleistung/>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse/>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit>
+            <html>
+               <body>
+                  <p>Knowhow important for mechanical design and failure analysis of engineering components</p>
+               </body>
+            </html>
+         </M_Verwendbarkeit>
+         <M_Bemerkungen>
+            <html>
+               <body>
+                  <p>This Module comprises a portfolio exam. The lecture will be completed by a written exam (50 % of total grade) at end of semester. Successfull passing of practical training are further 50 % of the grade.</p>
+               </body>
+            </html>
+         </M_Bemerkungen>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Advanced Material Testing Lecture</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>AMT</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Lecture</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>3</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>3</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>90</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>45</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>45</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>English</L1_Lehrsprache>
+            <L1_Pruefsprache>English</L1_Pruefsprache>
+            <L1_Pruefungsleistung>Written Exam</L1_Pruefungsleistung>
+            <L1_Dauer_PL_in_Minuten>60</L1_Dauer_PL_in_Minuten>
+            <L1_Bewertungssystem_PL>One-third Grades</L1_Bewertungssystem_PL>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Fatigue and fracture mechanics of metallic materials</p>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse>
+               <html>
+                  <body>
+                     <p>Students understand importants of cyclic loading, crack initiation and crack propagation on component life.</p>
+                     <p>Students understand influence of materials structure and processing on fatigue and fracture toughness.</p>
+                  </body>
+               </html>
+            </L1_Lernergebnisse>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>W. D. Callister: Materials Science and Engineering, an Introduction, John Wiley &amp; Sons, Inc.</p>
+                     <p>J. Rösler et.al.: Mechanical Behaviour of Engineering Materials. Springer-Verlag</p>
+                     <p>T. L. Anderson: Fracture Mechanics. Taylor &amp; Francis</p>
+                     <p>J. Schijve: Fatigue of Structures and Materials. Kluwer Academic Publishers</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen>
+               <html>
+                  <body>
+                     <p>Knowhow important for mechanical design and failure analysis of engineering components</p>
+                  </body>
+               </html>
+            </L1_Teilnahmevoraussetzungen>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Advanced material Testing Portfolio</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel>AMT</L2_Stundenplankuerzel>
+            <L2_Lehrveranstaltungsart>Practical Training</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Presence</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte>2</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>1</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>60</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>30</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>30</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht>true</L2_Anwesenheitspflicht>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache>English</L2_Lehrsprache>
+            <L2_Pruefsprache>English</L2_Pruefsprache>
+            <L2_Pruefungsleistung>Portfolio Exam</L2_Pruefungsleistung>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL>One-third Grades</L2_Bewertungssystem_PL>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Students perform fatigue tests on avrios materials and materials conditions, write reports about the results and scientific discussion</p>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse>
+               <html>
+                  <body>
+                     <p>Students learn practice of fatigue testing</p>
+                     <p>Students learn how to plan and perform practical experiments</p>
+                     <p>Students learn how to document experiments</p>
+                     <p>Students learn how to discuss and judge own results</p>
+                  </body>
+               </html>
+            </L2_Lernergebnisse>
+            <L2_Literatur>
+               <html>
+                  <body>
+                     <p>Same as mentioned before</p>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen>
+               <html>
+                  <body>
+                     <p>Module Material Science</p>
+                  </body>
+               </html>
+            </L2_Teilnahmevoraussetzungen>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Polymer Science</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>PSci</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Prof. Dr.-Ing. Olaf Jacobs</M_Modulverantwortliche>
+         <M_Fachbereich>Mechanical Engineering and Business Administration</M_Fachbereich>
+         <M_Studiengang>Mechanical Engineering, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Compulsory</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>English</M_Lehrsprache>
+         <M_Pruefsprache>English</M_Pruefsprache>
+         <M_Bewertungssystem_PL>One-third Grades</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Written Exam</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>120</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>The students will be able to</p><ul><li>describe the different types of polymerisation reactions and to assign typical plastics to the according polymerisation types,</li>
+                  <li>distinguish thermoplastics, thermosets, elastomers, and TPEs with respect of structure, processing and usage properties and to select among these material families for practical applications,</li>
+                  <li>describe the most common representatives of the aforementioned polymer families with respect to structure, processing and usage properties and to specify typical advantages and shortcomings,</li>
+                  <li>name typical additives for polymers, explain their effect on the material properties, and describe the most common compounding methods,</li>
+                  <li>describe qualitatively and mathematically the mechanical (non-linear elasticity, creep, visco-elasticity), physical (dielectricity, interaction with radiation), thermal (transitions, solidification and melting), thermo-mechanical (DMTA, residual stresses from processing), and chemical (oxidation, soaking) peculiarities of polymeric materials,</li>
+                  <li>describe and explain typical testing and analysis procedures for polymers,</li>
+                  <li>describe and explain processing effects on the performance of polymers and plastic products,</li>
+                  <li>describe the most common processing methods (injection moulding, extrusion, thermoforming) and common derivatives of them.</li></ul><p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit>
+            <html>
+               <body>
+                  <p>Composite Materials</p>
+                  <p>MSc thesis</p>
+               </body>
+            </html>
+         </M_Verwendbarkeit>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Polymer Science (Lecture)</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>PSci</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Lecture</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung>30</L1_Teilnahmebeschraenkung>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>English</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>
+                        <b>Polymerisation</b>
+                     </p><ul><li>carbon atom and its bonds (single, double, triple, steric structure)</li>
+                     <li>radical chain polymeriosation, ionic chain polymeriosation, step reaction, polycondensation, ring opening polymerisation</li>
+                     <li>catalysts and their effect on the chain structure (Zigler-Natta, metallocene)</li>
+                     <li>degree of polymerisation, molar mass and their measurement</li>
+                     <li>branching ratio</li></ul><p>
+                        <b>Structure property relation</b>
+                        <b>ship</b>
+                     </p><ul><li>constitution (dipoles, voluminous side groups, rigid back bone segments) </li>
+                     <li>configuration (tacticity)</li>
+                     <li>crystallisation and crystallinity (effect of molecular structure), structural anisotropy and anisotropic properties</li>
+                     <li>copolymers (block, random, grafting)</li></ul><p>
+                        <b>Compounding</b>
+                     </p><ul><li>Additives and their effect (fillers, reinforcements, plasifiers, lubricants, release agents, stabelisers etc.)</li>
+                     <li>dispersion and homogenisation</li></ul><p>
+                        <b>Rheology of polymers</b>
+                     </p><ul><li>Newtoneon and non-Newtoneon fluids, power law, shear thinning, Carreau equation</li>
+                     <li>flow induced anisotropy</li>
+                     <li>measurement methods: viscosimeters, MVR/MFR, high pressure capillary rheometer</li></ul><p>
+                        <b>Thermal properties of polymers</b>
+                     </p><ul><li>phase transitions: molecular processes, mathematical models</li>
+                     <li>solidification of melts, shrinkage, skin-core morphology in injection moulded parts</li></ul><p>
+                        <b>Mechanicel properties of polymers</b>
+                     </p><ul><li>viscoelasticity: energy elasticity, entropy elasticity, creep/relaxation; molecular processes, mathematical models, relaxation time</li>
+                     <li>cyclic loading: DMA, effect of temperature and frequency, time/temperature transformations, master curves, Arrhenius and WLF transformation </li>
+                     <li>stress-strain behaviour, creep curves and creep modulous</li></ul><p>
+                        <b>Electrical properties of polymers</b>
+                     </p><ul><li>Condution mechanisms in polymer compounds, percolation, anti-static compounds</li>
+                     <li>Dielectric constant, polarisation mechanisms, frequency effect, practical relevance (capacitors, HF welding, absorption of electromagnetic waves)</li></ul><p>
+                        <b>Environmental effects</b>
+                     </p><ul><li>Diffusion processes in polymers, barrier properties,</li>
+                     <li>Chemical interaction with media, oxidation, surface activation</li>
+                     <li>Physikal interaction, soaking, softening and internal stresses</li>
+                     <li>Radiation and thermal effects: radiation induced processes, aging, radiation curing/crosslinking, stabelisers and activators</li>
+                     <li>Accelerated aging, testing methods and correlation with reality. Arrhenius relation</li></ul><p>
+                        <b>Polymer Processing and Recycling</b>
+                     </p><ul><li>Injection Moulding and derivates, extrusion and derivates, thermoforming and derivates,</li>
+                     <li>Differences between thermoplastics, thermostets, and elastomers,</li>
+                     <li>Material recycling, recycling to resources, thermal recycling: Practical examples, state of the art and trends.</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body><ul><li>Jacobs, O. : Polymer Science, lecture notes, FH Lübeck</li>
+                     <li>updated textbook list will be supplied at the beginning of the semester</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Biomechanics and Biophysics</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>Bio</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Prof. Dr. Nestler, Bodo</M_Modulverantwortliche>
+         <M_Fachbereich>Mechanical Engineering and Business Administration</M_Fachbereich>
+         <M_Studiengang>Mechanical Engineering, Bachelor</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Compulsory elective</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>English</M_Lehrsprache>
+         <M_Pruefsprache>English</M_Pruefsprache>
+         <M_Bewertungssystem_PL>One-third Grades</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Written Exam</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>60</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body><ul><li>The students shall acquire consolidated knowledge of physical, electrical, and mechanical principles of medical products.</li>
+                  <li>The students shall be enabled to contribute to the development of medical products according to relevant standards</li>
+                  <li>The students shall understand the basics of the application of physical/technical models to biological/ medical systems.</li></ul><p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik/>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Biomechanics and Biophysics (lecture)</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>Bio</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Lecture</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>English</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body><ul><li>Basic static mechanics</li>
+                     <li>Deformation behaviour of viscoelastic materials</li>
+                     <li>Biomechanics of the human locomotive system:</li></ul><p>Mechanical behaviour of biological tissues (bone, tendons/ligaments, cartilage, synovial fluid)</p><ul><li>Loads acting in the locomotive system (forces/moments, stress/strain): hip joint, femur, knee joint, foot, spine)</li>
+                     <li>Biomaterials:</li></ul><p>types, chemical composition, biocompatibility, corrosion resistance, mechanical properties</p><ul><li>Artificial joints (endoprostheses):</li></ul><p>types, materials, laboratory testing, wear</p><ul><li>Bone fractures (healing and fixation):</li></ul><p>types of fracture healing, internal fixation, external fixation</p><ul><li>Physical principles and their application in:</li></ul><p>Liquid and gas flow in the human body</p><ul><li>Electrical and magnetic interactions with biological systems (cells)</li>
+                     <li>HF surgery</li>
+                     <li>EEG</li>
+                     <li>EMG</li>
+                     <li>MRI</li>
+                     <li>Knowledge about lecturer´s current research projects</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body><ul><li>Mow, V.C., R. Huiskes (Ed.): Basic orthopaedic biomechanics &amp; mechano-biology. 3rd Edition. Lippincott, Williams &amp; Wilkins, Philadelphia, 2003</li>
+                     <li>P.  Brinckmann, W. Frobin, G. Leivseth, (Hrsg.): Orthopedic Biomechanics, Thieme, 2015</li>
+                     <li>Thews et al.: Human Physiology. Springer (1989)</li>
+                     <li>Webster: Medical Instrumentation, 3rd edition, Wiley and Sons.</li>
+                     <li>Tritthart, H.: Medizinische Physik und Biophysik. Schattauer (2001)</li>
+                     <li>Hutten. H.: Biomedizinische Technik, 4. Aufl. Springer (1991)</li>
+                     <li>Kresse, H.: Kompendium Elektromedizin. Siemens (1978)</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Medical Technology</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>CTME</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Müller, Stefan , Prof. Dr.-Ing.</M_Modulverantwortliche>
+         <M_Fachbereich>Mechanical Engineering and Business Administration</M_Fachbereich>
+         <M_Studiengang>Mechanical Engineering, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Elective</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>English</M_Lehrsprache>
+         <M_Pruefsprache>English</M_Pruefsprache>
+         <M_Bewertungssystem_PL>One-third Grades</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Written Exam</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>90</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Students are able to analyze and describe the function of the most important medical devices.</p>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>false</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Medical Technology (Lecture)</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>CTME-L</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Lecture</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>English</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body><ul><li>Medical Terminology, major organ systems, generation of bioelectrical potentials</li>
+                     <li>Measurement of flow, flowsensors</li>
+                     <li>Body temperature and temperature sensors</li>
+                     <li>Bioelectrodes, Biopotential </li>
+                     <li>ECG (Eindhoven, Goldberger, Wilson), 3D Projection</li>
+                     <li>Pumps: infusion, perfusion, safety concepts</li>
+                     <li>Cardiac Pacemakers and defibrillators</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Webster. John G: Medical Instrumentation, 3rd edition, Wiley and Sons.</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Current Topics in Mechanical Engineering</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>CTME</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Hahn, Martin, Prof. Dr.-Ing.</M_Modulverantwortliche>
+         <M_Fachbereich>Mechanical Engineering and Business Administration</M_Fachbereich>
+         <M_Studiengang>Mechanical Engineering, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Elective</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>English</M_Lehrsprache>
+         <M_Pruefsprache>English</M_Pruefsprache>
+         <M_Bewertungssystem_PL>One-third Grades</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Written Exam</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>120</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Students are able to assess and apply current research and development trends in modern mechanical engineering.</p>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>false</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Current Topics in Mechanical Engineering (Lecture)</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>CTME-L</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Lecture</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>English</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>The course teaches actual research and development topics in mechanical engineering and is held by one or more lecturers that allows to show different aspects of actual mechanical engineering research and projects.</p>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>A list of suitable textbooks is provided at the beginning of the lecture.</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Surface Engineering and Tribology</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>SETri</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Prof.  Dr. rer. nat. Arne Bender</M_Modulverantwortliche>
+         <M_Fachbereich>Mechanical Engineering and Business Administration</M_Fachbereich>
+         <M_Studiengang>Mechanical Engineering, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Elective</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>English</M_Lehrsprache>
+         <M_Pruefsprache>English</M_Pruefsprache>
+         <M_Bewertungssystem_PL>One-third Grades</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Written Exam</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>120</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>In many applications, the performance of a mechanical component is rather controlled by the surface properties than by the bulk (volume) material properties. Catalysis, corrosion, adhesion or non-adhesion, friction and wear, optical effects, biological processes (implants) are examples for such applications. Precise control of the surface properties is necessary to get optimal system performance and longevity. This lecture will discuss several surface related applications; different surface engineering approaches to problems will be discussed and compared. According test and analysis methods will be introduced and applied.</p>
+                  <p>Tribology is the science of friction, wear and lubrication. Friction and wear appear in every situation where a fluid or a rigid body slides against a surface. Control of friction and wear is essential for proper system function, high energy efficiency, and a long component life. This lecture introduces into the basic concepts of tribology and tribological testing. Special emphasis is put on the analysis of practical tribological problems and a systematic approach to their solution. </p>
+                  <p/>
+                  <p>The student will have a theoretical understanding of the physical and chemical surface properties of materials,</p>
+                  <p/>
+                  <p>The student will be able to analyse the requirements for several practical applications and to select suitable surface treatments or coatings,</p>
+                  <p/>
+                  <p>The student will be enabled to perform a system analysis of tribo-systems,</p>
+                  <p/>
+                  <p>The student will be able to describe different friction modes, wear mechanisms  and to optimise the tribological system performance.</p>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen>
+            <html>
+               <body>
+                  <p>Material science lecture from the bachelor programme, material science from the master programme</p>
+                  <p>Recommended: Knowledge in heat treatment of metals</p>
+               </body>
+            </html>
+         </M_Teilnahmevoraussetzungen>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit>
+            <html>
+               <body>
+                  <p>MSc thesis</p>
+               </body>
+            </html>
+         </M_Verwendbarkeit>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Surface Engineering and Tribology</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>CMat</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Lecture</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>4</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>3</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>120</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>45</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>75</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung>30</L1_Teilnahmebeschraenkung>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>English</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>
+                        <b>Introduction</b>
+                     </p><ul><li>typical materials and their surface properties</li>
+                     <li>surface structure and structure of coatings</li>
+                     <li>overview of several coating techniques and surface treatments</li>
+                     <li>polymer surfaces and polymer coatings </li></ul><p>
+                        <b>Testing and analysis in surface engineering</b>
+                     </p><ul><li>optical effects, adhesion or non adhesion, longevity, tribology</li>
+                     <li>roughness, hardness, contact angle (suface energy),light microscopy, SEM,EDX </li></ul><p>
+                        <b>Tribology</b>
+                     </p><ul><li>tribological-system</li>
+                     <li>sliding modes</li>
+                     <li>micro-mechanisms of friction and wear</li>
+                     <li>lubrication and lubricants</li>
+                     <li>friction and wear testing, characteristic values</li>
+                     <li>system analysis of tribo-systems</li></ul><p>
+                        <b>Surfaces in several industrial applications</b>
+                     </p><ul><li>medicine, food, transport, chemistry</li>
+                     <li>standards and approval</li>
+                     <li>damages, problems and solutions</li></ul><p>
+                        <b>Laboratory</b>
+                     </p><ul><li>pre-treatment and coating of materials</li>
+                     <li>characterisation of treatment result</li>
+                     <li>material test with a tribometer</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body><ul><li>Script Theoretical Surface Science</li>
+                     <li>Theo Mang, Kirsten Bobzin and Thorsten Bartels, Industrial Tribology</li>
+                     <li>Michel Cartier, Handbook of Surface Treatments and Coatings</li>
+                     <li>A current list will be distributed at the beginning of the lecture.</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Surface Engineering and Tribology (Laboratory)</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel/>
+            <L2_Lehrveranstaltungsart>Practical Training</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Presence</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte>1</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>1</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>30</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>15</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>15</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht>true</L2_Anwesenheitspflicht>
+            <L2_Teilnahmebeschraenkung>14</L2_Teilnahmebeschraenkung>
+            <L2_Gruppengroesse>7</L2_Gruppengroesse>
+            <L2_Lehrsprache/>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung>Practical Training</L2_Studienleistung>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL>Pass</L2_Bewertungssystem_SL>
+            <L2_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Laboratory</p><ul><li>pre-treatment and coating of materials</li>
+                     <li>characterisation of treatment result</li>
+                     <li>material test with a tribometer</li></ul><p/>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse/>
+            <L2_Literatur>
+               <html>
+                  <body>
+                     <p>Descriptions of laboratory exercises</p>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Toolbox for Fluid Mechanical Design</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>TFM</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Warnack, Dieter, Prof. Dr.-Ing.</M_Modulverantwortliche>
+         <M_Fachbereich>Mechanical Engineering and Business Administration</M_Fachbereich>
+         <M_Studiengang>Mechanical Engineering, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Elective</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>English</M_Lehrsprache>
+         <M_Pruefsprache>English</M_Pruefsprache>
+         <M_Bewertungssystem_PL>One-third Grades</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Written Exam</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>120</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>According to the listed contents of the lecture below, the students should be able to analyse and compute corresponding problems in fluid mechanics.</p>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen>
+            <html>
+               <body>
+                  <p>Understanding of lectures in mathematics, fluid mechanics</p>
+               </body>
+            </html>
+         </M_Teilnahmevoraussetzungen>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>false</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>false</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Toolbox for Fluid Mechanical Design (Lecture)</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>TFMD</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Lecture</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>3</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>3</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>90</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>45</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>45</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht>false</L1_Anwesenheitspflicht>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>English</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Awareness of different choices of tools for solving fluid mechanical problems</p>
+                     <p>3D CFD – methods</p>
+                     <p>Simplified computational and analytical flow models</p>
+                     <p>Overview over experimental techniques</p>
+                     <p>Method combination</p>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>as recommended in class</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Toolbox for Fluid Mechanical Design (Practical Training)</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel>TFMD P</L2_Stundenplankuerzel>
+            <L2_Lehrveranstaltungsart>Practical Training</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Presence</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte>2</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>1</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>60</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>15</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>45</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht>true</L2_Anwesenheitspflicht>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache>English</L2_Lehrsprache>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung>Practical Training</L2_Studienleistung>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL>Pass</L2_Bewertungssystem_SL>
+            <L2_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>A selection of different methods as described under contents of lecture is applied to practical examples.</p>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse/>
+            <L2_Literatur>
+               <html>
+                  <body>
+                     <p>as recommended in class</p>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Prototyping and Virtual Reality (VR)</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>PVR</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Choi, Sung-Won, Prof. Dr.-Ing.</M_Modulverantwortliche>
+         <M_Fachbereich>Mechanical Engineering and Business Administration</M_Fachbereich>
+         <M_Studiengang>Mechanical Engineering, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Elective</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>English</M_Lehrsprache>
+         <M_Pruefsprache>English</M_Pruefsprache>
+         <M_Bewertungssystem_PL>One-third Grades</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Project Work</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Students </p><ul><li>know virtual engineering with different objectives and software-packages.</li>
+                  <li>get experience in modelling and simulation of a product in a multi body system.</li>
+                  <li>are aware of the opportunities and limits of additive manufacturing process.</li></ul><p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>false</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>false</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen>
+            <html>
+               <body>
+                  <p>Physical and virtual prototypes are used in different fields of R&amp;D to verify the functionality or design of a product. Especially Virtual prototypes helps engineers to develop a product fast and effective although it not physical exists. With additive manufacturing techniques the product can be manufactured in the same material as a production model.</p>
+               </body>
+            </html>
+         </M_Bemerkungen>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Prototyping and Virtual Reality (Lecture)</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>PVR V</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Lecture</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>2</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>2</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>60</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>30</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>30</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung>24</L1_Teilnahmebeschraenkung>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>English</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>
+                        <b>Introduction into the topics</b>
+                     </p>
+                     <p>
+                        <b>Virtual product development</b>
+                     </p><ul><li>Virtual products</li>
+                     <li>Material, texture, lights</li></ul><p>
+                        <b>Kinematics of Rigid Bodies</b>
+                     </p>
+                     <p>
+                        <b>Multibody System</b>
+                     </p><ul><li>Modelling</li></ul><p>
+                        <b>Additive Manufacturing</b>
+                     </p>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body><ul><li>Hand-outs to lecture and to exercises</li>
+                     <li>Literature according to the current list distributed in the class</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Prototyping and Virtual Reality (Practical Training)</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel>PVR P</L2_Stundenplankuerzel>
+            <L2_Lehrveranstaltungsart>Practical Training</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Presence</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte>3</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>2</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>90</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>30</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>60</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht/>
+            <L2_Teilnahmebeschraenkung>24</L2_Teilnahmebeschraenkung>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache>English</L2_Lehrsprache>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung>Practical Training</L2_Studienleistung>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL>Participation</L2_Bewertungssystem_SL>
+            <L2_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>
+                        <b>Virtual product development</b>
+                     </p><ul><li>Virtual products</li>
+                     <li>Material, texture, lights</li></ul><p>
+                        <b>Kinematics of Rigid Bodies</b>
+                     </p>
+                     <p>
+                        <b>Additive Manufacturing</b>
+                     </p>
+                     <p>
+                        <b>Multibody System</b>
+                     </p><ul><li>Modelling</li></ul><p/>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse/>
+            <L2_Literatur>
+               <html>
+                  <body><ul><li>Hand-outs to lecture and to exercises</li>
+                     <li>Literature according to the current list distributed in the class</li></ul><p/>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Mechanics of Solids</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>MeSo</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Schieck, Berthold, Prof. Dr.-Ing.</M_Modulverantwortliche>
+         <M_Fachbereich>Mechanical Engineering and Business Administration</M_Fachbereich>
+         <M_Studiengang>Mechanical Engineering, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Elective</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>English</M_Lehrsprache>
+         <M_Pruefsprache>English</M_Pruefsprache>
+         <M_Bewertungssystem_PL>One-third Grades</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Written Exam</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>120</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>The students know the basics of the mechanics of solids, suitable to finitely large deformations in non-Euclidean geometry suitable for bodies with curved geometry undergoing large deformations.</p>
+                  <p/>
+                  <p>This course is currently not selectable.</p>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache/>
+         <M_GD_Anpassung_Didaktik/>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit>
+            <html>
+               <body>
+                  <p>Course on „Selected Topics of the Finite Element Method“</p>
+               </body>
+            </html>
+         </M_Verwendbarkeit>
+         <M_Bemerkungen>
+            <html>
+               <body>
+                  <p>This module is<b> </b>currently not selectable.</p>
+               </body>
+            </html>
+         </M_Bemerkungen>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Mechanics of Solids</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>MeSo</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Lecture</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht>false</L1_Anwesenheitspflicht>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>English</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Tensor calculus in Riemannian manifolds</p>
+                     <p>Differential calculus of tensors in Riemannian manifolds</p>
+                     <p>Polar decomposition of the deformation gradient</p>
+                     <p>Lagrangean and Eulerian setting</p>
+                     <p>Strain tensors for finitely large deformations</p>
+                     <p>Stress tensors</p>
+                     <p>Pull back and push forward </p>
+                     <p>Balance of linear and angular momentum</p>
+                     <p>Objectivity: frame indifference, spatial covariance, objective rates</p>
+                     <p>Isotropic elastic and nonlinear elastic material</p>
+                     <p>The principles of virtual work and minimum of total potential</p>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>
+                        <i>Textbooks:</i>
+                     </p>
+                     <p>
+                        <b>A. Bertram:</b> Elasticity and plasticity of large deformations. An introduction. Springer, Berlin, Heidelberg, 2005</p>
+                     <p>
+                        <b>G.E. Mase, G.T. Mase:</b> Continuum mechanics for engineers. London: CRC Press, 1991</p>
+                     <p>
+                        <b>M.E. Gurtin:</b> An introduction to continuum mechanics. Mathematics in science and engineering vol. 158, Academic Press, Inc. 1981</p>
+                     <p>J. Altenbach, H. Altenbach: Einführung in die Kontinuumsmechanik. Stuttgart: Teubner, 1984</p>
+                     <p>
+                        <i>Some recently published papers:</i>
+                     </p>
+                     <p>
+                        <b>C. Miehe:</b> A constitutive frame of elastoplasticity at large strains based on the notion of the plastic metric. Int. J. Solids Structures vol. 35.30 (1998), pp. 3859-3897.</p>
+                     <p>
+                        <b>B. Schieck, H. Stumpf:</b> The appropriate corotational rate, exact formula for the plastic spin and constitutive model for finite elastoplasticity. Int. J. Solids Structures vol. 32.24 (1995), pp. 3643-3667.</p>
+                     <p>
+                        <b>B. Schieck, W. Smolenski, H. Stumpf:</b> A shell finite element for large strain elastoplasticity with anisotropies. Part I: Shell theory and variational principle. Int. J. Solids Structures vol. 36 (1999), pp. 5399-5424. Part II: Constitutive equations and numerical applications. Int. J. Solids Structures vol. 36 (1999), pp. 5425-5451.</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen>
+               <html>
+                  <body>
+                     <p>The present course would be a good preparation for a PhD study of topics that are related to mechanics at a scientific university.</p>
+                  </body>
+               </html>
+            </L1_Bemerkungen>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Selected Topics in Mechatronics</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>STM</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Hahn, Martin, Prof. Dr.-Ing.</M_Modulverantwortliche>
+         <M_Fachbereich>Mechanical Engineering and Business Administration</M_Fachbereich>
+         <M_Studiengang>Mechanical Engineering, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Elective</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>English</M_Lehrsprache>
+         <M_Pruefsprache>English</M_Pruefsprache>
+         <M_Bewertungssystem_PL>One-third Grades</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Written Exam</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>120</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>The students learn the special requirements necessary for the design of mechatronic systems and especially of the mechanical subsystem. In the first step the students learn to understand the design methods for mechatronic systems and what vital role the dynamics of the mechanical subsystem plays herein. In the second step the physical modelling of multi-body system models is teached and trained and in the third step the students getting a deep insight into the mathematical methods behind physical modelling techniques. In the Laboratory exercises the students train the use of multibody system tools for modelling, analysis, parameter studies and optimization tasks of multibody systems. The training comprises the offline-simulation of multibody-system models as well as the simulation on ECU systems for the development of intelligent functions with the help of test-bed applications (HiL-tests).</p>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen>
+            <html>
+               <body>
+                  <p>Control Systems, Base Courses in Mechanics esp. dynamics</p>
+               </body>
+            </html>
+         </M_Teilnahmevoraussetzungen>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>false</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Selected Topics in Mechatronics (Lecture)</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>STM-L</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Lecture</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>3</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>2</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>90</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>30</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>60</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>English</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Complexity in system design is rising and the engineer needs more productivity boosting design methods and software-tools, especially in the field of mechatronic systems design. An integrated system design approach from the first sketches up to the prototype phase is necessary to design the structure and the parameters of mechatronic systems. A major role plays the building of physical models for mechatronic systems because this avoids the time-consuming derivation of mathematical models by hand, which can be often only derived, if the physical model is simplified and major influences of the nonlinearities of the systems are neglected. To develop mechatronic systems successfully, the use of nonlinear physical models is a must and using such models for simulation, hardware-in-the-loop tests and in the prototype is necessary for the development of intelligent functions for the machines. But the comfort using physical models must not hide the fact, that for a correct interpretation of the measurement and analysis results an excellent understanding of the underlying theory is necessary especially in multibody system dynamics and hardware-in-the-loop techniques - This is contents of the course.</p>
+                     <p/>
+                     <p>
+                        <b>Overview - Mechatronic systems</b>
+                     </p>
+                     <p>Design principles of mechatronic systems, success factors in the development of mechatronic systems, micro and macro systems, state of the art in mechatronic products in production technology, automotive engineering and consumer prod-ucts, influence of microelectronics, implication for system design, system concept in mechatronics, flow of information, energy and material, function-oriented design, the role of hierarchical structuring in systems design, X-by-wire technolo-gies as best practice example in developing mechatronic systems, intelligent vehicles, integration into local and global ecosystems, S-curve of technologies, technology trends.</p>
+                     <p/>
+                     <p>
+                        <b>Model based design of mechatronic systems</b>
+                     </p>
+                     <p>Introduction to mechatronic systems, Components of mechatronic systems, tasks of the components, the role of feedback in mechatronic systems, system complexity, design process, base design process: requirements-model stage-testbed stage-prototype stage-series product, development process according to the standard VDI 2206 - Design methodology for mechatronic systems, the role of simulation and hardware-in-the-loop simulations in the design of mechatronic systems, hard and soft real-time conditions, basic building blocks for the modelling of mechatronic systems</p>
+                     <p/>
+                     <p>
+                        <b>Modelling of mechatronic systems</b>
+                     </p>
+                     <p>Basic building blocks of control engineering systems (linear and nonlinear state space description, transfer functions, characteristic curves) and using the hierarchy concept for structuring the mechatronic system, analysis techniques (e.g. simulation, eigenvalues, transfer functions), code generation for simulation and embedded systems, example development of an active suspension system, model-based testing, structure and properties of driving simulators, </p>
+                     <p/>
+                     <p>
+                        <b>Multibody system dynamics</b>
+                     </p>
+                     <p>Mechanical subsystems of mechatronic systems, modelling depth, types of mechanical base structures in mechatronic systems, role of FEM models, simple mechanical models and multibody system models for the design, examples from automotive and robotics how to derive multibody system models for the analysis of the dynamical systems behavior, design tasks for the mechanical subsystem, function-oriented design of the mechanical subsystem (kinematic function, dynamic function, mechatronic function), the parts of multibody systems modeling, connection and joint types, degrees of freedom, system graph of topology, introduction to multibody systems formalisms</p>
+                     <p/>
+                     <p>
+                        <b>Multibody system dynamics mathematics</b>
+                     </p>
+                     <p>Coordinate systems, main views, center of gravity, moment of inertia and deviation, translational and rotational displacement of coordinate systems, coordinate transformations (Euler, cardan, quaternion, cosines), kinematic matrices, connections in multibody systems models and their mathematical description, mbs-formalisms and their mathematics (Lagrange- and Newton-Euler based formalisms suitable for real-time simulations of mechatronic systems) </p>
+                     <p/>
+                     <p>
+                        <b>Engineering tools for the analysis of multibody system dynamics</b>
+                     </p>
+                     <p>Modelling and simulation tools used in industry – overview, basic building blocks for multibody systems modelling used in a selected modelling tool suitable for the development of mechatronic systems, tool requirements from a mechatronics perspective, introduction into the tool structure, demonstration and discussion of typical multibody system models from automotive and robotics.</p>
+                     <p/>
+                     <p>
+                        <b>Hardware-in-the-loop simulation</b>
+                     </p>
+                     <p>Basic building blocks of hardware-in-the-loop simulation (AD-converters, DA-converters, PWM-in and outputs, CAN, SPI), signal capture, analogue and digital signals, algorithms, filters, sensors, actuators, real-time multibody system models, monitoring and reporting of system variables, connection to non-real-time systems, embedded systems used in industry.</p>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>A list of suitable textbooks is provided at the beginning of the lecture.</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Selected Topics in Mechatronics (Practical Training)</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel>STM-PT</L2_Stundenplankuerzel>
+            <L2_Lehrveranstaltungsart>Practical Training</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Presence</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte>2</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>2</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>60</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>30</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>30</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht>true</L2_Anwesenheitspflicht>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache>English</L2_Lehrsprache>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung>Practical Training</L2_Studienleistung>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL>Pass</L2_Bewertungssystem_SL>
+            <L2_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>
+                        <b>Laboratory Exercises: Training of modelling and simulation of multibody systems as part of mechatronic systems</b>
+                     </p>
+                     <p>Introduction into the design environment CAMeL-View for the modelling of multibody systems, deriving the mathematical equations of motion and code them into the simulation environment, learn the use of rigid body, joint, actuator and hierarchical system parts, parameterization of systems, build a model of the NASA multi-axis trainer in the lab in a given time-frame.</p>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse/>
+            <L2_Literatur>
+               <html>
+                  <body>
+                     <p>A list of suitable textbooks is provided at the beginning of the lecture.</p>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Composite Materials</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>CMat</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Prof. Dr.-Ing. Olaf Jacobs</M_Modulverantwortliche>
+         <M_Fachbereich>Mechanical Engineering and Business Administration</M_Fachbereich>
+         <M_Studiengang>Mechanical Engineering, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Elective</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>English</M_Lehrsprache>
+         <M_Pruefsprache/>
+         <M_Bewertungssystem_PL/>
+         <M_Pruefungsleistung/>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse/>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit>
+            <html>
+               <body>
+                  <p>MSc thesis</p>
+               </body>
+            </html>
+         </M_Verwendbarkeit>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Composite Materials (Lecture)</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>CMat</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Lecture</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung>30</L1_Teilnahmebeschraenkung>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>English</L1_Lehrsprache>
+            <L1_Pruefsprache>English</L1_Pruefsprache>
+            <L1_Pruefungsleistung>Written Exam</L1_Pruefungsleistung>
+            <L1_Dauer_PL_in_Minuten>120</L1_Dauer_PL_in_Minuten>
+            <L1_Bewertungssystem_PL>One-third Grades</L1_Bewertungssystem_PL>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>
+                        <b>Introduction</b>
+                     </p><ul><li>Technical and economic significance of composite materials, </li>
+                     <li>overview: classification of composite materials </li></ul><p>
+                        <b>Fibres and matrices</b>
+                     </p><ul><li>CF, GF, AF, other synthetic and natural fibres: structures and properties, selection rules</li>
+                     <li>Thermoplastics, thermosets, elastomeres: properties and processing, selection rules</li>
+                     <li>Tayloring of interfaces: adhesion, coupling agents</li></ul><p>
+                        <b>Processing of polymer composites</b>
+                     </p><ul><li>Textile processing of fibres, semi-finished products, manufacturing of composite components.</li>
+                     <li>Effects of processing method on mechanical properties</li>
+                     <li>Processing of short fibre reinforced polymers and resulting microstructures (anisotropy)</li></ul><p>
+                        <b>Micromechanics</b>
+                     </p><ul><li>Fibre/matrix interaction, rules of mixture, internal stresses,</li>
+                     <li>Properties of UD laminae and of textile preforms</li></ul><p>
+                        <b>Calculation of laminate properties</b>
+                     </p><ul><li>Network theory, calculation of optimal fibre orientations, symmetry considerations</li>
+                     <li>Laminate theory: calculation of elastic constants and strength of  laminates, laminates under stress (stress distribution, interaction of laminae), hygrothermal stresses and their effects on laminate properties</li></ul><p>
+                        <b>Failure mechanisms in fiborous laminates</b>
+                     </p><ul><li>Failure modes under static loads: fibre matrix debonding, matrix cracking, fibre fracture, delamination</li>
+                     <li>Damage development under cyclic stresses</li>
+                     <li>Failure criteria and calculation of laminate failure</li></ul><p>
+                        <b>Designing with composite materials</b>
+                     </p><ul><li>Tailoring of material properties to loadings</li>
+                     <li>Joining of composites</li>
+                     <li>Design to manufacture rules</li></ul><p>
+                        <b>Practice</b>
+                     </p><ul><li>Visit at a company</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse>
+               <html>
+                  <body><ul><li>The student will be able to choose for practical applications the most suitable fibre type among the available fibres, to select the most suitable matrix material and the most suitable preform and processing method.</li>
+                     <li>The student will be able to derive the laminate properties (micromechanics and laminate therory) data and to tailor laminate properties to external loads.</li>
+                     <li>The student will be able to calculate internal thermal stresses of plies and laminates.</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lernergebnisse>
+            <L1_Literatur>
+               <html>
+                  <body><ul><li>O. Jacobs, Composite Materials, Manuscript, FH Lübeck</li>
+                     <li>D. Hull, An introduction to composite materials, Cambridge Univ. Press</li>
+                     <li>R.F. Gibson, Principles of Composite Materials Mechanics, McGraw Hill</li>
+                     <li>A. Kelly, C. Zweben (eds.), Comprehensive Composirte Materials, Vol. 1-6, Elsevier, Amsterdam et al.</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Ethics</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>Eth</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Ladwig, Désirée H. Prof.Dr.; Beer, Sonja Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Mechanical Engineering and Business Administration</M_Fachbereich>
+         <M_Studiengang>Mechanical Engineering, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Elective</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>English</M_Lehrsprache>
+         <M_Pruefsprache>English</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Pass</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Written Exam</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>90</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body><ul><li>Knowledge of ethical approaches to economic processes</li>
+                  <li>Knowledge of criteria to evaluate concepts, strategies and behavior patterns</li>
+                  <li>Evaluation of case studies</li>
+                  <li>Reflection of the own behavior and practise under fundamental ethical and sustainable principles</li></ul><p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit>
+            <html>
+               <body>
+                  <p>Professional Behaviour</p>
+               </body>
+            </html>
+         </M_Verwendbarkeit>
+         <M_Bemerkungen>
+            <html>
+               <body>
+                  <p>To do economical and financial processes still achieves sustained success but what about the ethical dimension? Regarding the process of globalization and economic disequilibrium, a reflection and reorientation seems to be necessary. The lecture includes approaches to explain the relation between economic logic and ethical reasons and legal background. Case studies are used to discuss the sustainability and ethics of concepts, strategies and behavior patterns.</p>
+               </body>
+            </html>
+         </M_Bemerkungen>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Ethics</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel/>
+            <L1_Lehrveranstaltungsart>Lecture</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht>false</L1_Anwesenheitspflicht>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache/>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>
+                        <b>Fundamentals of business ethics are discussed and practised with </b>
+                        <b>case studies  </b>
+                     </p><ul><li>Introduction and basics of modern ethics (morality and economical reasons)</li>
+                     <li>The individual view (idea of man, idea of conflicts, being a leader, conflict management)</li>
+                     <li>The organization (responsibility, duties and elements of ethics for companies, ethical problems, an integrative program for ethics)</li>
+                     <li>The economy (morality of the market, meaning of economic behavior, economy and fairness)</li>
+                     <li>Economy and sustainability</li>
+                     <li>Ethical and legal framework for individual and companies</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body><ul><li>Jospeh Gilbert: Ethics for Managers. Philosophical Foundations and Business Realities, 2016</li>
+                     <li>Peter Ulrich: Integrative Wirtschaftsethik. Grundlagen einer lebensdienlichen ÖkonomikWien: Verlag Peter Haupt, 2001</li>
+                     <li>Daniel Dietzfelbinger: Aller Anfang ist leicht. Unternehmens- und Wirtschaftsethik für die PraxisHerbert Utz Verlag, München 2004</li>
+                     <li>Andreas Suchanek: Ökonomische EthikUTB Stuttgart 2001</li>
+                     <li>Michael Aßländer: „Handbuch Wirtschaftsethik“, Springer-Verlag GmbH; Stuttgart 2011</li>
+                     <li>Annette Kleinfeld: Gesellschaftliche Verantwortung von Organisationen und Unternehmen – Fragen und Antworten zur ISO 26000.Beuth, Berlin 2011</li>
+                     <li>Josef Wieland, Roland Steinmeyer, Stefan Grüninger (Hrsg.): “Handbuch Compliance-Management“, Berlin 2010</li>
+                     <li>Stephan Grüninger, Michael Fürst, Sebastian Porr, Maud Schmiedeknecht (Hrsg): „Verantwortung in der globalen Ökonomie gestalten“; Marburg 2011</li>
+                     <li>Gerd Michelsen, Jasmin Godeman: Handbuch NachhaltigkeitskommunikationOkom Verlag, 2005</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Product and Business Plan</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>PrBp</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Product and Business Plan</M_Modulname_englisch>
+         <M_Modulverantwortliche>Klein, Jürgen, Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Maschinenbau und Wirtschaft</M_Fachbereich>
+         <M_Studiengang>Mechanical Engineering, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Wahlpflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Englisch</M_Lehrsprache>
+         <M_Pruefsprache>Englisch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Projektarbeit</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body><ul><li>Convey the economic meaning of product and business planning and establish the connections between product and business plan</li>
+                  <li>Ability to write a convincing product and business plan.</li>
+                  <li>Training of the business plan preparation on the basis of realistic case studies and examples.</li></ul><p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Product and Business Plan</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>PrBp</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Product and Business Plan</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Englisch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Introduction to the teaching area</p><ul><li>Connections between product and business plan</li>
+                     <li>Business plan as a integrated enterprise plan </li></ul><p/>
+                     <p>Product Planning</p><ul><li>Defining new products and gathering market requirements </li>
+                     <li>Product Life Cycle considerations </li>
+                     <li>Product portfolio management </li>
+                     <li>Product differentiation</li></ul><p/>
+                     <p>Business Plan content and preparation</p><ul><li>Content of a business plan </li>
+                     <li>Support services</li>
+                     <li>Resources for researching facts and figures </li>
+                     <li>Strategic Analysis </li>
+                     <li>Forcasts </li></ul><p/>
+                     <p>Presentation formats</p><ul><li>Elevator pitch</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Literature according to the current list in the script.</p>
+                     <p>Other Literature:</p>
+                     <p>Drucker, P. F.: Innovation and Entrepreneurship. HarperCollins Publishers, 2006</p>
+                     <p>Schwetje, G., Vaseghi, S., Gentilozzi, J.: The Business Plan, How to Win Your Investors' Confidence. Berlin: Springer, 2007 Fueglistaller, U.; Müller, C.; Volery T.: Entrepreneurship, Wiesbaden: Gabler, 2004</p>
+                     <p>Klandt, H.: Gründungsmanagement: Der integrierte Unternehmensplan. 2. Auflage, München: Oldenbourg, 2006</p>
+                     <p>Dowling, M.: Gründungsmanagement. Vom erfolgreichen Unternehmensstart zu dauerhaftem Wachstum, Berlin: Springer, 2003</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+</Modulbeschreibungen>

@@ -1,0 +1,3227 @@
+<Modulbeschreibungen>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Angewandte Mathematik</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>AnMa</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Applied Mathematics</M_Modulname_englisch>
+         <M_Modulverantwortliche>Werth, Sören; Schiffer, Ralf</M_Modulverantwortliche>
+         <M_Fachbereich>Elektrotechnik und Informatik</M_Fachbereich>
+         <M_Studiengang>Angewandte Informationstechnik, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>61</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>89</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SoSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache/>
+         <M_Bewertungssystem_PL/>
+         <M_Pruefungsleistung/>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse/>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit>
+            <html>
+               <body>
+                  <p>Kenntnis der Digitalen Signalverarbeitung wird empfohlen</p>
+               </body>
+            </html>
+         </M_Verwendbarkeit>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Angewandte Mathematik (Vorlesung)</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>AnMa VL</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch> (Lecture)</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>3</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>3</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>90</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>45</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>45</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache>Deutsch</L1_Pruefsprache>
+            <L1_Pruefungsleistung>Klausur</L1_Pruefungsleistung>
+            <L1_Dauer_PL_in_Minuten>120</L1_Dauer_PL_in_Minuten>
+            <L1_Bewertungssystem_PL>Drittelnoten</L1_Bewertungssystem_PL>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>
+                        <b>Statistik und Fehlerfortpflanzung </b>
+                     </p><ul><li>Statistik von physikalischen Messungen: Häufige Verteilungsfunktionen, Erwartungswert, Varianz; </li>
+                     <li>Schätzung von Verteilungsparametern aus Stichproben: „Maximum-Likelihood“-Methode, statistische Eigenschaften von Stichproben; </li>
+                     <li>Fehlerfortpflanzung; </li></ul><p/>
+                     <p>
+                        <b>Kurvenanpassung, Least Square Fit (LSF) </b>
+                     </p><ul><li>LSF für lineare Parameter: Schätzung von Parametern, Genauigkeit der Schätzwerte, Kovarianz, </li>
+                     <li>Korrelationskoeffizient, Normalgleichungen, Givens-Transformation, Householder-Transformation; </li>
+                     <li>LSF für nichtlineare Parameter: iterative Verfahren, Gradientenverfahren; </li></ul><p/>
+                     <p>
+                        <b>Lineare Algebra </b>
+                     </p><ul><li>Grundlagen: Lineare Vektorräume, lineare Unabhängigkeit, Basen, Matrizen als lineare Abbildungen, Basen, Matrizenmultiplikation, Vektor- und Matrixnormen, inverse Matrizen, Determinanten; </li>
+                     <li>Lineare Gleichungssysteme: Quadratische Systeme, überbestimmte Systeme, unterbestimmte Systeme, Gauß-Verfahren, Cholesky-Zerlegung, LU-Zerlegung, QR-Zerlegung; </li></ul><p/>
+                     <p>
+                        <b>Fehleranalyse in der Numerik </b>
+                     </p><ul><li>Numerische Fehler: Maschinenzahlen, Rundungsfehler und ihre Fortpflanzung, Stabilität von Problemstellungen bzw. Algorithmen; </li>
+                     <li>Anwendung auf lineare Gleichungssysteme: Rundungsfehler beim Gauß-Verfahren, Pivotstrategien, Konditionierung von Matrizen.</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse>
+               <html>
+                  <body>
+                     <p>Nach erfolgreichem Abschluss der Lehrveranstaltung können die Studierenden:</p><ul><li>die Konzepte und Methoden der Wahrscheinlichkeitsrechnung und Statistik in typischen Problemstellungen der Praxis anwenden, wie sie beispielsweise im Modul „Digitale Verarbeitung stochastischer Signale“ behandelt werden;</li>
+                     <li>lineare und nichtlineare Ausgleichsprobleme mit der Methode des „Least Square Fit“ lösen, beispielsweise im Modul „Digitale Regelungssysteme“ auftreten;</li>
+                     <li>anspruchsvolle Aufgabenstellungen aus dem Bereich der Linearen Algebra analysieren und lösen;</li>
+                     <li>numerische Verfahren zur Behandlung von den genannten Problemstellungen erfolgreich einsetzen;</li>
+                     <li>eine Fehleranalyse von numerischen Algorithmen durchführen und dabei die Instabilität von Algorithmen bzw. Konditionierung von Problemstellungen erkennen;</li>
+                     <li>das Computer-Algebra-System Maple zielsicher numerische und analytische mathematische Aufgabenstellungen einsetzen.</li></ul><p>Ein wesentliches Ziel dieses Moduls ist es, bei den Studierenden ein gesundes Misstrauen gegen Ergebnisse von numerischen Algorithmen hervorzurufen. Sie sollen erkennen, dass auch im Sinne der reinen Mathematik völlig korrekte Algorithmen zu gänzlich falschen Resultaten führen können. Ist eine solche Situation eingetreten, sind sie in der Lage festzustellen, worin die Ursache liegt: in der schlechten Konditionierung des Problems oder in der Instabilität des Algorithmus. Sie erwerben die Fähigkeit, Instabilitäten von Algorithmen zu identifizieren und zu beseitigen.</p>
+                  </body>
+               </html>
+            </L1_Lernergebnisse>
+            <L1_Literatur>
+               <html>
+                  <body><ul><li>Helge Toutenburg, Christian Heumann: „Induktive Statistik“, Springer</li>
+                     <li>Hans Rudolf Schwarz, Norbert Köckler: "Numerische Mathematik", Vieweg+Teubner</li>
+                     <li>Josef Stoer, Roland Bulirsch: "Numerische Mathematik I/II", Springer</li>
+                     <li>Martin Hermann: "Numerische Mathematik", Oldenbourg</li>
+                     <li>Alfio Quarteroni, Riccardo Sacco, Fausto Saleri: "Numerical Mathematics", Springer</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen>
+               <html>
+                  <body>
+                     <p>Solide Kenntnisse in Ingenieursmathematik</p>
+                  </body>
+               </html>
+            </L1_Teilnahmevoraussetzungen>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Angewandte Mathematik (Übung)</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel>DBV Pr</L2_Stundenplankuerzel>
+            <L2_Lehrveranstaltungsart>Übung</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Präsenz</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch>Applied Mathematics (Exercises)</L2_Lehrveranstaltungsname_englisch>
+            <L2_ECTS_Leistungspunkte>2</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>1</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>60</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>16</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>44</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht>false</L2_Anwesenheitspflicht>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse>12</L2_Gruppengroesse>
+            <L2_Lehrsprache>Deutsch</L2_Lehrsprache>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte>
+               <html>
+                  <body><ul><li>Statistik und Fehlerfortpflanzung</li>
+                     <li>Kurvenanpassung, Least Square Fit (LSF)</li>
+                     <li>Lineare Algebra</li>
+                     <li>Fehleranalyse in der Numerik</li></ul><p/>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse/>
+            <L2_Literatur>
+               <html>
+                  <body>
+                     <p>Siehe Vorlesung</p>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Datenbanken und Informationsmanagement</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>DBuIM</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Databases and Information Management</M_Modulname_englisch>
+         <M_Modulverantwortliche>Töbermann, J.-Christian, Prof. Dr.-Ing.</M_Modulverantwortliche>
+         <M_Fachbereich>Elektrotechnik und Informatik</M_Fachbereich>
+         <M_Studiengang>Angewandte Informationstechnik, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Wahlpflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SoSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache/>
+         <M_Bewertungssystem_PL/>
+         <M_Pruefungsleistung/>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse/>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Datenbanken und Informationsmanagement (Vorlesung)</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>DBuIM VL</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Databases and Information Management (Lecture)</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>3</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>3</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>90</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>45</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>45</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache>Deutsch</L1_Pruefsprache>
+            <L1_Pruefungsleistung>Klausur</L1_Pruefungsleistung>
+            <L1_Dauer_PL_in_Minuten>120</L1_Dauer_PL_in_Minuten>
+            <L1_Bewertungssystem_PL>Drittelnoten</L1_Bewertungssystem_PL>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body><ul><li>Grundkonzepte von Relationalen Datenbanksystemen, NoSQL-Datenbanken und Informationssystemen</li>
+                     <li>Entwurf und Normalisierung relationaler Datenbanken</li>
+                     <li>wesentliche Sprachelemente von SQL</li>
+                     <li>weitere Datenbankkonzepte wie Transaktionen, Trigger und stored procedures</li>
+                     <li>Programmierung von Datenbankanwendungen</li>
+                     <li>Objekt-relationales Mapping</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse>
+               <html>
+                  <body>
+                     <p>Die Studierenden</p><ul><li>kennen Grundkonzepte von Relationalen Datenbanksystemen, NoSQL-Datenbanken und Informationssystemen</li>
+                     <li>können selbständig eine Datenbank von der fachlichen Modellierung bis zur Implementierung der technischen Lösung systematisch erstellen</li>
+                     <li>können die Studierenden gegebene Fragestellungen mit Hilfe von SQL beantworten</li>
+                     <li>können die Studierenden Datenbanktransaktionen entwerfen und implementieren.</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lernergebnisse>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Elmasri, R. A. et al.: Grundlagen von Datenbanksystemen, Pearson, 2011</p>
+                     <p>Jukic, N. et al.: Database Systems, Prospect Press, 2016</p>
+                     <p>Kemper, A. et al.: Datenbanksysteme – eine Einführung, Oldenbourg, 2011</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Datenbanken und Informationsmanagement (Praktikum)</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel>DBuIM Pr</L2_Stundenplankuerzel>
+            <L2_Lehrveranstaltungsart>Praktikum</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Präsenz</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch>Databases and Information Management (Practical Training)</L2_Lehrveranstaltungsname_englisch>
+            <L2_ECTS_Leistungspunkte>2</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>1</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>60</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>15</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>45</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht>true</L2_Anwesenheitspflicht>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse>12</L2_Gruppengroesse>
+            <L2_Lehrsprache>Deutsch</L2_Lehrsprache>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung>Praktikum</L2_Studienleistung>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL>Bestehen</L2_Bewertungssystem_SL>
+            <L2_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>In den semesterbegleitenden Praktika wenden die Studierenden das in der Vorlesung Gelernte auf gegebene oder selbst gewählte Anwendungen an.</p>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse/>
+            <L2_Literatur>
+               <html>
+                  <body>
+                     <p>Siehe zugehörige Vorlesung.</p>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Digitale Bildverarbeitung</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>DBV</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Digital Image Processing</M_Modulname_englisch>
+         <M_Modulverantwortliche>Prof. Dr. Djahanyar Chahabadi</M_Modulverantwortliche>
+         <M_Fachbereich>Elektrotechnik und Informatik</M_Fachbereich>
+         <M_Studiengang>Angewandte Informationstechnik, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>61</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>89</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SoSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache/>
+         <M_Bewertungssystem_PL/>
+         <M_Pruefungsleistung/>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse/>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache/>
+         <M_GD_Anpassung_Didaktik/>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit>
+            <html>
+               <body>
+                  <p>Kenntnis der Digitalen Signalverarbeitung wird empfohlen</p>
+               </body>
+            </html>
+         </M_Verwendbarkeit>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Digitale Bildverarbeitung (Vorlesung)</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>DBV VL</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Digital Image Processing (Lecture)</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>3</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>3</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>90</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>45</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>45</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache>Deutsch</L1_Pruefsprache>
+            <L1_Pruefungsleistung>Projektarbeit</L1_Pruefungsleistung>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL>Drittelnoten</L1_Bewertungssystem_PL>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body><ol><li>
+                        <b>Einführung, </b>Anwendungsgebiete der DBV, Aufbau des Auges, Farbräume, Look-Up-Table, Sensoren, Abtastung, Aliasing, SNR, Fehlermaße</li>
+                     <li>
+                        <b>Histogramm und Summenhäufigkeit</b>
+                     </li>
+                     <li>
+                        <b>Punktabbildungen, </b>Helligkeits- und Kontraständerung, Gammakorrektur </li>
+                     <li>
+                        <b>Ortsbereich und Frequenzbereich,</b> DFT, FFT </li>
+                     <li>
+                        <b>Systemanalyse, </b>1D- und 2D-z-Transformation, Übertragungsfunktion, Systemfunktion, Impulsantwort bzw. Pointspreadfunction(PSF), Lineare Filter, Unscharffilterung, Schärfung, Filterkern separierbarer Filter </li>
+                     <li>
+                        <b>Bildgrößenänderung,</b> Interpolation und Dezimation </li>
+                     <li>
+                        <b>Kantendetektoren, </b>Sobel, Canny </li>
+                     <li>
+                        <b>Rangordnungsfilter</b>
+                     </li>
+                     <li>
+                        <b>Hough-Transformation</b>
+                     </li>
+                     <li>
+                        <b>Fourierdeskriptoren</b>
+                     </li>
+                     <li>
+                        <b>Affine Abbildungen und homogene Koordinaten</b>
+                     </li>
+                     <li>
+                        <b>Morphologie,</b> Dilatation, Erosion, Öffnen, Schließen</li></ol><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse>
+               <html>
+                  <body>
+                     <p>Nach dem Studium dieses Moduls kennen die Studierenden </p><ul><li>grundlegende Eigenschaften unserer visuellen Wahrnehmung und die daraus entwickelten Verfahren zur Gewinnung digitaler Bilder,</li>
+                     <li>mathematische Werkzeuge zur Bildanalyse, wie z.B. die DFT und das Histogramm und können diese in der Anwendung interpretieren,</li>
+                     <li>den Unterschied zwischen einem Filterkern und einer Punktoperation und sind in der Lage, lineare und nicht-lineare Filter zu programmieren und anzuwenden,</li>
+                     <li>einige elementare Verfahren zur Segmentierung und Erkennung von Bildinhalten und können diese praktisch einsetzen.</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lernergebnisse>
+            <L1_Literatur>
+               <html>
+                  <body><ul><li>W.Burger, M.J. Burge, Digitale Bildverarbeitung, Springer Verlag, 2005, ISBN 3-540-21465-8 </li>
+                     <li>B.Jähne, Digitale Bildverarbeitung, 5. Auflage, Springer Verlag, 2002, ISBN 3-540-41260-3</li>
+                     <li>R.C.Gonzalez, R.E.Woods, Digital Image Processing, 2nd Edition, Pearson Education, 2002, ISBN 0-201-18075-8</li>
+                     <li>W.K.Pratt, Digital Image Processing, 3rd Edition, Wiley &amp; Sons Inc., 2001, ISBN 0-471-37407-5</li>
+                     <li>R.-J. Ahlers, Das Handbuch der Bildverarbeitung, Expert Verlag, 2000, ISBN 3-8169-0675-3</li></ul><p/>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen>
+               <html>
+                  <body>
+                     <p>notwendig: Grundkenntnisse Analysis, Grundkenntnisse Programmierung </p>
+                     <p>empfohlen: Modul Digitale Signalverarbeitung</p>
+                  </body>
+               </html>
+            </L1_Teilnahmevoraussetzungen>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Digitale Bildverarbeitung (Praktikum)</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel>DBV Pr</L2_Stundenplankuerzel>
+            <L2_Lehrveranstaltungsart>Praktikum</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Präsenz</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch>Digital Image Processing (Practical Training)</L2_Lehrveranstaltungsname_englisch>
+            <L2_ECTS_Leistungspunkte>2</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>1</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>60</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>16</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>44</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht>true</L2_Anwesenheitspflicht>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse>12</L2_Gruppengroesse>
+            <L2_Lehrsprache>Deutsch</L2_Lehrsprache>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung>Praktikum</L2_Studienleistung>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL>Bestehen</L2_Bewertungssystem_SL>
+            <L2_Lehrinhalte>
+               <html>
+                  <body><ul><li>Bestimmung der Farbsättigung</li>
+                     <li>Histogramm,Histogrammausgleich, Histogrammanpassung</li>
+                     <li>Filteranwendung, Scharf-/Unscharffilterung</li>
+                     <li>Hough-Transformation oder Fourierdeskriptoren</li></ul><p/>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse/>
+            <L2_Literatur>
+               <html>
+                  <body><ul><li>W.Burger, M.J. Burge, Digitale Bildverarbeitung, Springer Verlag, 2005, ISBN 3-540-21465-8 </li>
+                     <li>B.Jähne, Digitale Bildverarbeitung, 5. Auflage, Springer Verlag, 2002, ISBN 3-540-41260-3</li>
+                     <li>R.C.Gonzalez, R.E.Woods, Digital Image Processing, 2nd Edition, Pearson Education, 2002, ISBN 0-201-18075-8</li>
+                     <li>W.K.Pratt, Digital Image Processing, 3rd Edition, Wiley &amp; Sons Inc., 2001, ISBN 0-471-37407-5</li>
+                     <li>R.-J. Ahlers, Das Handbuch der Bildverarbeitung, Expert Verlag, 2000, ISBN 3-8169-0675-3</li></ul><p/>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Digitale Regelungssysteme</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>DR</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Digital Control Systems</M_Modulname_englisch>
+         <M_Modulverantwortliche>Bayerlein, Jörg, Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Elektrotechnik und Informatik</M_Fachbereich>
+         <M_Studiengang>Angewandte Informationstechnik, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>75</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>75</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SoSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache/>
+         <M_Bewertungssystem_PL/>
+         <M_Pruefungsleistung/>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse/>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache/>
+         <M_GD_Anpassung_Didaktik/>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Digitale Regelungssysteme (Vorlesung</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>DR V</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Digital Control Systems (Lecture)</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>4 </L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>3</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>120</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>60</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht>false</L1_Anwesenheitspflicht>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse>60</L1_Gruppengroesse>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache>Deutsch</L1_Pruefsprache>
+            <L1_Pruefungsleistung>Klausur</L1_Pruefungsleistung>
+            <L1_Dauer_PL_in_Minuten>120</L1_Dauer_PL_in_Minuten>
+            <L1_Bewertungssystem_PL>Drittelnoten</L1_Bewertungssystem_PL>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body><ol><li>
+                        <b>Entwurf Digitaler Regler</b>
+                        <b>:</b> Benutzung der Z-Transformation zum Entwurf digitaler Filter, PID und Dead-Beat- Regler. Algorithmen und Realisierung auf PC- und Embedded Systems. Wahl der Abtastzeit.   </li>
+                     <li>
+                        <b>Identifikationsmethoden</b>
+                        <b>:</b> Modellbildung mit verschiedenen Identifikationsmethoden. Kennwertermittlung. Least Square Methoden, Ermittlung von Modellfunktionen F(z) mit Single Step und kontinuierlichen Methoden. Simulation von Prozessen. Rechnergestützte Identifikationsverfahren. </li>
+                     <li>
+                        <b>Ko</b>
+                        <b>nzepte adaptiver Regler</b>
+                     </li>
+                     <li>
+                        <b>Weiterführender Regler</b>
+                        <b>:</b> Entwurf und Implementierung eines weiterführenden Reglers für ein Regelsystem. Vor- und Nachteile des Reglers. Realisierung eines weiterführenden Reglers in einer höheren Programmiersprache</li></ol><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse>
+               <html>
+                  <body>
+                     <p>Die Studierenden kennen:</p><ul><li>die gebräuchlichen Designmethoden von digitalen Reglern mittels der Z- Transformation. Sie sollen für verschiedene mögliche Hardwarevoraussetzungen den Algorithmus in beliebiger Sprache programmieren können.</li>
+                     <li>Modellbildungsmethoden und Simulation mittels verschiedener Identifikationsalgorithmen für die Regelstrecken.</li>
+                     <li>Konzept, Design und Realisierung von weiterführenden Reglern (wie modellbasierten und adaptiven Reglern etc.)</li>
+                     <li>Einsatzmöglichkeiten und Realisierung des weiterführen Reglers in einem Regelsystem.</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lernergebnisse>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Rainer Dittmar: Advanced Process Control, Oldenbourg</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen>
+               <html>
+                  <body>
+                     <p>Kenntnisse aus der Vorlesung Grundlagen der Regelungstechnik, Laplace Transformation, Reglerauslegung nach dem Frequenzgangkennlinienverfahren, Umgang mit Signalflussplänen, Umgang mit einer höheren Programmiersprache.</p>
+                  </body>
+               </html>
+            </L1_Teilnahmevoraussetzungen>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Digitale Regelungssysteme (Praktikum)</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel>IduDR P</L2_Stundenplankuerzel>
+            <L2_Lehrveranstaltungsart>Praktikum</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Präsenz</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch>Digital Control Systems (Laboratory)</L2_Lehrveranstaltungsname_englisch>
+            <L2_ECTS_Leistungspunkte>1</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>1</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>30</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>15</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>15</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht>true</L2_Anwesenheitspflicht>
+            <L2_Teilnahmebeschraenkung>60</L2_Teilnahmebeschraenkung>
+            <L2_Gruppengroesse>12</L2_Gruppengroesse>
+            <L2_Lehrsprache>Deutsch</L2_Lehrsprache>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung>Praktikum</L2_Studienleistung>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL>Bestehen</L2_Bewertungssystem_SL>
+            <L2_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>3 integrative Laborversuche zu den weiterführenden digitalen Reglern</p>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse>
+               <html>
+                  <body>
+                     <p>Die Studierenden lernen den praktischen Einsatz von identifikationsverfahren und weiterführenden digitalen Reglern</p>
+                  </body>
+               </html>
+            </L2_Lernergebnisse>
+            <L2_Literatur>
+               <html>
+                  <body>
+                     <p>Rainer Dittmar: Advanced Process Control, Oldenbourg</p>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Mikroprozessor-Design</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>uPD</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Microprocessor Design</M_Modulname_englisch>
+         <M_Modulverantwortliche>Oliver Stecklina, Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Elektrotechnik und Informatik</M_Fachbereich>
+         <M_Studiengang>Angewandte Informationstechnik, Master</M_Studiengang>
+         <M_Fachsemester>(Nicht festgelegt)</M_Fachsemester>
+         <M_Verpflichtungsgrad>Wahlpflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>(Flexibel)</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch/Englisch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch/Englisch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Projektarbeit</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Nach erfolgreichem Abschluss der Veranstaltung können die Studierenden</p><ul><li>Prozessordesigns vergleichen und bewerten</li>
+                  <li>den RISC-V Prozessor in VHDL umsetzen</li>
+                  <li>Prozessoroptimierungen differenzieren und umsetzen</li>
+                  <li>Probleme und Lösungen eines Pipeline-Prozessors wiedergeben</li>
+                  <li>VHDL Design-Entscheidungen für Mikroprozessoren auswählen und umsetzen</li></ul><p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen>
+            <html>
+               <body>
+                  <p>VHDL-Kenntnisse, Prozessorarchitekturen, Grundlagen der Assembler-Sprache</p>
+               </body>
+            </html>
+         </M_Teilnahmevoraussetzungen>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik/>
+         <M_GD_Vielfalt_im_Fach>false</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit>
+            <html>
+               <body>
+                  <p>Das Modul kann als Wahlfach im Studiengang Master Informatik genutzt werden.</p>
+               </body>
+            </html>
+         </M_Verwendbarkeit>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Mikroprozessor-Design (Vorlesung)</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>uPD VL</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Microprocessor Design (Lecture)</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>3</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>3</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>105</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>45</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>60</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch/Englisch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Die Automatisierung und die Autonomisierung von Systemen erhöht den Bedarf nach anwendungsspezifischer Rechenleistung. Der Einsatz von General-Purpose Mikroprozessoren wird aufgrund ihres Energiebedarfs oder ihrer Kosten in Anwendungsgebieten zunehmend an Bedeutung verlieren. Auf deren Seite biete moderne programmierbare Standard-ICs bereits heutzutage die Voraussetzung um ein kundenspezifisches System effizient einzusetzen. Somit werden anwendungsspezifische Prozessoren für die Zukunft immer wichtiger.</p>
+                     <p/>
+                     <p>Im Rahmen des Moduls soll anhand eines praktischen Anwendungsbeispiels das Design eines Microprozessors auf der Register-Transfer-Ebene vollzogen werden. Als Basis für das Design eines Prozessors wird der RISC-V verwendet. Hierbei handelt es sich um eine freie RISC Architektur, die unter anderem Bestandteil der Europäischen Prozessorinitiative ist.</p>
+                     <p/>
+                     <p>Teil 1 - Einführung Prozessor-Architekturen</p><ul><li>Klassifizieren nach Flynn</li>
+                     <li>Harvard und von-Neumann Rechner</li>
+                     <li>RISC und CISC</li></ul><p>Teil 2- RISC-V Prozessor</p><ul><li>Befehlssatz und Struktur</li>
+                     <li>Modellierung in VHDL</li></ul><p>Teil 3 – Prozessor Optimierung</p><ul><li>Pipeline</li>
+                     <li>Cache-Speicher</li>
+                     <li>Low Power Design</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>[1] Andrew S. Tanenbaum: Computerarchitekturen; Pearson Education; 2005</p>
+                     <p>[2] David Patterson und John Hennessy: Computer Architecture: A Quantitative Approach; Morgan Kaufmann; 2017</p>
+                     <p>[3] David Patterson und John Hennessy: Computer Organization and Design RISC-V Edition; 2017</p>
+                     <p>[4] Jürgen Reichardt, Bernd Schwarz; VHDL-Synthese; Oldenbourg Verlag</p>
+                     <p>[5] Peter J. Ashenden; The Designer's Guide to VHDL; Morgan Kaufmann</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Mikroprozessor-Design (Praktikum)</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel>uPD Pr</L2_Stundenplankuerzel>
+            <L2_Lehrveranstaltungsart>Praktikum</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Präsenz</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch>Microprocessor Design (Practical Training)</L2_Lehrveranstaltungsname_englisch>
+            <L2_ECTS_Leistungspunkte>2</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>1</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>45</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>15</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>30</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht>false</L2_Anwesenheitspflicht>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse>12</L2_Gruppengroesse>
+            <L2_Lehrsprache>Deutsch/Englisch</L2_Lehrsprache>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Im vorlesungsbegleitenden Praktikum wird ein Mikroprozessor mit einer 32-bit RISC-V Architektur umgesetzt. Die Umsetzung des Prozessor-Designs erfolgt schrittweise unter Anleitung und mit Beispielen des Dozenten in zweier Teams.</p>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse/>
+            <L2_Literatur>
+               <html>
+                  <body>
+                     <p>Siehe Vorlesung</p>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Rechnungswesen und Controlling</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>ReCo</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Accounting and Controlling</M_Modulname_englisch>
+         <M_Modulverantwortliche>Prof. Dr. Rüdiger Lohmann</M_Modulverantwortliche>
+         <M_Fachbereich>Elektrotechnik und Informatik</M_Fachbereich>
+         <M_Studiengang>Angewandte Informationstechnik, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SoSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache/>
+         <M_Bewertungssystem_PL/>
+         <M_Pruefungsleistung/>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse/>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Rechnungswesen und Controlling (Vorlesung)</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>ReCo</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Accounting and Controlling (Lecture)</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>4</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>3</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>120</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>45</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>75</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache>Deutsch</L1_Pruefsprache>
+            <L1_Pruefungsleistung>Klausur</L1_Pruefungsleistung>
+            <L1_Dauer_PL_in_Minuten>120</L1_Dauer_PL_in_Minuten>
+            <L1_Bewertungssystem_PL>Drittelnoten</L1_Bewertungssystem_PL>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body><ul><li>Grundlegende betriebswirtschaftliche Konzepte (Produktionsfaktoren, Organisationsmodell, Logistik, Supply Chain Management, …)</li>
+                     <li>Externes Rechnungswesen (Bilanz, FiBu, …)</li>
+                     <li>Internes Rechnungswesen (BAB, Produktkalkulation, Interne Leistungsverrechnung, Target Costing, …)</li>
+                     <li>Investitionsrechnung (statische Verfahren, Kapitalwertmethode)</li>
+                     <li>Controlling (Kennzahlensysteme, Kennzahlen, Datawarehouse, …</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse>
+               <html>
+                  <body>
+                     <p>Die Studierenden verstehen betriebswirtschaftliche Zusammenhänge, die für Entwicklung, Einführung und Analyse von Informationssystemen erforderlich sind.</p>
+                  </body>
+               </html>
+            </L1_Lernergebnisse>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Thommen, Achleitner, Allgemeine Betriebswirtschaftslehre, SpringerGabler, aktuelle Auflage;</p>
+                     <p>Ermann, Krupp, Betriebswirtschaftslehre, Pearson, aktuelle Auflage.</p>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Rechnungswesen und Controlling (Praktikum)</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel/>
+            <L2_Lehrveranstaltungsart>Praktikum</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Präsenz</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch>Accounting and Controlling (Practical Training)</L2_Lehrveranstaltungsname_englisch>
+            <L2_ECTS_Leistungspunkte>1</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>1</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>30</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>15</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>15</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht/>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache>Deutsch</L2_Lehrsprache>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung>Praktikum</L2_Studienleistung>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL>Bestehen</L2_Bewertungssystem_SL>
+            <L2_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Das Praktikum vermittelt ausgewählte Inhalte der Vorlesung in Form von praktischen Aufgaben in Team- oder Einzelarbeit. Die Studierenden können die Konzepte und Verfahren des Rechnungswesen und Controlling praktisch anwenden</p>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse/>
+            <L2_Literatur>
+               <html>
+                  <body>
+                     <p>s. Vorlesung</p>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Brückenkurs: Automatisierungstechnik</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>Aut</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Bridging Course: Automation</M_Modulname_englisch>
+         <M_Modulverantwortliche>Töbermann, J.-Christian, Prof. Dr.-Ing.</M_Modulverantwortliche>
+         <M_Fachbereich>Elektrotechnik und Informatik</M_Fachbereich>
+         <M_Studiengang>Angewandte Informationstechnik, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SoSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache/>
+         <M_Bewertungssystem_PL/>
+         <M_Pruefungsleistung/>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse/>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Brückenkurs: Automatisierungstechnik (Vorlesung)</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>Aut VL</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Bridging Course: Automation (Lecture)</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>4</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>3</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>120</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>45</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>75</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache>Deutsch</L1_Pruefsprache>
+            <L1_Pruefungsleistung>Klausur</L1_Pruefungsleistung>
+            <L1_Dauer_PL_in_Minuten>120</L1_Dauer_PL_in_Minuten>
+            <L1_Bewertungssystem_PL>Drittelnoten</L1_Bewertungssystem_PL>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body><ul><li>Allgemeine Grundlagen der Steuerungstechnik und der Automatisierungspyramide</li>
+                     <li>IEC61131, Verknüpfungs- und Ablaufsteuerungen</li>
+                     <li>Industrielle Feldbussysteme</li>
+                     <li>Datenerfassung und Kommunikation im Leitsystem-Kontext</li>
+                     <li>Prozessvisualisierungen</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse>
+               <html>
+                  <body>
+                     <p>Das Modul richtet sich als Brückenkurs an Studierende, die einen Bachelorstudiengang mit dem Schwerpunkt Kommunikationstechnik oder Elektronik abgeschlossen haben. In dem Modul lernen Sie wesentliche Komponenten von Steuerungs- und Leitsystemen, sowie Feldbusse kennen. Nach dem erfolgreichen Abschluss des Moduls sind sie in der Lage die Inhalte des Masterkurses in den Kontext von industriellen Automatisierungssystemen einzuordnen.</p>
+                  </body>
+               </html>
+            </L1_Lernergebnisse>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Literatur wird in der Veranstaltung benannt.</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Brückenkurs: Automatisierungstechnik (Praktikum)</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel>Aut Pr</L2_Stundenplankuerzel>
+            <L2_Lehrveranstaltungsart>Praktikum</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Präsenz</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch>Bridging Course: Automation (Practical Training)</L2_Lehrveranstaltungsname_englisch>
+            <L2_ECTS_Leistungspunkte>1</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>1</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>30</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>15</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>15</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht>true</L2_Anwesenheitspflicht>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse>12</L2_Gruppengroesse>
+            <L2_Lehrsprache>Deutsch</L2_Lehrsprache>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung>Praktikum</L2_Studienleistung>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL>Bestehen</L2_Bewertungssystem_SL>
+            <L2_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>In den semesterbegleitenden Praktika wenden die Studierenden das in der Vorlesung Gelernte auf gegebene oder selbst gewählte Anwendungsszenarien an.</p>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse/>
+            <L2_Literatur>
+               <html>
+                  <body>
+                     <p>Siehe zugehörige Vorlesung.</p>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Brückenkurs: Kommunikationstechnik</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>KT</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Bridging Course: Communications Technology</M_Modulname_englisch>
+         <M_Modulverantwortliche>Hellbrück, Horst, Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Elektrotechnik und Informatik</M_Fachbereich>
+         <M_Studiengang>Angewandte Informationstechnik, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SoSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache/>
+         <M_Bewertungssystem_PL/>
+         <M_Pruefungsleistung/>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse/>
+         <M_Teilnahmevoraussetzungen>
+            <html>
+               <body>
+                  <p/>
+               </body>
+            </html>
+         </M_Teilnahmevoraussetzungen>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Brückenkurs: Kommunikationstechnik (Vorlesung)</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>KT VL</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Bridging Course: Communications Technology (Lecture)</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>3</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>3</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>90</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>45</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>45</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache>Deutsch</L1_Pruefsprache>
+            <L1_Pruefungsleistung>Mündliche Prüfung</L1_Pruefungsleistung>
+            <L1_Dauer_PL_in_Minuten>25</L1_Dauer_PL_in_Minuten>
+            <L1_Bewertungssystem_PL>Drittelnoten</L1_Bewertungssystem_PL>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Grundlagen</p><ul><li>Einführung</li>
+                     <li>Anwendungen, Begriffe</li>
+                     <li>Modelle OSI/Internet/Nachrichtentechnik Schichten und ihre Funktionen</li></ul><p>
+                        <b>Bitübertragungsschicht</b>
+                     </p><ul><li>Signale und ihre Eigenschaften</li>
+                     <li>Eigenschaften einer Basisbandübertragung und Frequenzbereich von Quellen </li>
+                     <li>Leitungen (Kupfer, Lichtwellenleiter)</li>
+                     <li>Leitungscodes</li>
+                     <li>Modulationsarten zur digitalen Übertragung</li><ul><ul><li>PAM - PCM</li>
+                     <li>Shift-Keying-Verfahren ASK-FSK-PSK-QAM</li>
+                     <li>Signal-Rauschabstand und Bitfehlerwahrscheinlichkeit</li></ul></ul></ul><p>
+                        <b>Sicherungsschicht</b>
+                     </p><ul><li>Zeitmultiplex (TDMA)</li>
+                     <li>Frequenzmultiplex</li>
+                     <li>Kanalcodierung (Fehlerkontrolle)</li>
+                     <li>PPP</li></ul><p>
+                        <b>Lokale Netze</b>
+                     </p><ul><li>Ethernet - IEEE 802.3</li>
+                     <li>Komponenten (Repeater, Hub, Bridge, Switch)</li></ul><p>
+                        <b>Vermittlungsschicht</b>
+                     </p><ul><li>Durchschaltevermittlung, Paketvermittlung (Datagramme, virtuelle Verbindungen)</li>
+                     <li>Routing-Verfahren (Shortest-Path-Algorithmus, Spanning Tree, Routing-Tabelle)</li>
+                     <li>Internet Protokoll</li>
+                     <li>Komponenten (Router, Gateway)</li></ul><p>
+                        <b>Transportschicht</b>
+                     </p><ul><li>Transmission Control Protocol</li>
+                     <li>Socket API</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse>
+               <html>
+                  <body>
+                     <p>Nach erfolgreichem Abschluss der Vorlesung können die Studierenden dieses Brückenkurses </p><ul><li>die Struktur und die Funktionen eines Architekturmodells (z.B. OSI-Modell) erklären,</li>
+                     <li>die Eigenschaften eines Basisband-Übertragungssystems erläutern,</li>
+                     <li>die unterschiedlichen Eigenschaften der gängigen Übertragungsmedien, wie Kupferleitung, Glasfaser und Funkkanal analysieren,</li>
+                     <li>Umtastverfahren (ASK, FSK, PSK, QAM) aufgrund ihres Spektrums und des Zusammenhangs zwischen Bitfehlerrate und Signal-Rauschabstand auswählen,</li>
+                     <li>digitale Daten mit Hilfe verschiedener Leitungscodierer kodieren und ihre wesentlichen Eigenschaften miteinander vergleichen,</li>
+                     <li>die wesentlichen Kanalzugriffsverfahren erläutern,</li>
+                     <li>die einzelnen Umwandlungsschritte von einem analogen zu einem digitalen Signal für eine lineare und eine nichtlineare A/D-Wandlung (PCM, A-Kennlinie) erklären,</li>
+                     <li>die grundlegende Wirkungsweise von Kanalcodierern zur Fehlererkennung und Fehlerkorrektur erläutern,</li>
+                     <li>Protokollabläufe erstellen und analysieren und</li>
+                     <li>die Funktionsweise lokaler Netze erläutern</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lernergebnisse>
+            <L1_Literatur>
+               <html>
+                  <body><ul><li>Roppel: Grundlagen der digitalen Kommunikationstechnik: Übertragungstechnik - Signalverarbeitung – Netz</li>
+                     <li>Lochmann: Digitale Nachrichtentechnik, Verlag Technik</li>
+                     <li>Meyer: Kommunikationstechnik, Vieweg+Teubner Verlag</li>
+                     <li>Tanenbaum: Computernetze, Prentice Hall</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Brückenkurs: Kommunikationstechnik (Praktikum)</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel>KT P</L2_Stundenplankuerzel>
+            <L2_Lehrveranstaltungsart>Praktikum</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Präsenz</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch>Bridging Course: Communications Technology (Laboratory)</L2_Lehrveranstaltungsname_englisch>
+            <L2_ECTS_Leistungspunkte>2</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>1</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>60</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>15</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>45</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht>true</L2_Anwesenheitspflicht>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache>Deutsch</L2_Lehrsprache>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung>Praktikum</L2_Studienleistung>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL>Bestehen</L2_Bewertungssystem_SL>
+            <L2_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Für das Praktikum werden aus den folgenden Aufgabenstellungen Versuche ausgewählt.</p><ul><li>OSI Schichtenmodell.</li>
+                     <li>Signale</li>
+                     <li>Übertragungsmedien</li>
+                     <li>Leitungscodes und Augendiagramm</li>
+                     <li>Sicherungsschicht / Behandlung von Übertragungsfehlern</li>
+                     <li>Sicherungsschicht / Switch</li>
+                     <li>Vermittlungsschicht / Router</li>
+                     <li>Transportschicht / TCP und UDP</li></ul><p/>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse/>
+            <L2_Literatur>
+               <html>
+                  <body>
+                     <p>s. Vorlesung</p>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Business Process Management</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>BPM</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Lohmann, Rüdiger, Prof. Dr.-Ing.</M_Modulverantwortliche>
+         <M_Fachbereich>Electrical Engineering and Computer Science</M_Fachbereich>
+         <M_Studiengang>Applied Information Technology, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Compulsory</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>English</M_Lehrsprache>
+         <M_Pruefsprache/>
+         <M_Bewertungssystem_PL/>
+         <M_Pruefungsleistung/>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse/>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Business Process Management (Lecture)</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>SAP</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Lecture</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>4</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>3</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>120</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>45</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>75</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht>false</L1_Anwesenheitspflicht>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>English</L1_Lehrsprache>
+            <L1_Pruefsprache>German/English</L1_Pruefsprache>
+            <L1_Pruefungsleistung>Oral Exam</L1_Pruefungsleistung>
+            <L1_Dauer_PL_in_Minuten>30</L1_Dauer_PL_in_Minuten>
+            <L1_Bewertungssystem_PL>One-third Grades</L1_Bewertungssystem_PL>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body><ul><li>Fundamentals of Organizations</li>
+                     <li>IT Applications in Business</li><ul><li>Book keeping, MRP, MRPII, PPS u. ERP</li>
+                     <li>BOM, routing, scheduling</li></ul><li>Business Process Management</li><ul><li>Goals, techniques</li></ul><li>Order Processing</li><ul><li>OTC, P2P, planning and manufacturing, production order, scheduling, order confirmation</li></ul></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse>
+               <html>
+                  <body>
+                     <p>Students will have an understanding of organizational structures and processes within enterprises. They will have learned techniques and rules of process design necessary for analysis and design of information systems.</p>
+                  </body>
+               </html>
+            </L1_Lernergebnisse>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Essentials of Business Processes and Information Systems (Magal, Word), current edition</p>
+                     <p>Eversheim, W., Schuh, G., Integrierte Produkt- und Prozessgestaltung, Springer, Berlin.</p>
+                     <p>Eversheim, W., Organisation in der Produktionstechnik - Band 1, Grundlagen, VDI-Verlag, Düsseldorf</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen>
+               <html>
+                  <body>
+                     <p>Financials and Controlling</p>
+                  </body>
+               </html>
+            </L1_Teilnahmevoraussetzungen>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Business Process Management (Exercises)</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel>BPM E</L2_Stundenplankuerzel>
+            <L2_Lehrveranstaltungsart>Exercise</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Presence</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte>1</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>1</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>30</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>15</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>15</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht/>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache>English</L2_Lehrsprache>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>The exercises train students in applying knowledge and methods of business models in several practical tasks.</p>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse/>
+            <L2_Literatur>
+               <html>
+                  <body>
+                     <p>See lecture</p>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Wissenschaftliche Projektarbeit</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>SciP</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Scientific Project</M_Modulname_englisch>
+         <M_Modulverantwortliche>Hellbrück, Horst, Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Elektrotechnik und Informatik</M_Fachbereich>
+         <M_Studiengang>Angewandte Informationstechnik, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Wahlpflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>1</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>15</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>135</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SoSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Englisch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch/Englisch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Projektarbeit</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>The learning goal of the module is to enable students to work on scientific topics (e.g. a master thesis) autonomously/independently. Additionally, students will acquire the skills necessary to write scientific publications and give scientific presentations. </p>
+                  <p>Following the successful completion of this course, the students will have acquired the following competencies:</p><ul><li>Writing of a scientific article of approximately 5 to 10 pages in length that covers state of the art, approach and result of the project.</li>
+                  <li>Document and present the scientific approach used for solving the selected task.</li>
+                  <li>Graphical representation and presentation of the results.</li>
+                  <li>Retrieval and evaluation of information using literature and online resources.</li>
+                  <li>Giving an overview of a complex scientific area in a presentation to a professional audience.</li>
+                  <li>Participate in scientific discussions typical for scientific presentations.</li></ul><p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen>
+            <html>
+               <body>
+                  <p/>
+               </body>
+            </html>
+         </M_Teilnahmevoraussetzungen>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Wissenschaftliches Projekt</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>SciP Pj</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Projekt</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Scientific Project</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>1</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>15</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>135</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Englisch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body><ul><li>Introduction to scientific working</li>
+                     <li>Types of scientific publications</li>
+                     <li>Structure and outline of a scientific article</li>
+                     <li>Structured approach for writing a scientific article</li></ul><p>
+                        <b>Parts of Portfolio-Exam:</b>
+                     </p><ul><li>Scientific writing and references/citations</li>
+                     <li>Scientific presentations (poster, slides etc.)</li>
+                     <li>Scientific speeches</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Individual, dependent on the topic/task</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Integrated Information Systems</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>ISYS</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Lohmann, Rüdiger, Prof. Dr.-Ing.</M_Modulverantwortliche>
+         <M_Fachbereich>Electrical Engineering and Computer Science</M_Fachbereich>
+         <M_Studiengang>Applied Information Technology, Master</M_Studiengang>
+         <M_Fachsemester>3</M_Fachsemester>
+         <M_Verpflichtungsgrad>Compulsory</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>45</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>105</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SuSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>English</M_Lehrsprache>
+         <M_Pruefsprache>English</M_Pruefsprache>
+         <M_Bewertungssystem_PL>One-third Grades</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Project Work</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Students will get an SAP ERP working knowledge. In addition, students will learn how a variety of business processes can be covered with a standard ERP-system such as SAP.</p>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen>
+            <html>
+               <body>
+                  <p>Financials and Accounting, Business Process Management</p>
+               </body>
+            </html>
+         </M_Teilnahmevoraussetzungen>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Integrated Information Systems</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>ISYS</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Lecture</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>45</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>105</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht>false</L1_Anwesenheitspflicht>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse>20</L1_Gruppengroesse>
+            <L1_Lehrsprache>English</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Students do two supervised SAP case studies to acquire basic SAP handling skills and to get familiar with the basic ERP functionalities.</p>
+                     <p>Based on this, students will do a group work to test a new business process in SAP.</p>
+                     <p>The process and its implementation in SAP is finally presented to the entire group. In addition, the students turn in a management report describing the process, it´s application and it´s realization in SAP.</p>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Discover SAP (Muir, Kimbell), Rheinwerk Verlag</p>
+                     <p>Logistics with SAP ERP (Murray)</p>
+                     <p>Essentials of Business Processes and Information Systems (Magal, Word)</p>
+                     <p>SAP process documentation for the case study</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Masterarbeit und Kolloquium</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>MA</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Master Thesis and Colloquium</M_Modulname_englisch>
+         <M_Modulverantwortliche>Hellbrück, Horst, Prof. Dr.-Ing.</M_Modulverantwortliche>
+         <M_Fachbereich>Elektrotechnik und Informatik</M_Fachbereich>
+         <M_Studiengang>Angewandte Informationstechnik, Master</M_Studiengang>
+         <M_Fachsemester>3</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>25</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden/>
+         <M_Arbeitsaufwand_in_Stunden>750</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>1</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>749</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>(Flexibel)</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch/Englisch</M_Lehrsprache>
+         <M_Pruefsprache/>
+         <M_Bewertungssystem_PL/>
+         <M_Pruefungsleistung/>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse/>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Masterarbeit</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>MA</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart/>
+            <L1_Lernform/>
+            <L1_Lehrveranstaltungsname_englisch>Master Thesis</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>20</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden/>
+            <L1_Arbeitsaufwand_in_Stunden>600</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>0</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>600</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch/Englisch</L1_Lehrsprache>
+            <L1_Pruefsprache>Deutsch/Englisch</L1_Pruefsprache>
+            <L1_Pruefungsleistung>Abschlussarbeit</L1_Pruefungsleistung>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL>Drittelnoten</L1_Bewertungssystem_PL>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Die Lehrinhalte entsprechen dem festgelegten Thema der Masterarbeit.</p>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse>
+               <html>
+                  <body>
+                     <p>Die Studierenden wenden die während ihres Studiums erworbene Fach-, Methoden-, System- und Sozialkompetenz auf eine konkrete Problemstellung in ihrer Abschlussarbeit an und stellen damit ihre Fähigkeit zur selbstständigen wissenschaftlichen Arbeit unter Beweis.</p>
+                  </body>
+               </html>
+            </L1_Lernergebnisse>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Auswahl von Literatur entsprechend der Aufgabenstellung.</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen>
+               <html>
+                  <body>
+                     <p>Siehe Studien- und Prüfungsordnung (SPO).</p>
+                  </body>
+               </html>
+            </L1_Teilnahmevoraussetzungen>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Master-Kolloquium</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel>MA Pr</L2_Stundenplankuerzel>
+            <L2_Lehrveranstaltungsart/>
+            <L2_Lernform/>
+            <L2_Lehrveranstaltungsname_englisch>Master Colloquium</L2_Lehrveranstaltungsname_englisch>
+            <L2_ECTS_Leistungspunkte>5</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden/>
+            <L2_Arbeitsaufwand_in_Stunden>150</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>1</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>149</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht>false</L2_Anwesenheitspflicht>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache>Deutsch/Englisch</L2_Lehrsprache>
+            <L2_Pruefsprache>Deutsch/Englisch</L2_Pruefsprache>
+            <L2_Pruefungsleistung>Kolloquium</L2_Pruefungsleistung>
+            <L2_Dauer_PL_in_Minuten>60</L2_Dauer_PL_in_Minuten>
+            <L2_Bewertungssystem_PL>Drittelnoten</L2_Bewertungssystem_PL>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Die Lehrinhalte entsprechen dem festgelegten Thema der Masterarbeit.</p>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse>
+               <html>
+                  <body>
+                     <p>Die Studierenden präsentieren die während der Bearbeitung ihrer Abschlussarbeit gesammelten Erfahrungen und wissenschaftlichen Ergebnisse und vertreten diese in einer anschließenden Diskussion.</p>
+                  </body>
+               </html>
+            </L2_Lernergebnisse>
+            <L2_Literatur>
+               <html>
+                  <body>
+                     <p>Auswahl von Literatur entsprechend der Aufgabenstellung.</p>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen>
+               <html>
+                  <body>
+                     <p>Siehe Studien- und Prüfungsordnung (SPO).</p>
+                  </body>
+               </html>
+            </L2_Teilnahmevoraussetzungen>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Digital Processing of Stochastic Signals</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>DPSS</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Chahabadi, Djahanyar, Prof. Dr.-Ing.</M_Modulverantwortliche>
+         <M_Fachbereich>Electrical Engineering and Computer Science</M_Fachbereich>
+         <M_Studiengang>Applied Information Technology, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Elective</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>61</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>89</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>English</M_Lehrsprache>
+         <M_Pruefsprache/>
+         <M_Bewertungssystem_PL/>
+         <M_Pruefungsleistung/>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse/>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Digital Processing of Stochastic Signals (Lecture + Exercise)</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>DPSS VL</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Lecture</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>3</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>3</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>90</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>45</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>45</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>English</L1_Lehrsprache>
+            <L1_Pruefsprache>German/English</L1_Pruefsprache>
+            <L1_Pruefungsleistung>Written Exam</L1_Pruefungsleistung>
+            <L1_Dauer_PL_in_Minuten>120</L1_Dauer_PL_in_Minuten>
+            <L1_Bewertungssystem_PL>One-third Grades</L1_Bewertungssystem_PL>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL>One-third Grades</L1_Bewertungssystem_SL>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Lecture classes include exercises. Topics covered include:</p><ol><li>
+                        <b>Introduction: </b>Content and organization of the course, features of stochastic signals, basic model of information transmission. </li>
+                     <li>
+                        <b>Introduction to Probability: </b>Events, random variables and probability, discrete and continuous random variables, stochastic processes, autocorrelation function. </li>
+                     <li>
+                        <b>Prediction: </b>basic idea, structure of the predictor, derivation of the optimal prediction, the prediction gain, the Levinson Durbin-Algorithm, prediction with lattice filters. </li>
+                     <li>
+                        <b>Adaptive Filters: </b>Wiener-filter, LMS-Algorithm, Kalman-Filter. </li>
+                     <li>
+                        <b>Quantization: </b>scalar quantization, companding, block quantization, Karhunen-Loeve-transform, vector quantization, the LBG-Algorithm. </li>
+                     <li>
+                        <b>Principles of Adaptation: </b>forward adaption, backward adaptation, main and side information, constant and variable data rates. </li>
+                     <li>
+                        <b>Applications: </b>source coding: RELP, DPCM, G.726(ADPCM), G.722 (SB-ADPCM),G.728 (LD-CELP), ETSI/GSM Standard 06.10 (RPE-LTP), MP3, feature extraction, signal enhancement, echo cancellation, adaptive channel equalization, adaptive beam forming </li></ol><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse>
+               <html>
+                  <body>
+                     <p>After successful completion of this course, the students will be able to: </p><ol><li>Describe stochastic signals mathematically using expectations like the first and second moments of a stochastic process. </li>
+                     <li>Represent stochastic signals in the time domain and the frequency domain and to classify them. </li>
+                     <li>Apply the structure of digital systems for processing stochastic signals including two different predictor structures. </li>
+                     <li>Describe and apply different adaptation strategies and be familiar to the design of adaptive filters. </li>
+                     <li>Name typical applications of the presented systems. </li>
+                     <li>Design predictors and quantizers for a given training sequence. </li>
+                     <li>Make use of stochastic features of a given signal for data compression.</li>
+                     <li>Describe the basic structures of different systems for source coding.</li></ol><p/>
+                  </body>
+               </html>
+            </L1_Lernergebnisse>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>In English: </p><ul><li>P.S.R. Diniz, Adaptive Filtering, Kluwer Academic Publishers, 2002, ISBN 1-4020-7125-6 </li>
+                     <li>A.Papoulis, Probability, Random Variables and Stochastic Processes, McGraw-Hill, 2002, ISBN 0- 0711-9981-0 </li></ul><p/>
+                     <p>In German: </p><ul><li>F.Jondral, A.Wiesler, Wahrscheinlichkeitsrechnung und stochastische Prozesse, Teubner Verlag, 2002, ISBN 3-5191-6263-6 </li>
+                     <li>E.Hänsler, Statistische Signale Grundlagen und Anwendungen, Springer Verlag, 2001, ISBN 3-5404- 1644-7 </li>
+                     <li>W.Hess, U.Heute, P.Vary Digitale Sprachsignalverarbeitung Teubner Verlag, Stuttgart, 1998, ISBN 3-519-06165-1, ISBN-13 978-3519061656 </li>
+                     <li>J.F. Böhme, Stochastische Signale, Teubner Verlag, 1998, ISBN 3-5191-6160-5</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Digital Processing of Stochastic Signals (Practical Training)</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel>DPSS P</L2_Stundenplankuerzel>
+            <L2_Lehrveranstaltungsart>Practical Training</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Presence</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte>2</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>1</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>60</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>16</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>44</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht>true</L2_Anwesenheitspflicht>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse>12</L2_Gruppengroesse>
+            <L2_Lehrsprache>English</L2_Lehrsprache>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung>Practical Training</L2_Studienleistung>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL>Pass</L2_Bewertungssystem_SL>
+            <L2_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>To deepen and expand the practical knowledge the students will solve three problems out of a set of given problems using MATLAB on a PC. Topics are: </p>
+                     <p>Signal analysis and measurement of the autocorrelation function, adaptive gain control using the probability density function, design of a linear predictor for speech signals, programming an adaptive lattice predictor, implementation of the LMS-Algorithm. </p>
+                     <p/>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse/>
+            <L2_Literatur>
+               <html>
+                  <body>
+                     <p>In English: </p><ul><li>P.S.R. Diniz, Adaptive Filtering, Kluwer Academic Publishers, 2002, ISBN 1-4020-7125-6 </li>
+                     <li>A.Papoulis, Probability, Random Variables and Stochastic Processes, McGraw-Hill, 2002, ISBN 0- 0711-9981-0 </li></ul><p/>
+                     <p>In German: </p><ul><li>F.Jondral, A.Wiesler, Wahrscheinlichkeitsrechnung und stochastische Prozesse, Teubner Verlag, 2002, ISBN 3-5191-6263-6 </li>
+                     <li>E.Hänsler, Statistische Signale Grundlagen und Anwendungen, Springer Verlag, 2001, ISBN 3-5404- 1644-7 </li>
+                     <li>W.Hess, U.Heute, P.Vary Digitale Sprachsignalverarbeitung Teubner Verlag, Stuttgart, 1998, ISBN 3-519-06165-1, ISBN-13 978-3519061656 </li>
+                     <li>J.F. Böhme, Stochastische Signale, Teubner Verlag, 1998, ISBN 3-5191-6160-5 </li></ul><p/>
+                     <p/>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Human-Computer Interfaces</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>HCI</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Janneck, Monique, Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Electrical Engineering and Computer Science</M_Fachbereich>
+         <M_Studiengang>Applied Information Technology, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Elective</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>English</M_Lehrsprache>
+         <M_Pruefsprache>German/English</M_Pruefsprache>
+         <M_Bewertungssystem_PL>One-third Grades</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Project Work</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>The students get an overview of the interdisciplinary science of Human-Computer Interaction and its central concepts, definitions, and research areas. They acquire knowledge regarding the foundations of HCI (especially Psychology, Cognitive Sciences, Ergonomics) and learn how to apply this knowledge to the analysis and design of interactive products. They study and analyze different interaction techniques and design principles and learn how to design dialogues for different use contexts. They are familiar with international norms and legal requirements of system engineering and get to know and apply different usability engineering methods.</p>
+                  <p>Furthermore the students practice scientific work by conducting their own HCI project work on a self-chosen topic throughout the semester (investigation, analysis, realization / implementation, written report, oral presentation).</p>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Human-Computer Interfaces (Lecture)</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>HCI</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Lecture</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>2</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>2</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>60</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>30</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>30</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>English</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>
+                        <b>History of HCI</b>
+                     </p><ul><li>Automation and complex information systems</li>
+                     <li>Development of graphical user interfaces</li></ul><p/>
+                     <p>
+                        <b>Foundations of HCI</b>
+                     </p><ul><li>Human cognition and information processing</li>
+                     <li>Human behavior and errors</li>
+                     <li>Security-related behavior</li>
+                     <li>Stress and strain in sociotechnical systems</li></ul><p/>
+                     <p>
+                        <b>Designing complex Human-Computer Interfaces</b>
+                     </p><ul><li>Ergonomic principles and guidelines</li>
+                     <li>Norms and legal requirements</li>
+                     <li>Interaction styles and techniques</li>
+                     <li>Input and output devices</li>
+                     <li>Multimodal interfaces</li>
+                     <li>Accessibility</li></ul><p/>
+                     <p>
+                        <b>The Usability Engineering Lifecycle</b>
+                     </p><ul><li>User-centered design methods</li>
+                     <li>Requirements engineering</li>
+                     <li>Prototyping</li>
+                     <li>Usability evaluation methods</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Carroll, J. M. (2003). HCI Models, Theories and Frameworks: Toward a Multidisciplinary Science. San Francisco u.a.: Morgan Kaufman.</p>
+                     <p>Norman, D. (1988). The Psychology of Everyday Things. New York: Basic Books. (deutsch: Dinge des Alltags, Frankfurt: Campus) </p>
+                     <p>Shneiderman, B., Plaisant, C. (2010). Designing the user interface. Strategies for effective human-computer interaction. Addison-Wesley. Boston, 5th edition.</p>
+                     <p>ISO 9241: Ergonomics of Human-Computer Interaction. International Organization for Standardization.</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Human-Computer Interfaces (Practical Training)</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel>HCI</L2_Stundenplankuerzel>
+            <L2_Lehrveranstaltungsart>Practical Training</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Presence</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte>3</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>2</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>90</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>30</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>60</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht>true</L2_Anwesenheitspflicht>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse>12</L2_Gruppengroesse>
+            <L2_Lehrsprache>German/English</L2_Lehrsprache>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte>
+               <html>
+                  <body><ul><li>Analyzing information systems according to ergonomic principles </li>
+                     <li>Design and prototypical implementation of ergonomic systems</li>
+                     <li>Practical evaluation of usability engineering methods</li></ul><p/>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse/>
+            <L2_Literatur>
+               <html>
+                  <body>
+                     <p>Carroll, J. M. (2003). HCI Models, Theories and Frameworks: Toward a Multidisciplinary Science. San Francisco u.a.: Morgan Kaufman.</p>
+                     <p>Norman, D. (1988). The Psychology of Everyday Things. New York: Basic Books. (deutsch: Dinge des Alltags, Frankfurt: Campus) </p>
+                     <p>Shneiderman, B., Plaisant, C. (2010). Designing the user interface. Strategies for effective human-computer interaction. Addison-Wesley. Boston, 5th edition.</p>
+                     <p>ISO 9241: Ergonomics of Human-Computer Interaction. International Organization for Standardization.</p>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Process Integration</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>PINT</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Töbermann, J.-Christian, Prof. Dr.-Ing.</M_Modulverantwortliche>
+         <M_Fachbereich>Electrical Engineering and Computer Science</M_Fachbereich>
+         <M_Studiengang>Applied Information Technology, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Elective</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>English</M_Lehrsprache>
+         <M_Pruefsprache/>
+         <M_Bewertungssystem_PL/>
+         <M_Pruefungsleistung/>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse/>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Process Integration (Lecture)</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>PINT VL</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Lecture</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>3</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>3</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>90</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>45</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>45</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>English</L1_Lehrsprache>
+            <L1_Pruefsprache>German/English</L1_Pruefsprache>
+            <L1_Pruefungsleistung>Written Exam</L1_Pruefungsleistung>
+            <L1_Dauer_PL_in_Minuten>120</L1_Dauer_PL_in_Minuten>
+            <L1_Bewertungssystem_PL>One-third Grades</L1_Bewertungssystem_PL>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body><ul><li>Concepts and variants of integrated operations management and the digital factory</li>
+                     <li>Modules of MES systems and their functionalities</li>
+                     <li>Interface description, design and implementation between automation process level and higher operating levels (MES and ERP)</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse>
+               <html>
+                  <body>
+                     <p>The students:</p><ul><li>understand concepts of integrated operation management systems and the digital factory and in particular for the integration of the automation process level with Manufacturing Execution Systems (MES) and Enterprise Resource Planning (ERP) systems.</li>
+                     <li>understand different systems, system concepts, system architectures and the reasons for each choice</li>
+                     <li>can classify functionalities of an MES system such as production data acquisition, asset management, quality management, detailed production planning and control and can describe and evaluate them in an overall task context</li>
+                     <li>can design and implement IT couplings between MES systems and the automation process level systematically and in a task-oriented manner</li>
+                     <li>have gained first experiences in using industrial MES systems.</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lernergebnisse>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Literature will be named in the lecture.</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Process Integration (Practical Training)</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel>PINT Pr</L2_Stundenplankuerzel>
+            <L2_Lehrveranstaltungsart>Practical Training</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Presence</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte>2</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>1</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>60</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>15</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>45</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht>true</L2_Anwesenheitspflicht>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse>12</L2_Gruppengroesse>
+            <L2_Lehrsprache>English</L2_Lehrsprache>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung>Practical Training</L2_Studienleistung>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL>Pass</L2_Bewertungssystem_SL>
+            <L2_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>In the practical trainings during the semester, the students apply what they have learned in the lecture to given or self-study topics for selected application scenarios.</p>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse/>
+            <L2_Literatur>
+               <html>
+                  <body>
+                     <p>See related lecture.</p>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Process Optimization</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>POPT</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Töbermann, J.-Christian, Prof. Dr.-Ing.</M_Modulverantwortliche>
+         <M_Fachbereich>Electrical Engineering and Computer Science</M_Fachbereich>
+         <M_Studiengang>Applied Information Technology, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Elective</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>English</M_Lehrsprache>
+         <M_Pruefsprache/>
+         <M_Bewertungssystem_PL/>
+         <M_Pruefungsleistung/>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse/>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Process Optimization (Lecture)</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>POPT VL</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Lecture</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>3</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>3</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>90</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>45</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>45</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>English</L1_Lehrsprache>
+            <L1_Pruefsprache>German/English</L1_Pruefsprache>
+            <L1_Pruefungsleistung>Written Exam</L1_Pruefungsleistung>
+            <L1_Dauer_PL_in_Minuten>120</L1_Dauer_PL_in_Minuten>
+            <L1_Bewertungssystem_PL>One-third Grades</L1_Bewertungssystem_PL>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body><ul><li>Mathematical and heuristic optimization methods</li>
+                     <li>Modelling of process tasks for higher decision and optimization functions and selection of suitable processes</li>
+                     <li>Design, implementation, simulation and testing of higher decision and optimization functions</li>
+                     <li>Integration into existing automation systems or Manufacturing Execution Systems</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse>
+               <html>
+                  <body>
+                     <p>The students: </p><ul><li>can apply various mathematical and heuristic optimization methods and know their fields of application and limitations</li>
+                     <li>can systematically plan and describe requirements for higher decision and optimization functions in automation systems or superimposed operating systems (e.g. Manufacturing Execution Systems)</li>
+                     <li>can implement such functions using suitable optimization methods and integrate them into the basic system</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lernergebnisse>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Literature will be named in the lecture.</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Process Optimization (Practical Training)</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel>POPT Pr</L2_Stundenplankuerzel>
+            <L2_Lehrveranstaltungsart>Practical Training</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Presence</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte>2</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>1</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>60</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>15</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>45</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht>true</L2_Anwesenheitspflicht>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse>12</L2_Gruppengroesse>
+            <L2_Lehrsprache>English</L2_Lehrsprache>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung>Practical Training</L2_Studienleistung>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL>Pass</L2_Bewertungssystem_SL>
+            <L2_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>In the practical trainings during the semester, the students apply what they have learned in the lecture to given or self-study topics for selected application scenarios.</p>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse/>
+            <L2_Literatur>
+               <html>
+                  <body>
+                     <p>See related lecture.</p>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Real-Time Systems</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>RTS</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Blaurock, Ole, Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Electrical Engineering and Computer Science</M_Fachbereich>
+         <M_Studiengang>Applied Information Technology, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Elective</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>German</M_Lehrsprache>
+         <M_Pruefsprache/>
+         <M_Bewertungssystem_PL/>
+         <M_Pruefungsleistung/>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse/>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik/>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Real-Time Systems (Lecture)</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>RTS VL</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Lecture</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>3</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>3</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>90</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>45</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>45</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>English</L1_Lehrsprache>
+            <L1_Pruefsprache>German/English</L1_Pruefsprache>
+            <L1_Pruefungsleistung>Written Exam</L1_Pruefungsleistung>
+            <L1_Dauer_PL_in_Minuten>90</L1_Dauer_PL_in_Minuten>
+            <L1_Bewertungssystem_PL>One-third Grades</L1_Bewertungssystem_PL>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body><ul><li>Presentation of selected real-time systems, classification of real-time systems.</li>
+                     <li>Safety in real-time systems: Dependability, reliability, methods for analysis, fault models, redundant design.</li>
+                     <li>Security in real-time systems.</li>
+                     <li>Communication in systems with real-time capabilities.</li>
+                     <li>Implementation of real-time systems: models of time, energy concerns, fields of applications, target platforms.</li>
+                     <li>Real-time operating systems: Architecture, scheduling, resource management, synchronization, comparison with operating systems for systems without real-time capabilities, selected examples.</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse>
+               <html>
+                  <body>
+                     <p>After successful completion of this course, the students will have acquired the following competences:</p><ul><li>Understanding of requirements specific to real-time systems.</li>
+                     <li>Analysis and design of hard- and software of systems with real-time capabilities.</li>
+                     <li>Modelling and implementation of real-time systems.</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lernergebnisse>
+            <L1_Literatur>
+               <html>
+                  <body><ul><li>Giorgio Buttazzo, Giuseppe Lipari, Luca Abeni und Marco Caccamo: Soft Real-Time Systems Predictability vs. Efficiency, Springer, 2005.</li>
+                     <li>Giorgio Buttazzo: Hard Real-Time Computing Systems Predictable Scheduling Algorithms and Applications, Springer, 2011.</li>
+                     <li>Abraham Silberschatz, Peter B. Galvin, Greg Gagne: Operating System Concepts, 8th ed., Wiley, 2010.</li>
+                     <li>Andrew S. Tanenbaum, Herbert Bos: Modern Operating Systems, Pearson Education Limited, 2014.</li>
+                     <li>Hermann Kopetz: Real-Time Systems, Springer, 2011.</li></ul><p/>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Real-Time Systems (Exercise)</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel>RTS Ex</L2_Stundenplankuerzel>
+            <L2_Lehrveranstaltungsart>Exercise</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Presence</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte>2</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>1</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>60</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>15</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>45</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht>true</L2_Anwesenheitspflicht>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse>12</L2_Gruppengroesse>
+            <L2_Lehrsprache>English</L2_Lehrsprache>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung>Practical Training</L2_Studienleistung>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL>Pass</L2_Bewertungssystem_SL>
+            <L2_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>The topics of the module are applied to a scenario with characteristic requirements and constraints, e.g. implementation of an online scheduler for real-time systems. </p>
+                     <p/>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse/>
+            <L2_Literatur>
+               <html>
+                  <body><ul><li>Giorgio Buttazzo, Giuseppe Lipari, Luca Abeni und Marco Caccamo: Soft Real-Time Systems Predictability vs. Efficiency, Springer, 2005.</li>
+                     <li>Giorgio Buttazzo: Hard Real-Time Computing Systems Predictable Scheduling Algorithms and Applications, Springer, 2011</li>
+                     <li>Abraham Silberschatz, Peter B. Galvin, Greg Gagne: Operating System Concepts, 8th ed., Wiley, 2010.</li>
+                     <li>Andrew S. Tanenbaum, Herbert Bos: Modern Operating Systems, Pearson Education Limited, 2014.</li>
+                     <li>Hermann Kopetz: Real-Time Systems, Springer, 2011.</li></ul><p/>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Drahtlose Netze für cyber-physische Systeme</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>WiNet</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Wireless Networks for Cyber Physical Systems</M_Modulname_englisch>
+         <M_Modulverantwortliche>Hellbrück, Horst, Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Elektrotechnik und Informatik</M_Fachbereich>
+         <M_Studiengang>Angewandte Informationstechnik, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Wahlpflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Englisch</M_Lehrsprache>
+         <M_Pruefsprache/>
+         <M_Bewertungssystem_PL/>
+         <M_Pruefungsleistung/>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse/>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Drahtlose Netze für cyber-physische Systeme Vorlesung</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>WiNet L</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Wireless Networks for Cyber Physical Systems (Lecture)</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>3</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>3</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>90</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>45</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>45</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Englisch</L1_Lehrsprache>
+            <L1_Pruefsprache>Deutsch/Englisch</L1_Pruefsprache>
+            <L1_Pruefungsleistung>Klausur</L1_Pruefungsleistung>
+            <L1_Dauer_PL_in_Minuten>120</L1_Dauer_PL_in_Minuten>
+            <L1_Bewertungssystem_PL>Drittelnoten</L1_Bewertungssystem_PL>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Introduction to Communication Systems (Workload 10h)</p><ul><li>Principles of networks (ISO-OSI-Schichtenmodell)</li>
+                     <li>Overview of state-of-the-art technologies incl. field buses and their classification</li>
+                     <li>Quality of service requirements for networks (real-time)</li></ul><p>
+                        <b>Wireless Data Transmission (Workload 10h)</b>
+                     </p>
+                     <p>
+                        <b>Wireless Data Link Layer (Workload 10h)</b>
+                     </p><ul><li>Medium access control</li>
+                     <li>Error control</li>
+                     <li>Real-time aspects</li></ul><p>
+                        <b>Wireless Network Layer (Workload 15h)</b>
+                     </p><ul><li>Addressing</li>
+                     <li>Routing</li>
+                     <li>Path finding</li>
+                     <li>Real-time Aspects</li></ul><p>
+                        <b>Wireless Technologies (Workload 30h)</b>
+                     </p><ul><li>802.15.4</li>
+                     <li>WLAN</li>
+                     <li>GSM</li>
+                     <li>Bluetooth</li>
+                     <li>RFID</li>
+                     <li>LowPowerWANs</li>
+                     <li>(Broadcast, Satellite Systems)</li></ul><p>
+                        <b>Security in wireless Networks (Workload 10h)</b>
+                     </p>
+                     <p>
+                        <b>Applications (Workload 15h)</b>
+                     </p><ul><li>Realtime automation in production</li>
+                     <li>Communications and control in logistics</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse>
+               <html>
+                  <body>
+                     <p>After successful completion of this course, the students will be able to:</p><ul><li>present the specialties of wireless sensor systems and the challenges and concepts of these systems.</li>
+                     <li>interpret and follow actual research activities and technology trends.</li>
+                     <li>design and analyze systematically protocols for sensor systems.</li>
+                     <li>design, implement deploy and operate real-time applications based on wireless networks.</li>
+                     <li>choose components for automation systems based on technical requirements and economic reasons.</li>
+                     <li>perform diagnose, tests and optimizations of wireless networked systems.</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lernergebnisse>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Jochen Schiller: Mobile Communications, Addison-Wesley</p>
+                     <p>Andrew S. Tanenbaum: Computer Networks, Prentice-Hall</p>
+                     <p>Holger Karl, Andreas Willig: Protocols and Architectures of Wireless Sensor Networks, Wiley</p>
+                     <p>Fheng Zhao, Leonidas Guibas: Wireless Sensor Networks, Morgan Kaufmann</p>
+                     <p>Andreas F. Molisch: „Wireless Communications“, John Wiley &amp; Sons</p>
+                     <p>Kurose, Ross: „Computer Networks“, Pearson</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen>
+               <html>
+                  <body>
+                     <p>Knowledge of modules: Principles of Electrical Engineering, Digital Technology, Communication Technologies, Digital Transmission Systems, Communication Networks</p>
+                  </body>
+               </html>
+            </L1_Teilnahmevoraussetzungen>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Drahtlose Netze für cyber-physische Systeme Praktikum</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel>WiNet P</L2_Stundenplankuerzel>
+            <L2_Lehrveranstaltungsart>Praktikum</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Präsenz</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch>Wireless Networks for Cyber Physical Systems (Laboratory)</L2_Lehrveranstaltungsname_englisch>
+            <L2_ECTS_Leistungspunkte>2</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>1</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>60</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>15</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>45</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht>true</L2_Anwesenheitspflicht>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache>Englisch</L2_Lehrsprache>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung>Praktikum</L2_Studienleistung>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL>Bestehen</L2_Bewertungssystem_SL>
+            <L2_Lehrinhalte>
+               <html>
+                  <body><ul><li>Concept, implementation of real-time networking with wireless components</li>
+                     <li>Data acquisition, processing and transfer from the field to management systems</li></ul><p/>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse/>
+            <L2_Literatur>
+               <html>
+                  <body>
+                     <p>s. Vorlesung</p>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Hardware-basierte IT-Sicherheit</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>HWS</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Hardware-based IT-Security</M_Modulname_englisch>
+         <M_Modulverantwortliche>Oliver Stecklina, Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Elektrotechnik und Informatik</M_Fachbereich>
+         <M_Studiengang>Angewandte Informationstechnik, Master</M_Studiengang>
+         <M_Fachsemester>(Nicht festgelegt)</M_Fachsemester>
+         <M_Verpflichtungsgrad>Wahlpflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>(Flexibel)</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch/Englisch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch/Englisch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Projektarbeit</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Nach erfolgreichem Abschluss der Veranstaltung können die Studierenden:</p><ul><li>die Effektivität und Effizienz von hardware-basierten IT-Sicherheitslösungen abschätzen und beurteilen,</li>
+                  <li>Anforderungen zur Bereitstellung von sicherheitsfördernden Fähigkeiten von System-Modulen formulieren,</li>
+                  <li>Anwendungsspezifische Lösungen der Hardware-basierten Sicherheit gestalten,</li>
+                  <li>sichere Hardware-basierten Krypto-Funktionen und Zufallszahlengeneratoren umsetzen und</li>
+                  <li>Lösungen für eine manipulationssichere Hardware entwickeln.</li></ul><p/>
+                  <p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen>
+            <html>
+               <body>
+                  <p>Hardware-beschreibung in VHDL, Prozessorarchitekturen</p>
+               </body>
+            </html>
+         </M_Teilnahmevoraussetzungen>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik/>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit>
+            <html>
+               <body>
+                  <p>Das Modul kann als Wahlfach im Studiengang Informatik Master genutzt werden.</p>
+               </body>
+            </html>
+         </M_Verwendbarkeit>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Hardware-basierte IT-Sicherheit (Vorlesung)</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>HWS VL</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Hardware-based IT-Security (Lecture)</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>3</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>3</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>105</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>45</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>60</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch/Englisch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>In diesem Modul werden Kenntnisse zur technischen Umsetzung von Mechanismen und Algorithmen der IT-Sicherheit vermittelt. Der Schwerpunkt des Moduls liegt auf den Hardware-basierten Problemstellungen und Lösungen in Klein- und Kleinstsystemen. Die Studierenden können im Anschluss Fragenstellungen zur Hardware-basierten Umsetzung von Sicherheitsfunktionen hinsichtlich ihrer Anwendungsspezifischen Eignung prüfen bzw. geeignete Lösungsansätze zusammenstellen und deren Effektivität und Effizienz abschätzen.</p><ul><li>Einführung in Klein- und Kleinstsysteme</li>
+                     <li>Methoden und Verfahren physischer Angriffe</li><ul><li>Hardware-Hacking</li>
+                     <li>Seitenkanal-Angriffe</li></ul><li>Vertrauenswürdige System-Module</li><ul><li>Hardware-basierte Krypto-Funktionen</li>
+                     <li>Sichere Zufallszahlen</li>
+                     <li>Remote Attestation</li></ul><li>Manipulationssichere Hardware</li><ul><li>Hardware-Verschlüsselung</li>
+                     <li>Physical Unclonable Functions</li>
+                     <li>Tamper-Resistenz</li></ul></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>[1] Stefan Mangard, Elisabeth Oswald und Thomas Popp; Power Analysis Attacks; Springer 2007</p>
+                     <p>[2] Christof Paar, Jan Palzl; Understanding Cryptography: A Textbook for Students and Practitioners; Springer 2010</p>
+                     <p>[3] Mohammed Theranipoor, Cliff Wang; Introduction to Hardware Security and Trust; Springer 2012</p>
+                     <p>[4] Christoph Böhm, Maximilian Hofer; Physical Unclonable Functions in Theory and Practice; Springer 2013</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Hardware-basierte IT-Sicherheit (Praktikum)</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel>HWS Pr</L2_Stundenplankuerzel>
+            <L2_Lehrveranstaltungsart>Praktikum</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Präsenz</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch>Hardware-based IT-Security (Practical Training)</L2_Lehrveranstaltungsname_englisch>
+            <L2_ECTS_Leistungspunkte>2</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>1</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>45</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>15</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>30</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht>false</L2_Anwesenheitspflicht>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse>12</L2_Gruppengroesse>
+            <L2_Lehrsprache>Deutsch/Englisch</L2_Lehrsprache>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>In praktischen Beispielen soll das Wissen der Vorlesung verfestigt werden:</p><ul><li>Elektromagnetische und/oder Power Analyse von Crypto-Funktionen in FPGAs und auf Mikrocontrollern</li>
+                     <li>Aufbau von Tamper-Resistenten Schaltungen </li></ul><p/>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse/>
+            <L2_Literatur>
+               <html>
+                  <body>
+                     <p>Siehe Vorlesung</p>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Sichere Programmierung</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>SProg</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Secure Programming</M_Modulname_englisch>
+         <M_Modulverantwortliche>Oliver Stecklina, Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Elektrotechnik und Informatik</M_Fachbereich>
+         <M_Studiengang>Angewandte Informationstechnik, Master</M_Studiengang>
+         <M_Fachsemester>(Nicht festgelegt)</M_Fachsemester>
+         <M_Verpflichtungsgrad>Wahlpflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>(Flexibel)</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch/Englisch</M_Lehrsprache>
+         <M_Pruefsprache/>
+         <M_Bewertungssystem_PL/>
+         <M_Pruefungsleistung/>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse/>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik/>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit>
+            <html>
+               <body>
+                  <p>Das Modul kann als Wahlfach im Studiengang Informatik Master genutzt werden.</p>
+               </body>
+            </html>
+         </M_Verwendbarkeit>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Sichere Programmierung (Vorlesung)</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>SProg VL</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Secure Programming (Lecture)</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>3</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>3</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>105</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>45</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>60</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch/Englisch</L1_Lehrsprache>
+            <L1_Pruefsprache>Deutsch/Englisch</L1_Pruefsprache>
+            <L1_Pruefungsleistung>Mündliche Prüfung</L1_Pruefungsleistung>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL>Drittelnoten</L1_Bewertungssystem_PL>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Autonome und sicherheitskritische Systeme bestimmen zunehmend unser alltägliches Leben. Sie haben Einfluss auf das was wir tun bzw. wie wir es tun können. Fehler in diesen Systemen haben oft einen direkten Einfluss auf uns und unsere Umwelt. Fehler können zu einen im Design aber auch in der Umsetzung gemacht werden. So muss Hardware-Entwurf aber auch insbesondere beim Programmieren von Anwendungen für sicherheitskritische Systeme mit großer Sorgfalt vorgegangen werden. Um das Erstellen der Programme zu unterstützen, können zum einen Regeln für die Programmierung aufgestellt oder sichere Programmiersprachen eingesetzt werden.</p>
+                     <p/>
+                     <p>Das Modul „Sichere Systemprogrammierung“ gibt den Studierenden einen Einblick in das sichere Programmieren von Anwendungen für sicherheitskritische (autonome) Systemen. Hierbei werden zum einen Regel für unsichere Sprachen, wie z.B. C, und zum anderen sichere Programmsprachen, wie z.B. ADA, betrachtet. In praktischen Beispielen wird untersucht, wie Regeln bzw. Programmiersprachen helfen, Fehler bei der Umsetzung einer sicherheitskritischen Anwendung zu vermeiden.</p>
+                     <p/>
+                     <p>Teil 1 – Einführung in die sichere Programmierung</p>
+                     <p>Teil 2 – MISRA C</p>
+                     <p>Teil 3 – Programmierung in ADA und SPARK</p>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse>
+               <html>
+                  <body>
+                     <p>Nach erfolgreichem Abschluss der Veranstaltung können die Studierenden</p><ul><li>Das Vorgehen zum Erstellen von sicheren Programmen erläutern und umsetzen</li>
+                     <li>Programme mit der Programmiersprache Ada entwickeln</li>
+                     <li>C-Programme entsprechen dem MISTRA-C Standard umsetzen</li>
+                     <li>Programme hinsichtlich sicherheitskritischer Programmabschnitte analysieren</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lernergebnisse>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>[1] OWASP Secure Coding Practices Quick Reference Guide, 2010</p>
+                     <p>[2] John Barnes; Programming in Ada 2012, Cambridge University Press, 2014</p>
+                     <p>[3] John W. McCormick, Building High Integrity Applications with SPARK, Cambridge University Press, 2015</p>
+                     <p>[4] Brian W. Kernighan; The C Programming Language; Prentice Hall 2000</p>
+                     <p>[5] MISRA C: 2012 Guidelines for the use of the C language in critical systems, 2012</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen>
+               <html>
+                  <body>
+                     <p>Programmierkenntnisse C</p>
+                  </body>
+               </html>
+            </L1_Teilnahmevoraussetzungen>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Sichere Programmierung (Praktikum)</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel>SProg Pr</L2_Stundenplankuerzel>
+            <L2_Lehrveranstaltungsart>Praktikum</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Präsenz</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch>Secure Programming (Practical Training)</L2_Lehrveranstaltungsname_englisch>
+            <L2_ECTS_Leistungspunkte>2</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>1</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>45</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>15</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>30</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht>false</L2_Anwesenheitspflicht>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse>12</L2_Gruppengroesse>
+            <L2_Lehrsprache>Deutsch/Englisch</L2_Lehrsprache>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung>Praktikum</L2_Studienleistung>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL>Bestehen</L2_Bewertungssystem_SL>
+            <L2_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>In praktischen Beispielen soll das Wissen der Vorlesung verfestigt werden:</p><ul><li>Software-Analyse von Programmbeispiele</li>
+                     <li>Programmierung nach MISRA-C</li>
+                     <li>Programmierung in Ada</li></ul><p/>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse/>
+            <L2_Literatur>
+               <html>
+                  <body>
+                     <p>Siehe Vorlesung</p>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Mobile Anwendungen</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>Mob</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Mobile Applications</M_Modulname_englisch>
+         <M_Modulverantwortliche>Zachow, Milena, Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Elektrotechnik und Informatik</M_Fachbereich>
+         <M_Studiengang>Angewandte Informationstechnik, Master</M_Studiengang>
+         <M_Fachsemester>(Nicht festgelegt)</M_Fachsemester>
+         <M_Verpflichtungsgrad>Wahlpflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>(Flexibel)</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch/Englisch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch/Englisch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Projektarbeit</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Die Studierenden kennen typische Anwendungsszenarien und spezielle Anforderungen an mobile Anwendungen.</p>
+                  <p>Sie sind in der Lage verschiedene Ansätze zur Programmierung mobiler Anwendungen umzusetzen und die Ansätze hinsichtlich ihrer Eignung für spezielle Anwendungskontexte zu beurteilen.</p>
+                  <p>Die Studierenden kennen aktuelle Trends und Themen mobiler Anwendungen und sind in der Lage diese bei eigenen Projekten zu berücksichtigen.</p>
+                  <p>Zusätzlich haben die Studierenden ihre Kompetenzen in Problemanalyse, Teamarbeit und Präsentationstechnik verbessert.</p>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Mobile Anwendungen (Vorlesung)</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>Mob VL</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Seminar</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Mobile Applications</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>2</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>2</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>60</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>30</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>30</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch/Englisch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body><ul><li>Anwendungsszenarien mobiler Anwendungen</li>
+                     <li>Besondere Anforderungen an mobile Anwendungen</li>
+                     <li>Native mobile Anwendungen</li>
+                     <li>Mobile Webanwendungen</li>
+                     <li>Hybride mobile Anwendungen</li>
+                     <li>Sicherheit mobiler Anwendungen</li>
+                     <li>Testen mobiler Anwendungen</li>
+                     <li>Aktuelle Themen und Trends im Bereich mobile Anwendungen</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>https://cordova.apache.org/</p>
+                     <p>https://developer.android.com/</p>
+                     <p>Mostefaoui, G., Tariq, F Mobile Apps Engineering: Design, Development, Security, and Testing, Chapman and Hall, 2018</p>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen>
+               <html>
+                  <body>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Teilnahmevoraussetzungen>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen>
+               <html>
+                  <body>
+                     <p/>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Bemerkungen>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Mobile Anwendungen (Praktikum)</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel>Mob Pr</L2_Stundenplankuerzel>
+            <L2_Lehrveranstaltungsart>Projekt</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Präsenz</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch>Mobile Applications (Practical Exercise)</L2_Lehrveranstaltungsname_englisch>
+            <L2_ECTS_Leistungspunkte>3</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>2</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>90</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>30</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>60</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht>true</L2_Anwesenheitspflicht>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse>12</L2_Gruppengroesse>
+            <L2_Lehrsprache>Deutsch/Englisch</L2_Lehrsprache>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Das Praktikum dient der Anwendung der in der Vorlesung vorgestellten Lehrinhalte und der Vertiefung eines bestimmten aktuellen Themas aus dem Bereich der mobilen Anwendungen.</p>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse/>
+            <L2_Literatur/>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen>
+               <html>
+                  <body>
+                     <p/>
+                     <p/>
+                  </body>
+               </html>
+            </L2_Bemerkungen>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Sichere vernetzte Steuerungssysteme</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>SNCS</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Secure Networked Control Systems</M_Modulname_englisch>
+         <M_Modulverantwortliche>Oliver Stecklina, Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Elektrotechnik und Informatik</M_Fachbereich>
+         <M_Studiengang>Angewandte Informationstechnik, Master</M_Studiengang>
+         <M_Fachsemester>(Nicht festgelegt)</M_Fachsemester>
+         <M_Verpflichtungsgrad>Wahlpflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch/Englisch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch/Englisch</M_Pruefsprache>
+         <M_Bewertungssystem_PL/>
+         <M_Pruefungsleistung>Mündliche Prüfung</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Nach erfolgreichem Abschluss der Veranstaltung können die Studierenden</p><ul><li>die Grundbegriffe der Netzwerksicherheit erklären und im Umfeld der industriellen Steuerung einordnen,</li>
+                  <li>Angriffstechniken strukturieren und mögliche Gegenmaßnahmen benennen,</li>
+                  <li>industrielle Systeme hinsichtlich möglicher Gefährdungen analysieren und bewerten,</li>
+                  <li>Gegenmaßnahmen für industrielle Steuerungssysteme unter Berücksichtigung der Anwendungsfelder bewerten und umsetzen und reaktive und präventive Maßnahmen der IT-Sicherheit in industrielle Steuerungsnetze integrieren.</li></ul><p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen>
+            <html>
+               <body>
+                  <p>Gute Netzwerk-Kenntnisse und Kenntnisse der TCP/IP-Architektur, Grundkenntnisse zur IT-Sicherheit, Grundkenntnisse Steuerungssysteme</p>
+               </body>
+            </html>
+         </M_Teilnahmevoraussetzungen>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik/>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit>
+            <html>
+               <body>
+                  <p>Das Modul kann als Wahlfach im Studiengang Informatik-Master genutzt werden.</p>
+               </body>
+            </html>
+         </M_Verwendbarkeit>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Sichere vernetzte Steuerungssysteme (Vorlesung)</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>SNCS VL</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Secure Networked Control Systems (Lecture)</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>3</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>3</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>105</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>45</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>60</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch/Englisch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Mit der Einführung von Industrie 4.0 gewinnt der Sicherheit von vernetzten Steuerungssystemen wesentlich an Bedeutung. Ein solches System kann von einem Unternehmen nur dann wirksam in einer Industriellen Umgebung eingesetzt werden, wenn die vom System erzeugten Daten verlässlich sind bzw. garantiert werden kann, dass Befehle an das System unverfälscht ankommen und auch wie gefordert ausgeführt werden.</p>
+                     <p/>
+                     <p>Das Modul behandelt mögliche Szenarien, die sich mit der zunehmenden Vernetzung und Autonomisierung von Systemen ergeben und gibt Lösungsansätze, um Sicherheit in einem solchen System zu installieren bzw. sichere Systeme zu entwickeln,</p>
+                     <p/>
+                     <p>Teil 1: Grundlagen Netzwerksicherheit</p><ul><li>Grundbegriffe der IT-Sicherheit</li>
+                     <li>Angriffe und Gegenmaßnahmen in TCP/IP Netzen</li></ul><p>Teil 2: Informationssicherheitsmanagementsysteme (ISMS)</p><ul><li>Sicherheits-Analyse</li>
+                     <li>Sicherheitsmanagement</li></ul><p>Teil 3: Industrielle Steuerungstechnik</p><ul><li>Grundlagen</li>
+                     <li>Sicherheitsanalyse</li>
+                     <li>Angriffsmodelle</li></ul><p>Teil 4: Präventive und Reaktive Sicherheit in industrieller Steuerungstechnik</p><ul><li>Firewalls</li>
+                     <li>Intrusion Detection</li>
+                     <li>Patch-Management</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse>
+               <html>
+                  <body>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lernergebnisse>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>[1] Heinrich Kersten, IT-Sicherheitsmanagement nach der neuen ISO 270001; Springer 2016</p>
+                     <p>[2] Claudia Eckert: IT-Sicherheit; De Gruyter 2018</p>
+                     <p>[3] Michael Kofler und Andre Zingsheim et.al.: Hacking &amp; Security. Das umfassende Handbuch; Rheinwerk 2018</p>
+                     <p>[4] Matthias Seitz: Speicherprogrammierbare Steuerungen für die Fabrik- und Prozessautomation: Strukturierte und objektorientierte SPS-Programmierung, Motion Control, Sicherheit, vertikale Integration; Hanser 2012</p>
+                     <p>[5] BSI: ICS-Securit Kompendium; BSI 2013</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Sichere vernetzte Steuerungssysteme (Praktikum)</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel>SNCS Pr</L2_Stundenplankuerzel>
+            <L2_Lehrveranstaltungsart>Praktikum</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Präsenz</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch>Secure Networked Control Systems (Practical Training)</L2_Lehrveranstaltungsname_englisch>
+            <L2_ECTS_Leistungspunkte>2</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>1</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>45</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>15</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>30</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht>false</L2_Anwesenheitspflicht>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse>12</L2_Gruppengroesse>
+            <L2_Lehrsprache>Deutsch/Englisch</L2_Lehrsprache>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Im Praktikum soll das Wissen der Vorlesung in praktischen Beispielen vertieft werden. In Gruppenarbeit werden</p><ul><li>Netzwerk-Protokolle industrieller Steuerungssysteme analysiert</li>
+                     <li>Netzwerk-Filter eingerichtet</li>
+                     <li>Verfahren zum sicheren Patch-Management durchgeführt</li></ul><p/>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse/>
+            <L2_Literatur>
+               <html>
+                  <body>
+                     <p>Siehe Vorlesung</p>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+</Modulbeschreibungen>

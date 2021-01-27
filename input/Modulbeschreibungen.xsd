@@ -1,0 +1,576 @@
+<?xml version="1.0"?>
+
+<!--<xs:schema targetNamespace="http://www.th-luebeck.de/modulbeschreibung" xmlns:xs="http://www.w3.org/2001/XMLSchema">-->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Importing XHTML namespace (for rich text fields) -->
+<!--  <xs:import namespace="http://www.w3.org/1999/xhtml"
+      schemaLocation="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/>
+-->
+	<xs:element name="Modulbeschreibungen">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Modulbeschreibung" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Modul" type="ModulTyp"/>
+							<xs:element name="Lehrveranstaltungen">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Lehrveranstaltung1" type="Lehrveranstaltung1Typ"/>
+										<xs:element name="Lehrveranstaltung2" type="Lehrveranstaltung2Typ" minOccurs="0"/>
+										<xs:element name="Lehrveranstaltung3" type="Lehrveranstaltung3Typ" minOccurs="0"/>
+										<xs:element name="Lehrveranstaltung4" type="Lehrveranstaltung4Typ" minOccurs="0"/>
+									</xs:sequence>	
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:complexType name="ModulTyp">
+		<xs:sequence>
+			<xs:element name="M_Modulname" type="StringMinLength3"/>
+			<xs:element name="M_Modulnummer" type="ModulnummerTyp"/>
+			<xs:element name="M_Niveau" type="NiveauTyp"/>
+			<xs:element name="M_Stundenplankuerzel" type="StundenplankuerzelTyp"/>
+			<xs:element name="M_Modulname_englisch" type="xs:string"/> <!-- leer bei englischsprachigen Modulen -->
+			<xs:element name="M_Modulverantwortliche" type="ModulverantwortlicheTyp"/>
+			<xs:element name="M_Fachbereich" type="FachbereichTyp"/>
+			<xs:element name="M_Studiengang" type="StudiengangTyp"/>
+			<xs:element name="M_Fachsemester" type="FachsemesterTyp"/>
+			<xs:element name="M_Verpflichtungsgrad" type="VerpflichtungsgradTyp"/>
+			<xs:element name="M_ECTS_Leistungspunkte" type="ECTS_LeistungspunkteTyp"/>
+			<xs:element name="M_Semesterwochenstunden" type="SemesterwochenstundenTyp"/>
+			<xs:element name="M_Arbeitsaufwand_in_Stunden" type="Aufwand_in_StundenTyp"/>
+			<xs:element name="M_Praesenzstunden" type="Aufwand_in_StundenTyp"/>
+			<xs:element name="M_Selbststudiumsstunden" type="Aufwand_in_StundenTyp"/>
+			<xs:element name="M_Dauer_in_Semestern" type="Dauer_in_SemesternTyp"/>
+			<xs:element name="M_Angebotshaeufigkeit" type="AngebotshaeufigkeitTyp"/>
+			<xs:element name="M_Lehrsprache" type="SpracheTyp"/>
+			<xs:element name="M_Pruefsprache" type="SpracheTyp"/>
+			<xs:element name="M_Bewertungssystem_PL" type="Bewertungssystem_Typ"/>
+			<xs:element name="M_Pruefungsleistung" type="PruefungsleistungTyp"/>
+			<xs:element name="M_Dauer_PL_in_Minuten" type="Dauer_PL_SL_in_MinutenTyp"/>
+			<xs:element name="M_Lernergebnisse" type="HtmlType"/>
+			<xs:element name="M_Teilnahmevoraussetzungen" type="HtmlType"/>
+			<xs:element name="M_GD_Geschlechtergerechte_Sprache" type="WahrheitswertTyp"/>
+			<xs:element name="M_GD_Anpassung_Didaktik" type="WahrheitswertTyp"/>
+			<xs:element name="M_GD_Vielfalt_im_Fach" type="WahrheitswertTyp"/>
+			<xs:element name="M_Verwendbarkeit" type="HtmlType"/>
+			<xs:element name="M_Bemerkungen" type="HtmlType"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="Lehrveranstaltung1Typ">
+		<xs:sequence>
+			<xs:element name="L1_Lehrveranstaltungsname" type="StringMinLength3"/>
+			<xs:element name="L1_Lehrveranstaltungsnummer" type="LehrveranstaltungsnummerTyp"/>
+			<xs:element name="L1_Modulnummer" type="ModulnummerTyp"/>
+			<xs:element name="L1_Stundenplankuerzel" type="StundenplankuerzelTyp"/>
+			<xs:element name="L1_Lehrveranstaltungsart" type="LehrveranstaltungsartTyp"/>
+			<xs:element name="L1_Lernform" type="LernformTyp"/>
+			<xs:element name="L1_Lehrveranstaltungsname_englisch" type="xs:string"/> <!-- leer bei englischsprachigen LVen -->
+			<xs:element name="L1_ECTS_Leistungspunkte" type="ECTS_LeistungspunkteTyp"/>
+			<xs:element name="L1_Semesterwochenstunden" type="SemesterwochenstundenTyp"/>
+			<xs:element name="L1_Arbeitsaufwand_in_Stunden" type="Aufwand_in_StundenTyp"/>
+			<xs:element name="L1_Praesenzstunden" type="Aufwand_in_StundenTyp"/>
+			<xs:element name="L1_Selbststudiumsstunden" type="Aufwand_in_StundenTyp"/>
+			<xs:element name="L1_Anwesenheitspflicht" type="WahrheitswertTyp"/>
+			<xs:element name="L1_Teilnahmebeschraenkung" type="TeilnahmeanzahlTyp"/>
+			<xs:element name="L1_Gruppengroesse" type="TeilnahmeanzahlTyp"/>
+			<xs:element name="L1_Lehrsprache" type="SpracheTyp"/>
+			<xs:element name="L1_Pruefsprache" type="SpracheTyp"/>
+			<xs:element name="L1_Pruefungsleistung" type="PruefungsleistungTyp"/>
+			<xs:element name="L1_Dauer_PL_in_Minuten" type="Dauer_PL_SL_in_MinutenTyp"/>
+			<xs:element name="L1_Bewertungssystem_PL" type="Bewertungssystem_Typ"/>
+			<xs:element name="L1_Studienleistung" type="StudienleistungTyp"/>
+			<xs:element name="L1_Dauer_SL_in_Minuten" type="Dauer_PL_SL_in_MinutenTyp"/>
+			<xs:element name="L1_Bewertungssystem_SL" type="Bewertungssystem_Typ"/>
+			<xs:element name="L1_Lehrinhalte" type="HtmlType"/>
+			<xs:element name="L1_Lernergebnisse" type="HtmlType"/>
+			<xs:element name="L1_Literatur" type="HtmlType"/>
+			<xs:element name="L1_Teilnahmevoraussetzungen" type="HtmlType"/>
+			<xs:element name="L1_Pruefungsvorleistung" type="xs:string"/>
+			<xs:element name="L1_Bemerkungen" type="HtmlType"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="Lehrveranstaltung2Typ">
+		<xs:sequence>
+			<xs:element name="L2_Lehrveranstaltungsname" type="StringMinLength3"/>
+			<xs:element name="L2_Lehrveranstaltungsnummer" type="LehrveranstaltungsnummerTyp"/>
+			<xs:element name="L2_Modulnummer" type="ModulnummerTyp"/>
+			<xs:element name="L2_Stundenplankuerzel" type="StundenplankuerzelTyp"/>
+			<xs:element name="L2_Lehrveranstaltungsart" type="LehrveranstaltungsartTyp"/>
+			<xs:element name="L2_Lernform" type="LernformTyp"/>
+			<xs:element name="L2_Lehrveranstaltungsname_englisch" type="xs:string"/> <!-- leer bei englischsprachigen LVen -->
+			<xs:element name="L2_ECTS_Leistungspunkte" type="ECTS_LeistungspunkteTyp"/>
+			<xs:element name="L2_Semesterwochenstunden" type="SemesterwochenstundenTyp"/>
+			<xs:element name="L2_Arbeitsaufwand_in_Stunden" type="Aufwand_in_StundenTyp"/>
+			<xs:element name="L2_Praesenzstunden" type="Aufwand_in_StundenTyp"/>
+			<xs:element name="L2_Selbststudiumsstunden" type="Aufwand_in_StundenTyp"/>
+			<xs:element name="L2_Anwesenheitspflicht" type="WahrheitswertTyp"/>
+			<xs:element name="L2_Teilnahmebeschraenkung" type="TeilnahmeanzahlTyp"/>
+			<xs:element name="L2_Gruppengroesse" type="TeilnahmeanzahlTyp"/>
+			<xs:element name="L2_Lehrsprache" type="SpracheTyp"/>
+			<xs:element name="L2_Pruefsprache" type="SpracheTyp"/>
+			<xs:element name="L2_Pruefungsleistung" type="PruefungsleistungTyp"/>
+			<xs:element name="L2_Dauer_PL_in_Minuten" type="Dauer_PL_SL_in_MinutenTyp"/>
+			<xs:element name="L2_Bewertungssystem_PL" type="Bewertungssystem_Typ"/>
+			<xs:element name="L2_Studienleistung" type="StudienleistungTyp"/>
+			<xs:element name="L2_Dauer_SL_in_Minuten" type="Dauer_PL_SL_in_MinutenTyp"/>
+			<xs:element name="L2_Bewertungssystem_SL" type="Bewertungssystem_Typ"/>
+			<xs:element name="L2_Lehrinhalte" type="HtmlType"/>
+			<xs:element name="L2_Lernergebnisse" type="HtmlType"/>
+			<xs:element name="L2_Literatur" type="HtmlType"/>
+			<xs:element name="L2_Teilnahmevoraussetzungen" type="HtmlType"/>
+			<xs:element name="L2_Pruefungsvorleistung" type="xs:string"/>
+			<xs:element name="L2_Bemerkungen" type="HtmlType"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="Lehrveranstaltung3Typ">
+		<xs:sequence>
+			<xs:element name="L3_Lehrveranstaltungsname" type="StringMinLength3"/>
+			<xs:element name="L3_Lehrveranstaltungsnummer" type="LehrveranstaltungsnummerTyp"/>
+			<xs:element name="L3_Modulnummer" type="ModulnummerTyp"/>
+			<xs:element name="L3_Stundenplankuerzel" type="StundenplankuerzelTyp"/>
+			<xs:element name="L3_Lehrveranstaltungsart" type="LehrveranstaltungsartTyp"/>
+			<xs:element name="L3_Lernform" type="LernformTyp"/>
+			<xs:element name="L3_Lehrveranstaltungsname_englisch" type="xs:string"/> <!-- leer bei englischsprachigen LVen -->
+			<xs:element name="L3_ECTS_Leistungspunkte" type="ECTS_LeistungspunkteTyp"/>
+			<xs:element name="L3_Semesterwochenstunden" type="SemesterwochenstundenTyp"/>
+			<xs:element name="L3_Arbeitsaufwand_in_Stunden" type="Aufwand_in_StundenTyp"/>
+			<xs:element name="L3_Praesenzstunden" type="Aufwand_in_StundenTyp"/>
+			<xs:element name="L3_Selbststudiumsstunden" type="Aufwand_in_StundenTyp"/>
+			<xs:element name="L3_Anwesenheitspflicht" type="WahrheitswertTyp"/>
+			<xs:element name="L3_Teilnahmebeschraenkung" type="TeilnahmeanzahlTyp"/>
+			<xs:element name="L3_Gruppengroesse" type="TeilnahmeanzahlTyp"/>
+			<xs:element name="L3_Lehrsprache" type="SpracheTyp"/>
+			<xs:element name="L3_Pruefsprache" type="SpracheTyp"/>
+			<xs:element name="L3_Pruefungsleistung" type="PruefungsleistungTyp"/>
+			<xs:element name="L3_Dauer_PL_in_Minuten" type="Dauer_PL_SL_in_MinutenTyp"/>
+			<xs:element name="L3_Bewertungssystem_PL" type="Bewertungssystem_Typ"/>
+			<xs:element name="L3_Studienleistung" type="StudienleistungTyp"/>
+			<xs:element name="L3_Dauer_SL_in_Minuten" type="Dauer_PL_SL_in_MinutenTyp"/>
+			<xs:element name="L3_Bewertungssystem_SL" type="Bewertungssystem_Typ"/>
+			<xs:element name="L3_Lehrinhalte" type="HtmlType"/>
+			<xs:element name="L3_Lernergebnisse" type="HtmlType"/>
+			<xs:element name="L3_Literatur" type="HtmlType"/>
+			<xs:element name="L3_Teilnahmevoraussetzungen" type="HtmlType"/>
+			<xs:element name="L3_Pruefungsvorleistung" type="xs:string"/>
+			<xs:element name="L3_Bemerkungen" type="HtmlType"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="Lehrveranstaltung4Typ">
+		<xs:sequence>
+			<xs:element name="L4_Lehrveranstaltungsname" type="StringMinLength3"/>
+			<xs:element name="L4_Lehrveranstaltungsnummer" type="LehrveranstaltungsnummerTyp"/>
+			<xs:element name="L4_Modulnummer" type="ModulnummerTyp"/>
+			<xs:element name="L4_Stundenplankuerzel" type="StundenplankuerzelTyp"/>
+			<xs:element name="L4_Lehrveranstaltungsart" type="LehrveranstaltungsartTyp"/>
+			<xs:element name="L4_Lernform" type="LernformTyp"/>
+			<xs:element name="L4_Lehrveranstaltungsname_englisch" type="xs:string"/> <!-- leer bei englischsprachigen LVen -->
+			<xs:element name="L4_ECTS_Leistungspunkte" type="ECTS_LeistungspunkteTyp"/>
+			<xs:element name="L4_Semesterwochenstunden" type="SemesterwochenstundenTyp"/>
+			<xs:element name="L4_Arbeitsaufwand_in_Stunden" type="Aufwand_in_StundenTyp"/>
+			<xs:element name="L4_Praesenzstunden" type="Aufwand_in_StundenTyp"/>
+			<xs:element name="L4_Selbststudiumsstunden" type="Aufwand_in_StundenTyp"/>
+			<xs:element name="L4_Anwesenheitspflicht" type="WahrheitswertTyp"/>
+			<xs:element name="L4_Teilnahmebeschraenkung" type="TeilnahmeanzahlTyp"/>
+			<xs:element name="L4_Gruppengroesse" type="TeilnahmeanzahlTyp"/>
+			<xs:element name="L4_Lehrsprache" type="SpracheTyp"/>
+			<xs:element name="L4_Pruefsprache" type="SpracheTyp"/>
+			<xs:element name="L4_Pruefungsleistung" type="PruefungsleistungTyp"/>
+			<xs:element name="L4_Dauer_PL_in_Minuten" type="Dauer_PL_SL_in_MinutenTyp"/>
+			<xs:element name="L4_Bewertungssystem_PL" type="Bewertungssystem_Typ"/>
+			<xs:element name="L4_Studienleistung" type="StudienleistungTyp"/>
+			<xs:element name="L4_Dauer_SL_in_Minuten" type="Dauer_PL_SL_in_MinutenTyp"/>
+			<xs:element name="L4_Bewertungssystem_SL" type="Bewertungssystem_Typ"/>
+			<xs:element name="L4_Lehrinhalte" type="HtmlType"/>
+			<xs:element name="L4_Lernergebnisse" type="HtmlType"/>
+			<xs:element name="L4_Literatur" type="HtmlType"/>
+			<xs:element name="L4_Teilnahmevoraussetzungen" type="HtmlType"/>
+			<xs:element name="L4_Pruefungsvorleistung" type="xs:string"/>
+			<xs:element name="L4_Bemerkungen" type="HtmlType"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="HtmlType" mixed="true">
+		<xs:sequence>
+			<xs:any minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+<!--
+	<xs:complexType name="HtmlType">
+		<xs:complexContent>
+		  <xs:extension base="xhtml:Block">
+			<xs:attributeGroup ref="xhtml:attrs"/>
+			<xs:attribute name="onload" type="xhtml:Script"/>
+			<xs:attribute name="onunload" type="xhtml:Script"/>
+		  </xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+-->
+	<!--
+	<xs:complexType name="HtmlType" mixed="true">
+		<xs:choice maxOccurs="unbounded">
+			<xs:element name="p" maxOccurs="unbounded" mixed="true"/>
+			<xs:element name="b" maxOccurs="unbounded" mixed="true"/>
+			<xs:element name="i" maxOccurs="unbounded" mixed="true"/>
+			<xs:element name="ol" maxOccurs="unbounded" mixed="true"/>
+			<xs:element name="ul" maxOccurs="unbounded" mixed="true"/>
+			<xs:element name="li" maxOccurs="unbounded" mixed="true"/>
+		</xs:choice>
+	</xs:complexType>
+-->
+	<xs:simpleType name="StringMinLength3">
+		<xs:restriction base="xs:string">
+			<xs:minLength value="3"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="ModulnummerTyp">
+		<xs:union>
+			<xs:simpleType><!-- Inhalt darf leer sein -->
+				<xs:restriction base="xs:string">
+					<xs:length value="0"/>
+				</xs:restriction>
+			</xs:simpleType>
+			<xs:simpleType>
+				<xs:restriction base="xs:string">
+<!--				<xs:pattern value="^M[0-5](B|M)-[A-Z]{2}[A-Z_][0-2][0-9]-[0-9]{4}$"/>-->
+					<xs:pattern value="M[0-5](B|M)-[A-Z]{2}[A-Z_][0-2][0-9]-[0-9]{4}"/>
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:union>
+	</xs:simpleType>
+	<xs:simpleType name="LehrveranstaltungsnummerTyp">
+		<xs:union>
+			<xs:simpleType><!-- Inhalt darf leer sein -->
+				<xs:restriction base="xs:string">
+					<xs:length value="0"/>
+				</xs:restriction>
+			</xs:simpleType>
+			<xs:simpleType>
+				<xs:restriction base="xs:string">
+<!--				<xs:pattern value="^L[0-5](B|M)-[A-Z]{2}[A-Z_][0-2][0-9]-[0-9]{4}-(VL|PR|UE|PJ|SE|EX|OL)[0-1][0-9]$"/>-->
+					<xs:pattern value="L[0-5](B|M)-[A-Z]{2}[A-Z_][0-2][0-9]-[0-9]{4}-(VL|PR|UE|PJ|SE|EX|OL)[0-1][0-9]"/>
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:union>
+	</xs:simpleType>
+	<xs:simpleType name="StundenplankuerzelTyp">
+		<xs:restriction base="xs:string">
+			<xs:maxLength value="12"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="NiveauTyp">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Bachelor"/>
+			<xs:enumeration value="Master"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="ModulverantwortlicheTyp">
+		<xs:restriction base="xs:string">
+<!--			<xs:pattern value="\D+, \D+"/>--> <!-- Pruefung deaktiviert, um z. B. auch BfdL eintragen zu koennen -->
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="FachbereichTyp">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Angewandte Naturwissenschaften"/>
+			<xs:enumeration value="Bauwesen"/>
+			<xs:enumeration value="Elektrotechnik und Informatik"/>
+			<xs:enumeration value="Maschinenbau und Wirtschaft"/>
+			<xs:enumeration value="Sprachenzentrum"/>
+			<xs:enumeration value="Professional School"/>
+			<xs:enumeration value="(Nicht festgelegt)"/>
+
+			<xs:enumeration value="Applied Natural Sciences"/>
+			<xs:enumeration value="Architecture and Civil Engineering"/>
+			<xs:enumeration value="Electrical Engineering and Computer Science"/>
+			<xs:enumeration value="Mechanical Engineering and Business Administration"/>
+			<xs:enumeration value="Language Center"/>
+			<xs:enumeration value="(Unspecified)"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="StudiengangTyp">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Angewandte Chemie, Bachelor"/>
+			<xs:enumeration value="Angewandte Informationstechnik, Master"/>
+			<xs:enumeration value="Architektur, Bachelor"/>
+			<xs:enumeration value="Architektur, Master"/>
+			<xs:enumeration value="Bauingenieurwesen, Bachelor"/>
+			<xs:enumeration value="Bauingenieurwesen, Master"/>
+			<xs:enumeration value="Betriebswirtschaftslehre, Bachelor"/>
+			<xs:enumeration value="Betriebswirtschaftslehre, Master"/>
+			<xs:enumeration value="Biomedical Engineering, Master"/>
+			<xs:enumeration value="Biomedizintechnik, Bachelor"/>
+			<xs:enumeration value="Elektrotechnik - Energiesysteme und Automation, Bachelor"/>
+			<xs:enumeration value="Elektrotechnik - Kommunikationssysteme, Bachelor"/>
+			<xs:enumeration value="Energie- und Gebäudeingenieurwesen, Bachelor"/>
+			<xs:enumeration value="Environmental Engineering, Bachelor"/>
+			<xs:enumeration value="Environmental Engineering, Master"/>
+			<xs:enumeration value="Hörakustik und Audiologische Technik, Master"/>
+			<xs:enumeration value="Hörakustik, Bachelor"/>
+			<xs:enumeration value="Informatik/Softwaretechnik, Bachelor"/>
+			<xs:enumeration value="Informatik/Softwaretechnik für verteilte Systeme, Master"/>
+			<xs:enumeration value="Information Technology, Bachelor"/>
+			<xs:enumeration value="Informationstechnologie und Design, Bachelor"/>
+			<xs:enumeration value="IT-Sicherheit Online, Bachelor"/>
+			<xs:enumeration value="Maschinenbau, Bachelor"/>
+			<xs:enumeration value="Mechanical Engineering, Master"/>
+			<xs:enumeration value="Medieninformatik Online, Bachelor"/>
+			<xs:enumeration value="Medieninformatik Online, Master"/>
+			<xs:enumeration value="Physikalische Technik, Bachelor"/>
+			<xs:enumeration value="Regenerative Energien Online, Bachelor"/>
+			<xs:enumeration value="Regulatory Affairs, Master"/>
+			<xs:enumeration value="Städtebau und Ortsplanung, Master"/>
+			<xs:enumeration value="Technische Biochemie, Master"/>
+			<xs:enumeration value="Umweltingenieurwesen und -management, Bachelor"/>
+			<xs:enumeration value="Wirtschaftsingenieurwesen, Bachelor"/>
+			<xs:enumeration value="Wirtschaftsingenieurwesen, Master"/>
+			<xs:enumeration value="Wirtschaftsingenieurwesen Lebensmittelindustrie, Bachelor"/>
+			<xs:enumeration value="Wirtschaftsingenieurwesen Online, Bachelor"/>
+			<xs:enumeration value="(Nicht festgelegt)"/>
+			
+			<xs:enumeration value="Applied Chemistry, Bachelor"/>
+			<xs:enumeration value="Applied Information Technology, Master"/>
+			<xs:enumeration value="Architecture, Bachelor"/>
+			<xs:enumeration value="Architecture, Master"/>
+			<xs:enumeration value="Audiological Acoustics, Bachelor"/>
+			<xs:enumeration value="Audiological Acoustics and Technology, Master"/>
+			<xs:enumeration value="Biochemical Engineering, Master"/>
+			<xs:enumeration value="Biomedical Engineering, Bachelor"/>
+			<xs:enumeration value="Business Administration, Bachelor"/>
+			<xs:enumeration value="Business Administration, Master"/>
+			<xs:enumeration value="Business Administration and Engineering, Bachelor"/>
+			<xs:enumeration value="Business Administration and Engineering, Master"/>
+			<xs:enumeration value="Business Administration and Engineering Food Industry, Bachelor"/>
+			<xs:enumeration value="Business Administration and Engineering (online studies), Bachelor"/>
+			<xs:enumeration value="Civil Engineering, Bachelor"/>
+			<xs:enumeration value="Civil Engineering, Master"/>
+			<xs:enumeration value="Computer Science/Software Engineering, Bachelor"/>
+			<xs:enumeration value="Computer Science/Software Engineering for Distributed Systems, Master"/>
+			<xs:enumeration value="Computer Science and Media Applications (online studies), Bachelor"/>
+			<xs:enumeration value="Computer Science and Media Applications (online studies), Master"/>
+			<xs:enumeration value="Electrical Engineering - Communication Systems, Bachelor"/>
+			<xs:enumeration value="Electrical Engineering - Energy Systems and Automation Engineering, Bachelor"/>
+			<xs:enumeration value="Energy and Building Engineering, Bachelor"/>
+			<xs:enumeration value="Environmental Engineering and Management, Bachelor"/>
+			<xs:enumeration value="Information Technology and Design, Bachelor"/>
+			<xs:enumeration value="IT Security (online studies), Bachelor"/>
+			<xs:enumeration value="Mechanical Engineering, Bachelor"/>
+			<xs:enumeration value="Physical Technology, Bachelor"/>
+			<xs:enumeration value="Renewable Energies (online studies), Bachelor"/>
+			<xs:enumeration value="Urban Design, Master"/>
+			<xs:enumeration value="(Unspecified)"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="VerpflichtungsgradTyp">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Pflicht"/>
+			<xs:enumeration value="Wahlpflicht"/>
+			<xs:enumeration value="Wahl"/>
+			<xs:enumeration value="(Nicht festgelegt)"/>
+			
+			<xs:enumeration value="Compulsory"/>
+			<xs:enumeration value="Compulsory elective"/>
+			<xs:enumeration value="Elective"/>
+			<xs:enumeration value="(Unspecified)"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="FachsemesterTyp">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="1"/>
+			<xs:enumeration value="2"/>
+			<xs:enumeration value="3"/>
+			<xs:enumeration value="4"/>
+			<xs:enumeration value="5"/>
+			<xs:enumeration value="6"/>
+			<xs:enumeration value="7"/>
+			<xs:enumeration value="8"/>
+			<xs:enumeration value="(Nicht festgelegt)"/>
+
+			<xs:enumeration value="(Unspecified)"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="Dauer_in_SemesternTyp">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="1"/>
+			<xs:enumeration value="2"/>
+			<xs:enumeration value="3"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="AngebotshaeufigkeitTyp">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="SoSe"/>
+			<xs:enumeration value="WiSe"/>
+			<xs:enumeration value="SoSe und WiSe"/>
+			<xs:enumeration value="(Flexibel)"/>
+
+			<xs:enumeration value="SuSe"/>
+			<xs:enumeration value="SuSe and WiSe"/>
+			<xs:enumeration value="(Flexible)"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="SpracheTyp">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Deutsch"/>
+			<xs:enumeration value="Englisch"/>
+			<xs:enumeration value="Deutsch/Englisch"/>
+			<xs:enumeration value="Gelehrte Fremdsprache"/>
+			<xs:enumeration value=""/>
+
+			<xs:enumeration value="German"/>
+			<xs:enumeration value="English"/>
+			<xs:enumeration value="German/English"/>
+			<xs:enumeration value="Taught Foreign Language"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="Bewertungssystem_Typ">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Drittelnoten"/>
+			<xs:enumeration value="Bestehen"/>
+			<xs:enumeration value="Teilnahme"/>
+			<xs:enumeration value=""/>
+
+			<xs:enumeration value="One-third Grades"/>
+			<xs:enumeration value="Pass"/>
+			<xs:enumeration value="Participation"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="PruefungsleistungTyp">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Mündliche Prüfung"/>
+			<xs:enumeration value="Klausur"/>
+			<xs:enumeration value="Studienarbeit"/>
+			<xs:enumeration value="Projektarbeit"/>
+			<xs:enumeration value="Portfolio-Prüfung"/>
+			<xs:enumeration value="Abschlussarbeit"/>
+			<xs:enumeration value="Kolloquium"/>
+			<xs:enumeration value=""/>
+
+			<xs:enumeration value="Oral Exam"/>
+			<xs:enumeration value="Written Exam"/>
+			<xs:enumeration value="Study Work"/>
+			<xs:enumeration value="Project Work"/>
+			<xs:enumeration value="Portfolio Exam"/>
+			<xs:enumeration value="Thesis"/>
+			<xs:enumeration value="Colloquium"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="Dauer_PL_SL_in_MinutenTyp">
+		<xs:union>
+			<xs:simpleType>
+				<xs:restriction base="xs:string">
+					<xs:length value="0"/>
+				</xs:restriction>
+			</xs:simpleType>
+			<xs:simpleType>
+				<xs:restriction base="xs:integer">
+					<xs:minInclusive value="15"/>
+					<xs:maxInclusive value="180"/>
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:union>
+	</xs:simpleType>
+	<xs:simpleType name="ECTS_LeistungspunkteTyp">
+		<xs:restriction base="xs:decimal">
+			<xs:minInclusive value="1"/>
+			<xs:maxInclusive value="30"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="SemesterwochenstundenTyp">
+		<xs:restriction base="xs:integer">
+			<xs:minInclusive value="0"/>
+			<xs:maxInclusive value="10"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="Aufwand_in_StundenTyp">
+		<xs:restriction base="xs:integer">
+			<xs:minInclusive value="0"/>
+			<xs:maxInclusive value="900"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="LehrveranstaltungsartTyp">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Vorlesung"/>
+			<xs:enumeration value="Übung"/>
+			<xs:enumeration value="Praktikum"/>
+			<xs:enumeration value="Projekt"/>
+			<xs:enumeration value="Online-Lehrveranstaltung"/>
+			<xs:enumeration value="Seminar"/>
+			<xs:enumeration value="Exkursion"/>
+
+			<xs:enumeration value="Lecture"/>
+			<xs:enumeration value="Exercise"/>
+			<xs:enumeration value="Practical Training"/>
+			<xs:enumeration value="Project Work"/>
+			<xs:enumeration value="Online Course"/>
+			<xs:enumeration value="Seminar"/>
+			<xs:enumeration value="Excursion"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="LernformTyp">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Präsenz"/>
+			<xs:enumeration value="Online betreut mit Präsenzphase"/>
+			<xs:enumeration value="Online unbetreut mit Präsenzphase"/>
+			<xs:enumeration value="Online betreut"/>
+			<xs:enumeration value="Online unbetreut"/>
+
+			<xs:enumeration value="Presence"/>
+			<xs:enumeration value="Online supported with presence hours"/>
+			<xs:enumeration value="Online unsupported with presence hours"/>
+			<xs:enumeration value="Online supported"/>
+			<xs:enumeration value="Online unsupported"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="WahrheitswertTyp">
+		<xs:union>
+			<xs:simpleType>
+				<xs:restriction base="xs:string">
+					<xs:length value="0"/>
+				</xs:restriction>
+			</xs:simpleType>
+			<xs:simpleType>
+				<xs:restriction base="xs:boolean">
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:union>
+	</xs:simpleType>
+	<xs:simpleType name="TeilnahmeanzahlTyp">
+		<xs:union>
+			<xs:simpleType>
+				<xs:restriction base="xs:string">
+					<xs:length value="0"/>
+				</xs:restriction>
+			</xs:simpleType>
+			<xs:simpleType>
+				<xs:restriction base="xs:integer">
+					<xs:minInclusive value="1"/>
+					<xs:maxInclusive value="200"/>
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:union>
+	</xs:simpleType>
+	<xs:simpleType name="StudienleistungTyp">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Referat"/>
+			<xs:enumeration value="Praktikum"/>
+			<xs:enumeration value="Test"/>
+			<xs:enumeration value="Übung"/>
+			<xs:enumeration value="(Flexibel)"/>
+			<xs:enumeration value=""/>
+
+			<xs:enumeration value="Presentation"/>
+			<xs:enumeration value="Practical Training"/>
+			<xs:enumeration value="Test"/>
+			<xs:enumeration value="Exercise"/>
+			<xs:enumeration value="(Flexible)"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<xs:element name="html"/>
+
+</xs:schema>

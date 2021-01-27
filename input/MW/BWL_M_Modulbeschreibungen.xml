@@ -1,0 +1,2137 @@
+<Modulbeschreibungen>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Analyse und Konzepte ökonomischen Denkens</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>AKÖD</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Analysis and concepts of economical behaviour</M_Modulname_englisch>
+         <M_Modulverantwortliche>Hardkop, Barbara Dipl.-Vw; Dierks, Leef, Prof. Dr. </M_Modulverantwortliche>
+         <M_Fachbereich>Maschinenbau und Wirtschaft</M_Fachbereich>
+         <M_Studiengang>Betriebswirtschaftslehre, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch/Englisch</M_Lehrsprache>
+         <M_Pruefsprache/>
+         <M_Bewertungssystem_PL/>
+         <M_Pruefungsleistung/>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse/>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit>
+            <html>
+               <body>
+                  <p>Methoden der Markt- und Branchenanalysen</p>
+               </body>
+            </html>
+         </M_Verwendbarkeit>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Seminar Empirische Forschungsmethoden</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>SemEF</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Methods of Empirical Research</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>2.5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>2</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>75</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>30</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>45</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache>Deutsch</L1_Pruefsprache>
+            <L1_Pruefungsleistung>Studienarbeit</L1_Pruefungsleistung>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL>Drittelnoten</L1_Bewertungssystem_PL>
+            <L1_Studienleistung>Referat</L1_Studienleistung>
+            <L1_Dauer_SL_in_Minuten>20</L1_Dauer_SL_in_Minuten>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <ul>
+                        <li>Entwicklung eines Fragebogens</li>
+                        <li>Quantitative und qualitative Datenanalyse (deskriptiv)</li>
+                        <li>Quantitative und qualitative Datenanalyse (induktiv)</li>
+                     </ul>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse>
+               <html>
+                  <body>
+                     <p>
+                        <b>Fachkompetenz:</b>
+                     </p>
+                     <p>Die Studierenden sind in der Lage, mit Hilfe adäquater quantitativer Methoden Informationen über den relevanten Markt zu generieren. </p>
+                     <p>
+                        <b>Methodenkompetenz:</b>
+                     </p>
+                     <p>Sie können durch Gestaltung eines fundierten Fragebogens eine repräsentative Erhebung durchführen und anschließend durch Anwendung induktiver statistischer Methoden Schlüsse auf die interessierende Grundgesamt ziehen. </p>
+                     <p>
+                        <b>Sozialkompetenz:</b>
+                     </p>
+                     <p>Die Studierenden sind in der Lage, angewandte Forschungsmethoden gegenüber Gesprächspartnern plausibel und hinreichend überzeugend zu erläutern. </p>
+                     <p>
+                        <b>Selbstkompetenz:</b>
+                     </p>
+                     <p>Ihre Fach- und Methodenkompetenz ermöglicht es den Studierenden, die Anwendung von quantitativen und qualitativen Forschungsmethoden selbstbewusst vorzutragen und zu verteidigen.</p>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lernergebnisse>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Raab-Steiner, Benesch, Der Fragebogen – von der Forschungsidee zur SPSS-Auswertung, UTB, aktuelle Auflage;</p>
+                     <p>Eckstein, Statistik für Wirtschaftswissenschaftler, Eine realdatenbasierte Einführung mit SPSS, SpringerGabler, aktuelle Auflage;</p>
+                     <p>Backhaus, Multivariate Analysemethoden, SpringerGabler, aktuelle Auflage.</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Behavioural Economics</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel>BE</L2_Stundenplankuerzel>
+            <L2_Lehrveranstaltungsart>Vorlesung</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Präsenz</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch>Behavioural Economics</L2_Lehrveranstaltungsname_englisch>
+            <L2_ECTS_Leistungspunkte>2.5</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>2</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>75</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>30</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>45</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht/>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache>Englisch</L2_Lehrsprache>
+            <L2_Pruefsprache>Englisch</L2_Pruefsprache>
+            <L2_Pruefungsleistung>Klausur</L2_Pruefungsleistung>
+            <L2_Dauer_PL_in_Minuten>60</L2_Dauer_PL_in_Minuten>
+            <L2_Bewertungssystem_PL>Drittelnoten</L2_Bewertungssystem_PL>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>This lecture will impart detailed knowledge regarding the analyses and assessments of decision-making under uncertainty. In an attempt to portray a more realistic image of human behaviour, special emphasis will be placed on potential anomalies, which lead to the concept of rationality (and thus the homo oeconomicus) eventually being replaced by the concept of bounded rationality (and thus the homo oeconomicus humanus). Based on several practical experiments and examples, students will discuss the role of heuristics within decision-making.</p>
+                     <p/>
+                     <ol>
+                        <li>Fundamentals of Behavioural Economics</li>
+                        <li>Rationality versus Bounded Rationality</li>
+                        <li>Anomalies in Human Behaviour</li>
+                        <li>Heuristics</li>
+                        <li>Prospect Theory</li>
+                     </ol>
+                     <p/>
+                     <p/>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse>
+               <html>
+                  <body>
+                     <p>Leaving behind the myth of the homo oeconomicus, students will be enabled to correctly understand, assess, apply and interpret contemporary concepts of decision-making under uncertainty. Special emphasis will be placed on anomalies in human behaviour and the role of heuristics.</p>
+                  </body>
+               </html>
+            </L2_Lernergebnisse>
+            <L2_Literatur>
+               <html>
+                  <body>
+                     <p>Beck, H. (2014), <i>Behavioral</i>
+                        <i> Economics</i>, SpringerGabler</p>
+                     <p/>
+                     <p>Daxhammer, Facsar, (2018), <i>Behavioral Finance</i>, 2nd edition, utb</p>
+                     <p/>
+                     <p>Samson, A. (Ed.) (2018), <i>The Behavioral Economics Guide 2018</i>, retrieved from http://www.behavioraleconomics.com</p>
+                     <p/>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Contemporary Issues of Euro area Monetary Policy</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>CIMP</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Dierks, Leef H., Prof. Dr. </M_Modulverantwortliche>
+         <M_Fachbereich>Mechanical Engineering and Business Administration</M_Fachbereich>
+         <M_Studiengang>Business Administration, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Compulsory</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>English</M_Lehrsprache>
+         <M_Pruefsprache>English</M_Pruefsprache>
+         <M_Bewertungssystem_PL>One-third Grades</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Written Exam</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>120</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p> Students develop an understanding of the functioning of (European) monetary policy and can independently analyse international monetary and capital markets in order to make well-founded business investment and financing decisions. Further, students will be able to make use of a quantitative and qualitative toolkit to assess current developments in (Euro area) financial markets as well as their implications for business practice.</p>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen>
+            <html>
+               <body>
+                  <p>B.Sc. in Business Administration / Economics</p>
+               </body>
+            </html>
+         </M_Teilnahmevoraussetzungen>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Contemporary Issues of Euro area Monetary Policy</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>CIMP</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Lecture</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>English</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <ol>
+                        <li>Monetary Theory </li>
+                        <li>(European) Monetary Policy</li>
+                     </ol>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Belke, A., Polleit, T. (2010), Monetary Economics in Globalised Financial Markets, Springer, Heidelberg</p>
+                     <p/>
+                     <p>Dierks, L. (2016), Eine Taylor-Regel für die Eurozone, WiSt, 11, November, pgs. 606-609</p>
+                     <p/>
+                     <p>Dierks, L. (2016), Helikopter-Geld für die Eurozone – Die Ultima Ratio der Geldpolitik? www.oekonomenstimme.org</p>
+                     <p/>
+                     <p>Dierks, L. (2015), Die US-Zinswende – Beginn eines neuen Zinszyklus? www.oekonomenstimme.org</p>
+                     <p></p>
+                     <p>European Central Bank (2011), The Monetary Policy of the ECB, 3rd edition, Frankfurt</p>
+                     <p/>
+                     <p>Fabozzi, F. J., Mann, S. V. (2012), Handbook of Fixed Income Markets, 8th edition, McGraw-Hill §  </p>
+                     <p/>
+                     <p>Illing, G. (1997), Theorie der Geldpolitik, Springer, Berlin § Issing, O. (2011), Einführung in die Geldtheorie, 15th edition, Vahlen, München</p>
+                     <p/>
+                     <p>Jarchow, H.-J. (2009), Grundriss der Geldpolitik, 9th edition, Lucius &amp; Lucius, Stuttgart </p>
+                     <p/>
+                     <p>Jarchow, H.-J. (2012), Grundriss der Geldtheorie, 12th edition, Lucius &amp; Lucius, Stuttgart</p>
+                     <p/>
+                     <p>Kokkola, T. (2010), The payment system: payments, securities and derivatives, and the role of the Eurosystem, ECB, Frankfurt</p>
+                     <p/>
+                     <p>Mishkin, F. (2012), The Economics of Money, Banking, and Financial Markets, 10th edition, Pearson</p>
+                     <p/>
+                     <p>Shapiro, A. C., Moles, P., (2014), International Financial Management, Wiley, Chichester </p>
+                     <p/>
+                     <p>Walsh, C.E. (2010), Monetary Theory and Policy, 3rd edition, MIT Press, Cambridge</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Märkte und Marktstrategien</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel/>
+         <M_Modulname_englisch>Markets and Marketing Strategies</M_Modulname_englisch>
+         <M_Modulverantwortliche>Cabos, Karen, Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Maschinenbau und Wirtschaft</M_Fachbereich>
+         <M_Studiengang>Betriebswirtschaftslehre, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Klausur</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>90</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p> Die Absolventinnen und Absolventen erwerben Kompetenzen zur Bearbeitung der Herausforderungen, die mit der strategischen Positionierung von Unternehmen, deren Produkten und Preisen verbunden sind. Auf Basis der Analyse unterschiedlicher Marktformen werden die Studierenden befähigt, solche marktorientierten Unternehmensentscheidungen eigenverantwortlich vorzubereiten und zu steuern. Unter Berücksichtigung der wirtschaftlichen und gesellschaftlichen Rahmenbedingungen sind sie darüber hinaus in der Lage, forschungsorientierte Aufgaben zu formulieren und zu bearbeiten und können sich dazu erforderliche Kenntnisse auch eigenständig erschließen.</p>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen>
+            <html>
+               <body>
+                  <p>Keine</p>
+               </body>
+            </html>
+         </M_Teilnahmevoraussetzungen>
+         <M_GD_Geschlechtergerechte_Sprache/>
+         <M_GD_Anpassung_Didaktik/>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit>
+            <html>
+               <body>
+                  <p>Markt-und Branchenanalysen,  Fallstudien, Forschungsprojekte</p>
+               </body>
+            </html>
+         </M_Verwendbarkeit>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Märkte und Marktstrategien</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel/>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Markets and Marketing Strategies</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Es werden Verfahren und Konzepte der Markt- und Positionierungsanalyse vorgestellt, analysiert und erprobt. Besondere Schwerpunkte liegen dabei auf dem Zusammenspiel von Marktform und Marketingstrategie, sowie dem Kundennutzen als zentraler Zielgröße des Marketing.</p>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Allen, Doherty, Weigelt, Mansfield: Managerial Economics, aktuelle Auflage (Norton)</p>
+                     <p>Backhaus, Erichson, Plinke, Weiber: Multivariate Analysemethoden, aktuelle Auflage (Springer)</p>
+                     <p>Dolan, Gourville, Pricing Strategy, Harvard Business Publishing, 2014</p>
+                     <p>Griffiths, Alan/ Wall, Stuart: Economics for Business and Management, aktuelle Auflage (Prentice Hall)</p>
+                     <p>Gupta, Creating Customer Value, Harvard Business Publishing, 2014.</p>
+                     <p>Hooley, Piercy, Nicoulaud, Marketing Strategy and Competitive Positioning, aktuelle Auflage (Prentice Hall)</p>
+                     <p>Pindyk, Robert/ Rubinfeld, Daniel: Mikroökonomie, aktuelle Auflage (Pearson) </p>
+                     <p>Porter, Competitive Strategy, Free Press 2004</p>
+                     <p>Simon, Hermann/ Fassnacht, Martin, Preismanagement, aktuelle Auflage (Gabler)</p>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Operations Management</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel/>
+         <M_Modulname_englisch>Operations Management</M_Modulname_englisch>
+         <M_Modulverantwortliche>Rainer Lehmann; Prof. Dr. rer. pol. Dipl.-Ing. oec.</M_Modulverantwortliche>
+         <M_Fachbereich>Maschinenbau und Wirtschaft</M_Fachbereich>
+         <M_Studiengang>Betriebswirtschaftslehre, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Klausur</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>120</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Die Lehrveranstaltung befähigt Studierende: </p>
+                  <ul>
+                     <li>Strategische und operative Operations Management-Entscheidungen in einem Unternehmen vorzubereiten bzw. mitzugestalten</li>
+                     <li>Die wesentlichen Instrumente und Konzepte des Operations  Managements zu kennen und anwenden zu können.</li>
+                  </ul>
+                  <p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik/>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Operations Management</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel/>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Operations Management</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL>Drittelnoten</L1_Bewertungssystem_SL>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <ul>
+                        <li>Einführung</li>
+                        <li>Nachfrageprognose</li>
+                        <li>Standortplanung</li>
+                        <li>Prozessdesign</li>
+                        <li>Bestandsmanagement</li>
+                        <li>Produktions- und Ablaufplanung</li>
+                        <li>Revenue Management </li>
+                     </ul>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Corsten, H.; Gössinger, R.: Produktionswirtschaft. Oldenbourg: München und Wien 2016</p>
+                     <p>Gaitanides, M.: Prozessorganisation. München: Vahlen 2012</p>
+                     <p>Günther, H.-O.; Tempelmeier, H.: Produktion und Logistik. Springer: Berlin/Heidelberg: 2012</p>
+                     <p>Heizer, J.: Render; B. Operations Management. Boston et al.: Pearson: 2015</p>
+                     <p>Mertens. P.; Rässler, S. (Hg.): Prognoserechnung. Springer: Berlin/Heidelberg: 2012</p>
+                     <p>Thonemann, U.: Operations Management. Pearson: München  2015</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Strategisches Controlling</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>StrCon</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Strategic Controlling</M_Modulname_englisch>
+         <M_Modulverantwortliche>Balke, Nils, Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Maschinenbau und Wirtschaft</M_Fachbereich>
+         <M_Studiengang>Betriebswirtschaftslehre, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Klausur</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>120</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Verständnis für wesentliche Einflussgrößen für die wertorientierte Strategiefindung sowie die Fähigkeit diese in strategische Planungs- und Steuerungssysteme einzubinden </p>
+                  <p>Verständnis von übergreifenden Projekten im strategischen Controlling, insbesondere innerhalb der Planungs-, Transaktions- und Integrations-phase von Mergers &amp; Akquisitions-Projekten </p>
+                  <p>Fähigkeit, Unternehmensbewertungen mittels aktueller Bewertungsverfahren durchzuführen und so Strategien quantitativ zu bewerten</p>
+                  <p>Fähigkeit, wertorientierte Steuerungssysteme in Unternehmen einzusetzen und mit strategischen Maßnahmen zu verknüpfen</p>
+                  <p>Fähigkeit, Chancen und Risiken in strategischen Projekte zu erkennen und zu bewerten</p>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen>
+            <html>
+               <body>
+                  <p>BWL Bachelor</p>
+               </body>
+            </html>
+         </M_Teilnahmevoraussetzungen>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Strategisches Controlling</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>StrCon</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Strategic Controlling</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL>Drittelnoten</L1_Bewertungssystem_SL>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>
+                        <b>Strategische Planung</b>
+                     </p>
+                     <ul>
+                        <li>Instrumente der strategischen Planung</li>
+                        <li>Einflussgrößen auf strategische Entscheidungen</li>
+                        <li>Analyse von „Standard-Strategien“</li>
+                     </ul>
+                     <p>
+                        <b>Strategische Kontroll-/Steuerungssysteme</b>
+                     </p>
+                     <ul>
+                        <li>Elemente von strategischen Kontrollsystemen</li>
+                        <li>Strategische Frühaufklärung (Indikatorbasierte Systeme, Auswertung schwacher Signale)</li>
+                        <li>Performance Measurement Systeme als Bindeglied zwischen strategischer und operativer Planung und Kontrolle</li>
+                     </ul>
+                     <p>
+                        <b>Unternehmensakquisitionen und Unternehmensbewertung</b>
+                     </p>
+                     <ul>
+                        <li>Mergers &amp; Acquisitions: Formen, Prozesse, Motive, Risiken</li>
+                        <li>Unternehmensbewertung: Discounted Cashflow Verfahren (insbesondere WACC/Entity-Ansatz) und Multiple-Analysen</li>
+                        <li>Wesentliche Aspekte der Post Merger Integration</li>
+                        <li>Bewertungsorientiertes M&amp;A-Controlling</li>
+                     </ul>
+                     <p>
+                        <b>Wertorientierte Unternehmensführung</b>
+                     </p>
+                     <ul>
+                        <li>Elemente wertorientierter Strategien und wertorientierter Controllingsysteme</li>
+                        <li>Wertorientierte Kennzahlen: Return on Capital Employed, Economic Value Added, Cashflow Return on Investment, Cash Value Added</li>
+                        <li>Herleitung von Kapitalkosten für einzelne Geschäftsfelder</li>
+                        <li>Lücke Theorem als Bindeglied zwischen Wertkennzahlen und Kapitalwertrechnungen</li>
+                        <li>Wertberichterstattung</li>
+                     </ul>
+                     <p>
+                        <b>Investitionsrechnung unter Unsicherheit</b>
+                     </p>
+                     <ul>
+                        <li>Instrumente: z.B. Sensitvitätsrechnungen, Entscheidungsbaumverfahren</li>
+                        <li>Risikoanalyse</li>
+                     </ul>
+                     <p/>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Ballwieser, W.: Unternehmensbewertung: Prozess, Methoden und Probleme, 5. Auflage, Schäffer-Poeschel, Stuttgart, 2016</p>
+                     <p>Baum, H.-G., Coenenberg, A. G., Günther, T. Strategisches Controlling, 5. Auflage, Schaeffer-Poeschel, Stuttgart, 2013</p>
+                     <p>Britzelmaier, B., Wertorientierte Unternehmensführung, 2. Auflage, kiehl, Baden Baden, 2013</p>
+                     <p>Coenenberg, A. G.; Salfeld, R.: Wertorientierte Unternehmensführung – Vom Strategieentwurf zur Implementierung, 2. Auflage, Schäffer-Poeschel, Stuttgart, 2007</p>
+                     <p>Ernst, D. et al., Internationale Unternehmensbewertung – Ein Praxisleitfaden, Pearson, München, 2012</p>
+                     <p>Ernst, D., Schneider, S., Thielen, B., Unternehmensbewertungen erstellen und verstehen, 6. Auflage, Vahlen, München, 2017</p>
+                     <p>Horvath, P., Controlling, 13. Auflage, Vahlen, München, 2015</p>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Unternehmensplanung</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>UnPl</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Business planning</M_Modulname_englisch>
+         <M_Modulverantwortliche>Klein, Jürgen, Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Maschinenbau und Wirtschaft</M_Fachbereich>
+         <M_Studiengang>Betriebswirtschaftslehre, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Klausur</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>90</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Nach Abschluss dieses Moduls sind die Studierenden in der Lage:</p>
+                  <ul>
+                     <li>eigenständig die Herausforderungen aus dem Bereich Unternehmensplanung zu identifizieren und hinsichtlich ihrer Erfolgswahrscheinlichkeit zu bewerten.</li>
+                     <li>innerhalb einer Gruppe, basierend auf einer Gründungsidee, einen für Fachvertreter und Laien gleichermaßen überzeugenden Businessplan zu erstellen.</li>
+                     <li>die planerischen Herausforderungen eines Unternehmens aus dem Bereich Change Management zu erkennen, einzuschätzen und planerisch umzusetzen. </li>
+                  </ul>
+                  <p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen>
+            <html>
+               <body>
+                  <p>BWL Bachelor</p>
+               </body>
+            </html>
+         </M_Teilnahmevoraussetzungen>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Unternehmensplanung</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>UnPl</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Business Planning</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Einführung (Definition, Aufgaben …), Wesentliche Teilplanungen im Rahmen der Unternehmensplanung (Strategische Planung, Finanzplanung, Businessplan …), Planspiele / Praxisseminare.</p>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Ehrmann, H.: Unternehmensplanung, Kiehl, Ludwigshafen (Rhein), 2007</p>
+                     <p>Klandt, H.: Gründungsmanagement: Der integrierte Unternehmensplan. 2. Aufl. Oldenbourg: Oldenbourg. 2006</p>
+                     <p>Ries, E.: The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses. London: Penguin Books. 2017.</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Fallstudien zu Controlling, Finanzierung, Marketing</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>FS</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Case Studies on Controlling, Finance, Marketing</M_Modulname_englisch>
+         <M_Modulverantwortliche>Prill, Marc-Andreas, Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Maschinenbau und Wirtschaft</M_Fachbereich>
+         <M_Studiengang>Betriebswirtschaftslehre, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>6</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>144</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SoSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Projektarbeit</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Die Studierenden</p>
+                  <ul>
+                     <li>vertiefen anwendungsorientiert vorher erworbener Kenntnisse der ersten beiden Semester in den Fächern Strategisches Controlling, Kapitalmarkt und Finanzierung sowie Märkte und Strategien;</li>
+                     <li>schulen die Fähigkeit, erlerntes Wissen unter Anleitung zur Bearbeitung eines umfangreichen Praxisbeispiels einzusetzen;</li>
+                     <li>praktizieren die Aufbereitung und adressatengerechte Präsentation von Arbeitsergebnissen.</li>
+                  </ul>
+                  <p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Fallstudien zu Controlling, Finanzierung, Marketing</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>FS</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Seminar</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Online betreut mit Präsenzphase</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Case Studies on Controlling, Finance, Marketing</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>6</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>144</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache/>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Es werden im Semesterverlauf drei ausgewählte umfangreiche Fallstudien mit aktuellem Praxisbezug bearbeitet und analysiert.</p>
+                     <p>Die konkreten Themen der Fallstudien werden zu Beginn des Semesters von den verantwortlichen Dozent/innen bekannt gegeben.</p>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse>
+               <html>
+                  <body>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lernergebnisse>
+            <L1_Literatur/>
+            <L1_Teilnahmevoraussetzungen>
+               <html>
+                  <body>
+                     <p>Andere Module, Lehrveranstaltungen, Vorkenntnisse usw.</p>
+                  </body>
+               </html>
+            </L1_Teilnahmevoraussetzungen>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen>
+               <html>
+                  <body>
+                     <p>Das arithmetische Mittel der drei unabhängig voneinander benoteten Fallstudien ergibt die Gesamtnote des Seminars.</p>
+                  </body>
+               </html>
+            </L1_Bemerkungen>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Forschungsprojekte</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>FP</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Research Projects</M_Modulname_englisch>
+         <M_Modulverantwortliche>Prill, Marc-Andreas, Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Maschinenbau und Wirtschaft</M_Fachbereich>
+         <M_Studiengang>Betriebswirtschaftslehre, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden/>
+         <M_Selbststudiumsstunden>150</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>2</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SoSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Portfolio-Prüfung</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Die Studierenden werden durch diese Veranstaltung in die Lage versetzt,</p>
+                  <ul>
+                     <li>den wissenschaftlichen und Forschungsstand in den relevanten Forschungs- und Themenfeldern kennen,</li>
+                     <li>selbständig wissenschaftliche Erkenntnisse zu erarbeiten,</li>
+                     <li>die persönlichen Kompetenzen in der wissenschaftlichen Arbeit zu erweitern und zu vertiefen.</li>
+                  </ul>
+                  <p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen>
+            <html>
+               <body>
+                  <p/>
+               </body>
+            </html>
+         </M_Bemerkungen>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Forschungsprojekte</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>FP</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Seminar</L1_Lehrveranstaltungsart>
+            <L1_Lernform/>
+            <L1_Lehrveranstaltungsname_englisch>Research Projects</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden/>
+            <L1_Selbststudiumsstunden>150</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Die Studierenden arbeiten unter Betreuung und seminaristischer Anleitung selbständig an aktuellen (vorgegebenen) wissenschaftlichen Forschungsprojekten in den thematischen Schwerpunkten der BWL. </p>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Aktuelle Quellen und Forschungsergebnisse zu den bearbeiteten Themen.</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen>
+               <html>
+                  <body>
+                     <p>Die Prüfungsleistung besteht aus Projektarbeit UND Prüfungsvortrag (30 Min.) am Ende des 2. Modulsemesters (3. Fachsemester). Als Themensteller fungieren diverse Lehrpersonen. Die obigen Angaben zu ECTS-Punkten, SWS und Workload gelten jeweils für das 2. und 3. Semester.</p>
+                  </body>
+               </html>
+            </L1_Bemerkungen>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Human Resources Management und Wirtschaftspsychologie</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>HRW</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Human Resources Management and Business Psychology</M_Modulname_englisch>
+         <M_Modulverantwortliche>Ladwig, Désirée H. Prof. Dr.; Beer, Sonja Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Maschinenbau und Wirtschaft</M_Fachbereich>
+         <M_Studiengang>Betriebswirtschaftslehre, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SoSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch/Englisch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch/Englisch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Klausur</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>120</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Bei der Gestaltung erfolgreicher Prozesse in Führung, Management und Beratung ist die Einbeziehung des Menschen als Persönlichkeit, als Teil einer Gruppe und Organisation von erheblicher Bedeutung. Die Lehrveranstaltung vermittelt einen Überblick über Bereiche, Prozesse und Methoden der Wirtschaftspsychologie. Dieses Wissen wird neben Erkenntnissen der aktuellen Führungs- und Personalforschung auf ausgewählte Handlungsfelder des HRM angewendet.</p>
+                  <p/>
+                  <p>Damit werden Voraussetzungen für die Teilnehmenden geschaffen zur:</p>
+                  <ul>
+                     <li>bewussten Gestaltung von Personal- und Führungsarbeit </li>
+                     <li>Berücksichtigung psychologischer Prozesse bei Unternehmensentscheidungen</li>
+                     <li>Berücksichtigung internationaler und interkultureller Aspekte</li>
+                  </ul>
+                  <p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen>
+            <html>
+               <body>
+                  <p>Grundlagen Personalmanagement</p>
+               </body>
+            </html>
+         </M_Teilnahmevoraussetzungen>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen>
+            <html>
+               <body>
+                  <p>In der Vorlesung wird ein Überblick über wirtschaftspsychologische Bereiche und Ansätze gegeben a) und vertiefend aktuelle Aspekte und Tools eines internationalen b) Human Resource Management diskutiert.</p>
+               </body>
+            </html>
+         </M_Bemerkungen>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Human Resources Management</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>HRW Ladwig</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Human Resources Management</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>2.5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>2</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>75</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>30</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>45</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch/Englisch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Personalführung im internationalen Kontext </p>
+                     <ul>
+                        <li>Internationale Joint Ventures und Allianzen</li>
+                        <li>Markteintrittsstrategien</li>
+                        <li>Auswahl von internationalen Führungskräften</li>
+                        <li>Auslandsentsendung, Reintegration und Internationale Karrierekonzepte</li>
+                        <li>Vergütung und Steuern von Expatriats</li>
+                        <li>Trends: Komplexität, Vernetzung, Arbeit 4.0, Informationsverarbeitungskapazitäten, transformationale Führung, moderierende Führung</li>
+                     </ul>
+                     <p>Organisationsmanagement im internationalen Kontext</p>
+                     <ul>
+                        <li>Organisationstheorien</li>
+                        <li>Moderne Organisationsdesigns (Design Thinking etc.)</li>
+                        <li>Organisationskultur als Führungsinstrument</li>
+                        <li>Intervention und Evaluation in Organisationen</li>
+                        <li>Kommunikation und Konflikte auf Organisationsebene</li>
+                        <li>Change Management</li>
+                        <li>Agile Organisationen, SCRUM, Netzwerkansätze</li>
+                        <li>Interkulturelle Kommunikation und Zusammenarbeit</li>
+                        <li>Remote Leadership, virtuelle Führung</li>
+                     </ul>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <ul>
+                        <li>Peter Dowling, Marion Festing, Allen D. Engle: International Human Resource Management, 7.th ed., London 2017</li>
+                     </ul>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Wirtschaftspsychologie</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel>HRW Beer</L2_Stundenplankuerzel>
+            <L2_Lehrveranstaltungsart>Vorlesung</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Präsenz</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch>Business Psychology</L2_Lehrveranstaltungsname_englisch>
+            <L2_ECTS_Leistungspunkte>2.5</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>2</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>75</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>30</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>45</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht/>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache>Deutsch</L2_Lehrsprache>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Gegenstand und Perspektive der Wirtschaftspsychologie</p>
+                     <ul>
+                        <li>Psychologie als angewandte Wissenschaft</li>
+                     </ul>
+                     <p>Sozialpsychologie</p>
+                     <ul>
+                        <li>Sozialpsychologische Phänomene</li>
+                        <li>Teamentwicklung</li>
+                     </ul>
+                     <p>Arbeits- und Organisationspsychologie</p>
+                     <ul>
+                        <li>Arbeitsmotivation + Arbeitszufriedenheit  </li>
+                        <li>Arbeitsbelastung und Stress</li>
+                        <li>Sozialisation und Commitment</li>
+                     </ul>
+                     <p>Persönlichkeitspsychologie</p>
+                     <ul>
+                        <li>Moderne Methoden der Personalauswahl – Personalentwicklung - Eignungsdiagnostik</li>
+                     </ul>
+                     <p>Lernpsychologie</p>
+                     <p>Kommunikationspsychologie</p>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse/>
+            <L2_Literatur>
+               <html>
+                  <body>
+                     <ul>
+                        <li>Heinz Schuler, Uwe P. Kanning (Hrsg.) Lehrbuch der Personalpsychologie. Hogrefe Verlag, Göttingen 2014</li>
+                        <li>Lutz v. Rosenstiel, Friedemann W. Nerdinger: Grundlagen der Organisationspsychologie, Schaeffer Poeschel Verlag, 7. Überarbeitete Auflage, 2011</li>
+                        <li>Lioba Werth: Psychologie für die Wirtschaft, Spektrum Akademischer Verlag, Heidelberg 2009</li>
+                        <li>Klaus Jonas, Wolfgang Stroebe: Sozialpsychologie, Springer Verlag  2014</li>
+                     </ul>
+                     <p/>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Information Management</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>INFMAN</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Information Management</M_Modulname_englisch>
+         <M_Modulverantwortliche>Romeyke, Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Maschinenbau und Wirtschaft</M_Fachbereich>
+         <M_Studiengang>Betriebswirtschaftslehre, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SoSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Projektarbeit</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Die Studierenden können das Statistikpaket R zur Analyse großer Mengen betriebswirtschaftlicher Daten einsetzen. Sie sind weiterhin in der Lage, die im Rahmen einer neuen Analyse auftretenden Probleme zielgerichtet durch Recherchen auf geeigneten Plattformen zu lösen.</p>
+                  <p>Sie können wissenschaftliche Texte unter Verwendung des Textsatzsystems LaTeX so schreiben, dass Layout-Vorgaben automatisiert unterstützt werden.</p>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen>
+            <html>
+               <body>
+                  <p>-</p>
+               </body>
+            </html>
+         </M_Teilnahmevoraussetzungen>
+         <M_GD_Geschlechtergerechte_Sprache/>
+         <M_GD_Anpassung_Didaktik/>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit>
+            <html>
+               <body>
+                  <p>Forschungsprojekte, Masterarbeit</p>
+               </body>
+            </html>
+         </M_Verwendbarkeit>
+         <M_Bemerkungen>
+            <html>
+               <body>
+                  <p>Die Studierenden lernen die Nutzung plattformneutraler Produkte zur Gestaltung der jeweils betrieblich optimalen Lösung.</p>
+               </body>
+            </html>
+         </M_Bemerkungen>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Information Management
+            </L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>InfMan</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Information Management
+            </L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <ul>
+                        <li>Nutzung von SQL-Befehlen zur Extraktion relevanter Daten</li>
+                        <li>Import von Daten in R</li>
+                        <li>Analyse von Daten in R</li>
+                        <li>Aufbereitung von Ergebnissen in Tabellenform</li>
+                        <li>Aufbereitung von Ergebnissen in Diagrammform</li>
+                        <li>Automatisierte Übernahme von Ergebnissen in einen wissenschaftlichen Text mit Hilfe von LaTeX.</li>
+                     </ul>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse>
+               <html>
+                  <body>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lernergebnisse>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Laudon, Laudon, Schoder: Wirtschaftsinformatik, Pearson</p>
+                     <p>Abts, Mülder: Grundkurs Wirtschaftsinformatik, Vieweg</p>
+                     <p>Wickham, R for Data Science: Import, Tidy, Transform, Visualize, and Model Data, https://www.tidyverse.org</p>
+                     <p>Aktuelle Links zu weiteren Quellen jeweils im Moodlesystem</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Nachhaltigkeitsmanagement</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>NMg</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Sustainability Management</M_Modulname_englisch>
+         <M_Modulverantwortliche>Prill, Marc-Andreas, Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Maschinenbau und Wirtschaft</M_Fachbereich>
+         <M_Studiengang>Betriebswirtschaftslehre, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SoSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Klausur</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>120</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Die Studierenden…</p>
+                  <ul>
+                     <li>verfügen über ein grundlegendes Verständnis von Nachhaltigkeit und Nachhaltigkeitsmanagement als Querschnittsdisziplin,</li>
+                     <li>sind sich nachhaltigkeitsbezogener Herausforderungen für Unternehmen bewusst,</li>
+                     <li>verstehen die wesentlichen Prinzipien, Konzepte und Modelle der Nachhaltigkeit,</li>
+                     <li>sind imstande, nachhaltigkeitsrelevante Einflussfaktoren systematisch zu erfassen und zu analysieren,</li>
+                     <li>haben einen Überblick über die bedeutendsten Instrumente des Nachhaltigkeitscontrollings und wissen, welche dieser Instrumente sich für welche Aufgaben und Einsatzbereiche eignen,</li>
+                     <li>wissen, mit welchen Konzepten, Methoden und Instrumenten sich jede Phase des Produktlebenszyklus nachhaltiger ausrichten lässt,</li>
+                     <li>kennen den Stellenwert von Nachhaltigkeit zur Steigerung von Mitarbeiterbindung und -motivation sowie gesellschaftlicher Reputation,</li>
+                     <li>sind mit Ansätzen und Modellen nachhaltiger Unternehmensführung und deren fallspezifischer Anwendung vertraut.</li>
+                  </ul>
+                  <p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Nachhaltigkeitsmanagement</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>NMg</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Sustainability Management</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache/>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <ul>
+                        <li>Grundlagen der Nachhaltigkeit</li>
+                        <li>Nachhaltige Unternehmensführung und Strategie</li>
+                        <li>Nachhaltigkeitscontrolling</li>
+                        <li>Nachhaltige Produktion</li>
+                        <li>Nachhaltiges Innovationsmanagement</li>
+                        <li>Nachhaltiges Personalmanagement und gesellschaftliche Verantwortung</li>
+                     </ul>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Braungart, M.; McDonough, W.: Intelligente Verschwendung, oekom, aktuelle Auflage.</p>
+                     <p>Colsman, B.: Nachhaltigkeitscontrolling: Strategien, Ziele, Umsetzung, Springer Gabler, aktuelle Auflage.</p>
+                     <p>Engelfried, J.: Nachhaltiges Umweltmanagement, Oldenbourg, aktuelle Auflage.</p>
+                     <p>Pufé, I.: Nachhaltigkeitsmanagement, Carl Hanser, aktueller Auflage.</p>
+                     <p>Remschel, T.: Nachhaltiges Personalmanagement, Grin, aktuelle Auflage.</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Public Services</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>PS</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Dierks, Leef H., Prof. Dr. </M_Modulverantwortliche>
+         <M_Fachbereich>Mechanical Engineering and Business Administration</M_Fachbereich>
+         <M_Studiengang>Business Administration, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Compulsory</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SuSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>English</M_Lehrsprache>
+         <M_Pruefsprache>English</M_Pruefsprache>
+         <M_Bewertungssystem_PL>One-third Grades</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Written Exam</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>120</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>The lecture presents contemporary concepts of a modern public sector. Considering the strict budgetary constraints of modern economies, students will gather a better understanding of public finance, i.e. of the modus operandi of public expenditures and revenues.</p>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen>
+            <html>
+               <body>
+                  <p>B.Sc. in Business Administration / Economics</p>
+               </body>
+            </html>
+         </M_Teilnahmevoraussetzungen>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Public Services</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>PS</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Lecture</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>English</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>1 Introduction to Public Services </p>
+                     <p></p>
+                     <p>2 Public Expenditures </p>
+                     <ul>
+                        <li>Public Goods </li>
+                        <li>Externalities </li>
+                        <li>Political Economy </li>
+                        <li>Cost-Benefit Analysis </li>
+                        <li>Health Care </li>
+                        <li>Social Security </li>
+                     </ul>
+                     <p></p>
+                     <p>3 Public Revenues </p>
+                     <ul>
+                        <li>Principles of Taxation </li>
+                        <li>Theories of Taxation </li>
+                        <li>Taxation and Efficiency </li>
+                        <li>Efficient and Equitable Taxation </li>
+                        <li>Personal Income Taxes </li>
+                        <li>Corporate Taxes </li>
+                        <li>Deficit Finance</li>
+                     </ul>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Blankart, C. B. (2017), Öffentliche Finanzen in der Demokratie, 9th ed., Vahlen, Munich. </p>
+                     <p></p>
+                     <p>Brümmerhoff, D. and T. Büttner (2014), Finanzwissenschaft, 11th ed., De Gruyter Oldenbourg, Berlin. </p>
+                     <p></p>
+                     <p>Gruber, J. (2015), Public Finance and Public Policy, 5th ed., Worth, New York. </p>
+                     <p></p>
+                     <p>Hindriks, J. and G. D. Myles (2013), Intermediate Public Economics, 2nd ed., The MIT Press, Cambridge, MA. </p>
+                     <p></p>
+                     <p>Myles, Gareth D. (2008), Public Economics, Cambridge University Press, Cambridge. </p>
+                     <p></p>
+                     <p>Rainey, Hal G. (2014), Understanding and Managing Public Organizations, 5th ed., John Wiley &amp; Sons, New York. </p>
+                     <p></p>
+                     <p>Rosen, H. S. and T. Gayer (2014), Public Finance, 11th ed., McGraw-Hill, New York. </p>
+                     <p></p>
+                     <p>Varian, Hal R. (2014), Intermediate Microeconomics, 9th ed., W. W. Norton &amp; Company, New York. </p>
+                     <p></p>
+                     <p>Wigger, B. U. (2005), Grundzüge der Finanzwissenschaft, 2nd ed., Springer, Berlin. </p>
+                     <p></p>
+                     <p>Zimmermann, H., Henke, K.-D. and M. Broer (2017), Finanzwissenschaft, 12th ed., Vahlen, Munich.</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Dienstleistungsmanagement</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>DMg</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Service Management</M_Modulname_englisch>
+         <M_Modulverantwortliche>Prill, Marc-Andreas, Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Maschinenbau und Wirtschaft</M_Fachbereich>
+         <M_Studiengang>Betriebswirtschaftslehre, Master</M_Studiengang>
+         <M_Fachsemester>3</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Klausur</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>120</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Die Studierenden erlangen Fähigkeiten und Fertigkeiten in der Methode und im Transfer zur Beurteilung und Lösung spezifischer Aufgabenstellungen im modernen Management von Dienstleistungen.</p>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Dienstleistungsmanagement</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>DMg</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Service Management</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache/>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL>Drittelnoten</L1_Bewertungssystem_SL>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <ul>
+                        <li>Begriffliche Grundlagen des Dienstleistungsmanagements</li>
+                        <li>Methoden und Theorien</li>
+                        <li>Gegenstand und Charakteristika des Managements von Dienstleistungen im Allgemeinen und in ausgewählten Branchen</li>
+                        <li>Informationsgrundlagen des Dienstleistungsmanagements, Dienstleistungsforschung</li>
+                        <li>Strategisches Dienstleistungsmanagement</li>
+                        <li>Operatives Dienstleistungsmanagement</li>
+                        <li>Qualitätsmanagement im Dienstleistungsbereich</li>
+                        <li>Besonderheiten des Managements bilateral personenbezogener Dienstleistungen</li>
+                        <li>Management Internationaler Dienstleistungen</li>
+                        <li>Dienstleistungsimplementierung, Dienstleistungscontrolling</li>
+                     </ul>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Berkowitz, Eric N.: Essentials of Heath Care Marketing, Jones and Bartlet Publishers, aktueller Auflage.</p>
+                     <p>Fließ, Sabine: Dienstleistungsmanagement, Gabler, aktuelle Auflage.</p>
+                     <p>Haller, Sabine: Dienstleistungsmanagement, Gabler, aktuelle Auflage.</p>
+                     <p>Homburg, Christian: Marketingmanagement, Gabler, aktuelle Auflage.</p>
+                     <p>Meffert, Heribert; Bruhn, Manfred: Diensleistungsmarketing, Gabler, aktuelle Auflage.</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>e-Business Management</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>e-BM</M_Stundenplankuerzel>
+         <M_Modulname_englisch>e-Business Management</M_Modulname_englisch>
+         <M_Modulverantwortliche>Prof. Dr. André Köhler</M_Modulverantwortliche>
+         <M_Fachbereich>Maschinenbau und Wirtschaft</M_Fachbereich>
+         <M_Studiengang>Betriebswirtschaftslehre, Master</M_Studiengang>
+         <M_Fachsemester>3</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Klausur</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>120</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Konzepte und Methoden des e-Business- Managements kennen, verstehen, anwenden, analysieren und bewerten zu können.</p>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>e-Business Management</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel/>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform/>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache/>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Einführung in das e-Business</p>
+                     <p/>
+                     <p>E-Business Modellierung</p>
+                     <ul>
+                        <li>Anwendungsfälle</li>
+                        <li>Typologie der Geschäftsmodelle</li>
+                        <li>E-business und Markt</li>
+                        <li>Value chain und supply chain</li>
+                     </ul>
+                     <p/>
+                     <p>E-business analysis and design</p>
+                     <ul>
+                        <li>Geschäftsprozesse</li>
+                        <li>Business Process Modeling</li>
+                        <li>Business data modeling</li>
+                        <li>Internet Applikationen</li>
+                     </ul>
+                     <p/>
+                     <p>E-business Implementation und Management</p>
+                     <ul>
+                        <li>Implementation</li>
+                        <li>Kundensicht</li>
+                        <li>Sicht des Managements</li>
+                        <li>Sicht der IT-Entwicklung</li>
+                     </ul>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Skript e-Business Management der Fachhochschule Lübeck oncampus GmbH</p>
+                     <p>Grundlegende Literatur</p>
+                     <p>Kollmann, Tobias: E-Business: Grundlagen Elektronischer Geschäftsprozesse in der Net Economy, Gabler Verlag; Auflage: 4., überarb. u. erw. Aufl. 2011</p>
+                     <p>Wirtz, Bernd W.: Medien- und Internetmanagement, Gabler Verlag; Auflage: 7, überarb. Aufl. 2011</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Methoden der Markt- und Branchenanalysen</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>MMB</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Methods of Marketing Research</M_Modulname_englisch>
+         <M_Modulverantwortliche>Hardkop, Barbara Dipl.-Vw; Cabos, Karen, Prof. Dr. </M_Modulverantwortliche>
+         <M_Fachbereich>Maschinenbau und Wirtschaft</M_Fachbereich>
+         <M_Studiengang>Betriebswirtschaftslehre, Master</M_Studiengang>
+         <M_Fachsemester>3</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden/>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Klausur</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>120</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>
+                     <b>Fachkompetenz:</b>
+                  </p>
+                  <p>Die Studierenden sind in der Lage, eine Branche mit ihrer Wettbewerbssituation systematisch zu untersuchen und zu beschreiben. Dies befähigt sie dazu, Marketingmaßnahmen zu entwickeln, die sich an dem Unternehmensumfeld orientieren. </p>
+                  <p>
+                     <b>Methodenkompetenz:</b>
+                  </p>
+                  <p>Sie können mithilfe quantitativer Methoden den Markt und die Branche statisch und dynamisch analysieren, indem sie die komplexen Zusammenhänge mit Hilfe multivariater Methoden (Faktoren-, Cluster, Varianz-, Zeitreihenanalyse) abbilden. </p>
+                  <p>
+                     <b>Sozialkompetenz:</b>
+                  </p>
+                  <p>Die Studierenden sind in der Lage, betriebswirtschaftliche Entscheidungen gegenüber Gesprächspartnern plausibel und hinreichend überzeugend zu erläutern. </p>
+                  <p>
+                     <b>Selbstkompetenz:</b>
+                  </p>
+                  <p>Ihre Fach- und Methodenkompetenz ermöglicht es den Studierenden, Vorschläge im unternehmerischen Handeln selbstbewusst vorzutragen und zu verteidigen. </p>
+                  <p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Markt- und Branchenanalysen</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>MMB</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Methods of Marketing Research</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden/>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <ul>
+                        <li>Qualitative und quantitative Analysemethoden zur Beurteilung der Wettbewerbssituation in einer Branche (Regressions-, Zeitreihen-, Faktoren-, Cluster-, Varianzanalyse)</li>
+                        <li>Wettbewerbsstrategien im Rahmen der Gewinnmaximierung</li>
+                     </ul>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Backhaus et. al., Multivariate Analysemethoden, SpringerGabler, aktuelle Auflage;</p>
+                     <p>Michael E. Porter, Competitive Strategy, Free Press, aktuelle Auflage.</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Steuerung und Management</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>SteuMan</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Management Skills</M_Modulname_englisch>
+         <M_Modulverantwortliche>Beer, Sonja Dr.; Ladwig, Désirée H. Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Maschinenbau und Wirtschaft</M_Fachbereich>
+         <M_Studiengang>Betriebswirtschaftslehre, Master</M_Studiengang>
+         <M_Fachsemester>3</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Projektarbeit</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>120</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Methodische und theoretische Ansätze zum Gestalten von Beratungs- und Trainingssituationen kennen und anwenden können</p>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen>
+            <html>
+               <body>
+                  <p>Human Resources und Wirtschaftspsychologie</p>
+               </body>
+            </html>
+         </M_Teilnahmevoraussetzungen>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit>
+            <html>
+               <body>
+                  <p/>
+               </body>
+            </html>
+         </M_Verwendbarkeit>
+         <M_Bemerkungen>
+            <html>
+               <body>
+                  <p>Die Seminargestaltung erfolgt in einer Wechselwirkung von theoretischen Modellen sowie Planungs- und praktischen Umsetzungseinheiten</p>
+               </body>
+            </html>
+         </M_Bemerkungen>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Steuerung und Management</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>SteuMan</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Seminar</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Management Skills</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Wissen über methodische Ansätze in Führung und Beratung:</p>
+                     <ul>
+                        <li>Konzeption von Lernprozessen und Trainings</li>
+                        <ul>
+                           <li>Die Rolle des Selbst in Lernprozessen, Grundlagen der Lernpsychologie</li>
+                           <li>Konstruktivismus und konstruktivistische Didaktik</li>
+                        </ul>
+                        <li>Interaktive Formen der Mitarbeiterbeteiligung an Changeprozessen</li>
+                        <ul>
+                           <li>Grundlagen und Methoden der Großgruppenmoderation</li>
+                           <li>Förderung innovativen Denkens</li>
+                        </ul>
+                        <li>Wissenschaftlich fundierte Beratungsansätze und -methoden</li>
+                        <ul>
+                           <li>Personzentrierter Ansatz</li>
+                           <li>Systemischer Ansatz</li>
+                           <li>Kollegiale Beratung</li>
+                        </ul>
+                        <li>Trends in der Entwicklung von Teams und Führungskräften</li>
+                        <li>Ansätze der Erlebnispädagogik</li>
+                        <li>Simulationsmethoden und Outdoor Trainings</li>
+                     </ul>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <ul>
+                        <li>Bernd Weidenmann: Handbuch Active Training. Die besten Methoden für lebendige Seminare. 2. Aufl. Beltz, Weinheim/Basel 2015</li>
+                        <li>Bernd Weidenmann: Handbuch Kreativität. Beltz, Weinheim/Basel 2010</li>
+                        <li>Björn Migge: Handbuch Coaching und Beratung, Beltz Weinheim 2007</li>
+                        <li>Petra Nitschke:  Verlag Managerseminare 2011</li>
+                        <li>Walter Simon: Gabals großer Methodenkoffer „Führung und Zusammenarbeit“, Gabal Offenbach 2009</li>
+                        <li>Klaus Jonas, Wolfgang Stroebe. Miles Hewstone: Sozialpsychologie. 6. Aufl. Springer, Berlin/Heidelberg 2014</li>
+                        <li>Karin Dittrich-Brauner, Eberhard Dittmann u.a.: Interaktive Großgruppen. Change-Prozesse in Organisationen gestalten. 2. Aufl. Springer, Berlin/Heidelberg 2013</li>
+                     </ul>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen>
+               <html>
+                  <body>
+                     <p>Das Ziel des Seminars „Steuerung und Management“ ist die methodische Vorbereitung auf die psychologischen Aspekte leitender Tätigkeiten in Unternehmen. Führung und Management bedeutet immer auch Menschen leiten, Gruppen führen, Lernprozesse anregen und Veränderungsprozesse begleiten. Schwerpunkt ist in diesem Seminar deshalb die Vermittlung von Leitungs- und Beratungsinstrumenten für die Tätigkeit im Coaching, in Trainingseinheiten, Seminaren, in der Teamentwicklung bzw. der Organisationsentwicklung. Die damit verbundene Methodenkompetenz soll im Seminar und den begleitenden Studienarbeiten erkennbar werden. Die Studierenden sollen damit Beratungsangebote in Bezug auf ihren theoretischen Hintergrund einschätzen und den Einsatz von Tools in Trainings, der Beratung oder Entwicklungsarbeit mit theoretischem Hintergrund vornehmen können.</p>
+                  </body>
+               </html>
+            </L1_Bemerkungen>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Wirtschaftsethik und Recht</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>WiEth</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Business Ethics and Law</M_Modulname_englisch>
+         <M_Modulverantwortliche>Beer, Sonja Dr.; Ladwig, Désirée H. Prof. Dr., Wolff, Sabine</M_Modulverantwortliche>
+         <M_Fachbereich>Maschinenbau und Wirtschaft</M_Fachbereich>
+         <M_Studiengang>Betriebswirtschaftslehre, Master</M_Studiengang>
+         <M_Fachsemester>3</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL/>
+         <M_Pruefungsleistung>Klausur</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>120</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Die Kenntnis von wirtschaftsethischen Grundlagen und Erklärungsansätzen, verbindlichem Recht und freiwilligen Leitlinien und die Einordnung von Fallbeispielen im Hinblick auf Nachhaltigkeit, Lebensdienlichkeit und Rechtssicherheit.</p>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen>
+            <html>
+               <body>
+                  <p>BWL Bachelor</p>
+               </body>
+            </html>
+         </M_Teilnahmevoraussetzungen>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen>
+            <html>
+               <body>
+                  <p>Die Diskussion über die Notwendigkeit ethischen Handelns in der Wirtschaft soll aus juristischer und betriebswirtschaftlicher Perspektive praxisorientierte Erklärungsansätze und Entscheidungsgrundlagen im Spannungsfeld von Ökonomie und Ethik liefern. Es werden aktuelle Fallbeispiele bearbeitet, an denen die Nachhaltigkeit und Lebensdienlichkeit von wirtschaftsethischen Konzepten, Strategien und Verhaltensweisen und deren rechtlicher Rahmen diskutiert werden.</p>
+               </body>
+            </html>
+         </M_Bemerkungen>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Wirtschaftsethik</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>WiEth</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Seminar</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>2.5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>2</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>75</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>30</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>45</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <ul>
+                        <li>Grundbegriffe moderner und antiker Ethik</li>
+                        <li>Dimensionen von Gerechtigkeit und Nachhaltigkeit</li>
+                        <li>Micro-, Meso- und Makroebene des ethischen Diskurses und Handelns</li>
+                        <li>Wirtschaftsethik als Ordnungsethik; Almendeproblematik</li>
+                        <li>Wirtschaftskriminalität und organisiertes Verbrechen</li>
+                        <li>Aspekte von Führungsethik</li>
+                     </ul>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <ul>
+                        <li>Homan, K./Lütge, Ch. (Hrsg.) (2013) Einführung in die Wirtschaftsethik, 3. überarb. Auflg, Münster: Lit-Verl.</li>
+                        <li>Dietzfelbinger, D.: Praxisleitfaden Unternehmensethik: Kennzahlen, Instrumente, Handlungsempfehlungen, 2. Aufl. Wiesbadden: Springer Gabler 2015</li>
+                        <li>Maak, T. / Ulrich, P.: Integre Unternehmensführung. Ethisches Orientierungswissen für die Wirtschaftspraxis, 2007</li>
+                        <li>Dietzfelbinger, D.: Aller Anfang ist leicht. Unternehmens- und Wirtschaftsethik für die Praxis. 2004</li>
+                        <li>Grüninger, S. / Fürst, M. u.a. (Hrsg.): Verantwortung in der globalen Ökonomie gestalten. Governanceethik und Wertemanagement. 2011</li>
+                        <li>Kuhn, Thomas; Weibler, Jürgen: Führungsethik in Organisationen, 2012</li>
+                     </ul>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Recht</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel>WiEth</L2_Stundenplankuerzel>
+            <L2_Lehrveranstaltungsart>Seminar</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Präsenz</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte>2.5</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>2</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>75</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>30</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>45</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht/>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache>Deutsch</L2_Lehrsprache>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte>
+               <html>
+                  <body>
+                     <ul>
+                        <li>Internetkriminalität</li>
+                        <li>Deutscher Corporate Governance Kodex</li>
+                        <li>Global Governance und Compliance</li>
+                        <li>Arbeitsrecht. ILO, </li>
+                        <li>UN Global Compact, OECD</li>
+                        <li>Corporate Social Responsibility</li>
+                        <li>Wettbewerbsrecht, Vergaberecht-</li>
+                        <li>Sanktionen, Handelsverbote, Embargo, Ein- und Ausfuhrkontrolle</li>
+                        <li>Umweltschutz</li>
+                        <li>Fallbeispiele</li>
+                     </ul>
+                     <p/>
+                     <p/>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse/>
+            <L2_Literatur>
+               <html>
+                  <body>
+                     <ul>
+                        <li>Walden, D./ Depping, A (Hrsg.) (2015) CSR und Recht, Juristische Aspekte nachhaltiger Unternehmensführung erkennen und verstehen, Wiesbaden: Springer Gabler </li>
+                        <li>Gesetzessammlungen</li>
+                     </ul>
+                     <p/>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+</Modulbeschreibungen>

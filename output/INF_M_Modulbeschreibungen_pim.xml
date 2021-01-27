@@ -1,0 +1,2505 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<europassCredential xmlns="http://data.europa.eu/europass/model/credentials#" xmlns:eup="http://data.europa.eu/europass/model/credentials#" xmlns:ns2="http://uri.etsi.org/01903/v1.3.2#" xmlns:ns3="http://www.w3.org/2000/09/xmldsig#" xmlns:ns4="http://uri.etsi.org/01903/v1.4.1#" xmlns:ns5="http://data.europa.eu/europass/model/credentials#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://data.europa.eu/europass/model/credentials# pim_edci_credential.xsd" id="urn:epass:credential:b576d4a4-c669-458b-ba17-23bd3237e177" xsdVersion="0.4.0">
+  <type uri="http://data.europa.eu/europass/credentialType/learning"/>
+  <issuanceDate>2021-01-21T16:01:34.979+02:00</issuanceDate>
+  <issuer idref="urn:epass:thl:organization:927"/>
+  <title lang="de">Informatik/Softwaretechnik für verteilte Systeme, Master</title>
+  <description>
+    <text content-type="text/plain" lang="de">Dies ist der Studiengang Informatik/Softwaretechnik für verteilte Systeme, Master aus dem Fachbereich Elektrotechnik und Informatik.</text>
+  </description>
+  <credentialSubject id="DUMMY-SUBJECT">
+    <nationalId spatialID="http://publications.europa.eu/resource/authority/country/DEU">DUMMY-NATIONALID</nationalId>
+    <identifier spatialID="http://publications.europa.eu/resource/authority/country/DEU">DUMMY-IDENTIFIER</identifier>
+    <fullName lang="en">DUMMY SUBJECT</fullName>
+    <givenNames lang="en">DUMMY</givenNames>
+    <familyName lang="en">SUBJECT</familyName>
+    <dateOfBirth>2000-10-20Z</dateOfBirth>
+    <achievements/>
+    <activities/>
+    <assessments/>
+    <entitlements/>
+    <awardings/>
+  </credentialSubject>
+  <learningSpecificationReferences>
+    <learningOutcome id="urn:thl:learningoutcome:15557#1">
+      <prefLabel lang="de">Spezielle Themen verteilter Systeme II</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Die Studierenden können über ein aktuelles Thema der verteilter Informatik-Systeme berichten.
+Die Studierenden können eine vorgestellte fortgeschrittene Technologie oder Entwicklung  einordnen, bewerten und auf konkrete Fragestellungen anwenden.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:15540#1">
+      <prefLabel lang="de">Spezielle Themen verteilter Systeme I</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Die Studierenden können über ein aktuelles Thema der verteilter Informatik-Systeme berichten.
+Die Studierenden können eine vorgestellte fortgeschrittene Technologie oder Entwicklung  einordnen, bewerten und auf konkrete Fragestellungen anwenden.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:15523#1">
+      <prefLabel lang="de">Sichere Programmierung</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Nach erfolgreichem Abschluss der Veranstaltung können die Studierenden
+	- Das Vorgehen zum Erstellen von sicheren Programmen erläutern und umsetzen
+	- Programme mit der Programmiersprache Ada entwickeln
+	- C-Programme entsprechen dem MISTRA-C Standard umsetzen
+	- Programme hinsichtlich sicherheitskritischer Programmabschnitte analysieren</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:15506#1">
+      <prefLabel lang="de">Sichere vernetzte Steuerungssysteme</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Nach erfolgreichem Abschluss der Veranstaltung können die Studierenden
+	- die Grundbegriffe der Netzwerksicherheit erklären und im Umfeld der industriellen Steuerung einordnen,
+	- Angriffstechniken strukturieren und mögliche Gegenmaßnahmen benennen,
+	- industrielle Systeme hinsichtlich möglicher Gefährdungen analysieren und bewerten,
+	- Gegenmaßnahmen für industrielle Steuerungssysteme unter Berücksichtigung der Anwendungsfelder bewerten und umsetzen und reaktive und präventive Maßnahmen der IT-Sicherheit in industrielle Steuerungsnetze integrieren.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:15489#1">
+      <prefLabel lang="de">Real-Time Systems</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">After successful completion of this course, the students will have acquired the following competences:
+	- Understanding of requirements specific to real-time systems.
+	- Analysis and design of hard- and software of systems with real-time capabilities.
+	- Modelling and implementation of real-time systems.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:15472#1">
+      <prefLabel lang="de">Mobile Anwendungen</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Die Studierenden kennen typische Anwendungsszenarien und spezielle Anforderungen an mobile Anwendungen.
+Sie sind in der Lage verschiedene Ansätze zur Programmierung mobiler Anwendungen umzusetzen und die Ansätze hinsichtlich ihrer Eignung für spezielle Anwendungskontexte zu beurteilen.
+Die Studierenden kennen aktuelle Trends und Themen mobiler Anwendungen und sind in der Lage diese bei eigenen Projekten zu berücksichtigen.
+Zusätzlich haben die Studierenden ihre Kompetenzen in Problemanalyse, Teamarbeit und Präsentationstechnik verbessert.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:15455#1">
+      <prefLabel lang="de">Mikroprozessor-Design</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Nach erfolgreichem Abschluss der Veranstaltung können die Studierenden
+	- Prozessordesigns vergleichen und bewerten
+	- den RISC-V Prozessor in VHDL umsetzen
+	- Prozessoroptimierungen differenzieren und umsetzen
+	- Probleme und Lösungen eines Pipeline-Prozessors wiedergeben
+	- VHDL Design-Entscheidungen für Mikroprozessoren auswählen und umsetzen</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:15438#1">
+      <prefLabel lang="de">Kryptographie</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Die Studierenden
+	- beherrschen grundlegende sowie fortgeschrittene kryptographische Primitive und Protokolle.
+	- können verschiedene Verschlüsselungsverfahren vergleichend bewerten
+	- können kryptographische Verfahren, wie z.B. Authentisierung, Signatur oder Verschlüsselung, in der Praxis einsetzen.
+	- können bei der Bewertung und Auswahl der Verfahren zukünftige Verfahren der Kryptoanalyse berücksichtigen.
+	- besitzen die Voraussetzungen, um neue Verfahren aus der aktuellen Fachliteratur zu verstehen.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:15421#1">
+      <prefLabel lang="de">Kryptoanalyse</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Die Studierenden
+	- kennen wichtige symmetrische und Public-Key Kryptosysteme.
+	- sind mit der Sicherheitsanalyse solcher Systeme vertraut und können die Sicherheit solcher Verfahren beurteilen.
+	- haben die elementaren mathematischen Analysemethoden durchdrungen und können diese auf verwandte Problemstellungen anwenden.
+	- können einfache Seitenkanalangriffe durchführen.
+	- besitzen die Voraussetzungen, um neue Verfahren aus der aktuellen Fachliteratur zu verstehen.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:15404#1">
+      <prefLabel lang="de">Intelligente verteilte Systeme</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Die Studierenden kennen Grundprinzipien, auf deren Basis eine Gruppe von Agenten Leistungen erbringen kann, die über das Vermögen einzelner Agenten hinausgehen.
+Die Studierenden können Vor- und Nachteile unterschiedlicher Typen der Zusammenarbeit von Agenten beurteilen (insbesondere Arbeitsteilung gegenüber Prozessen der kollektiven Intelligenz).
+Die Studierenden kennen Algorithmen zur Verarbeitung von Informationen, die von (unabhängigen) Agenten gesammelt wurden.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:15387#1">
+      <prefLabel lang="de">Human-Computer Interfaces</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">The students get an overview of the interdisciplinary science of Human-Computer Interaction and its central concepts, definitions, and research areas. They acquire knowledge regarding the foundations of HCI (especially Psychology, Cognitive Sciences, Ergonomics) and learn how to apply this knowledge to the analysis and design of interactive products. They study and analyze different interaction techniques and design principles and learn how to design dialogues for different use contexts. They are familiar with international norms and legal requirements of system engineering and get to know and apply different usability engineering methods.
+Furthermore the students practice scientific work by conducting their own HCI project work on a self-chosen topic throughout the semester (investigation, analysis, realization / implementation, written report, oral presentation).</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:15370#1">
+      <prefLabel lang="de">Hardware-basierte IT-Sicherheit</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Nach erfolgreichem Abschluss der Veranstaltung können die Studierenden:
+	- die Effektivität und Effizienz von hardware-basierten IT-Sicherheitslösungen abschätzen und beurteilen,
+	- Anforderungen zur Bereitstellung von sicherheitsfördernden Fähigkeiten von System-Modulen formulieren,
+	- Anwendungsspezifische Lösungen der Hardware-basierten Sicherheit gestalten,
+	- sichere Hardware-basierten Krypto-Funktionen und Zufallszahlengeneratoren umsetzen und
+	- Lösungen für eine manipulationssichere Hardware entwickeln.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:15353#1">
+      <prefLabel lang="de">Wissenschaftliches Projekt II</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Die im Studium erworbenen Kenntnisse im Bereich verteilter Systeme werden in einem wissenschaftlichen Projekt umgesetzt. Es wird die Fähigkeit gefördert und gefordert, in einer Gruppe ein komplexes Thema in einer kleinen Gruppe zu analysieren, Lösungswege aufzuzeigen, Teilaufgaben zu identifizieren und Teilaufgaben zu realisieren.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:15336#1">
+      <prefLabel lang="de">Sicherheit und Webanwendungen</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Nach der Teilnahme an diesem Modul können die Studierenden
+	- gängige Bedrohungen und Sicherheitsmaßnahmen bei der Entwicklung von Webanwendungen darstellen,
+	- die Grenzen von Sicherheitsmaßnahmen einschätzen
+	- ausgewählte Schutzmaßnahmen zuordnen und anwenden,
+	- Richtlinien zur Stärkung der Sicherheit bei der Entwicklung von Webanwendungen darstellen
+	- Anwendungs- und Entwicklungsszenarien analysieren</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:15319#1">
+      <prefLabel lang="de">Seminar Verteilte Systeme</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Die Studierenden können sich selbstständig in neue Ergebnisse und Techniken für verteilte Systeme einarbeiten und die Inhalte einem Fachpublikum präsentieren.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:15302#1">
+      <prefLabel lang="de">Wissenschaftliches Seminar</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Nach dem erfolgreichen Abschluss des Studienmoduls sind die Studierenden in der Lage,
+	- die Anforderungen an eine wissenschaftliche Arbeit (Regeln, Form, Stil) zu benennen und in ihrer Arbeit anzuwenden.
+	- eine wissenschaftliche Aufgabenstellung zu formulieren und das Themengebiet geeignet abzugrenzen.
+	- einen wissenschaftlichen Text abzufassen.
+	- die Methoden der Präsentation der Arbeitsergebnisse in einem wissenschaftlichen Seminar anzuwenden.
+	- eigene und fremde Arbeiten kritisch zu bewerten und mit Kritik umzugehen.
+	- im Team an wissenschaftlichen Fragestellungen zu arbeiten.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:15285#1">
+      <prefLabel lang="de">Wissenschaftliches Projekt I</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Die im Studium erworbenen Kenntnisse im Bereich verteilter Systeme werden in einem wissenschaftlichen Projekt umgesetzt. Es wird die Fähigkeit gefördert und gefordert, in einer Gruppe ein komplexes Thema in einer kleinen Gruppe zu analysieren, Lösungswege aufzuzeigen, Teilaufgaben zu identifizieren und Teilaufgaben zu realisieren.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:15268#1">
+      <prefLabel lang="de">Verteilte Eingebettete Systeme</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Die Studierenden kennen typische Anwendungsszenarien, die speziellen Anforderungen an verteilte eingebettete Systeme sowie typische Architekturen und Plattformen zur Implementierung dieser Systeme.
+Sie sind in der Lage verschiedene Ansätze zum Entwurf verteilter eingebetteter Systeme im Allgemeinen und für Sensornetzwerke im Speziellen umzusetzen und die Ansätze hinsichtlich ihrer Eignung für spezielle Anwendungskontexte zu beurteilen.
+Die Studierenden kennen aktuelle Trends und Themen verteilter eingebetteter Systeme und sind in der Lage diese bei eigenen Projekten zu berücksichtigen.
+Die Studierenden erarbeiten selbständig eine Implementierung zu einem gegebenen Szenario und dokumentieren und präsentieren dies geeignet.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:15251#1">
+      <prefLabel lang="de">Programmierung verteilter Systeme</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Die Studierenden kennen nach erfolgreichem Abschluss des Moduls grundlegende Programmierkonzepte verteilter Systeme.
+Die Studierenden kennen verschiedene Entwurfsprinzipien für parallele und verteilte Algorithmen.
+Sie sind in der Lage, ausgewählte Prinzipien in einem parallelen und verteilten Algorithmus zu implementieren.
+Die Studierenden sind in der Lage, Kommunikationsstrategien und deren Organisation umzusetzen.
+Sie können Synchronisationsverfahren anwenden und auch durch Replikationsstrategien Anforderungen der Datenkonsistenzkriterien erreichen.
+Die Studierenden kennen die Werkzeuge für die Steuerung und Kontrolle paralleler Prozesse und können diese nutzen.
+Sie kennen die Grenzen der Parallelisierung und können diese im Entwurf abschätzen.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:15234#1">
+      <prefLabel lang="de">Cloud-native Architekturen</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">- Die Studierenden kennen die NIST Definition des Cloud Computing und die CNCF Definition von Cloud-native.
+	- Die Studierenden kennen die CNCF Landscape und nutzen diese (oder vglb. Rahmenwerke) zielgerichtet zur Auswahl, Beurteilung und Entwicklung von Komponenten für Cloud-native Applikationen.
+	- Die Studierenden wenden das IDEAL-Prinzip zielgerichtet zur Entwicklung Cloud-nativer Architekturen an und berücksichtigen dabei die beiden dominanten Cloud-nativen Architekturstile Microservices und Serverless Architectures.
+	- Die Studierenden können elastische und resiliente Ansätze für das Scheduling &amp; Orchestration, die Service Coordination &amp; Service Discovery, das Traffic Management, die Observability &amp; Analysis, das Continuous Integration &amp; Deployment, sowie des Service Provisioning die im Rahmen Cloud-nativer Architekturen eingesetzt werden, einschätzen, abwägen und für eigene Architekturen zielgerichtet einsetzen.
+	- Die Studierenden kennen die Vor- und Nachteile statusloser und statusbehafteter Komponenten vor dem Hintergrund von Skalierbarkeit und Elastizität.
+	- Die Studierenden kennen die Besonderheiten verteilter Systeme, des CAP Theorems, sowie die Prinzipien der Daten-, Event-und Call-basierten Kopplung und nutzen diese zielgerichtet zur Entwicklung entsprechender Cloud-nativer Architekturen.
+	- Die Studierenden sind sich der Gesetzmäßigkeiten des Pay-as-you-go Kostenmodells bewusst und können die oben genannten Ansätze zielgerichtet dazu einsetzen, möglichst Ressourcen-schonende Architekturen für Cloud-native Applikationen und Dienste zu entwerfen.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:15217#1">
+      <prefLabel lang="de">Verteilte Datenbank- und Informationssysteme</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">- Die Studierenden kennen unterschiedliche Datenmodelle, APIs und Anfragesprachen für Datenbanksysteme (DBS) und können je nach Anwendungsfall ein adäquates DBS auswählen.
+	- Die Studierenden können ein verteiltes DBS konfigurieren, in Betrieb nehmen und (insbesondere bezüglich Performance) evaluieren.
+	- Die Studierenden können Komponenten für das Batch- und Stream-Processing differenzieren und einsetzen.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:15200#1">
+      <prefLabel lang="de">Verifikation und Konsistenzmodelle verteilter Systeme</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Die Studierenden kennen grundlegende Probleme paralleler und verteilter Systeme und Methoden zu deren Lösung.
+Die Studierenden kennen verschiedene Methoden zur Modellierung paralleler und verteilter Systeme und können geeignete Formalismen auswählen.
+Die Studierenden können parallele und verteilte Systeme formal modellieren.
+Die Studierenden können Eigenschaften paralleler und verteilter Systeme werkzeugunterstützt verifizieren.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:15183#1">
+      <prefLabel lang="de">Sicherheit verteilter Systeme</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Sicherheit verteilter Systeme (Vorlesung):
+	- Studierende können die Relevanz von aktuellen und zukünftigen Angriffsszenarien auf verteilte Systeme aus der Sicht einer Organisation einschätzen.
+	- Studierende können für eine Organisation eine angemessene Lösung zum Schutz vor Angriffen aus dem Internet ausarbeiten. Angemessen bedeutet hier, dass diese Lösung eine geeignete Abwägung zwischen dem Nutzen durch die Abwehr möglicher Gefahren und dem Aufwand für die Durchführung der Schutzmaßnahmen darstellt.
+	- Studierende können für eine Organisation, deren Mitarbeiter*innen oder Systeme über das Internet miteinander kommunizieren, eine existierende Lösung hinsichtlich der Sicherheitsaspekte (inklusive von Verfügbarkeitsaspekten) bewerten und alternative Lösungen unter Verwendung von bekannten Protokollen entwerfen.
+	- Studierende können evaluieren, ob eine Organisation von den internen Strukturen und Vorgehensweise her gut auf Sicherheitsrisiken eingestellt ist. Hierzu können die Studierenden standardisierte Rahmenwerke für die Analyse einsetzen.
+
+Sicherheit verteilter Systeme (Praktikum):
+Siehe Vorlesung</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:15166#1">
+      <prefLabel lang="de">Digital Impact</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Die Studierenden ...
+	- können aktuelle Entwicklungen mit ihrem technologischen Hintergrund und gesellschaftlicher Bedeutung verstehen und darstellen;
+	- kennen Kriterien zur Beurteilung aktueller Entwicklungen, um  diese anzuwenden, und können Kontroversen und Problemstellungen analysieren;
+	- können eigene Gestaltungsoptionen auslosten sowie eigene Vorstellungen zu einer digitalen Gesellschaft entwickeln.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:15149#1">
+      <prefLabel lang="de">Cloud-native Programmierung</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">- Die Studierenden kennen die Besonderheiten Cloud-nativer Applikationen und deren Programmierung.
+	- Die Studierenden können Methoden wie die Zwölf-Faktoren Methode, das IDEAL Modell und DevOps Prinzipien methodisch anwenden.
+	- Die Studierenden sind sich der Besonderheiten des Polyglot Programming bewusst und berücksichtigen diese in Cloud-nativen Projekten.
+	- Die Studierenden können polyglott entwickelter Services Cloud-nativer Applikationen als standardisierte Deployment Units (Container) bereitstellen.
+	- Die Studierenden können Serverless Functions entwickeln und sind sich deren Möglichkeiten und Grenzen bewusst.
+	- Die Studierenden kennen gängige Plattformen zur Container Orchestrierung und können mindestens eine davon zum Betrieb polyglott entwickelter Dienste nutzen.
+	- Die Studierenden können polyglott entwickelte Dienste mit Mitteln von Integrationssprachen (wie bspw. Ballerina, Jolie) zu Service-of-Services integrieren.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:15132#1">
+      <prefLabel lang="de">Architekturen und Paradigmen verteilter Systeme</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Die Studierenden kennen nach erfolgreichem Abschluss des Moduls grundlegende Probleme paralleler und verteilter Systeme und Methoden zu deren Lösung.
+Die Studierenden können die wichtigsten Architekturmodelle verteilter Systeme benennen, sowie verteilte Anwendungen inkl. Architektur und Funktionalitäten beschreiben.
+Sie können derartige Systeme formal modellieren und sind in der
+Lage, das Fachwissen auf praktische Fallbeispiele anzuwenden.
+Dafür können die Studierenden Konzepte für neue Anwendungen entwickeln und Lösungen für realitätsnahe Probleme selbstständig erarbeiten und vorstellen.</text>
+      </description>
+    </learningOutcome>
+    <studyProgramme id="urn:thl:learning:spec:studyprogramme:73787077">
+      <title lang="de">Informatik/Softwaretechnik für verteilte Systeme, Master</title>
+      <hasEducationLevel>
+        <targetName lang="de">M. Sc.</targetName>
+      </hasEducationLevel>
+    </studyProgramme>
+    <stupo id="urn:thl:learning:spec:stupo:73787077">
+      <title lang="de">Informatik/Softwaretechnik für verteilte Systeme, Master</title>
+      <specializationOf idref="urn:thl:learning:spec:studyprogramme:73787077"/>
+    </stupo>
+    <studySection id="urn:thl:learning:spec:studysection:73787077">
+      <title lang="de">Informatik/Softwaretechnik für verteilte Systeme, Master</title>
+      <hasPart idref="urn:thl:learning:spec:15132#1"/>
+      <hasPart idref="urn:thl:learning:spec:15149#1"/>
+      <hasPart idref="urn:thl:learning:spec:15166#1"/>
+      <hasPart idref="urn:thl:learning:spec:15183#1"/>
+      <hasPart idref="urn:thl:learning:spec:15200#1"/>
+      <hasPart idref="urn:thl:learning:spec:15217#1"/>
+      <hasPart idref="urn:thl:learning:spec:15234#1"/>
+      <hasPart idref="urn:thl:learning:spec:15251#1"/>
+      <hasPart idref="urn:thl:learning:spec:15268#1"/>
+      <hasPart idref="urn:thl:learning:spec:15285#1"/>
+      <hasPart idref="urn:thl:learning:spec:15302#1"/>
+      <hasPart idref="urn:thl:learning:spec:15319#1"/>
+      <hasPart idref="urn:thl:learning:spec:15336#1"/>
+      <hasPart idref="urn:thl:learning:spec:15353#1"/>
+      <hasPart idref="urn:thl:learning:spec:15370#1"/>
+      <hasPart idref="urn:thl:learning:spec:15387#1"/>
+      <hasPart idref="urn:thl:learning:spec:15404#1"/>
+      <hasPart idref="urn:thl:learning:spec:15421#1"/>
+      <hasPart idref="urn:thl:learning:spec:15438#1"/>
+      <hasPart idref="urn:thl:learning:spec:15455#1"/>
+      <hasPart idref="urn:thl:learning:spec:15472#1"/>
+      <hasPart idref="urn:thl:learning:spec:15489#1"/>
+      <hasPart idref="urn:thl:learning:spec:15506#1"/>
+      <hasPart idref="urn:thl:learning:spec:15523#1"/>
+      <hasPart idref="urn:thl:learning:spec:15540#1"/>
+      <hasPart idref="urn:thl:learning:spec:15557#1"/>
+    </studySection>
+    <modulSpecialization id="urn:thl:learning:spec:15132#1">
+      <identifier>15132#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Architekturen und Paradigmen verteilter Systeme</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Architekturen und Paradigmen verteilter Systeme (Vorlesung):
+	- Einführung in verteilte Systeme
+	- Architekturmodelle und Softwarekonzepte
+	- Transparenzanforderungen
+	- Kommunikation und Prozesse
+	- Verteilte Algorithmen
+	- Synchronisierung
+	- Objektbasierte verteilte Systeme
+	- Spezielle Herausforderungen verteilter Systeme
+
+Architekturen und Paradigmen verteilter Systeme (Seminar):
+Die Studierenden erarbeiten eigenständig Architekturvorschläge zur  Lösung ausgewählter Fragestellungen in verteilten Systemen und präsentieren diese im Seminar.</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: 	- Verteilte Systeme - Prinzipien und Paradigmen; 2. aktualisierte Auflage; Andrew S. Tanenbaum, Maarten van Steen, Pearson Studium, 2008, ISBN: 978-3-8273-7293-2
+	- Verteilte Systeme; George Coulouris, Jean Dollimore, Tim Kindberg, Pearson Studium, 2005, ISBN: 978-3-8273-7186-7
+	- Verteilte Systeme und Anwendungen; Ulrike Hammerschall; Addison-Wesley Verlag, 2005. ISBN 978-3827370969.
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=15132&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:15132#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:15132#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:15132#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:15132#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:15132"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:15132#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Architekturen und Paradigmen verteilter Systeme (Vorlesung)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15132#1-1"/>
+    </learningEvent>
+    <learningEvent id="urn:thl:learning:spec:15132#1-2">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Architekturen und Paradigmen verteilter Systeme (Seminar)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15132#1-2"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:15132">
+      <identifier>15132</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 15132</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:15149#1">
+      <identifier>15149#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Cloud-native Programmierung</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Cloud-native Programmierung (Vorlesung):
+	- Definition Cloud-nativer Applikationen
+	- Das IDEAL Modell
+	- Die Zwölf-Faktoren Methode
+	- Polyglot Programming
+	- Standardisierte Deployment Units (Container)
+	- Plattformen zur Container Orchestrierung
+	- Konzepte von Container Orchestrierungsplattformen (Pod, Service, Proxy, Service Meshs, Ingress Controller, Load Balancer, etc.)
+	- Serverless Computing
+	- Integration polyglott entwickelter Dienste mittels cloud-nativer Programmiersprachen (wie bspw. Ballerina, Jolie)
+
+Cloud-native Programmierung (Praktikum):
+Siehe Vorlesung (diese werden in praktischen Aufgaben entsprechend vertieft und angewendet)</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: 	- Christoph Fehling, Frank Leymann, Ralph Retter, Walter Schupeck, Peter Arbitter, Cloud Computing Patterns, Springer
+	- Cornelia Davis, Cloud-native – Designing change-tolerant software, Manning
+	- Marko Luksa, Kubernetes in Action, Hanser Verlag
+	- Ballerina, https://ballerina.io
+	- Jolie, https://www.jolie-lang.org
+
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=15149&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:15149#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:15149#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:15149#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:15149#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:15149"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:15149#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Cloud-native Programmierung (Vorlesung)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15149#1-1"/>
+    </learningEvent>
+    <learningEvent id="urn:thl:learning:spec:15149#1-2">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Cloud-native Programmierung (Praktikum)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15149#1-2"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:15149">
+      <identifier>15149</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 15149</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:15166#1">
+      <identifier>15166#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Digital Impact</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Wir sind Zeitzeugen und GestalterInnen einer „digitalen Transformation“ unseres Alltags, unserer Gesellschaft und unserer Politik. Freiheit und Kontrolle, Demokratisierung und Kommerzialisierung,  Transparenz und Verschlüsselung sind Grundbegriffe der Diskussionen, die unsere Zukunft bestimmen.
+Die Veränderungen konkretisieren sich in Themen wie z.B. Fake News und Social Bots, Gesetzgebungen zu Vorratsdaten oder BND, Datenschutz, Privatsphäre, Smart Homes oder auch Datenjournalismus, „Demokratisierung der Produktion“ durch 3D-Druck, Veränderungen von Unternehmenskonzepten (z.B. Uber, AirBnB) u.v.m.
+In diesem Kurs beleuchten wir diese Entwicklungen und schlagen die Brücke zwischen den Fragen:
+	- Welche technologischen Konzepte stecken hinter aktuellen gesellschaftlichen und politischen Diskussionen und Prozessen?
+	- Welche gesellschaftlichen und politischen Fragen ergeben sich aus den aktuellen technologischen Entwicklungen?
+	- Welche Zielvorstellungen können wir für eine digitalisierte Welt entwickeln?</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: Aktuelle Berichterstattungen; wird in der Veranstaltung bekannt gegeben.
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=15166&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:15166#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:15166#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:15166#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:15166"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:15166#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Digital Impact (Seminar)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15166#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:15166">
+      <identifier>15166</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 15166</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:15183#1">
+      <identifier>15183#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Sicherheit verteilter Systeme</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Sicherheit verteilter Systeme (Vorlesung):
+Einführung
+Angriffe auf verteilte Systeme (ARP Spoofing, Port Scans, Schadsoftware, Schwachstellen von Webanwendungen)
+Schutzmaßnahmen für verteilte Systeme (Firewalls, Intrusion Detection Systeme)
+Sichere Kommunikation über unsichere Netze (Grundlegende Verfahren, IPsec, TLS, SSH)
+Standards für Organisationen (IT-Grundschutz, ISO 27000)
+
+Sicherheit verteilter Systeme (Praktikum):
+Studierende arbeiten sich eigenständig in eine aktuelle Fragestellung hinsichtlich der Sicherheit von vernetzten Systemen ein und präsentieren das Thema im Seminar.</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: Andrew S. Tanenbaum, Computernetzwerke, Pearson Studium, 2012
+Kurose/Ross, Computernetzwerke – Der Top-Down Ansatz, 6. Auflage, Pearson Studium, 2014
+William Stallings, Network Security Essentials, Pearson Education, 2013
+IT-Grundschutz Standards, https://www.bsi.bund.de/DE/Themen/ITGrundschutz/itgrundschutz_node.html
+Brenner et al., Praxisbuch ISO/IEC 27001, Hanser Verlag, 2011
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=15183&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:15183#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:15183#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:15183#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:15183#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:15183"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:15183#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Sicherheit verteilter Systeme (Vorlesung)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15183#1-1"/>
+    </learningEvent>
+    <learningEvent id="urn:thl:learning:spec:15183#1-2">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Sicherheit verteilter Systeme (Praktikum)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15183#1-2"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:15183">
+      <identifier>15183</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 15183</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:15200#1">
+      <identifier>15200#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Verifikation und Konsistenzmodelle verteilter Systeme</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Verifikation und Konsistenzmodelle verteilter Systeme (Vorlesung):
+Parallele Algorithmen
+Verteilte Algorithmen
+	- Abstraktion
+	- Das Probleme des kritischen Abschnitts, Semaphoren, Monitore
+	- Verifikation paralleler Systeme
+	- Model-Checking (Spin)
+	- Petri-Netze
+	- Prozess-Algebren
+	- Wechselweiser Ausschluss (Ricart-Agrawala)
+	- Verteilte Terminierung
+	- Dijkstra-Scholten
+	- Consensus
+	- Echtzeitsysteme
+	- Uppaal
+
+Verifikation und Konsistenzmodelle verteilter Systeme (Seminar):
+Die Studierenden erarbeiten sich selbstständig aktuelle Erkenntnisse der Forschung zur Modellierung und Verifikation paralleler und verteilter Systeme und stellen diese im Seminar vor.</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: M. Ben-Ari, Principles of Concurrent and Distributed Programming, Addison Wesley
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=15200&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:15200#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:15200#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:15200#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:15200#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:15200"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:15200#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Verifikation und Konsistenzmodelle verteilter Systeme (Vorlesung)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15200#1-1"/>
+    </learningEvent>
+    <learningEvent id="urn:thl:learning:spec:15200#1-2">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Verifikation und Konsistenzmodelle verteilter Systeme (Seminar)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15200#1-2"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:15200">
+      <identifier>15200</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 15200</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:15217#1">
+      <identifier>15217#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Verteilte Datenbank- und Informationssysteme</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Verteilte Datenbank- und Informationssysteme (Vorlesung):
+	- Horizontale Skalierbarkeit und CAP-Theorem
+	- Datenmodelle, Schemafreiheit und Anfragesprachen
+	- Partitionierung und Replikation von Daten
+	- Verteilte Transaktionen und Konsens
+	- Batch- vs. Stream-Processing
+	- Benchmarking verteilter Datenbanksysteme
+	- Datenspeicherung und -verarbeitung in ausgewählten Cloud-Plattformen
+
+Verteilte Datenbank- und Informationssysteme (Praktikum):
+Das Praktikum dient der Anwendung der in der Vorlesung vorgestellten Lehrinhalte in einem Projekt.</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: 	- Martin Kleppmann: Designing Data-Intensive Applications – The Big Ideas Behind Reliable, Scalable, and Maintainable Systems; O’Reilly
+	- Tyler Akidau, Slava Chernyak, Reuven Lax: Streaming Systems – The What, Where, When, and How of Large-Scale Data Processing; O’Reilly
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=15217&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:15217#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:15217#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:15217#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:15217#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:15217"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:15217#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Verteilte Datenbank- und Informationssysteme (Vorlesung)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15217#1-1"/>
+    </learningEvent>
+    <learningEvent id="urn:thl:learning:spec:15217#1-2">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Verteilte Datenbank- und Informationssysteme (Praktikum)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15217#1-2"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:15217">
+      <identifier>15217</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 15217</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:15234#1">
+      <identifier>15234#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Cloud-native Architekturen</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Cloud-native Architekturen (Vorlesung):
+	- Die NIST-Definition des Cloud Computing
+	- Das Pay-as-you-go Kostenmodell des Cloud Computing und dessen Auswirkung auf wirtschaftliche Architekturen für Cloud-native Applikationen und Dienste
+	- Elastizität, Skalierbarkeit und Resilienz in Cloud-nativen Applikationen und Diensten
+	- Die CNCF Definition von Cloud-native und die CNCF Landscape
+	- Das IDEAL Prinzip des Service Computing und die dominierenden Architekturstile im Cloud Computing: Microservices und Serverless Architectures
+	- Service Scheduling &amp; Orchestration, Service Coordination &amp; Service Discovery, Traffic Management, Observability &amp; Analysis, Service Provisioning,  Continuous Integration &amp; Deployment
+	- Stateless vs. Stateful
+	- (Lose) Kopplung von Diensten mittels Daten-, Event- oder Call-basierter Kopplung vor dem Hintergrund des CAP-Theorems in verteilten Systemen
+
+Cloud-native Architekturen (Praktikum):
+Siehe Vorlesung (diese werden in einem praktischen Projekt vertieft und angewendet)</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: 	- Christoph Fehling, Frank Leymann, Ralph Retter, Walter Schupeck, Peter Arbitter, Cloud Computing Patterns, Springer
+	- Cornelia Davis, Cloud-native – Designing change-tolerant software, Manning
+	- CNCF Landscape, https://landscape.cncf.io
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=15234&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:15234#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:15234#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:15234#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:15234#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:15234"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:15234#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Cloud-native Architekturen (Vorlesung)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15234#1-1"/>
+    </learningEvent>
+    <learningEvent id="urn:thl:learning:spec:15234#1-2">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Cloud-native Architekturen (Praktikum)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15234#1-2"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:15234">
+      <identifier>15234</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 15234</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:15251#1">
+      <identifier>15251#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Programmierung verteilter Systeme</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Programmierung verteilter Systeme (Vorlesung):
+	- Aufbau verteilter Systeme
+	- Kommunikation (Strategien und Organisation)
+	- Synchronisation (Ansätze und Verfahren)
+	- Prozesse (Organisation und Verwaltung)
+	- Replikationen und Datenkonsistenz
+	- Fehlertoleranz
+
+Programmierung verteilter Systeme (Praktikum):
+Siehe Vorlesung (diese werden im Praktikum vertieft)</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: 	- Verteilte Systeme - Prinzipien und Paradigmen; 2. aktualisierte Auflage; Andrew S. Tanenbaum, Maarten van Steen, Pearson Studium, 2008, ISBN: 978-3-8273-7293-2
+	- Verteilte Systeme; George Coulouris, Jean Dollimore, Tim Kindberg, Pearson Studium, 2005, ISBN: 978-3-8273-7186-7
+	- Verteilte Systeme und Anwendungen; Ulrike Hammerschall; Addison-Wesley Verlag, 2005. ISBN 978-3827370969
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=15251&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:15251#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:15251#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:15251#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:15251#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:15251"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:15251#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Programmierung verteilter Systeme (Vorlesung)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15251#1-1"/>
+    </learningEvent>
+    <learningEvent id="urn:thl:learning:spec:15251#1-2">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Programmierung verteilter Systeme (Praktikum)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15251#1-2"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:15251">
+      <identifier>15251</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 15251</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:15268#1">
+      <identifier>15268#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Verteilte Eingebettete Systeme</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Verteilte Eingebettete Systeme (Vorlesung):
+	- Systemaufbau
+	- Kommunikationstechnologien und -protokolle
+	- Lokalisierung in Sensornetzwerken
+	- Software für Sensornetzwerke
+	- Sicherheit in Sensornetzwerken
+	- Anwendungen von Sensornetzwerken
+	- Hardwareüberblick
+	- Sensornetze
+	- Plattformen und Entwicklungswerkzeuge
+	- Data-centric and content-based networking
+	- Drahtlose Netzwerke (802.15.4, 6LoWPAN, ZigBee)
+	- Routing in Sensornetzwerken, energiesparende Routingverfahren
+	- Klassifikation, genaue und grobkörnige Lokalisierungsverfahren
+	- Algorithmen zur Lokalisierung
+Betriebssysteme, Frameworks und Entwicklungsplattformen
+
+Verteilte Eingebettete Systeme (Projekt):
+Die Studierenden erarbeiten selbständig eine Implementierung zu einem gegebenen Szenario und dokumentieren und präsentieren dies geeignet.</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: Rastko R. Selmic, Vir V. Phoha, Abdul Serwadda: Wireless Sensor Networks: Security, Coverage, and Localization, Springer International, 2016, ISBN 978-3-319-46767-2
+Wayne Wolf: Computers as Components, Principles of Embedded Computing System Design, Morgan Kaufmann Publishers, 2. Aufl., 2008, ISBN 978-0123743978
+Andrew S. Tanenbaum und Maarten van Steen: Verteilte Systeme - Prinzipien und Paradigmen, 2. aktualisierte Auflage, Pearson Studium, 2008, ISBN: 978-3-8273-7293-2
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=15268&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:15268#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:15268#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:15268#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:15268#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:15268"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:15268#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Verteilte Eingebettete Systeme (Vorlesung)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15268#1-1"/>
+    </learningEvent>
+    <learningEvent id="urn:thl:learning:spec:15268#1-2">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Verteilte Eingebettete Systeme (Projekt)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15268#1-2"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:15268">
+      <identifier>15268</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 15268</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:15285#1">
+      <identifier>15285#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Wissenschaftliches Projekt I</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Der konkrete Gegenstand des Projektes wird von Lehrenden individuell mit der Kleingruppe definiert.</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: Je nach Art der Projekte wird eine spezielle Literaturliste pro Semester zusammengestellt
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=15285&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT300H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">10</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:15285#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:15285#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:15285#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:15285"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:15285#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Wissenschaftliches Projekt I (Pj)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15285#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:15285">
+      <identifier>15285</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 15285</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:15302#1">
+      <identifier>15302#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Wissenschaftliches Seminar</title>
+      <definition>
+        <text content-type="text/plain" lang="de">- Wissenschaftliches Schreiben und Beurteilen in Theorie und Praxis
+	- Beurteilung wissenschaftlicher Arbeiten
+	- Präsentation der Studienarbeit
+	- wissenschaftliche Sprache und sprachlicher Ausdruck
+	- Grundregeln wissenschaftlichen Argumentierens
+	- Strukturierung und Aufbau einer wiss. Arbeit
+	- Abfassung der Arbeit, Formalia: Verzeichnisse, Abbildungen und Tabellen</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: Exemplarisch:
+	- Zobel J.: Writing for Computer Science. Springer,
+	- London – Berlin –Heidelberg - New York - Hong Kong – Milan – Paris – Tokyo, 1997.
+	- Stickel-Wolf C.,Wolf, J.: Wissenschaftliches Arbeiten und Lerntechniken. Erfolgreich studieren – gewusst wie! Gabler, Wiesbaden, 2001
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=15302&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:15302#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:15302#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:15302#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:15302"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:15302#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Wissenschaftliches Seminar</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15302#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:15302">
+      <identifier>15302</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 15302</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:15319#1">
+      <identifier>15319#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Seminar Verteilte Systeme</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Der konkrete Gegenstand des Seminar wird von Lehrenden individuell mit der Kleingruppe definiert.</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: Je nach Art der Projekte wird eine spezielle Literaturliste pro Semester zusammengestellt
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=15319&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:15319#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:15319#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:15319#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:15319"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:15319#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Seminar Verteilte Systeme</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15319#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:15319">
+      <identifier>15319</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 15319</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:15336#1">
+      <identifier>15336#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Sicherheit und Webanwendungen</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Webanwendungen sind durch ihre Client-Server-Struktur und ihrem vielfältigen Einsatz (als Webseite, App, GUI-Schnittstelle zu IoT-Systemen) ganz unterschiedlichen Sicherheitsrisiken ausgesetzt. Welche diese sind und wie sie bei der Entwicklung berücksichtigt werden können, wird in diesem Modul nachgegangen. Der Fokus liegt dabei auf der Webanwendung selbst, die anhand ausgewählter Einsatzgebiete bzw. Funktionalitäten diskutiert werden. Angesprochen werden aber auch Sicherheitsaspekte seitens der Webserver, der Entwicklungsumgebung und der organisatorischen Projektumgebung. Die Lerneinheiten umfassen dabei folgende Aspekte:
+	- Einführung und Motivation:
+	- Bedrohungen für Webanwendungen
+	- Technische Schutzmaßnahmen
+	- Datenschutz-Maßnahmen
+	- Organisatorische Maßnahmen
+	- Untersuchung von Webprojekten</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: 	- Rohr, Matthias (2015). Sicherheit von Webanwendungen in der Praxis. Springer-Verlag.
+	- OWASP (2017). The Ten Most Critical Web Application Security Risks. Owasp.org.
+	- BSI (2013). Leitfaden zur Entwicklung sicherer Webanwendungen. Bsi.bund.de
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=15336&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:15336#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:15336#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:15336#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:15336"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:15336#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Sicherheit und Web Anwendungen (Online-Modul)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15336#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:15336">
+      <identifier>15336</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 15336</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:15353#1">
+      <identifier>15353#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Wissenschaftliches Projekt II</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Der konkrete Gegenstand des Projektes wird von Lehrenden individuell mit der Kleingruppe definiert.</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: Je nach Art der Projekte wird eine spezielle Literaturliste pro Semester zusammengestellt
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=15353&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT300H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">10</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:15353#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:15353#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:15353#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:15353"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:15353#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Wissenschaftliches Projekt II (Pj)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15353#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:15353">
+      <identifier>15353</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 15353</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:15370#1">
+      <identifier>15370#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Hardware-basierte IT-Sicherheit</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Hardware-basierte IT-Sicherheit (Vorlesung):
+In diesem Modul werden Kenntnisse zur technischen Umsetzung von Mechanismen und Algorithmen der IT-Sicherheit vermittelt. Der Schwerpunkt des Moduls liegt auf den Hardware-basierten Problemstellungen und Lösungen in Klein- und Kleinstsystemen. Die Studierenden können im Anschluss Fragenstellungen zur Hardware-basierten Umsetzung von Sicherheitsfunktionen hinsichtlich ihrer Anwendungsspezifischen Eignung prüfen bzw. geeignete Lösungsansätze zusammenstellen und deren Effektivität und Effizienz abschätzen.
+	- Einführung in Klein- und Kleinstsysteme
+	- Methoden und Verfahren physischer Angriffe
+	- Vertrauenswürdige System-Module
+	- Manipulationssichere Hardware
+	- Hardware-Hacking
+	- Seitenkanal-Angriffe
+	- Hardware-basierte Krypto-Funktionen
+	- Sichere Zufallszahlen
+	- Remote Attestation
+	- Hardware-Verschlüsselung
+	- Physical Unclonable Functions
+	- Tamper-Resistenz
+
+Hardware-basierte IT-Sicherheit (Praktikum):
+In praktischen Beispielen soll das Wissen der Vorlesung verfestigt werden:
+	- Elektromagnetische und/oder Power Analyse von Crypto-Funktionen in FPGAs und auf Mikrocontrollern
+	- Aufbau von Tamper-Resistenten Schaltungen</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: [1] Stefan Mangard, Elisabeth Oswald und Thomas Popp; Power Analysis Attacks; Springer 2007
+[2] Christof Paar, Jan Palzl; Understanding Cryptography: A Textbook for Students and Practitioners; Springer 2010
+[3] Mohammed Theranipoor, Cliff Wang; Introduction to Hardware Security and Trust; Springer 2012
+[4] Christoph Böhm, Maximilian Hofer; Physical Unclonable Functions in Theory and Practice; Springer 2013
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=15370&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:15370#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:15370#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:15370#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:15370#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:15370"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:15370#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Hardware-basierte IT-Sicherheit (Vorlesung)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15370#1-1"/>
+    </learningEvent>
+    <learningEvent id="urn:thl:learning:spec:15370#1-2">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Hardware-basierte IT-Sicherheit (Praktikum)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15370#1-2"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:15370">
+      <identifier>15370</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 15370</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:15387#1">
+      <identifier>15387#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Human-Computer Interfaces</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Human-Computer Interfaces (Lecture):
+History of HCI
+Foundations of HCI
+Designing complex Human-Computer Interfaces
+The Usability Engineering Lifecycle
+	- Automation and complex information systems
+	- Development of graphical user interfaces
+	- Human cognition and information processing
+	- Human behavior and errors
+	- Security-related behavior
+	- Stress and strain in sociotechnical systems
+	- Ergonomic principles and guidelines
+	- Norms and legal requirements
+	- Interaction styles and techniques
+	- Input and output devices
+	- Multimodal interfaces
+	- Accessibility
+	- User-centered design methods
+	- Requirements engineering
+	- Prototyping
+	- Usability evaluation methods
+
+Human-Computer Interfaces (Practical Training):
+	- Analyzing information systems according to ergonomic principles
+	- Design and prototypical implementation of ergonomic systems
+	- Practical evaluation of usability engineering methods</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: Carroll, J. M. (2003). HCI Models, Theories and Frameworks: Toward a Multidisciplinary Science. San Francisco u.a.: Morgan Kaufman.
+Norman, D. (1988). The Psychology of Everyday Things. New York: Basic Books. (deutsch: Dinge des Alltags, Frankfurt: Campus)
+Shneiderman, B., Plaisant, C. (2010). Designing the user interface. Strategies for effective human-computer interaction. Addison-Wesley. Boston, 5th edition.
+ISO 9241: Ergonomics of Human-Computer Interaction. International Organization for Standardization.
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=15387&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:15387#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:15387#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:15387#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:15387#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:15387"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:15387#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Human-Computer Interfaces (Lecture)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15387#1-1"/>
+    </learningEvent>
+    <learningEvent id="urn:thl:learning:spec:15387#1-2">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Human-Computer Interfaces (Practical Training)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15387#1-2"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:15387">
+      <identifier>15387</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 15387</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:15404#1">
+      <identifier>15404#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Intelligente verteilte Systeme</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Intelligente verteilte Systeme (Vorlesung):
+Prinzipien der Selbstorganisation
+Prinzipien der kollektiven Intelligenz
+Weitere Formen der Zusammenarbeit zwischen (unabhängigen) Systemen bzw. Agenten
+Beispiele für die o.g. Punkte aus der Biologie
+Anwendungsszenarien in technischen Bereichen und adäquate Algorithmen
+Evaluation intelligenter verteilter Systeme
+
+Intelligente verteilte Systeme (Praktikum):
+Das Praktikum dient der Anwendung der in der Vorlesung vorgestellten Lehrinhalte und der Vertiefung bestimmter aktueller Themen aus dem Bereich der intelligenten verteilten Systeme.</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: Stuart Russel &amp; Peter Norvig: Artificial Intelligence - A Modern Approach, Pearson 2010.
+Eric Bonabeau, Marco Dorigo &amp; Guy Theraulaz: Swarm Intelligence: From Natural to Artificial Systems, Oxford University Press 1999
+zusätzlich: Ausgewählte wissenschaftliche Artikel zur Bildung von Schwerpunktthemen
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=15404&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:15404#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:15404#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:15404#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:15404#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:15404"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:15404#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Intelligente verteilte Systeme (Vorlesung)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15404#1-1"/>
+    </learningEvent>
+    <learningEvent id="urn:thl:learning:spec:15404#1-2">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Intelligente verteilte Systeme (Praktikum)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15404#1-2"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:15404">
+      <identifier>15404</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 15404</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:15421#1">
+      <identifier>15421#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Kryptoanalyse</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Kryptoanalyse (Vorlesung):
+	- Symmetrische Verschlüsselungsverfahren und deren Kryptoanalyse
+	- Asymmetrische Verfahren und deren Kryptoanalyse
+	- Seitenkanalanalysen und deren stochastische Grundlagen
+	- Differentielle Analyse
+	- Lineare Analyse
+	- RSA
+	- Diskrete Logarithmen
+Poweranalysen
+
+
+Kryptoanalyse (Praktikum):
+	- Übungen zum Verständnis der Verschlüsselungs- und Analyseverfahren
+	- Praktische Durchführung von Seitenkanalanalysen im Labor</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: Einführung in die KryptographieJ. Buchmann. . Springer-Verlag Berlin Heidelberg.
+Introduction to Modern Cryptography
+2nd Edition).
+J. Katz, Y. Lindell.  ( Chapman &amp; Hall.
+Power Analysis Attacks - Revealing the Secrets of Smart CardsS. Mangard, E. Oswald, T. Popp. . Springer, Berlin.
+Modern Cryptanalysis,C. Swenson. Wiley.
+Applied Cryptanalysis,M. Stamp, R.M. Low. Wiley.
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=15421&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:15421#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:15421#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:15421#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:15421#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:15421"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:15421#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Kryptoanalyse (Vorlesung)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15421#1-1"/>
+    </learningEvent>
+    <learningEvent id="urn:thl:learning:spec:15421#1-2">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Kryptoanalyse (Praktikum)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15421#1-2"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:15421">
+      <identifier>15421</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 15421</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:15438#1">
+      <identifier>15438#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Kryptographie</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Kryptographie (Vorlesung):
+
+	- Blockchiffren
+	- Asymmetrische Verschlüsselungs- und Signaturverfahren (RSA, Diffe-Hellman, ElGamal, …)
+	- Hashfunktionen, Message Authentication Codes und Schlüsselableitungsfunktionen
+	- Postquantum sichere Verfahren (Gitterbasierte Kryptographie, …)
+	- Kryptographische Protokolle (Zero Knowledge, Secret Sharing ,..)
+	- Aktuelle Forschungsergebnisse zu den Themen
+
+Kryptographie (Praktikum):
+Aufgaben und praktische Übungen zum Verständnis der Verschlüsselungs- und Analyseverfahren</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: Moderne Verfahren der Kryptographie.Albrecht Beutelspacher, Jörg Schwenk und Klaus-Dieter Wolfenstetter.  Springer Spektrum, 2015.
+Einführung in die KryptographieJohannes Buchmann. . Springer-Verlag Berlin Heidelberg, 2016.
+Kryptographie verständlichChristoph Paar und Jan Pelzl. . Springer-Verlag Berlin Heidelberg, 2016.
+Introduction to Modern Cryptography
+2nd Edition).
+J. Katz, Y. Lindell.  ( Chapman &amp; Hall.
+Secure Multiparty Computation and Secret SharingR. Cramer, I. Damgard, J.B. Nielsen, , Cambridge.
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=15438&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:15438#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:15438#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:15438#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:15438#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:15438"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:15438#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Kryptographie (Vorlesung)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15438#1-1"/>
+    </learningEvent>
+    <learningEvent id="urn:thl:learning:spec:15438#1-2">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Kryptographie (Praktikum)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15438#1-2"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:15438">
+      <identifier>15438</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 15438</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:15455#1">
+      <identifier>15455#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Mikroprozessor-Design</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Mikroprozessor-Design (Vorlesung):
+Die Automatisierung und die Autonomisierung von Systemen erhöht den Bedarf nach anwendungsspezifischer Rechenleistung. Der Einsatz von General-Purpose Mikroprozessoren wird aufgrund ihres Energiebedarfs oder ihrer Kosten in Anwendungsgebieten zunehmend an Bedeutung verlieren. Auf deren Seite biete moderne programmierbare Standard-ICs bereits heutzutage die Voraussetzung um ein kundenspezifisches System effizient einzusetzen. Somit werden anwendungsspezifische Prozessoren für die Zukunft immer wichtiger.
+Im Rahmen des Moduls soll anhand eines praktischen Anwendungsbeispiels das Design eines Microprozessors auf der Register-Transfer-Ebene vollzogen werden. Als Basis für das Design eines Prozessors wird der RISC-V verwendet. Hierbei handelt es sich um eine freie RISC Architektur, die unter anderem Bestandteil der Europäischen Prozessorinitiative ist.
+Teil 1 - Einführung Prozessor-Architekturen
+Teil 2- RISC-V Prozessor
+Teil 3 – Prozessor Optimierung
+	- Klassifizieren nach Flynn
+	- Harvard und von-Neumann Rechner
+	- RISC und CISC
+	- Befehlssatz und Struktur
+	- Modellierung in VHDL
+	- Pipeline
+	- Cache-Speicher
+	- Low Power Design
+
+Mikroprozessor-Design (Praktikum):
+Im vorlesungsbegleitenden Praktikum wird ein Mikroprozessor mit einer 32-bit RISC-V Architektur umgesetzt. Die Umsetzung des Prozessor-Designs erfolgt schrittweise unter Anleitung und mit Beispielen des Dozenten in zweier Teams.</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: [1] Andrew S. Tanenbaum: Computerarchitekturen; Pearson Education; 2005
+[2] David Patterson und John Hennessy: Computer Architecture: A Quantitative Approach; Morgan Kaufmann; 2017
+[3] David Patterson und John Hennessy: Computer Organization and Design RISC-V Edition; 2017
+[4] Jürgen Reichardt, Bernd Schwarz; VHDL-Synthese; Oldenbourg Verlag
+[5] Peter J. Ashenden; The Designer's Guide to VHDL; Morgan Kaufmann
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=15455&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:15455#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:15455#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:15455#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:15455#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:15455"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:15455#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Mikroprozessor-Design (Vorlesung)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15455#1-1"/>
+    </learningEvent>
+    <learningEvent id="urn:thl:learning:spec:15455#1-2">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Mikroprozessor-Design (Praktikum)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15455#1-2"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:15455">
+      <identifier>15455</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 15455</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:15472#1">
+      <identifier>15472#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Mobile Anwendungen</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Mobile Anwendungen (Vorlesung):
+	- Anwendungsszenarien mobiler Anwendungen
+	- Besondere Anforderungen an mobile Anwendungen
+	- Native mobile Anwendungen
+	- Mobile Webanwendungen
+	- Hybride mobile Anwendungen
+	- Sicherheit mobiler Anwendungen
+	- Testen mobiler Anwendungen
+	- Aktuelle Themen und Trends im Bereich mobile Anwendungen
+
+Mobile Anwendungen (Praktikum):
+Das Praktikum dient der Anwendung der in der Vorlesung vorgestellten Lehrinhalte und der Vertiefung eines bestimmten aktuellen Themas aus dem Bereich der mobilen Anwendungen.</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: https://cordova.apache.org/
+https://developer.android.com/
+Mostefaoui, G., Tariq, F Mobile Apps Engineering: Design, Development, Security, and Testing, Chapman and Hall, 2018
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=15472&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:15472#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:15472#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:15472#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:15472#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:15472"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:15472#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Mobile Anwendungen (Vorlesung)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15472#1-1"/>
+    </learningEvent>
+    <learningEvent id="urn:thl:learning:spec:15472#1-2">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Mobile Anwendungen (Praktikum)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15472#1-2"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:15472">
+      <identifier>15472</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 15472</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:15489#1">
+      <identifier>15489#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Real-Time Systems</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Real-Time Systems (Lecture):
+	- Presentation of selected real-time systems, classification of real-time systems.
+	- Safety in real-time systems: Dependability, reliability, methods for analysis, fault models, redundant design.
+	- Security in real-time systems.
+	- Communication in systems with real-time capabilities.
+	- Implementation of real-time systems: models of time, energy concerns, fields of applications, target platforms.
+	- Real-time operating systems: Architecture, scheduling, resource management, synchronization, comparison with operating systems for systems without real-time capabilities, selected examples.
+
+Real-Time Systems (Practical Training):
+The topics of the module are applied to a scenario with characteristic requirements and constraints, e.g. implementation of an online scheduler for real-time systems.</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: 	- Giorgio Buttazzo, Giuseppe Lipari, Luca Abeni und Marco Caccamo: Soft Real-Time Systems Predictability vs. Efficiency, Springer, 2005.
+	- Giorgio Buttazzo: Hard Real-Time Computing Systems Predictable Scheduling Algorithms and Applications, Springer, 2011.
+	- Abraham Silberschatz, Peter B. Galvin, Greg Gagne: Operating System Concepts, 8th ed., Wiley, 2010.
+	- Andrew S. Tanenbaum, Herbert Bos: Modern Operating Systems, Pearson Education Limited, 2014.
+	- Hermann Kopetz: Real-Time Systems, Springer, 2011.
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=15489&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:15489#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:15489#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:15489#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:15489#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:15489"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:15489#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Real-Time Systems (Lecture)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15489#1-1"/>
+    </learningEvent>
+    <learningEvent id="urn:thl:learning:spec:15489#1-2">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Real-Time Systems (Practical Training)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15489#1-2"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:15489">
+      <identifier>15489</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 15489</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:15506#1">
+      <identifier>15506#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Sichere vernetzte Steuerungssysteme</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Sichere vernetzte Steuerungssysteme (Vorlesung):
+Mit der Einführung von Industrie 4.0 gewinnt der Sicherheit von vernetzten Steuerungssystemen wesentlich an Bedeutung. Ein solches System kann von einem Unternehmen nur dann wirksam in einer Industriellen Umgebung eingesetzt werden, wenn die vom System erzeugten Daten verlässlich sind bzw. garantiert werden kann, dass Befehle an das System unverfälscht ankommen und auch wie gefordert ausgeführt werden.
+Das Modul behandelt mögliche Szenarien, die sich mit der zunehmenden Vernetzung und Autonomisierung von Systemen ergeben und gibt Lösungsansätze, um Sicherheit in einem solchen System zu installieren bzw. sichere Systeme zu entwickeln,
+Teil 1: Grundlagen Netzwerksicherheit
+Teil 2: Informationssicherheitsmanagementsysteme (ISMS)
+Teil 3: Industrielle Steuerungstechnik
+Teil 4: Präventive und Reaktive Sicherheit in industrieller Steuerungstechnik
+	- Grundbegriffe der IT-Sicherheit
+	- Angriffe und Gegenmaßnahmen in TCP/IP Netzen
+	- Sicherheits-Analyse
+	- Sicherheitsmanagement
+	- Grundlagen
+	- Sicherheitsanalyse
+	- Angriffsmodelle
+	- Firewalls
+	- Intrusion Detection
+	- Patch-Management
+
+Sichere vernetzte Steuerungssysteme (Praktikum):
+Im Praktikum soll das Wissen der Vorlesung in praktischen Beispielen vertieft werden. In Gruppenarbeit werden
+	- Netzwerk-Protokolle industrieller Steuerungssysteme analysiert
+	- Netzwerk-Filter eingerichtet
+	- Verfahren zum sicheren Patch-Management durchgeführt</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: [1] Heinrich Kersten, IT-Sicherheitsmanagement nach der neuen ISO 270001; Springer 2016
+[2] Claudia Eckert: IT-Sicherheit; De Gruyter 2018
+[3] Michael Kofler und Andre Zingsheim et.al.: Hacking &amp; Security. Das umfassende Handbuch; Rheinwerk 2018
+[4] Matthias Seitz: Speicherprogrammierbare Steuerungen für die Fabrik- und Prozessautomation: Strukturierte und objektorientierte SPS-Programmierung, Motion Control, Sicherheit, vertikale Integration; Hanser 2012
+[5] BSI: ICS-Securit Kompendium; BSI 2013
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=15506&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:15506#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:15506#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:15506#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:15506#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:15506"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:15506#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Sichere vernetzte Steuerungssysteme (Vorlesung)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15506#1-1"/>
+    </learningEvent>
+    <learningEvent id="urn:thl:learning:spec:15506#1-2">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Sichere vernetzte Steuerungssysteme (Praktikum)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15506#1-2"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:15506">
+      <identifier>15506</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 15506</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:15523#1">
+      <identifier>15523#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Sichere Programmierung</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Sichere Programmierung (Vorlesung):
+Autonome und sicherheitskritische Systeme bestimmen zunehmend unser alltägliches Leben. Sie haben Einfluss auf das was wir tun bzw. wie wir es tun können. Fehler in diesen Systemen haben oft einen direkten Einfluss auf uns und unsere Umwelt. Fehler können zu einen im Design aber auch in der Umsetzung gemacht werden. So muss Hardware-Entwurf aber auch insbesondere beim Programmieren von Anwendungen für sicherheitskritische Systeme mit großer Sorgfalt vorgegangen werden. Um das Erstellen der Programme zu unterstützen, können zum einen Regeln für die Programmierung aufgestellt oder sichere Programmiersprachen eingesetzt werden.
+Das Modul „Sichere Systemprogrammierung“ gibt den Studierenden einen Einblick in das sichere Programmieren von Anwendungen für sicherheitskritische (autonome) Systemen. Hierbei werden zum einen Regel für unsichere Sprachen, wie z.B. C, und zum anderen sichere Programmsprachen, wie z.B. ADA, betrachtet. In praktischen Beispielen wird untersucht, wie Regeln bzw. Programmiersprachen helfen, Fehler bei der Umsetzung einer sicherheitskritischen Anwendung zu vermeiden.
+Teil 1 – Einführung in die sichere Programmierung
+Teil 1 – MISRA C
+Teil 2 – Programmierung in ADA und SPARK
+
+Sichere Programmierung (Praktikum):
+In praktischen Beispielen soll das Wissen der Vorlesung verfestigt werden:
+	- Software-Analyse von Programmbeispiele
+	- Programmierung nach MISRA-C
+	- Programmierung in Ada</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: [1] OWASP Secure Coding Pratices Quick Reference Guide, 2010
+[2] John Barnes; Programming in Ada 2012, Cambridge University Press, 2014
+[3] John W. McCormick, Building High Integrity Applications with SPARK, Cambridge University Press, 2015
+[4] Brian W. Kernighan; The C Programming Language; Prentice Hall 2000
+[5] MISRA C: 2012 Guidlines for the use of the C language in critical systems, 2012
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=15523&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:15523#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:15523#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:15523#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:15523#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:15523"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:15523#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Sichere Programmierung (Vorlesung)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15523#1-1"/>
+    </learningEvent>
+    <learningEvent id="urn:thl:learning:spec:15523#1-2">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Sichere Programmierung (Praktikum)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15523#1-2"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:15523">
+      <identifier>15523</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 15523</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:15540#1">
+      <identifier>15540#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Spezielle Themen verteilter Systeme I</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Spezielle Themen verteilter Systeme I (Vorlesung):
+Die aktuellen Inhalte werden durch die Lehrenden festgelegt.
+
+Spezielle Themen verteilter Systeme I (Praktikum):
+Siehe VL</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: Die Literatur wird in der Veranstaltung bekannt gegeben.
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=15540&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:15540#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:15540#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:15540#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:15540#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:15540"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:15540#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Spezielle Themen verteilter Systeme I (Vorlesung)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15540#1-1"/>
+    </learningEvent>
+    <learningEvent id="urn:thl:learning:spec:15540#1-2">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Spezielle Themen verteilter Systeme I (Praktikum)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15540#1-2"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:15540">
+      <identifier>15540</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 15540</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:15557#1">
+      <identifier>15557#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Spezielle Themen verteilter Systeme II</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Spezielle Themen verteilter Systeme II (Vorlesung):
+Die aktuellen Inhalte werden durch die Lehrenden festgelegt.
+
+Spezielle Themen verteilter Systeme II (Praktikum):
+Siehe VL</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: Die Literatur wird in der Veranstaltung bekannt gegeben.
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=15557&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:15557#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:15557#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:15557#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:15557#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:15557"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:15557#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Spezielle Themen verteilter Systeme II (Vorlesung)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15557#1-1"/>
+    </learningEvent>
+    <learningEvent id="urn:thl:learning:spec:15557#1-2">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Spezielle Themen verteilter Systeme II (Praktikum)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:15557#1-2"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:15557">
+      <identifier>15557</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 15557</title>
+    </modul>
+  </learningSpecificationReferences>
+  <learningActivitySpecificationReferences>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15132#1-1">
+      <title lang="de">Architekturen und Paradigmen verteilter Systeme (Vorlesung)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15132#1-2">
+      <title lang="de">Architekturen und Paradigmen verteilter Systeme (Seminar)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15149#1-1">
+      <title lang="de">Cloud-native Programmierung (Vorlesung)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15149#1-2">
+      <title lang="de">Cloud-native Programmierung (Praktikum)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15166#1-1">
+      <title lang="de">Digital Impact (Seminar)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15183#1-1">
+      <title lang="de">Sicherheit verteilter Systeme (Vorlesung)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15183#1-2">
+      <title lang="de">Sicherheit verteilter Systeme (Praktikum)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15200#1-1">
+      <title lang="de">Verifikation und Konsistenzmodelle verteilter Systeme (Vorlesung)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15200#1-2">
+      <title lang="de">Verifikation und Konsistenzmodelle verteilter Systeme (Seminar)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15217#1-1">
+      <title lang="de">Verteilte Datenbank- und Informationssysteme (Vorlesung)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15217#1-2">
+      <title lang="de">Verteilte Datenbank- und Informationssysteme (Praktikum)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15234#1-1">
+      <title lang="de">Cloud-native Architekturen (Vorlesung)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15234#1-2">
+      <title lang="de">Cloud-native Architekturen (Praktikum)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15251#1-1">
+      <title lang="de">Programmierung verteilter Systeme (Vorlesung)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15251#1-2">
+      <title lang="de">Programmierung verteilter Systeme (Praktikum)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15268#1-1">
+      <title lang="de">Verteilte Eingebettete Systeme (Vorlesung)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15268#1-2">
+      <title lang="de">Verteilte Eingebettete Systeme (Projekt)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15285#1-1">
+      <title lang="de">Wissenschaftliches Projekt I (Pj)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15302#1-1">
+      <title lang="de">Wissenschaftliches Seminar</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15319#1-1">
+      <title lang="de">Seminar Verteilte Systeme</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15336#1-1">
+      <title lang="de">Sicherheit und Web Anwendungen (Online-Modul)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15353#1-1">
+      <title lang="de">Wissenschaftliches Projekt II (Pj)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15370#1-1">
+      <title lang="de">Hardware-basierte IT-Sicherheit (Vorlesung)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15370#1-2">
+      <title lang="de">Hardware-basierte IT-Sicherheit (Praktikum)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15387#1-1">
+      <title lang="de">Human-Computer Interfaces (Lecture)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15387#1-2">
+      <title lang="de">Human-Computer Interfaces (Practical Training)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15404#1-1">
+      <title lang="de">Intelligente verteilte Systeme (Vorlesung)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15404#1-2">
+      <title lang="de">Intelligente verteilte Systeme (Praktikum)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15421#1-1">
+      <title lang="de">Kryptoanalyse (Vorlesung)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15421#1-2">
+      <title lang="de">Kryptoanalyse (Praktikum)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15438#1-1">
+      <title lang="de">Kryptographie (Vorlesung)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15438#1-2">
+      <title lang="de">Kryptographie (Praktikum)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15455#1-1">
+      <title lang="de">Mikroprozessor-Design (Vorlesung)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15455#1-2">
+      <title lang="de">Mikroprozessor-Design (Praktikum)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15472#1-1">
+      <title lang="de">Mobile Anwendungen (Vorlesung)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15472#1-2">
+      <title lang="de">Mobile Anwendungen (Praktikum)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15489#1-1">
+      <title lang="de">Real-Time Systems (Lecture)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15489#1-2">
+      <title lang="de">Real-Time Systems (Practical Training)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15506#1-1">
+      <title lang="de">Sichere vernetzte Steuerungssysteme (Vorlesung)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15506#1-2">
+      <title lang="de">Sichere vernetzte Steuerungssysteme (Praktikum)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15523#1-1">
+      <title lang="de">Sichere Programmierung (Vorlesung)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15523#1-2">
+      <title lang="de">Sichere Programmierung (Praktikum)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15540#1-1">
+      <title lang="de">Spezielle Themen verteilter Systeme I (Vorlesung)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15540#1-2">
+      <title lang="de">Spezielle Themen verteilter Systeme I (Praktikum)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15557#1-1">
+      <title lang="de">Spezielle Themen verteilter Systeme II (Vorlesung)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:15557#1-2">
+      <title lang="de">Spezielle Themen verteilter Systeme II (Praktikum)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
+    </learningActivitySpecification>
+  </learningActivitySpecificationReferences>
+  <assessmentSpecificationReferences>
+    <assessmentSpecification id="urn:thl:assessment:spec:15132#1">
+      <title lang="de">Architekturen und Paradigmen verteilter Systeme</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <proves idref="urn:thl:learningoutcome:15132#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:15149#1">
+      <title lang="de">Cloud-native Programmierung</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:15149#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:15166#1">
+      <title lang="de">Digital Impact</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <proves idref="urn:thl:learningoutcome:15166#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:15183#1">
+      <title lang="de">Sicherheit verteilter Systeme</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <proves idref="urn:thl:learningoutcome:15183#1"/>
+      <hasPart idref="urn:thl:assessment:spec:15183#1.1"/>
+      <hasPart idref="urn:thl:assessment:spec:15183#1.2"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:15183#1.1">
+      <title lang="de">Sicherheit verteilter Systeme (Vorlesung)</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:15183#1.2">
+      <title lang="de">Sicherheit verteilter Systeme (Praktikum)</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:15200#1">
+      <title lang="de">Verifikation und Konsistenzmodelle verteilter Systeme</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <proves idref="urn:thl:learningoutcome:15200#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:15217#1">
+      <title lang="de">Verteilte Datenbank- und Informationssysteme</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:15217#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:15234#1">
+      <title lang="de">Cloud-native Architekturen</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:15234#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:15251#1">
+      <title lang="de">Programmierung verteilter Systeme</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <proves idref="urn:thl:learningoutcome:15251#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:15268#1">
+      <title lang="de">Verteilte Eingebettete Systeme</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <proves idref="urn:thl:learningoutcome:15268#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:15285#1">
+      <title lang="de">Wissenschaftliches Projekt I</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:15285#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:15302#1">
+      <title lang="de">Wissenschaftliches Seminar</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <proves idref="urn:thl:learningoutcome:15302#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:15319#1">
+      <title lang="de">Seminar Verteilte Systeme</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:15319#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:15336#1">
+      <title lang="de">Sicherheit und Webanwendungen</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <proves idref="urn:thl:learningoutcome:15336#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:15353#1">
+      <title lang="de">Wissenschaftliches Projekt II</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:15353#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:15370#1">
+      <title lang="de">Hardware-basierte IT-Sicherheit</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <proves idref="urn:thl:learningoutcome:15370#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:15387#1">
+      <title lang="de">Human-Computer Interfaces</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:15387#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:15404#1">
+      <title lang="de">Intelligente verteilte Systeme</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <proves idref="urn:thl:learningoutcome:15404#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:15421#1">
+      <title lang="de">Kryptoanalyse</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <proves idref="urn:thl:learningoutcome:15421#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:15438#1">
+      <title lang="de">Kryptographie</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <proves idref="urn:thl:learningoutcome:15438#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:15455#1">
+      <title lang="de">Mikroprozessor-Design</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:15455#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:15472#1">
+      <title lang="de">Mobile Anwendungen</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:15472#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:15489#1">
+      <title lang="de">Real-Time Systems</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:15489#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:15506#1">
+      <title lang="de">Sichere vernetzte Steuerungssysteme</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/oralExamen"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:15506#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:15523#1">
+      <title lang="de">Sichere Programmierung</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/oralExamen"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:15523#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:15540#1">
+      <title lang="de">Spezielle Themen verteilter Systeme I</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:15540#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:15557#1">
+      <title lang="de">Spezielle Themen verteilter Systeme II</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:15557#1"/>
+    </assessmentSpecification>
+  </assessmentSpecificationReferences>
+  <entitlementSpecificationReferences/>
+  <learningOpportunityReferences/>
+  <agentReferences>
+    <organization id="urn:epass:thl:organization:927">
+      <registration spatialID="http://publications.europa.eu/resource/authority/country/DEU">DUMMY-REGISTRATION</registration>
+      <type uri="http://data.europa.eu/esco/agent-type#academic-institution"/>
+      <prefLabel lang="de">Technische Hochschule Lübeck</prefLabel>
+      <hasLocation>
+        <spatialCode uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+      </hasLocation>
+    </organization>
+  </agentReferences>
+  <accreditationReferences/>
+  <scoringSchemeReferences/>
+  <semanticFrameworkReferences/>
+  <attachmentList/>
+  <proof/>
+</europassCredential>

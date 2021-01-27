@@ -1,0 +1,1885 @@
+<Modulbeschreibungen>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>IT-Management und E-Business</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Bachelor</M_Niveau>
+         <M_Stundenplankuerzel>ITMg</M_Stundenplankuerzel>
+         <M_Modulname_englisch> Systems</M_Modulname_englisch>
+         <M_Modulverantwortliche>Köhler, Andre, Prof. Dr.; Timm, Ulf J., Prof. Dr. </M_Modulverantwortliche>
+         <M_Fachbereich>Maschinenbau und Wirtschaft</M_Fachbereich>
+         <M_Studiengang>Wirtschaftsingenieurwesen, Master</M_Studiengang>
+         <M_Fachsemester>(Nicht festgelegt)</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SoSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Portfolio-Prüfung</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Die Lehrveranstaltung vermittelt Grundlagen und Methoden für das Verständnis von IT-Management und E-Business.</p>
+                  <p>Dabei wird ein Schwerpunkt die Analyse aktueller Fälle/Beispiele sein.</p>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik/>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>IT-Management und E-Business</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>ITMg</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>IT-Management and E-Business</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht>nein</L1_Anwesenheitspflicht>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body><ul><li>Vermittlung der Grundlagen von IT-Prozessen, IT-Governance und IT-Management</li>
+                     <li>Vermittlung der Grundlagen von E-Business, E-Marketing, E-Commerce und E-Procurement</li></ul><p>Studierende sollen die Fähigkeit erwerben, vorstehende Themen für einen möglichen Einsatz in ihrer späteren beruflichen Praxis beurteilen und Abhängigkeiten erkennen zu können.</p>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse>
+               <html>
+                  <body>
+                     <p>Die Lehrveranstaltung vermittelt Grundlagen und Methoden für das Verständnis von IT-Management und E-Business.</p>
+                     <p>Dabei wird ein Schwerpunkt die Analyse aktueller Fälle/Beispiele sein.</p>
+                  </body>
+               </html>
+            </L1_Lernergebnisse>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Literatur (in Auswahl):</p>
+                     <p/><ul><li>Div. aktuelle Artikel etc.</li>
+                     <li>Hans Robert Hansen, Gustaf Neumann: Wirtschaftsinformatik 1, Grundlagen und Anwendungen</li>
+                     <li>Tobias Kollmann: E-Business - Grundlagen elektronischer Geschäftsprozesse in der Net Economy, Gabler</li>
+                     <li>Kenneth C. Laudon, Jane P. Laudon, Detlef Schoder: Wirtschaftsinformatik - Eine Einführung, Pearson</li>
+                     <li>Christian Maaß: E-Business-Management, UTB</li>
+                     <li>Andreas Meier, Henrik Stormer: eBusiness &amp; eCommerce - Management der digitalen Wertschöpfungskette, Springer</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen>
+               <html>
+                  <body>
+                     <p>Die Veranstaltung kann auch von 2 Personen gelesen werden: eine für IT-Management und eine für E-Business.</p>
+                  </body>
+               </html>
+            </L1_Bemerkungen>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Produktionsmanagement und Fabrikplanung</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel/>
+         <M_Modulname_englisch>Production management and factory planning </M_Modulname_englisch>
+         <M_Modulverantwortliche>Rainer Lehmann; Prof. Dr. rer. pol. Dipl.-Ing. oec.</M_Modulverantwortliche>
+         <M_Fachbereich>Maschinenbau und Wirtschaft</M_Fachbereich>
+         <M_Studiengang>Wirtschaftsingenieurwesen, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SoSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Klausur</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>90</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Die Lehrveranstaltung befähigt Studierende: </p><ul><li>Strategische und operative Produktionsmanagement-Entscheidungen in einem Unternehmen vorzubereiten bzw. mitzugestalten</li>
+                  <li>Die wesentlichen Instrumente und Konzepte des Produktionsmanagements und der Fabrikplanung zu kennen und anwenden zu können</li></ul><p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik/>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Produktionsmanagement und Fabrikplanung</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel/>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Production management and factory planning</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body><ul><li>Einführung</li>
+                     <li>Fabrikplanung</li><ul><li>Fabrikplanungssystematik</li>
+                     <li>Standort- und Layoutplanung </li>
+                     <li>Fallstudie</li></ul><li>Produktionsmanagement</li><ul><li>Strategisches Produktionsmanagement</li>
+                     <li>Operatives Produktionsmanagement</li>
+                     <li>Fallstudie</li></ul></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Corsten, H.; Gössinger, R.: Produktionswirtschaft. Oldenbourg: München und Wien 2016</p>
+                     <p>Domschke, W.; Drexl, A.: Logistik: Standorte. München, Wien: Oldenbourg 1996 </p>
+                     <p>Eversheim, W.; Schuh, G. (Hrsg): Gestaltung von Produktionssystemen. Berlin u.a.: Springer 1999</p>
+                     <p>Grundig, C.-G.: Fabrikplanung. München: Hanser 2016</p>
+                     <p>Heizer, J.: Render; B. Operations Management. Boston et al.: Pearson: 2015</p>
+                     <p>McGrath, R. G.: The End of Competitive Advantage. Boston: Harvard Business Review Press 2013</p>
+                     <p>Schenk, M.; Wirth, S. (Hrsg.) Fabrikplanung und Fabrikbetrieb. Berlin u.a.: Springer 2004 </p>
+                     <p>Thonemann, U.: Operations Management. Pearson: München  2015</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Technische Investitionsplanung</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel/>
+         <M_Modulname_englisch>Technical Investment Planning</M_Modulname_englisch>
+         <M_Modulverantwortliche>Prof. Dr. rer. pol. Dipl.-Ing. Dipl. Wirtsch.-Ing. Uwe Koch</M_Modulverantwortliche>
+         <M_Fachbereich>Maschinenbau und Wirtschaft</M_Fachbereich>
+         <M_Studiengang>Wirtschaftsingenieurwesen, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SoSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Portfolio-Prüfung</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Die Lehrveranstaltung vermittelt Grundlagen und Methoden der Planung, so dass die Studierenden befähigt werden, in ihrer zukünftigen beruflichen Praxis technisch-fokussierte Investitionen in verschiedensten Branchen und Industrien konzipieren, dimensionieren und bewerten zu können.</p>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Technische Investitionsplanung</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel/>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Technical Investment Planning</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung>Test</L1_Studienleistung>
+            <L1_Dauer_SL_in_Minuten>120</L1_Dauer_SL_in_Minuten>
+            <L1_Bewertungssystem_SL>Bestehen</L1_Bewertungssystem_SL>
+            <L1_Lehrinhalte>
+               <html>
+                  <body><ul><li>Grundlagen der Investitions- und Fabrikplanung - Allgemeine Definition, Tätigkeitsprofile, Aufbauorganisation</li>
+                     <li>Konzeption und Auslegung technischer Anlagen</li>
+                     <li>Eindimensionale Bewertungsverfahren - Statische und dynamische Methoden</li>
+                     <li>Mehrdimensionale Bewertungsverfahren - Qualitative Bewertungsmethoden, Risikoanalysen, Sensitivitäten </li>
+                     <li>Fallstudien</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Grundig, Claus-Gerold: Fabrikplanung: Planungssystematik - Methoden – Anwendungen; 2018</p>
+                     <p>Wiendahl / Reichardt/ Nyhuis: Handbuch Fabrikplanung: Konzept, Gestaltung und Umsetzung wandlungsfähiger Produktionsstätten, 2014</p>
+                     <p>Kettner / Schmidt / Greim: Leitfaden der systematischen Fabrikplanung, 1984</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Operations Research</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel/>
+         <M_Modulname_englisch>Operations Research</M_Modulname_englisch>
+         <M_Modulverantwortliche>Rainer Lehmann; Prof. Dr. rer. pol. Dipl.-Ing. oec.</M_Modulverantwortliche>
+         <M_Fachbereich>Maschinenbau und Wirtschaft</M_Fachbereich>
+         <M_Studiengang>Wirtschaftsingenieurwesen, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>
+            <html>
+               <body>
+                  <p>150</p>
+               </body>
+            </html>
+         </M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Klausur</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>120</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Die Lehrveranstaltung befähigt Studierende, Fragestellungen im Bereich von Logistik und Produktion  mittels mathematischer Optimierungsverfahren zu lösen.</p>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik/>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Operations Research</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel/>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Operations Research</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL>Drittelnoten</L1_Bewertungssystem_SL>
+            <L1_Lehrinhalte>
+               <html>
+                  <body><ul><li>Einführung</li>
+                     <li>Lineare Optimierung</li>
+                     <li>Graphen und Netzwerke</li>
+                     <li>Heuristiken</li>
+                     <li>Ganzzahlige Optimierung</li>
+                     <li>Dynamische Optimierung</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Domschke, W.; Drexl, A.; Klein, Robert; Scholl, A.: Einführung Operations Research. Berlin, Heidelberg:Springer  2015</p>
+                     <p>Domschke, W.; Drexl, A.: Logistik: Transport. München: Oldenbourg 2007</p>
+                     <p>Dürr, W.; Kleibohm, K.: Operations Research. München, Wien: Hanser 1992</p>
+                     <p>Gohout, W.: Operations Research. München: Oldenbourg 2009</p>
+                     <p>Müller-Funk, H.: Operations Research. Konstanz: UVK  2005</p>
+                     <p>Müller-Merbach, H.: Operations Research. Vahlen: München 1973</p>
+                     <p>Neumann, K.; Morlock, M.: Operations Research. München, Wien: Hanser 2004</p>
+                     <p>Nickel, St.; Stein, O.; Waldmann, K.-H.: Operations Research. Berlin, Heidelberg:Springer  2014</p>
+                     <p>Suhl, L.; Mellouli, T.: Optimierungssysteme. Berlin, Heidelberg:Springer  2013</p>
+                     <p>Thonemann, U.: Operations Management – Konzepte, Methoden, Anwendungen. Pearson:  München 2010</p>
+                     <p>Werners, B.: Grundlagen des Operations Research. Berlin, Heidelberg:Springer  2013</p>
+                     <p>Zimmermann, H.-J.: Operations Research. Wiesbaden: Vieweg 2008</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Organisationspsychologie und Changemanagement</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>OCMg</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Beer, Sonja Dr.; Ladwig, Désirée H. Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Maschinenbau und Wirtschaft</M_Fachbereich>
+         <M_Studiengang>Wirtschaftsingenieurwesen, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Portfolio-Prüfung</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body><ul><li>Kenntnisse von Grundlagen, Methoden und Theorien zum erfolgreichen Gestalten von Zusammenarbeit in Organisationen</li>
+                  <li>Fähigkeit komplexe Gruppenprozesse kommunikativ zu bewerten und zu gestalten</li>
+                  <li>Entwicklung, Gestaltung und Bewertung von Innovations- und Veränderungsprozessen in Organisationen</li></ul><p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen>
+            <html>
+               <body>
+                  <p>Grundlagen Personalmanagement</p>
+               </body>
+            </html>
+         </M_Teilnahmevoraussetzungen>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Organisationspsychologie</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>OCMg Beer</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Seminar</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>2.5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>2</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>75</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>30</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>45</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung>(Flexibel)</L1_Studienleistung>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body><ul><li>
+                        <b>Grundlagen der Organisationspsychologie</b>
+                     </li><ul><li>Arbeitszufriedenheit und Arbeitsmotivation</li>
+                     <li>Coaching und Organisationsberatung</li></ul><li>
+                        <b>Grundlagen der Sozialpsychologie</b>
+                     </li><ul><li>Gruppenverhalten, Gruppenprozesse steuern</li>
+                     <li>Kommunikation</li></ul><li>
+                        <b>Grundlagen der Persönlichkeitspsychologie</b>
+                     </li><ul><li>Werte und Einstellungen</li>
+                     <li>Commitment</li></ul><li>
+                        <b>Grundlagen der Personalpsychologie</b>
+                     </li><ul><li>Personalentwicklung</li></ul></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body><ul><li>Dittrich-Brauner, Karin; Eberhard Dittmann, Volker List und Carmen Windisch: Interaktive Großgruppen. Change-Prozesse in Organisationen gestalten. 2. Aufl. Heidelberg: Springer, 2013</li>
+                     <li>Kanning, Peter Uwe und Thomas Staufenbiel: Organisationspsychologie. Reihe: Bachelorstudium Psychologie, Bd. 11. Göttingen: Hogrefe, 2012</li>
+                     <li>Kauffeld, Simone (Hrsg.): Arbeits-, Organisations- und Personalpsychologie. 2. Aufl. Berlin/Heidelberg: Springer, 2014</li>
+                     <li>König, Eckard und Gerda Volmer: Handbuch Systemische Organisationsberatung. Beltz: Weinheim und Basel, 2008</li>
+                     <li>Nerdinger, Friedemann W., Gerhard Blickle und Niclas Schaper (Hrsg.): Arbeits- und Organisationspsychologie. 3. Aufl. Berlin, Heidelberg: Springer, 2014</li>
+                     <li>Jonas/Stroebe/Newstone (Hrsg.) Sozialpsychologie, Springer Verlag Berlin Heidelberg 2014</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Changemanagement</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel>OCMg Ladwig</L2_Stundenplankuerzel>
+            <L2_Lehrveranstaltungsart>Seminar</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Präsenz</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte>2.5</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>2</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>75</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>30</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>45</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht/>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache>Deutsch</L2_Lehrsprache>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung>(Flexibel)</L2_Studienleistung>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte>
+               <html>
+                  <body><ul><li>
+                        <b>Grundlagen des Changemanagements</b>
+                     </li><ul><li>Psychologische Konsequenzen von Veränderungen</li>
+                     <li>Die Selbstverständlichkeit des Wandels</li>
+                     <li>Methoden zur Gestaltung von Veränderungsprozessen</li></ul><li>
+                        <b>Diversity Management</b>
+                     </li>
+                     <li>
+                        <b>Innovationsmanagement</b>
+                     </li><ul><li>Kreativitätstechniken, Wahrnehmung, Innovationszirkel etc.</li>
+                     <li>Produktinnovationen</li>
+                     <li>Prozessinnovationen</li></ul><li>
+                        <b>Organisationsentwicklung/Organisationskonzepte</b>
+                     </li>
+                     <li>
+                        <b>Wissensmanagement</b>
+                     </li>
+                     <li>
+                        <b>Komplexitätsmanagement</b>
+                     </li></ul><p/>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse/>
+            <L2_Literatur>
+               <html>
+                  <body><ul><li>Franz Lehner: Wissensmanagement: Grundlagen, Methoden und technische Unterstützung, Carl Hanser Verlag München, 5., aktualisierte und erw. Auflage 2014</li>
+                     <li>Georg Kraus; Christel Becker-Kolle; Thomas Fischer: Handbuch Change Management. Steuerung von Veränderungsprozessen in Organisationen, Einflussfaktoren und Beteiligte, Konzepte, Instrumente und Methoden, Cornelsen Vlg Scriptor 2., überarbeitete und erweiterte Auflage 2006</li>
+                     <li>Jürgen Hauschildt; Sören Salomo: Innovationsmanagement, Verlag Franz Vahlen GmbH München 5. Auflage 2011</li>
+                     <li>Michael Stuber: Diversity: das Potenzial-Prinzip; Ressourcen aktivieren, Zusammenarbeit gestalten, 2., aktualisierte und überarb. Auflage,  Luchterhand Verlag GmbH Köln 2009</li>
+                     <li>Thomas Stern; Helmut Jaberg: Erfolgreiches Innovationsmanagement: Erfolgsfaktoren – Grundmuster – Fallbeispiele, Gabler Verlag, GWV Fachverlage GmbH Wiesbaden 4., überarbeitete Auflage 2010</li>
+                     <li>Werner Pepels: Produktmanagement. Produktinnovation, Markenpolitik, Programmplanung, Prozessorganisation, Oldenbourg Wissenschaftsverlag GmbH München 6. Auflage 2013</li></ul><p/>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Simulation technischer Systeme</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>STS</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Simulation of Technological Systems</M_Modulname_englisch>
+         <M_Modulverantwortliche>Cremer, Ralf, Prof. Dr. Ing. Dipl.-Wirt. Ing.</M_Modulverantwortliche>
+         <M_Fachbereich>Maschinenbau und Wirtschaft</M_Fachbereich>
+         <M_Studiengang>Wirtschaftsingenieurwesen, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Portfolio-Prüfung</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Die Lehrveranstaltung vermittelt Grundlagen und aufbauende Methoden, so dass die Studierenden befähigt werden, in ihrer zukünftigen beruflichen Praxis komplexe technische Systeme zu planen und anhand der Simulation zu bewerten. Dazu zählt insbesondere die Anwendung der Simulation im Rahmen der Fabrikplanung. Nach Abschluss dieses Moduls sind die Studierenden in der Lage:</p><ul><li>die vermittelte Vorgehensweise zur Planung von Investitionen insbesondere in Fabrikanlagen sowie deren Fertigungseinrichtungen der produzierenden Unternehmen eigenständig anzuwenden.</li>
+                  <li>komplexe Zusammenhänge darzustellen und Lösungsansätze für die Layout-Gestaltung, Simulation und Optimierung von Fabriken und deren Prozesse mittels Software-Tools zu entwickeln.</li></ul><p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen>
+            <html>
+               <body>
+                  <p>Folgende Veranstaltungen sind zu empfehlen:</p><ul><li>Allgemeine Betriebswirtschaftslehre</li>
+                  <li>Investitionsrechnung</li>
+                  <li>Produktionstechnik</li>
+                  <li>Technische Investitionsplanung</li></ul><p/>
+               </body>
+            </html>
+         </M_Teilnahmevoraussetzungen>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Simulation technischer Systeme</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>STS</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body><ul><li>Einführung in die Systemplanung und Simulation</li><ul><li>Allgemeine Definition </li>
+                     <li>Tätigkeitsprofile</li>
+                     <li>Aufbauorganisation </li></ul><li>Struktur des Planungsprozesses</li><ul><li>Zielplanung</li>
+                     <li>Strukturplanung</li>
+                     <li>Ausführungsplanung</li></ul><li>Einführung in die Simulationssoftware FLEXSIM</li><ul><li>Fallstudien</li></ul><li>Projekt</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body><ul><li>Aggteleky, B.; Fabrikplanung - Werksentwicklung und Betriebsrationalisierung, Band 1: Grundlagen, Zielplanung, Vorarbeiten, Carl Hanser Verlag, München, Wien, 1998.</li>
+                     <li>Aggteleky, B.; Fabrikplanung - Werksentwicklung und Betriebsrationalisierung, Band 2: Betriebsanalyse, Feasibility- Studie, Carl Hanser Verlag, München, Wien, 2001.</li>
+                     <li>Aggteleky, B.: Fabrikplanung - Werksentwicklung und Betriebsrationalisierung, Band 3: Ausführungsplanung und Projektmanagement, Carl Hanser Verlag, München, Wien, 1990.</li>
+                     <li>Grundig, C.-G.; Fabrikplanung: Planungssystematik, Methoden, Anwendungen, München, Hanser Verlag, 2014.</li>
+                     <li>Kettner, H.; Leitfaden der systematischen Fabrikplanung, Hanser Fachbuchverlag, 2010.</li>
+                     <li>Nyhuis, von P., Wiendahl, H.-P.; Handbuch Fabrikplanung: Konzept, Gestaltung und Umsetzung wandlungsfähiger Produktionsstätten, Carl Hanser Verlag, 2014.</li>
+                     <li>Pawellek, G.; Ganzheitliche Fabrikplanung: Grundlagen, Vorgehensweise, VDI-Buch, Springer Verlag, Berlin, 2014.</li>
+                     <li>Wiendahl, H.-P.; Planung modularer Fabriken: Vorgehen und Beispiele aus der Praxis, Hanser Verlag, 2013.</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen>
+               <html>
+                  <body>
+                     <p>Seminaristische Vorlesung,</p>
+                     <p>Fallstudien mit umfangreichen Projektarbeiten</p>
+                  </body>
+               </html>
+            </L1_Bemerkungen>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Advanced Planning Systems</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel/>
+         <M_Modulname_englisch>Advanced Planning Systems</M_Modulname_englisch>
+         <M_Modulverantwortliche>Lohmann, Rüdiger, Prof. Dr.-Ing.</M_Modulverantwortliche>
+         <M_Fachbereich>Maschinenbau und Wirtschaft</M_Fachbereich>
+         <M_Studiengang>Wirtschaftsingenieurwesen, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>7.5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>6</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>225</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>90</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>135</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SoSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Klausur</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>90</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Die Studierenden lernen die verschiedenen Ebenen des Supply Chain Plannings in der Theorie und in der Anwendung mit mySAP SCM kennen</p>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen>
+            <html>
+               <body>
+                  <p>Grundkenntnisse in SAP ERP (z.B. Integrierte Systeme, Bachelor Wi) sind wünschenswert, können aber ggf. modulbegleitend nachgeholt werden. Weiterhin sind die Grundlagen der Betriebsorganisation (z.B: Produkt- und Prozessentwicklung, Bachelor Wi) erforderlich.</p>
+               </body>
+            </html>
+         </M_Teilnahmevoraussetzungen>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit>
+            <html>
+               <body>
+                  <p>Supply Chain Management, Operations Research</p>
+               </body>
+            </html>
+         </M_Verwendbarkeit>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Advanced Planning Systems</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>APS</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Advanced Planning Systems</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>7.5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>6</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>225</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>90</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>135</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung>keine</L1_Teilnahmebeschraenkung>
+            <L1_Gruppengroesse>20</L1_Gruppengroesse>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body><ul><li>
+                        <b>S&amp;OP und Produktionsprogrammplanung im ERP-Umfeld</b>, </li>
+                     <li>
+                        <b/>
+                        <b/>
+                        <b/>
+                        <b/>
+                        <b>Advanced Planning Systems (APS) </b>
+                        <b/>
+                     </li><ul><li>Anforderungen von SCM and IT-Systeme</li>
+                     <li>Grundgedanken des Konzeptes APS</li>
+                     <li>Vorteile und Risiken dieses Konzeptes</li>
+                     <li>Abgrenzung zu ERP-Software (SAP ERP) </li></ul><li>
+                        <b/>
+                        <b/>
+                        <b/>
+                        <b/>
+                        <b>Einführung SAP APO</b>
+                        <b/>
+                     </li>
+                     <li>Überblick über die Komponenten (DP, SNP,…)</li>
+                     <li>Realisierungsbeispiele</li>
+                     <li>Handling des SAP - APO</li>
+                     <li>Sales &amp; Operations Planning Process (S&amp;OP)</li>
+                     <li>
+                        <b/>
+                        <b/>
+                        <b/>
+                        <b/>
+                        <b>Demand Planning (DP)</b>
+                        <b/>
+                     </li><ul><li>Einbindung in Planungsaktivitäten im Unternehmen</li>
+                     <li>Stärken / Schwächen</li>
+                     <li>einfache und komplexe Prognosetechniken</li></ul><li>
+                        <b/>
+                        <b/>
+                        <b/>
+                        <b/>
+                        <b>Supply Network Planning (SNP)</b>
+                        <b/>
+                     </li><ul><li>Aufbau eines Netzwerkes</li>
+                     <li>manuelle Bedarfsübergabe</li>
+                     <li>Optimierungstechniken</li>
+                     <li>Vergleich zu S&amp;OP u. Programmplanung im ERP</li></ul></ul><p/>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse>
+               <html>
+                  <body>
+                     <p>Beispiel: Die Studierenden können die Verfahren der deskriptiven Statistik selbstständig anwenden.</p>
+                  </body>
+               </html>
+            </L1_Lernergebnisse>
+            <L1_Literatur>
+               <html>
+                  <body><ul><li>SAP APO-System, vorbereitete Fallstudien und Vortragsunterlagen</li>
+                     <li>Supply Chain Management mit SAP APO, Bartsch u.a., Galileo Press, Bonn</li>
+                     <li>Supply Chain Management with APO: Structures, Modelling Approaches and Implementation Pecularities, Dickersbach, Springer Verlag, Berlin </li>
+                     <li>Supply Chain Management auf Basis von SAP-Systemen, Mertens u.a., Springer Verlag, Berlin - Supply Chain Management and Advanced Planning: Concepts, Models, Software, and Case Studies, Stadtler, Kilger, Springer Verlag, Berlin </li>
+                     <li>Absatz- und Bestandsplanung mit SAP APO, Hoppe, Galileo Press, Bonn</li>
+                     <li>Demand and Supply Planning with SAP APO, Pradhan, Galileo Press, Bonn</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Strategisches Produktionscontrolling und Fallstudien</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>SPC/FSPC</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Controlling in Production Industry</M_Modulname_englisch>
+         <M_Modulverantwortliche>Cremer, Ralf, Prof. Dr. Ing. / Steidl, Martin, Dipl.-Wirt. Ing.</M_Modulverantwortliche>
+         <M_Fachbereich>Maschinenbau und Wirtschaft</M_Fachbereich>
+         <M_Studiengang>Wirtschaftsingenieurwesen, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>7.5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>6</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>225</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>90</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>135</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SoSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Portfolio-Prüfung</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Die Lehrveranstaltung vermittelt Grundlagen und innovative Methoden, so dass die Studierenden befähigt werden, in ihrer zukünftigen beruflichen Praxis das strategische Controlling projektorientiert in der produzierenden Industrie durchzuführen und weiterzuentwickeln. Nach Abschluss dieses Moduls sind die Studierenden in der Lage:</p><ul><li>die Schwerpunkte von strategischen Controllingfunktionen in produzierenden Unternehmen zu erklären und diese für unterschiedlichste strategische Planungsprozesse eigenständig anzuwenden</li>
+                  <li>komplexe Zusammenhänge zu erfassen, diese in den unternehmerischen Kontext zu stellen und Lösungsansätze für unterschiedlichste Fragestellungen in produzierenden Unternehmen zu entwickeln.</li>
+                  <li>umfassende aktuelle Fallstudien durchzuführen und eigenständig Lösungen für die u.g. Inhalte zu entwickeln.</li></ul><p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen>
+            <html>
+               <body>
+                  <p>Folgende Vorkenntnisse sind zu empfehlen:</p><ul><li>Allgemeine Betriebswirtschaftslehre</li>
+                  <li>Produktionswirtschaft</li>
+                  <li>Investitionsrechnung</li>
+                  <li>Rechnungswesen</li>
+                  <li>Produktionscontrolling</li>
+                  <li>Finanz- und Beteiligungscontrolling</li></ul><p/>
+               </body>
+            </html>
+         </M_Teilnahmevoraussetzungen>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Strategisches Produktionscontrolling</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>SPC</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Controlling in Production Industry</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body><ul><li>Grundlagen des Controlling</li><ul><li>Allgemeine Definition </li>
+                     <li>Operatives Produktionscontrolling</li>
+                     <li>Status Strategisches Controlling </li></ul><li>Strategisches Controlling</li><ul><li>Strategische Planung</li>
+                     <li>Strategische Plankontrolle – Frühwarnung</li></ul><li>Methoden des strategischen Controlling</li><ul><li>Marktorientiertes Kostenmanagement -Target Costing</li>
+                     <li>Fallbeispiel Strategieplan</li>
+                     <li>Make or Buy Entscheidung</li>
+                     <li>Benchmarking</li>
+                     <li>Portfolio</li>
+                     <li>Szenariotechnik</li>
+                     <li>Lebenszykluskurven</li></ul></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body><ul><li>Horvath, P., Controlling, München, Vahlen, 2015.</li>
+                     <li>Kerth, K., Asum, H.; Die besten Strategietools in der Praxis, München, Carl Hanser Verlag, 2015.</li>
+                     <li>Kralicek, P., Böhmdorfer, F.; Kennzahlen für Geschäftsführer, Wien/Frankfurt, Wirtschaftsverlag Ueberreuter, 2013.</li>
+                     <li>Reichmann, T.; Controlling mit Kennzahlen, München, Vahlen, 2017.</li>
+                     <li>Gathen, von der A.; Das große Handbuch der Strategieinstrumente, Frankfurt, Campus Verlag, 2014.</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen>
+               <html>
+                  <body>
+                     <p>Seminaristische Vorlesung,</p>
+                     <p>Fallstudien mit Projektarbeiten</p>
+                  </body>
+               </html>
+            </L1_Bemerkungen>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname>Fallstudien - Strategisches Produktionscontrolling</L2_Lehrveranstaltungsname>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel>FSPC</L2_Stundenplankuerzel>
+            <L2_Lehrveranstaltungsart>Seminar</L2_Lehrveranstaltungsart>
+            <L2_Lernform>Präsenz</L2_Lernform>
+            <L2_Lehrveranstaltungsname_englisch>Business Cases in Controlling</L2_Lehrveranstaltungsname_englisch>
+            <L2_ECTS_Leistungspunkte>2.5</L2_ECTS_Leistungspunkte>
+            <L2_Semesterwochenstunden>2</L2_Semesterwochenstunden>
+            <L2_Arbeitsaufwand_in_Stunden>75</L2_Arbeitsaufwand_in_Stunden>
+            <L2_Praesenzstunden>30</L2_Praesenzstunden>
+            <L2_Selbststudiumsstunden>45</L2_Selbststudiumsstunden>
+            <L2_Anwesenheitspflicht/>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache>Deutsch</L2_Lehrsprache>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Fallstudie: Sanierung eines Unternehmens</p>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse/>
+            <L2_Literatur>
+               <html>
+                  <body>
+                     <p>siehe Vorlesung Strategisches Produktionscontrolling</p>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Telematik-Anwendungen</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel/>
+         <M_Modulname_englisch>Applied Telematics</M_Modulname_englisch>
+         <M_Modulverantwortliche>Prof. Dr. rer. pol. Dipl.-Ing. Dipl. Wirtsch.-Ing. Uwe Koch</M_Modulverantwortliche>
+         <M_Fachbereich>Maschinenbau und Wirtschaft</M_Fachbereich>
+         <M_Studiengang>Wirtschaftsingenieurwesen, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Portfolio-Prüfung</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Die Lehrveranstaltung befähigt die Studierenden, Anwendungen von Telematik zu konzipieren und zu bewerten.</p>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Telematik-Anwendungen</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel/>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Applied Telematics</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung>Test</L1_Studienleistung>
+            <L1_Dauer_SL_in_Minuten>120</L1_Dauer_SL_in_Minuten>
+            <L1_Bewertungssystem_SL>Bestehen</L1_Bewertungssystem_SL>
+            <L1_Lehrinhalte>
+               <html>
+                  <body><ul><li>Elemente der Verkehrs-Telematik - Ortung mobiler Objekte im Verkehrsgeschehen</li>
+                     <li>Wirtschaftlichkeitsbetrachtungen - Konzept des TCO Total Cost of Ownership </li>
+                     <li>IT-Sicherheit - Sicherheitskonzepte </li>
+                     <li>Zielfindungs- und Zielführungssysteme- Verkehrsleitsysteme, - Parkhausleitsysteme </li>
+                     <li>Routenoptimierungssysteme - Flottenmanagementsysteme </li>
+                     <li>Road Pricing - Mautsysteme</li>
+                     <li>Identifikationssysteme - LBS Location Based Services </li>
+                     <li>Biometrische Verfahren -Wahrnehmung, Visualisierung </li>
+                     <li>GIS - Geographische Informationssysteme</li>
+                     <li>Spezielle Anwendungen von Telematik Landwirtschaft, Medizin, Touristik, Logistik, Hausautomation etc.</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Dochow: Grundlagen und normativer Rahmen der Telematik im Gesundheitswesen; 2017</p>
+                     <p>Leitfaden Verkehrs-Telematik-Hinweise zur Planung und Nutzung in Kommunen und Kreisen, TU Darmstadt, ZIV – Zentrum für integrierte Verkehrssysteme, 2005</p>
+                     <p>Evers, Harry. (Hrsg.): Kompendium der Verkehrs-Telematik; Technologien, Applikationen, Perspektiven</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Supply Chain Management</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>SCM</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Prof. Dr. André Köhler</M_Modulverantwortliche>
+         <M_Fachbereich>Mechanical Engineering and Business Administration</M_Fachbereich>
+         <M_Studiengang>Business Administration and Engineering, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Compulsory</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>German/English</M_Lehrsprache>
+         <M_Pruefsprache>German/English</M_Pruefsprache>
+         <M_Bewertungssystem_PL>One-third Grades</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Portfolio Exam</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>90</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>After successful completion of this course, the students will be able to:</p><ol><li>Take cultural aspects of the participants of a supply chain into account.</li>
+                  <li>Prepare strategic and operational supply chain management decisions in various enterprises </li>
+                  <li>Understand, analyze and evaluate major SCM tools and concepts</li>
+                  <li>Apply SCM concepts in practice</li></ol><p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen>
+            <html>
+               <body>
+                  <p>Students gain methodical competence</p>
+               </body>
+            </html>
+         </M_Bemerkungen>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Supply Chain Management</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel/>
+            <L1_Lehrveranstaltungsart>Lecture</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht>true</L1_Anwesenheitspflicht>
+            <L1_Teilnahmebeschraenkung>20</L1_Teilnahmebeschraenkung>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>German/English</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body><ul><li>Introduction to SCM </li><ul><li>From logistics to SCM</li>
+                     <li>Goals and principles of SCM</li></ul><li>Supply Chain Design and Operations</li><ul><li>Best practice examples</li>
+                     <li>Special SCM tools (VMI, ECR, JIT, 3 and 4 PL)</li>
+                     <li>Selected quantitative models</li>
+                     <li>Change management</li></ul><li>SCM information systems </li><ul><li>E-Business</li></ul><li>Case study/Exercise:</li>
+                     <li>Business Game SCM</li>
+                     <li>Usage of cultural diversity</li></ul><p/>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Chopra, S.; Meindl, P. ; Supply Chain Management</p>
+                     <p>Pearson Education Limited; Auflage: 6th Global ed Mai 2016</p>
+                     <p>Corsten, D.; Gabriel, Chr.: Supply Chain Management</p>
+                     <p>erfolgreich umsetzen. Berlin u.a.: Springer 2002</p>
+                     <p>Corsten, D.; Gössinger, R.: Einführung in das Supply Chain</p>
+                     <p>Management. München, Wien: Oldenbourg 2001</p>
+                     <p>Eißig, M. (Hrsg.): Perspektiven des Supply Chain</p>
+                     <p>Managements. Berlin et al: Springer 2005</p>
+                     <p>Kuhn, A.; Hellingrath, H.: Supply Chain Management.</p>
+                     <p>Berlin u.a.: Springer 2002</p>
+                     <p>Schönsleben, P.: Integrated Logistics Management. Boca</p>
+                     <p>Raton et al: St. Lucie 2000</p>
+                     <p>Simchi-Levi, D.; Kaminsky, P.; Simchi-Levi, E. Designing and Managing the Supply Chain; Mcgraw-Hill Education - Europe; Auflage: 4 Rev ed. 2016</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen>
+               <html>
+                  <body>
+                     <p>Students achieve methodical and social skills</p>
+                  </body>
+               </html>
+            </L1_Bemerkungen>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Verkehrsbetriebslehre</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>VBL</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Management of transport companies</M_Modulname_englisch>
+         <M_Modulverantwortliche>Prof. Dr. rer. pol. Dipl.-Ing. Dipl. Wirtsch.-Ing. Uwe Koch</M_Modulverantwortliche>
+         <M_Fachbereich>Maschinenbau und Wirtschaft</M_Fachbereich>
+         <M_Studiengang>Wirtschaftsingenieurwesen, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Portfolio-Prüfung</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Die Lehrveranstaltung befähigt die Studierenden, Dienstleistungen in Verkehr und Logistik analysieren und bewerten zu können. Darüber hinaus werden Fähigkeiten für das Management von Verkehrs- und Logistikbetrieben vermittelt.</p>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach/>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Verkehrsbetriebslehre</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel/>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Management of transport companies</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung>Test</L1_Studienleistung>
+            <L1_Dauer_SL_in_Minuten>120</L1_Dauer_SL_in_Minuten>
+            <L1_Bewertungssystem_SL>Bestehen</L1_Bewertungssystem_SL>
+            <L1_Lehrinhalte>
+               <html>
+                  <body><ul><li>Unternehmensformen in Verkehr und Logistik - Verkehrsunternehmen, Spediteure, Logistikdienstleister, Reedereien etc.</li>
+                     <li>Anforderungen an Verkehrsbetriebe und Logistikdienstleister - Besonderheiten der betrieblichen Leistungserstellung</li>
+                     <li>Kerngedanken des Supply Chain Managements -Gestaltungsparameter, Rahmenbedingungen</li>
+                     <li>Vorgehen zur Planung der Transportlogistik - Analyse von Transport- und Distributionsnetzen</li>
+                     <li>Kontraktlogistik- Bestandteile, Kennzeichen, Voraussetzungen</li>
+                     <li>Problembereiche der Kontraktlogistik - Inhalte von Ausschreibungen</li>
+                     <li>Spezielle Logistik -Automobil-, Textil-, Kühl-, Getränke-, Gefahrgut-Logistik u.a.</li>
+                     <li>Beschaffungskonzepte</li>
+                     <li>Instrumente des Controllings für Verkehrs- und Logistikbetriebe -Aspekte der Preisgestaltung für Dienstleistungen in Logistik- und Verkehr</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Clausen / Geiger (Hrsg.): Verkehrs- und Transportlogistik, Springer-Verlag Berlin Heidelberg 2013</p>
+                     <p>Holderied, C.: Güterverkehr, Spedition und Logistik: Managementkonzepte für Güterverkehrs-betriebe, Speditionsunternehmen und logistische Dienstleister, 2005</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Businessplan</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>BPI</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Business plan</M_Modulname_englisch>
+         <M_Modulverantwortliche>Klein, Jürgen, Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Maschinenbau und Wirtschaft</M_Fachbereich>
+         <M_Studiengang>Wirtschaftsingenieurwesen, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SoSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Projektarbeit</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Zur Bearbeitung der einzelnen Businessplanbestandteile verfügen die Studierenden über erweitertes Wissen in angrenzenden Bereichen und erschließen darüber hinaus Informationen eigenständig über geeignete</p>
+                  <p>Dokumentenrecherche, Internet und/oder empirische Erhebungen.</p>
+                  <p>Die gesammelten Informationen müssen bewertet, beurteilt, verglichen und themenspezifisch als Präsentation aufbereitet</p>
+                  <p>werden. Bei unvollständigen oder widersprüchlichen Informationen wägen die Studierenden diese gegeneinander ab und entwickeln Lösungsmöglichkeiten für den Umgang fehlenden oder uneinheitlichen Informationen. </p>
+                  <p>Der Aufbau des Businessplanseminars bedingt, dass die Studierenden fachliche Entwicklungen anderer Kommilitonen ebenfalls gezielt fördern, bereichsspezifische und -übergreifende Diskussionen führen sowie wertschätzendes Feedback auf die Zwischenpräsentationen der anderen Seminarteilnehmer geben.</p>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Businessplan</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>BPI</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Seminar</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Business Plan</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Im Rahmen der Veranstaltung werden die Geschäftsideen für eine potenzielle Unternehmensgründung gesammelt, bewertet und in Form eines detaillierten Business Plans ausgearbeitet. Mittels Fachvorträgen zu den einzelnen Bestandteilen des Business Plans soll dessen Relevanz für die unternehmerische Praxis gezeigt werden. Die Studierenden arbeiten in Arbeitsgruppen einen vollständigen Businessplan selbstständig aus. </p>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Ries, E. (2017). The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses. London: Penguin Books.</p>
+                     <p>Kollmann, T. (2016). E-Entrepreneurship: Grundlagen der Unternehmensgründung in der Digitalen Wirtschaft. 6. Auflage. Wiesbaden: Springer Gabler. </p>
+                     <p>Kailer, N.; Weiß, G. (2018). Gründungsmanagement kompakt: Von der Idee zum Businessplan. Wien: Linde Verlag</p>
+                     <p>Hering, T.; Olbrich, M.; Klein, A. (2018). Unternehmensnachfolge (Lehr- und Handbücher der Wirtschaftswissenschaft). Berlin: Walter de Gruyter GmbH.</p>
+                     <p>Fueglistaller, U.; Müller, C.; Volery, T. (2016). Entrepreneurship. Modelle – Umsetzung – Perspektiven. Wiesbaden: Gabler.</p>
+                     <p>Vollmann, S. (2018). Innovationsmanagement unter extremer Unsicherheit: Neue Methoden zur Ideenbewertung zu Beginn des Innovationsprozesses. Marburg: Büchner Verlag</p>
+                     <p>Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderheiten, Aufgaben und Lösungsansätze für Gründungsunternehmen. Wiesbaden: Springer Gabler</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Entrepreneurial Behavior</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>EB</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Entrepreneurial Behavior</M_Modulname_englisch>
+         <M_Modulverantwortliche>Scheiner, Christian, Prof. Dr. / Klein, Jürgen, Prof. Dr. </M_Modulverantwortliche>
+         <M_Fachbereich>Maschinenbau und Wirtschaft</M_Fachbereich>
+         <M_Studiengang>Wirtschaftsingenieurwesen, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>3</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>45</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>105</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SoSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Portfolio-Prüfung</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Nach der Teilnahme an der Veranstaltung sind die Studierenden in der Lage, psychologische Eigenschaften und Prozesse von Entrepreneuren und unternehmerischen Teams zu analysieren und zu bewerten, unternehmerische Denk- und Handlungsprinzipien anzuwenden, theoretisch fundierte unternehmerische Entscheidungen zu treffen, Motivationskonzepte zu bewerten, Personal zu führen und zu entwickeln sowie den Einfluss des Entrepreneurial Spirit auf die Handlungen einzuschätzen und zu bewerten.</p>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Entrepreneurial Behavior</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>EB</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Entrepreneurial Behavior</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>3</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>45</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>105</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body><ul><li>Psychologie von UnternehmerInnen und unternehmerischen Teams</li>
+                     <li>Unternehmerische Entscheidungsfindung und Umsetzung</li>
+                     <li>Motivation von MitarbeiterInnen</li>
+                     <li>Personalführung und Persönlichkeitsentwicklung</li>
+                     <li>Einfluss der unternehmerischen Leidenschaft auf die Handlungen von Entrepreneuren</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body><ul><li>Ansfried B. Weinert: <i>Organisations- und Personalpsychologie</i> - Beitz Verlag, Basel, 2004</li>
+                     <li>Lutz von Rosenstiel, Friedemann W. Nerdinger: <i>Grundlagen der Organisationspsychologie</i> - Schaeffer Poeschel Verlag, 7. überarbeitete Auflage</li>
+                     <li>Lioba Werth: <i>Psychologie für die Wirtschaft</i> - Spektrum Akademischer Verlag, 2004</li>
+                     <li>Dieter Frey, Hans Werner Bierhoff: <i>Sozialpsychologie - Interaktion und Gruppe</i> - Hogrefe Verlag, Göttingen 2011</li>
+                     <li>Peter Dowling, Marion Festing, Allen D. Engle: <i>International Human Resource Management</i> - 5th Edition, London, 2008</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen>
+               <html>
+                  <body>
+                     <p>Die Veranstaltung besteht aus einer Vorlesung, einer Übung sowie aus einer betreuten Bearbeitung einer Fallstudie.</p>
+                  </body>
+               </html>
+            </L1_Bemerkungen>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Verhandlungsführung</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>Verh</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Negotiations</M_Modulname_englisch>
+         <M_Modulverantwortliche>Scheiner, Christian, Prof. Dr. / Klein, Jürgen, Prof. Dr. </M_Modulverantwortliche>
+         <M_Fachbereich>Maschinenbau und Wirtschaft</M_Fachbereich>
+         <M_Studiengang>Wirtschaftsingenieurwesen, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>3</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>45</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>105</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SoSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Portfolio-Prüfung</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Die Studierenden kennen grundlegende Kommunikations- und Verhandlungstechniken und können diese in typischen Gesprächssituationen von Führungskräften und in einer eigenen Verhandlung erfolgreich anwenden.</p>
+                  <p>Sie lernen außerdem, ihre eigene Wirkung auf andere durch Auftreten, Sprache und Verhalten in Gesprächen einzuschätzen und zu steuern.</p>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Verhandlungsführung</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>Verh</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Negotiations</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>3</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>45</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>105</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body><ul><li>Grundlagen der Verhandlungsführung</li>
+                     <li>Prozessschritte von Verhandlungen</li>
+                     <li>Verhandlungszusammenhänge</li>
+                     <li>Individuelle Verhandlungsdifferenzen</li>
+                     <li>Lösungen für Verhandlungsdifferenzen</li>
+                     <li>Emotionen in Verhandlungen</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body><ul><li>Hollensen, Oprensik: <i>Marketing - A relationship approach</i> - Vahlen Verlag, München, 2010</li>
+                     <li>Kotter: <i>Wie Manager richtig führen</i> - München / Wien, 1999</li>
+                     <li>Küpper, Ortmann: <i>Mikropolitik. Rationalität, Macht und Spiele in Organisationen</i> - Opladen, 2. Auflage, 1992</li>
+                     <li>Lürssen, Opresnik: <i>Die heimlichen Spielregeln der Karriere. Wie Sie die ungeschriebenen Gesetze am Arbeitsplatz für ihren Erfolg nutzen</i> - 3. Auflage, Frankfurt / New York, 2010</li>
+                     <li>Neuberger: <i>Mikropolitik. Der alltägliche Aufbau und Einsatz von Macht in Organisationen</i> - 2. Auflage, Stuttgart, 2006</li>
+                     <li>Opresnik: <i>Die Geheimnisse erfolgreicher Verhandlungsführung - Besser verhandeln - in jeder Beziehung</i> - Springer, 2013</li>
+                     <li>Opresnik, Rennhak: <i>Allgemeine Betriebs- und Managementlehre, Grundlagen und Praxis einer integrierten marktorientierten Unternehmensführung</i> - Gabler, 2011</li>
+                     <li>Seifert: <i>Visualisieren - Präsentieren - Moderieren</i> - 23. Auflage, Offenbach, 2009</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen>
+               <html>
+                  <body>
+                     <p>Die Veranstaltung besteht aus einer Vorlesung, einer Übung sowie aus einer betreuten Bearbeitung einer Fallstudie.</p>
+                  </body>
+               </html>
+            </L1_Bemerkungen>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Entrepreneurship in der digitalen Wirtschaft</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel/>
+         <M_Modulname_englisch>Entrepreneurship in the digital economy</M_Modulname_englisch>
+         <M_Modulverantwortliche>Scheiner, Christian, Prof. Dr. / Klein, Jürgen, Prof. Dr. </M_Modulverantwortliche>
+         <M_Fachbereich>Maschinenbau und Wirtschaft</M_Fachbereich>
+         <M_Studiengang>Wirtschaftsingenieurwesen, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>3</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>45</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>105</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch/Englisch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Portfolio-Prüfung</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body><ul><li>Die Studierenden erkennen somit die wichtigsten Fragestellungen im Rahmen eines Gründungsprozesses und verfügen anschließend über breites Wissen einschließlich der wissenschaftlichen Grundlagen und der praktischen Anwendung zur Bedeutung des Entrepreneurships im volks- und betriebswirtschaftlichen Kontext. Sie können ihr Wissen abrufen und ergänzt um eigene Beispiele, in einem geänderten Kontext wiedergeben. Die Studierenden können Merkmale und Faktoren erfolgreicher Unternehmensgründungen erschließen und Gründungsideen anhand von Kriterien und erworbenen Methoden bewerten sowie eigenständig entwickeln und visualisieren.</li>
+                  <li>Die Themen werden außerdem mit praktischen und aktuellen Schwerpunktthemen verknüpft um so einen Anwendungsbezug darzustellen.</li>
+                  <li>Einzelaspekte der Veranstaltung werden anhand von ausgewählten Fallstudien (in englischer Sprache) vertieft.</li>
+                  <li>Die Studierenden können wissenschaftliche Grundlagen sowie spezialisiertes und vertieftes Fachwissen im Innovations- und Technologiemanagement erläutern und anwenden.</li>
+                  <li>Die Studierenden können Arbeitsschritte bei der Lösung von Problemen auch in neuen und unvertrauten sowie fachübergreifenden Kontexten des Innovations- und Technologiemanagements planen und durchführen.</li>
+                  <li>Die Studierenden können Ziele für die eigene Entwicklung definieren sowie eigene Stärken und Schwächen reflektieren, die eigene Entwicklung planen sowie mit Blick auf gesellschaftlichen Auswirkungen reflektieren.</li>
+                  <li>Die Studierenden können in Gruppen kooperativ und verantwortlich arbeiten sowie das eigene Kooperationsverhalten in Gruppen kritisch reflektieren und erweitern.</li></ul><p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Entrepreneurship und Innovation</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel/>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Entrepreneurship in the digital economy</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>3</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>45</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>105</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch/Englisch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body><ul><li>Im Rahmen der Veranstaltung erhalten die Studierenden unter anderem einen Einblick in den unternehmerischen Prozess, das Erkennen von Geschäftsmöglichkeiten sowie die Gestaltung und Veränderung von jungen Unternehmen. Daneben werden die Studierenden in die Lage versetzt, Geschäftsmodelle auf einfacher Ebene zu verstehen. Gleichzeitig umfasst die Veranstaltung die Strategieentwicklung, grundsätzliche Aspekte des unternehmerischen Marketing, Wachstumsformen und -strategien, Unternehmertum im Kontext etablierter Unternehmen sowie Social Entrepreneurship.</li>
+                     <li>Bei der Behandlung der genannten Aspekte wird ein Schwerpunkt auf Gründungen in der digitalen Wirtschaft gelegt.</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body><ul><li>Bygrave &amp; Zacharakis: <i>The Portable MBA in Entrepreneurship</i> - Wiley-Verlag: 2010</li>
+                     <li>Bygrave &amp; Zacharakis: <i>Entrepreneurship</i> - Wiley-Verlag: 3. Auflage 2013</li>
+                     <li>Hisrich, Peters &amp; Shepherd: <i>Entrepreneurship</i> - McGraw-Hill: International Edition 2010</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen>
+               <html>
+                  <body>
+                     <p>Die Veranstaltung besteht aus einer Vorlesung, einer Übung sowie aus einer betreuten Bearbeitung einer Fallstudie.</p>
+                  </body>
+               </html>
+            </L1_Bemerkungen>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Entrepreneurship und Innovation</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel/>
+         <M_Modulname_englisch>Entrepreneurship and Innovation</M_Modulname_englisch>
+         <M_Modulverantwortliche>Scheiner, Christian, Prof. Dr. / Klein, Jürgen, Prof. Dr. </M_Modulverantwortliche>
+         <M_Fachbereich>Maschinenbau und Wirtschaft</M_Fachbereich>
+         <M_Studiengang>Wirtschaftsingenieurwesen, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>3</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>45</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>105</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch/Englisch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Portfolio-Prüfung</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body><ul><li>Die Studierenden können wissenschaftliche Grundlagen sowie spezialisiertes und vertieftes Fachwissen im Innovations- und Technologiemanagement erläutern und anwenden.</li>
+                  <li>Die Studierenden können Arbeitsschritte bei der Lösung von Problemen auch in neuen und unvertrauten sowie fachübergreifenden Kontexten des Innovations- und Technologiemanagements planen und durchführen.</li>
+                  <li>Die Studierenden können Ziele für die eigene Entwicklung definieren sowie eigene Stärken und Schwächen reflektieren, die eigene Entwicklung planen sowie mit Blick auf gesellschaftlichen Auswirkungen reflektieren.</li>
+                  <li>Die Studierenden können in Gruppen kooperativ und verantwortlich arbeiten sowie das eigene Kooperationsverhalten in Gruppen kritisch reflektieren und erweitern.</li></ul><p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Entrepreneurship und Innovation</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel/>
+            <L1_Lehrveranstaltungsart>Vorlesung</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Entrepreneurship and Innovation</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>3</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>45</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>105</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch/Englisch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body><ul><li>Die Veranstaltung beschäftigt sich mit den grundlegenden Theorien, Konzepten und Managementinstrumenten in den Kontexten Entrepreneurship und Innovationsmanagement.</li>
+                     <li>Der Inhalt der Veranstaltung ist verbunden mit aktuellen und praxisrelevanten Inhalten und deckt daher relevante Anwendungsmöglichkeiten ab.</li>
+                     <li>Einzelne Aspekte der Veranstaltung werden anhand von Fallstudien besprochen.</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body><ul><li>Nichols: <i>Social Entrepreneurship</i> - Oxford University Press 1. Auflage 2008</li>
+                     <li>Bessant &amp; Tidd: <i>Innovation and Entrepreneurship</i> - Wiley-Verlag 2. Auflage 2013</li>
+                     <li>Fisch &amp; Roß: <i>Fallstudien zum Innovationsmanagement</i> - Gabler-Verlag 1. Auflage 2009</li>
+                     <li>Bessant &amp; Tidd: <i>Managing Innovation: Integrating Technological, Market and Organizational Change</i> - Wiley-Verlag: 5. Auflage 2013</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen>
+               <html>
+                  <body>
+                     <p>Die Veranstaltung besteht aus einer Vorlesung, einer Übung sowie aus einer betreuten Bearbeitung einer Fallstudie.</p>
+                  </body>
+               </html>
+            </L1_Bemerkungen>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Supply Chain Management</M_Modulname>
+         <M_Modulnummer/>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>SCM</M_Stundenplankuerzel>
+         <M_Modulname_englisch/>
+         <M_Modulverantwortliche>Prof. Dr. André Köhler</M_Modulverantwortliche>
+         <M_Fachbereich>Mechanical Engineering and Business Administration</M_Fachbereich>
+         <M_Studiengang>Business Administration and Engineering, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Compulsory</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>5</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>150</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>90</M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>German/English</M_Lehrsprache>
+         <M_Pruefsprache>German/English</M_Pruefsprache>
+         <M_Bewertungssystem_PL>One-third Grades</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Portfolio Exam</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>90</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>After successful completion of this course, the students will be able to:</p><ol><li>Take cultural aspects of the participants of a supply chain into account.</li>
+                  <li>Prepare strategic and operational supply chain management decisions in various enterprises </li>
+                  <li>Understand, analyze and evaluate major SCM tools and concepts</li>
+                  <li>Apply SCM concepts in practice</li></ol><p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen>
+            <html>
+               <body>
+                  <p>Students gain methodical competence</p>
+               </body>
+            </html>
+         </M_Bemerkungen>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Supply Chain Management</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel/>
+            <L1_Lehrveranstaltungsart>Lecture</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Presence</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch/>
+            <L1_ECTS_Leistungspunkte>5</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>150</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>90</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht>true</L1_Anwesenheitspflicht>
+            <L1_Teilnahmebeschraenkung>20</L1_Teilnahmebeschraenkung>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>German/English</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body><ul><li>Introduction to SCM </li><ul><li>From logistics to SCM</li>
+                     <li>Goals and principles of SCM</li></ul><li>Supply Chain Design and Operations</li><ul><li>Best practice examples</li>
+                     <li>Special SCM tools (VMI, ECR, JIT, 3 and 4 PL)</li>
+                     <li>Selected quantitative models</li>
+                     <li>Change management</li></ul><li>SCM information systems </li><ul><li>E-Business</li></ul><li>Case study/Exercise:</li>
+                     <li>Business Game SCM</li>
+                     <li>Usage of cultural diversity</li></ul><p/>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Chopra, S.; Meindl, P. ; Supply Chain Management</p>
+                     <p>Pearson Education Limited; Auflage: 6th Global ed Mai 2016</p>
+                     <p>Corsten, D.; Gabriel, Chr.: Supply Chain Management</p>
+                     <p>erfolgreich umsetzen. Berlin u.a.: Springer 2002</p>
+                     <p>Corsten, D.; Gössinger, R.: Einführung in das Supply Chain</p>
+                     <p>Management. München, Wien: Oldenbourg 2001</p>
+                     <p>Eißig, M. (Hrsg.): Perspektiven des Supply Chain</p>
+                     <p>Managements. Berlin et al: Springer 2005</p>
+                     <p>Kuhn, A.; Hellingrath, H.: Supply Chain Management.</p>
+                     <p>Berlin u.a.: Springer 2002</p>
+                     <p>Schönsleben, P.: Integrated Logistics Management. Boca</p>
+                     <p>Raton et al: St. Lucie 2000</p>
+                     <p>Simchi-Levi, D.; Kaminsky, P.; Simchi-Levi, E. Designing and Managing the Supply Chain; Mcgraw-Hill Education - Europe; Auflage: 4 Rev ed. 2016</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen>
+               <html>
+                  <body>
+                     <p>Students achieve methodical and social skills</p>
+                  </body>
+               </html>
+            </L1_Bemerkungen>
+         </Lehrveranstaltung1>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+</Modulbeschreibungen>

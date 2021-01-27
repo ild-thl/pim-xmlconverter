@@ -1,0 +1,2308 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<europassCredential xmlns="http://data.europa.eu/europass/model/credentials#" xmlns:eup="http://data.europa.eu/europass/model/credentials#" xmlns:ns2="http://uri.etsi.org/01903/v1.3.2#" xmlns:ns3="http://www.w3.org/2000/09/xmldsig#" xmlns:ns4="http://uri.etsi.org/01903/v1.4.1#" xmlns:ns5="http://data.europa.eu/europass/model/credentials#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://data.europa.eu/europass/model/credentials# pim_edci_credential.xsd" id="urn:epass:credential:b576d4a4-c669-458b-ba17-23bd3237e177" xsdVersion="0.4.0">
+  <type uri="http://data.europa.eu/europass/credentialType/learning"/>
+  <issuanceDate>2021-01-21T16:01:34.979+02:00</issuanceDate>
+  <issuer idref="urn:epass:thl:organization:927"/>
+  <title lang="de">Mechanical Engineering, Master</title>
+  <description>
+    <text content-type="text/plain" lang="de">Dies ist der Studiengang Mechanical Engineering, Master aus dem Fachbereich Mechanical Engineering and Business Administration.</text>
+  </description>
+  <credentialSubject id="DUMMY-SUBJECT">
+    <nationalId spatialID="http://publications.europa.eu/resource/authority/country/DEU">DUMMY-NATIONALID</nationalId>
+    <identifier spatialID="http://publications.europa.eu/resource/authority/country/DEU">DUMMY-IDENTIFIER</identifier>
+    <fullName lang="en">DUMMY SUBJECT</fullName>
+    <givenNames lang="en">DUMMY</givenNames>
+    <familyName lang="en">SUBJECT</familyName>
+    <dateOfBirth>2000-10-20Z</dateOfBirth>
+    <achievements/>
+    <activities/>
+    <assessments/>
+    <entitlements/>
+    <awardings/>
+  </credentialSubject>
+  <learningSpecificationReferences>
+    <learningOutcome id="urn:thl:learningoutcome:18906#1">
+      <prefLabel lang="de">Product and Business Plan</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">- Convey the economic meaning of product and business planning and establish the connections between product and business plan
+	- Ability to write a convincing product and business plan.
+	- Training of the business plan preparation on the basis of realistic case studies and examples.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:18889#1">
+      <prefLabel lang="de">Ethics</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">- Knowledge of ethical approaches to economic processes
+	- Knowledge of criteria to evaluate concepts, strategies and behavior patterns
+	- Evaluation of case studies
+	- Reflection of the own behavior and practise under fundamental ethical and sustainable principles</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:18872#1">
+      <prefLabel lang="de">Composite Materials</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">- The student will be able to choose for practical applications the most suitable fibre type among the available fibres, to select the most suitable matrix material and the most suitable preform and processing method.
+	- The student will be able to derive the laminate properties (micromechanics and laminate therory) data and to tailor laminate properties to external loads.
+	- The student will be able to calculate internal thermal stresses of plies and laminates.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:18855#1">
+      <prefLabel lang="de">Selected Topics in Mechatronics</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">The students learn the special requirements necessary for the design of mechatronic systems and especially of the mechanical subsystem. In the first step the students learn to understand the design methods for mechatronic systems and what vital role the dynamics of the mechanical subsystem plays herein. In the second step the physical modelling of multi-body system models is teached and trained and in the third step the students getting a deep insight into the mathematical methods behind physical modelling techniques. In the Laboratory exercises the students train the use of multibody system tools for modelling, analysis, parameter studies and optimization tasks of multibody systems. The training comprises the offline-simulation of multibody-system models as well as the simulation on ECU systems for the development of intelligent functions with the help of test-bed applications (HiL-tests).</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:18838#1">
+      <prefLabel lang="de">Mechanics of Solids</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">The students know the basics of the mechanics of solids, suitable to finitely large deformations in non-Euclidean geometry suitable for bodies with curved geometry undergoing large deformations.
+This course is currently not selectable.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:18821#1">
+      <prefLabel lang="de">Prototyping and Virtual Reality (VR)</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Students
+	- know virtual engineering with different objectives and software-packages.
+	- get experience in modelling and simulation of a product in a multi body system.
+	- are aware of the opportunities and limits of additive manufacturing process.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:18804#1">
+      <prefLabel lang="de">Toolbox for Fluid Mechanical Design</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">According to the listed contents of the lecture below, the students should be able to analyse and compute corresponding problems in fluid mechanics.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:18787#1">
+      <prefLabel lang="de">Surface Engineering and Tribology</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">In many applications, the performance of a mechanical component is rather controlled by the surface properties than by the bulk (volume) material properties. Catalysis, corrosion, adhesion or non-adhesion, friction and wear, optical effects, biological processes (implants) are examples for such applications. Precise control of the surface properties is necessary to get optimal system performance and longevity. This lecture will discuss several surface related applications; different surface engineering approaches to problems will be discussed and compared. According test and analysis methods will be introduced and applied.
+Tribology is the science of friction, wear and lubrication. Friction and wear appear in every situation where a fluid or a rigid body slides against a surface. Control of friction and wear is essential for proper system function, high energy efficiency, and a long component life. This lecture introduces into the basic concepts of tribology and tribological testing. Special emphasis is put on the analysis of practical tribological problems and a systematic approach to their solution.
+The student will have a theoretical understanding of the physical and chemical surface properties of materials,
+The student will be able to analyse the requirements for several practical applications and to select suitable surface treatments or coatings,
+The student will be enabled to perform a system analysis of tribo-systems,
+The student will be able to describe different friction modes, wear mechanisms  and to optimise the tribological system performance.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:18770#1">
+      <prefLabel lang="de">Current Topics in Mechanical Engineering</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Students are able to assess and apply current research and development trends in modern mechanical engineering.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:18753#1">
+      <prefLabel lang="de">Medical Technology</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Students are able to analyze and describe the function of the most important medical devices.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:18736#1">
+      <prefLabel lang="de">Biomechanics and Biophysics</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">- The students shall acquire consolidated knowledge of physical, electrical, and mechanical principles of medical products.
+	- The students shall be enabled to contribute to the development of medical products according to relevant standards
+	- The students shall understand the basics of the application of physical/technical models to biological/ medical systems.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:18719#1">
+      <prefLabel lang="de">Polymer Science</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">The students will be able to
+	- describe the different types of polymerisation reactions and to assign typical plastics to the according polymerisation types,
+	- distinguish thermoplastics, thermosets, elastomers, and TPEs with respect of structure, processing and usage properties and to select among these material families for practical applications,
+	- describe the most common representatives of the aforementioned polymer families with respect to structure, processing and usage properties and to specify typical advantages and shortcomings,
+	- name typical additives for polymers, explain their effect on the material properties, and describe the most common compounding methods,
+	- describe qualitatively and mathematically the mechanical (non-linear elasticity, creep, visco-elasticity), physical (dielectricity, interaction with radiation), thermal (transitions, solidification and melting), thermo-mechanical (DMTA, residual stresses from processing), and chemical (oxidation, soaking) peculiarities of polymeric materials,
+	- describe and explain typical testing and analysis procedures for polymers,
+	- describe and explain processing effects on the performance of polymers and plastic products,
+	- describe the most common processing methods (injection moulding, extrusion, thermoforming) and common derivatives of them.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:18702#1">
+      <prefLabel lang="de">Advanced Material Testing</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Advanced Material Testing Lecture:
+Students understand importants of cyclic loading, crack initiation and crack propagation on component life.
+Students understand influence of materials structure and processing on fatigue and fracture toughness.
+
+Advanced material Testing Portfolio:
+Students learn practice of fatigue testing
+Students learn how to plan and perform practical experiments
+Students learn how to document experiments
+Students learn how to discuss and judge own results</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:18685#1">
+      <prefLabel lang="de">Simulation and Control</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">The student shall learn to build up a simulation model for a dynamical technical system. The emphasis is laid on mechanic or mechatronic systems. This will be done in two steps: In the first step, the equations of motions are derived and in a second step, these equations are implemented on a computer. Using some laboratory experiments, the students have the possibility to compare simulated and measured result and they are asked to compare the real behavior with the expected behavior of the system. They learn also how to design advanced controllers (linear and nonlinear).</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:18668#1">
+      <prefLabel lang="de">Computer Aided Techniques in Design</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">The students should be able to understand the underlying physics of different computational methods as named under the contents of lecture below. They should be able to have a critical view on the applicability of the methods.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:18651#1">
+      <prefLabel lang="de">Abschluss/Graduation</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Master Thesis (Project):
+In the scientific Master-Thesis the students show their ability to apply the scientific knowledge from their master studies on an industrial and/or a research-oriented project.
+They show especially that they
+	- can apply techniques of scientific work widely in their own research-related work.
+	- can structure and work through a project in work packages independently.
+	- can deepen their knowledge of a partially unknown field of work and work out the necessary information.
+
+Abschlusskolloquium/Final Colloquium:
+The students are able to
+	- present a scientific task to a professional audience in a structured, understandable and accurate way, both orally and in writing.
+	- answer questions in a professional discussion competently and at the same time in a way that is appropriate for the target group and to represent their own assessments convincingly.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:18634#1">
+      <prefLabel lang="de">Seminar II: Guide to Systematic and Scientific Work</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Professional key competences achieved and improved by the participants are competence in methods, social competence, media competence, self-competence/personal competence and intercultural competence.
+Students have learned to plan and control their projects systematically. They are able to present in a professional, scientific manner, create scientific handouts and posters. They are accustomed to explain their work, methods and set-ups to an audience. They are familiar with different type of reports, its presentations and their target groups. The students understand, assess and discuss research reports of colleagues, give recommendation and are familiar with a focus on innovative solutions.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:18617#1">
+      <prefLabel lang="de">Product Development in Production</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">The student understands:
+	- The strong interrelationship between R&amp;D and manufacturing
+	- The needs of manufacturing improvement after SOP
+	- The dynamic product chance influenced by cooperation between different department from purchase to sales/marketing and engineering
+	- The complex process to start production within the required cost and time limit
+	- R&amp;D methods for</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:18600#1">
+      <prefLabel lang="de">Seminar I: Current Topics in Research</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">- The students will gain experience in acquainting themselves with complex R&amp;D topics.
+	- The students will gain an overview of current research topics with special emphasis on the research fields.
+	- The students will train scientific writing.
+	- The students will get practical training in scientific presentations and improvement of their presentation skills.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:18583#1">
+      <prefLabel lang="de">Management and Leadership</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">The students can
+	- describe the typical roles of management and leadership in organizations
+	- explain factors affecting behavior and performance
+	- examine Factors which influence Leadership skills
+	- describe the process of motivation and the conditions of change management</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:18566#1">
+      <prefLabel lang="de">Advanced Product Development</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">The students understand
+	- Finding solutions systematically
+	- Methods for cost estimation
+	- Variant orientated product construction methods
+	- Management of R&amp;D
+	- The procedure of a life cycle assessment basically and apply this schematic to a simple application exemplarily
+	- The systematic method to develop a material requirements list and apply this method to a simple application,
+	- Derivation of performances indices acc. to the Ashby method for simple examples.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:18549#1">
+      <prefLabel lang="de">Material Science</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Material Science Lecture:
+Knowing basics of structure and behavior of metallic materials
+Knowing steel and aluminium alloys in depth
+
+Material Science Portfolio:
+Specialisation on application and scientific oriented materials science</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:18532#1">
+      <prefLabel lang="de">Selected Topics in Engineering Mathematics</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">After successful completion of this course, the students are able to
+	- understand mathematical proofs
+	- to apply advanced mathematical methods to engineering problems.
+	- to solve individual problems with the aid modern software tools like MATLAB
+	- to describe and analyze the behavior of dynamical systems mathematically.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:18515#1">
+      <prefLabel lang="de">Selected Topics of the Finite Element Method</prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">The students understand the basics of the mechanics of solids, restricted to linear theory and Cartesian coordinates: vector and matrix calculus (including summation convention), differential calculus on vector fields, stress tensor, balance of linear and angular momentum, strain tensor, linear elastic isotropic material, elasticity tensor, the principles of virtual work and of minimum of total potential.
+They understand the derivations of the basic equations of the Finite Element Method (FEM) in pure displacement formulation (classic standard FEM) and understand, how standard finite elements can be established, including trial functions, continuity requirements, load vector, stiffness matrix and coincidence matrix by the examples of simple membrane triangle and quad elements, 3 dim tetrahedron and brick elements, and have same basic knowledge about plate and shell elements.
+They have first experience in applications, including h and p refinement, and typical problems like stress concentrations and singularities.
+Finally, they understand the basics of dynamics: d´Alembert´s principle, explicit and implicit time integration and the basic features of modal analysis and its application.</text>
+      </description>
+    </learningOutcome>
+    <studyProgramme id="urn:thl:learning:spec:studyprogramme:776977">
+      <title lang="de">Mechanical Engineering, Master</title>
+      <hasEducationLevel>
+        <targetName lang="de">M. Sc.</targetName>
+      </hasEducationLevel>
+    </studyProgramme>
+    <stupo id="urn:thl:learning:spec:stupo:776977">
+      <title lang="de">Mechanical Engineering, Master</title>
+      <specializationOf idref="urn:thl:learning:spec:studyprogramme:776977"/>
+    </stupo>
+    <studySection id="urn:thl:learning:spec:studysection:776977">
+      <title lang="de">Mechanical Engineering, Master</title>
+      <hasPart idref="urn:thl:learning:spec:18515#1"/>
+      <hasPart idref="urn:thl:learning:spec:18532#1"/>
+      <hasPart idref="urn:thl:learning:spec:18549#1"/>
+      <hasPart idref="urn:thl:learning:spec:18566#1"/>
+      <hasPart idref="urn:thl:learning:spec:18583#1"/>
+      <hasPart idref="urn:thl:learning:spec:18600#1"/>
+      <hasPart idref="urn:thl:learning:spec:18617#1"/>
+      <hasPart idref="urn:thl:learning:spec:18634#1"/>
+      <hasPart idref="urn:thl:learning:spec:18651#1"/>
+      <hasPart idref="urn:thl:learning:spec:18668#1"/>
+      <hasPart idref="urn:thl:learning:spec:18685#1"/>
+      <hasPart idref="urn:thl:learning:spec:18702#1"/>
+      <hasPart idref="urn:thl:learning:spec:18719#1"/>
+      <hasPart idref="urn:thl:learning:spec:18736#1"/>
+      <hasPart idref="urn:thl:learning:spec:18753#1"/>
+      <hasPart idref="urn:thl:learning:spec:18770#1"/>
+      <hasPart idref="urn:thl:learning:spec:18787#1"/>
+      <hasPart idref="urn:thl:learning:spec:18804#1"/>
+      <hasPart idref="urn:thl:learning:spec:18821#1"/>
+      <hasPart idref="urn:thl:learning:spec:18838#1"/>
+      <hasPart idref="urn:thl:learning:spec:18855#1"/>
+      <hasPart idref="urn:thl:learning:spec:18872#1"/>
+      <hasPart idref="urn:thl:learning:spec:18889#1"/>
+      <hasPart idref="urn:thl:learning:spec:18906#1"/>
+    </studySection>
+    <modulSpecialization id="urn:thl:learning:spec:18515#1">
+      <identifier>18515#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Selected Topics of the Finite Element Method</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Basics of the mechanics of solids, restricted to linear theory and Cartesian coordinates:
+The basic equations of the Finite Element Method (FEM)in pure displacement formulation (classic standard FEM):
+Examples:
+Dynamics:
+	- Vector and matrix calculus (including summation convention), differential calculus on vector fields
+	- Stress tensor, balance of linear and angular momentum
+	- Strain tensor
+	- Linear elastic isotropic material, elasticity tensor
+	- The principles of virtual work and of minimum of total potential
+	- Trial functions
+	- Continuity requirements
+	- Load vector
+	- Stiffness matrix
+	- Coincidence matrix
+	- Simple membrane triangle and quad elements
+	- 3 dim tetrahedron and brick elements
+	- Basic knowledge about plate and shell elements
+	- h and p refinement
+	- Typical problems like stress concentrations and singularities
+	- d´Alembert´s principle
+	- Explicit and implicit time integration
+	- Modal analysis and its application</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: Bathe, Klaus-Jürgen:Finite Element Procedures in Engineering Analysis. Prentice Hall Inc., Englewood Cliffs, NJ, USA, 1982, 2nd revised edition 1995, 2014.
+Zienkiewicz, O. C., Taylor, R. L.:The finite element method. 5th edition. Vol. 1: the basis; vol. 2: solid mechanics; vol. 3: fluid dynamics. Butterworth Heinemann, Oxford, Auckland, Boston, etc. 2000.
+A. Bertram:Elasticity and plasticity of large deformations. An introduction. Springer, Berlin, Heidelberg, 2005
+Basar, Y., Krätzig, W.B.:Theory of Shell Structures, VDI Verlag 2000
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18515&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:18515#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18515#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:18515#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:18515"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:18515#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Selected Topics of the Finite Element Method</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18515#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:18515">
+      <identifier>18515</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 18515</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:18532#1">
+      <identifier>18532#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Selected Topics in Engineering Mathematics</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Linear Algebra:
+Bases, change of base, orthogonal, unitary symmetric and positive definite matrices, rotations, eigenvalues and eigenvectors, normal form or Schur, principle vectors, Theorem of Cayley-Hamilton, block-diagonal normal form
+Linear Differential Equations (ODEs):
+Matrix exponential function, linear differential equation of order n, solution for linear system, stability
+Boundary Value and Eigenvalue Problems:
+Fundamental matrices, linear boundary value problem for systems of differential equations, linear boundary value problems for differential equations of order n, Green functions, eigenvalue problems
+Partial Differential Equations (PDEs):
+Basic definitions and introductory examples, DPEs of order 2, classification, separation of variables, vibrating string, heat transfer, problem of Dirichlet, solution with Green’s functions</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: 	- Kreyszig, Erwin: Advanced Engineering Mathematics, Wiley &amp; Sons
+	- Shima/Nakuyama: Higher Mathematics for Physics and Engineering, Berlin: Springer-Verlag
+	- Mayberg/Vachenauer: Höhere Mathematik 1, 2: Berling: Springer-Verlag
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18532&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:18532#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18532#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:18532#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:18532"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:18532#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Selected Topics in Engineering Mathematics (Lecture)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18532#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:18532">
+      <identifier>18532</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 18532</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:18549#1">
+      <identifier>18549#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Material Science</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Material Science Lecture:
+Background: physical metallurgy
+Steel and Aluminium alloys: structure, processing, properties
+
+Material Science Portfolio:
+Student chose material related topics for project work. This can be special materials and materials technologies of current scientific interest</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: W. D. Callister: Materials Science and Engineering, an Introduction, John Wiley &amp; Sons, Inc.
+J. Roesler et.al.: Mechanical Behaviour of Engineering Materials, Springer
+P. Haasen: Physical Metallurgy, Cambridge University Press
+V. Läpple: Werkstofftechnik Maschinenbau, Europa Lehrmittel
+G. Gottstein: Physikalische Grundlagen der Materialkunde, Springer
+R. Bürgel: Festigkeitslehre und Werkstoffmechanik, Bd. 1 und Bd. 2, Vieweg
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18549&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:18549#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18549#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:18549#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:18549#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:18549"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:18549#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Material Science Lecture</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18549#1-1"/>
+    </learningEvent>
+    <learningEvent id="urn:thl:learning:spec:18549#1-2">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Material Science Portfolio</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18549#1-2"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:18549">
+      <identifier>18549</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 18549</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:18566#1">
+      <identifier>18566#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Advanced Product Development</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Advanced Methods for Product Development (Prof. Kohlhase)
+Materials selection (Prof. Jacobs)
+	- Advanced methods for systematic solution finding
+	- Methods for cost estimation
+	- Size series development
+	- Modular system development
+	- R&amp;D Management
+	- Impact of material selection on production costs, utility, and ecological performance of the product.
+	- Overview of engineering materials and their comparison. Discussion of simple product examples that can be made of various materials.
+	- Overview of material testing and practical significance of characteristic material properties.
+	- Systematic method to compile a materials requirement list.
+	- Ashby method of performance indices. Derivation of performance indices for various applications and their discussion.
+	- Life cycle Assessment and its application to various products</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: 	- Pahl, G., Beitz W., Feldhusen J., Grote, K. H.: Engineering Design, A Systematic Approach, 3rd Edition, Springer-Verlag London Limited 2007
+	- Ehrlenspiel, K. u.a.: Kostengünstig Entwickeln und Konstruieren: Kostenmanagement bei der integrierten Produktentwicklung, Springer Vieweg 2014
+	- Lindemann, U.: Handbuch Produktentwicklung, Hanser 2016
+	- M.F. Ashby, Metarials selection in Mechanical Design
+	- DIN EN ISO 14040 and 14044
+	- Additional materials in moodle course
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18566&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:18566#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18566#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:18566#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:18566"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:18566#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Advanced Product Development</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18566#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:18566">
+      <identifier>18566</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 18566</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:18583#1">
+      <identifier>18583#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Management and Leadership</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Introduction
+Management in Organizations
+Fundamental Elements of Management &amp; Leadership
+Strategic Planning on the Basis of Change-Management
+Functions and Characteristics of Leadership
+Developing Leadership Skills (Case Studies)
+	- Individual and oranizational needs
+	- Perception and Communication
+	- Resistance to Change
+	- Change-Management</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: Literature according to the current list given during the lecture.
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18583&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:18583#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18583#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:18583#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:18583"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:18583#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Management and Leadership</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18583#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:18583">
+      <identifier>18583</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 18583</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:18600#1">
+      <identifier>18600#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Seminar I: Current Topics in Research</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Current topics in R&amp;D
+Reporting and presentations
+Presentations by students
+	- Overview worldwide (mechanical engineering, materials  science and engineering, design and systems engineering)
+	- R&amp;D at participating universities
+	- different types of reports
+	- writing of scientific papers and reports
+	- different types of presentations
+	- presentation techniques
+	- exercises
+	- introduction into a certain research field and the research topic addressed
+	- first project plan of scientific project and paper</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: Literature will be addressed during coursework.
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18600&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:18600#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18600#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:18600#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:18600"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:18600#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Seminar I: Current Topics in Research</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18600#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:18600">
+      <identifier>18600</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 18600</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:18617#1">
+      <identifier>18617#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Product Development in Production</title>
+      <definition>
+        <text content-type="text/plain" lang="de">- Module 1: Design for minimum cost: Standardization (Lecture, Prof. Kohlhase)
+	- Module 2: CAD/CAM-Coupling (Lecture and Practical Work, Prof. Rosenthal)
+	- Module 3: Design for minimum cost: Value Analysis; Design for quality: FMEA (Lecture, Prof. Kohlhase)
+	- Module 4: Fast Ramp-Up of Series Production (Prof. Rosenthal)</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: Course packs and/or recommended literature in class
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18617&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:18617#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18617#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:18617#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:18617"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:18617#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Product Development in Production (Lecture and Practical Work)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18617#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:18617">
+      <identifier>18617</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 18617</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:18634#1">
+      <identifier>18634#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Seminar II: Guide to Systematic and Scientific Work</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Course topics are:
+Introduction: reports and presentations
+Status reports, discussions and Workshops
+Final report/Poster exhibition
+Course type and methods are:
+	- Typical characteristics of various types of reports (short status reports, lab reports, final project reports, etc.)
+	- Characteristics of different presentations (status report in project meeting, conference speeches, lectures, etc.)
+	- Planning and writing of a master thesis
+	- Characteristics of a handout
+	- Every student will present the project plan of his/her master project incl. preparation and visualization it in a proper manner
+	- Every student will give regular status reports in oral and written form incl. updates of his/her project plan
+	- Every student must actively participate in the discussion of the status reports (questions, hints, ideas)
+	- Every student actively participates in the poster workshop and designs a poster in the given corporate design
+	- Every student has to present his/her scientific poster which must be based on the master project
+	- Every student must actively participate in the exhibition, related questions and discussions
+	- interactive lecture/discussion
+	- exercises, case studies, examples
+	- presentations by students and poster exhibition</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: Literature is given during the seminar.
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18634&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:18634#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18634#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:18634#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:18634"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:18634#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Seminar II: Guide to Systematic and Scientific Work</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18634#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:18634">
+      <identifier>18634</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 18634</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:18651#1">
+      <identifier>18651#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Abschluss/Graduation</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Master Thesis (Project):
+The contents of the Master-Thesis follow the given, special assignment. The thesis should contain at least the following elements:
+The executed work is put down in a scientific documentation (Master-Thesis). The above-mentioned elements should be considered in an adequate manner. The typical length of a thesis is about 50 to 80 pages without annex.
+	- Introduction
+	- State of the art
+	- Analysis, scope and approach
+	- Concept for realization and implementation
+	- Critical vies on results
+	- Conclusion and future prospects
+
+Abschlusskolloquium/Final Colloquium:
+The colloquium finalizes the graduation, is reviewed and evaluated by the examiners of the thesis together and includes two parts:
+	- A presentation (appr. 20 minutes) of the contents and the major results of the master thesis.
+	- An oral discussion/exam related to the written master-thesis, the presentation and the study program</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: Literature related to the given project task.
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18651&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT750H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">25</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:18651#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18651#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:18651#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:18651#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:18651"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:18651#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Master Thesis (Project)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18651#1-1"/>
+    </learningEvent>
+    <learningEvent id="urn:thl:learning:spec:18651#1-2">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Abschlusskolloquium/Final Colloquium</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18651#1-2"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:18651">
+      <identifier>18651</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 18651</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:18668#1">
+      <identifier>18668#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Computer Aided Techniques in Design</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Computer Aided Techniques in Design (Lecture):
+virtual design loop containing fluids and solids design
+virtual testing of flow features and structure with simplified models
+geometry definition with CAD
+virtual testing with 3D models - FEM, CFD
+outlook – further steps - rapid prototyping - experiments
+
+Computer Aided Techniques in Design (Practical Training):
+A virtual design is applied to a model wind turbine or an axial pump The underlying methods correspond to the methods as described in contents of lecture.</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: as recommended in class
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18668&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:18668#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18668#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:18668#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:18668#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:18668"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:18668#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Computer Aided Techniques in Design (Lecture)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18668#1-1"/>
+    </learningEvent>
+    <learningEvent id="urn:thl:learning:spec:18668#1-2">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Computer Aided Techniques in Design (Practical Training)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18668#1-2"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:18668">
+      <identifier>18668</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 18668</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:18685#1">
+      <identifier>18685#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Simulation and Control</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Simulation and Control (Lecture):
+For the design and the construction of a complicated technical system it becomes more and more important to derive a mathematical simulation model which puts the engineer in a position to show that his design is feasible, to estimate the performance of the system and to optimize parameters. One reason for the fact that simulation models become very popular in an early stage of the system design is that since some years there exist very powerful SW tools which help the engineer to build up the model and to run it with efficient algorithms. Despite of this, the derivation of the model and the correct interpretation of the simulation results or the measurements require a profound knowledge of the underlying theory. Additionally, since automatization plays an increasing role, the knowledge how to design a controller is of great importance.
+Introduction
+Simulation and the evolution of learning, innovation drivers for mechanical engineering products, methods of function development and mechatronic system design, methods of control engineering, development environments, hardware-in-the-loop testbed applications, position and velocity control revisited, examples.
+Mechatronic systems and their components
+Components of mechatronic systems, actuators, sensors, information processing, electronic control units, AD and DA converters, use of FPGAs for high-speed control applications,
+Modelling of Mechatronic Systems
+Base principles of mechanic system modelling, modelling of multibody systems, modelling of the mechanic and electrical subsystems of a maglev-system, standard representation of mechanical systems, linear and nonlinear state space repre-sentation, transformation of 2nd order systems to state space representation, modelling of hydraulic subsystems, modelling multidomain models.
+Simulation and Computation of Mechatronic Systems
+Simulation, linearization, eigenvalue and eigenvector calculation, frequency response, FFT, realtime-requirements to use models in testbed applications, algorithms for the solution of systems in state space representation (ode-solvers), mathe-matics of single-step and multistep-solvers (esp. Euler, Heun and Runge-Kutta-algorithms, stepsize and order control, nu-merical stability),
+Analysis of Mechatronic Systems
+Laplace transformation, partial fraction decomposition, basic rules, transformation of unsteady periodic excitation signals, system stability analysis (linear and nonlinear), block diagram conversion rules, analysis of systems in linear and nonline-ar state space representation, solution in Laplace s-domain, transfer-matrix, eigenvalues, hydraulic servo system example and a maglev system
+Synthesis and Control
+Overview of linear and nonlinear control theory, basic controller types, classic and modern control approaches, frequency response design methods for controllers, Bode diagram, control settling time, influence of disturbances and nonlinearities, closed loop in state space representation, parameter sensitivity.
+
+Simulation and Control (Practical Training):
+Simulation and laboratory experiments
+Introduction into the use blockdiagram based development environments, nonlinear state space representation of 1st and 2nd order system examples, numerics and stability of a rotary manipulator simulation model, symbolic solution and exact numerical errors for a nonlinear system, frequency response methods</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: A list of suitable textbooks is provided at the beginning of the lecture.
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18685&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:18685#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18685#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:18685#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:18685#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:18685"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:18685#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Simulation and Control (Lecture)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18685#1-1"/>
+    </learningEvent>
+    <learningEvent id="urn:thl:learning:spec:18685#1-2">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Simulation and Control (Practical Training)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18685#1-2"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:18685">
+      <identifier>18685</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 18685</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:18702#1">
+      <identifier>18702#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Advanced Material Testing</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Advanced Material Testing Lecture:
+Fatigue and fracture mechanics of metallic materials
+
+Advanced material Testing Portfolio:
+Students perform fatigue tests on avrios materials and materials conditions, write reports about the results and scientific discussion</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: W. D. Callister: Materials Science and Engineering, an Introduction, John Wiley &amp; Sons, Inc.
+J. Rösler et.al.: Mechanical Behaviour of Engineering Materials. Springer-Verlag
+T. L. Anderson: Fracture Mechanics. Taylor &amp; Francis
+J. Schijve: Fatigue of Structures and Materials. Kluwer Academic Publishers
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18702&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:18702#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18702#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:18702#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:18702#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:18702"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:18702#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Advanced Material Testing Lecture</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18702#1-1"/>
+    </learningEvent>
+    <learningEvent id="urn:thl:learning:spec:18702#1-2">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Advanced material Testing Portfolio</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18702#1-2"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:18702">
+      <identifier>18702</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 18702</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:18719#1">
+      <identifier>18719#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Polymer Science</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Polymerisation
+Structure property relation
+ship
+Compounding
+Rheology of polymers
+Thermal properties of polymers
+Mechanicel properties of polymers
+Electrical properties of polymers
+Environmental effects
+Polymer Processing and Recycling
+	- carbon atom and its bonds (single, double, triple, steric structure)
+	- radical chain polymeriosation, ionic chain polymeriosation, step reaction, polycondensation, ring opening polymerisation
+	- catalysts and their effect on the chain structure (Zigler-Natta, metallocene)
+	- degree of polymerisation, molar mass and their measurement
+	- branching ratio
+	- constitution (dipoles, voluminous side groups, rigid back bone segments)
+	- configuration (tacticity)
+	- crystallisation and crystallinity (effect of molecular structure), structural anisotropy and anisotropic properties
+	- copolymers (block, random, grafting)
+	- Additives and their effect (fillers, reinforcements, plasifiers, lubricants, release agents, stabelisers etc.)
+	- dispersion and homogenisation
+	- Newtoneon and non-Newtoneon fluids, power law, shear thinning, Carreau equation
+	- flow induced anisotropy
+	- measurement methods: viscosimeters, MVR/MFR, high pressure capillary rheometer
+	- phase transitions: molecular processes, mathematical models
+	- solidification of melts, shrinkage, skin-core morphology in injection moulded parts
+	- viscoelasticity: energy elasticity, entropy elasticity, creep/relaxation; molecular processes, mathematical models, relaxation time
+	- cyclic loading: DMA, effect of temperature and frequency, time/temperature transformations, master curves, Arrhenius and WLF transformation
+	- stress-strain behaviour, creep curves and creep modulous
+	- Condution mechanisms in polymer compounds, percolation, anti-static compounds
+	- Dielectric constant, polarisation mechanisms, frequency effect, practical relevance (capacitors, HF welding, absorption of electromagnetic waves)
+	- Diffusion processes in polymers, barrier properties,
+	- Chemical interaction with media, oxidation, surface activation
+	- Physikal interaction, soaking, softening and internal stresses
+	- Radiation and thermal effects: radiation induced processes, aging, radiation curing/crosslinking, stabelisers and activators
+	- Accelerated aging, testing methods and correlation with reality. Arrhenius relation
+	- Injection Moulding and derivates, extrusion and derivates, thermoforming and derivates,
+	- Differences between thermoplastics, thermostets, and elastomers,
+	- Material recycling, recycling to resources, thermal recycling: Practical examples, state of the art and trends.</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: 	- Jacobs, O. : Polymer Science, lecture notes, FH Lübeck
+	- updated textbook list will be supplied at the beginning of the semester
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18719&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:18719#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18719#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:18719#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:18719"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:18719#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Polymer Science (Lecture)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18719#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:18719">
+      <identifier>18719</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 18719</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:18736#1">
+      <identifier>18736#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Biomechanics and Biophysics</title>
+      <definition>
+        <text content-type="text/plain" lang="de">- Basic static mechanics
+	- Deformation behaviour of viscoelastic materials
+	- Biomechanics of the human locomotive system:
+	- Loads acting in the locomotive system (forces/moments, stress/strain): hip joint, femur, knee joint, foot, spine)
+	- Biomaterials:
+Artificial joints (endoprostheses):
+Bone fractures (healing and fixation):
+Physical principles and their application in:
+	- Electrical and magnetic interactions with biological systems (cells)
+	- HF surgery
+	- EEG
+	- EMG
+	- MRI
+	- Knowledge about lecturer´s current research projects
+Mechanical behaviour of biological tissues (bone, tendons/ligaments, cartilage, synovial fluid)
+types, chemical composition, biocompatibility, corrosion resistance, mechanical properties
+types, materials, laboratory testing, wear
+types of fracture healing, internal fixation, external fixation
+Liquid and gas flow in the human body</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: 	- Mow, V.C., R. Huiskes (Ed.): Basic orthopaedic biomechanics &amp; mechano-biology. 3rd Edition. Lippincott, Williams &amp; Wilkins, Philadelphia, 2003
+	- P.  Brinckmann, W. Frobin, G. Leivseth, (Hrsg.): Orthopedic Biomechanics, Thieme, 2015
+	- Thews et al.: Human Physiology. Springer (1989)
+	- Webster: Medical Instrumentation, 3rd edition, Wiley and Sons.
+	- Tritthart, H.: Medizinische Physik und Biophysik. Schattauer (2001)
+	- Hutten. H.: Biomedizinische Technik, 4. Aufl. Springer (1991)
+	- Kresse, H.: Kompendium Elektromedizin. Siemens (1978)
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18736&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:18736#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18736#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:18736#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:18736"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:18736#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Biomechanics and Biophysics (lecture)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18736#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:18736">
+      <identifier>18736</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 18736</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:18753#1">
+      <identifier>18753#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Medical Technology</title>
+      <definition>
+        <text content-type="text/plain" lang="de">- Medical Terminology, major organ systems, generation of bioelectrical potentials
+	- Measurement of flow, flowsensors
+	- Body temperature and temperature sensors
+	- Bioelectrodes, Biopotential
+	- ECG (Eindhoven, Goldberger, Wilson), 3D Projection
+	- Pumps: infusion, perfusion, safety concepts
+	- Cardiac Pacemakers and defibrillators</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: Webster. John G: Medical Instrumentation, 3rd edition, Wiley and Sons.
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18753&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:18753#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18753#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:18753#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:18753"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:18753#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Medical Technology (Lecture)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18753#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:18753">
+      <identifier>18753</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 18753</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:18770#1">
+      <identifier>18770#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Current Topics in Mechanical Engineering</title>
+      <definition>
+        <text content-type="text/plain" lang="de">The course teaches actual research and development topics in mechanical engineering and is held by one or more lecturers that allows to show different aspects of actual mechanical engineering research and projects.</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: A list of suitable textbooks is provided at the beginning of the lecture.
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18770&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:18770#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18770#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:18770#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:18770"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:18770#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Current Topics in Mechanical Engineering (Lecture)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18770#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:18770">
+      <identifier>18770</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 18770</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:18787#1">
+      <identifier>18787#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Surface Engineering and Tribology</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Surface Engineering and Tribology:
+Introduction
+Testing and analysis in surface engineering
+Tribology
+Surfaces in several industrial applications
+Laboratory
+	- typical materials and their surface properties
+	- surface structure and structure of coatings
+	- overview of several coating techniques and surface treatments
+	- polymer surfaces and polymer coatings
+	- optical effects, adhesion or non adhesion, longevity, tribology
+	- roughness, hardness, contact angle (suface energy),light microscopy, SEM,EDX
+	- tribological-system
+	- sliding modes
+	- micro-mechanisms of friction and wear
+	- lubrication and lubricants
+	- friction and wear testing, characteristic values
+	- system analysis of tribo-systems
+	- medicine, food, transport, chemistry
+	- standards and approval
+	- damages, problems and solutions
+	- pre-treatment and coating of materials
+	- characterisation of treatment result
+	- material test with a tribometer
+
+Surface Engineering and Tribology (Laboratory):
+Laboratory
+	- pre-treatment and coating of materials
+	- characterisation of treatment result
+	- material test with a tribometer</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: 	- Script Theoretical Surface Science
+	- Theo Mang, Kirsten Bobzin and Thorsten Bartels, Industrial Tribology
+	- Michel Cartier, Handbook of Surface Treatments and Coatings
+	- A current list will be distributed at the beginning of the lecture.
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18787&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:18787#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18787#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:18787#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:18787#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:18787"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:18787#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Surface Engineering and Tribology</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18787#1-1"/>
+    </learningEvent>
+    <learningEvent id="urn:thl:learning:spec:18787#1-2">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Surface Engineering and Tribology (Laboratory)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18787#1-2"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:18787">
+      <identifier>18787</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 18787</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:18804#1">
+      <identifier>18804#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Toolbox for Fluid Mechanical Design</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Toolbox for Fluid Mechanical Design (Lecture):
+Awareness of different choices of tools for solving fluid mechanical problems
+3D CFD – methods
+Simplified computational and analytical flow models
+Overview over experimental techniques
+Method combination
+
+Toolbox for Fluid Mechanical Design (Practical Training):
+A selection of different methods as described under contents of lecture is applied to practical examples.</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: as recommended in class
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18804&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:18804#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18804#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:18804#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:18804#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:18804"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:18804#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Toolbox for Fluid Mechanical Design (Lecture)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18804#1-1"/>
+    </learningEvent>
+    <learningEvent id="urn:thl:learning:spec:18804#1-2">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Toolbox for Fluid Mechanical Design (Practical Training)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18804#1-2"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:18804">
+      <identifier>18804</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 18804</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:18821#1">
+      <identifier>18821#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Prototyping and Virtual Reality (VR)</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Prototyping and Virtual Reality (Lecture):
+Introduction into the topics
+Virtual product development
+Kinematics of Rigid Bodies
+Multibody System
+Additive Manufacturing
+	- Virtual products
+	- Material, texture, lights
+Modelling
+
+Prototyping and Virtual Reality (Practical Training):
+Virtual product development
+Kinematics of Rigid Bodies
+Additive Manufacturing
+Multibody System
+	- Virtual products
+	- Material, texture, lights
+Modelling</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: 	- Hand-outs to lecture and to exercises
+	- Literature according to the current list distributed in the class
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18821&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:18821#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18821#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:18821#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:18821#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:18821"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:18821#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Prototyping and Virtual Reality (Lecture)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18821#1-1"/>
+    </learningEvent>
+    <learningEvent id="urn:thl:learning:spec:18821#1-2">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Prototyping and Virtual Reality (Practical Training)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18821#1-2"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:18821">
+      <identifier>18821</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 18821</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:18838#1">
+      <identifier>18838#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Mechanics of Solids</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Tensor calculus in Riemannian manifolds
+Differential calculus of tensors in Riemannian manifolds
+Polar decomposition of the deformation gradient
+Lagrangean and Eulerian setting
+Strain tensors for finitely large deformations
+Stress tensors
+Pull back and push forward
+Balance of linear and angular momentum
+Objectivity: frame indifference, spatial covariance, objective rates
+Isotropic elastic and nonlinear elastic material
+The principles of virtual work and minimum of total potential</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: Textbooks:
+A. Bertram:Elasticity and plasticity of large deformations. An introduction. Springer, Berlin, Heidelberg, 2005
+G.E. Mase, G.T. Mase:Continuum mechanics for engineers. London: CRC Press, 1991
+M.E. Gurtin:An introduction to continuum mechanics. Mathematics in science and engineering vol. 158, Academic Press, Inc. 1981
+J. Altenbach, H. Altenbach: Einführung in die Kontinuumsmechanik. Stuttgart: Teubner, 1984
+Some recently published papers:
+C. Miehe:A constitutive frame of elastoplasticity at large strains based on the notion of the plastic metric. Int. J. Solids Structures vol. 35.30 (1998), pp. 3859-3897.
+B. Schieck, H. Stumpf:The appropriate corotational rate, exact formula for the plastic spin and constitutive model for finite elastoplasticity. Int. J. Solids Structures vol. 32.24 (1995), pp. 3643-3667.
+B. Schieck, W. Smolenski, H. Stumpf:A shell finite element for large strain elastoplasticity with anisotropies. Part I: Shell theory and variational principle. Int. J. Solids Structures vol. 36 (1999), pp. 5399-5424. Part II: Constitutive equations and numerical applications. Int. J. Solids Structures vol. 36 (1999), pp. 5425-5451.
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18838&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:18838#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18838#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:18838#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:18838"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:18838#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Mechanics of Solids</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18838#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:18838">
+      <identifier>18838</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 18838</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:18855#1">
+      <identifier>18855#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Selected Topics in Mechatronics</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Selected Topics in Mechatronics (Lecture):
+Complexity in system design is rising and the engineer needs more productivity boosting design methods and software-tools, especially in the field of mechatronic systems design. An integrated system design approach from the first sketches up to the prototype phase is necessary to design the structure and the parameters of mechatronic systems. A major role plays the building of physical models for mechatronic systems because this avoids the time-consuming derivation of mathematical models by hand, which can be often only derived, if the physical model is simplified and major influences of the nonlinearities of the systems are neglected. To develop mechatronic systems successfully, the use of nonlinear physical models is a must and using such models for simulation, hardware-in-the-loop tests and in the prototype is necessary for the development of intelligent functions for the machines. But the comfort using physical models must not hide the fact, that for a correct interpretation of the measurement and analysis results an excellent understanding of the underlying theory is necessary especially in multibody system dynamics and hardware-in-the-loop techniques - This is contents of the course.
+Overview - Mechatronic systems
+Design principles of mechatronic systems, success factors in the development of mechatronic systems, micro and macro systems, state of the art in mechatronic products in production technology, automotive engineering and consumer prod-ucts, influence of microelectronics, implication for system design, system concept in mechatronics, flow of information, energy and material, function-oriented design, the role of hierarchical structuring in systems design, X-by-wire technolo-gies as best practice example in developing mechatronic systems, intelligent vehicles, integration into local and global ecosystems, S-curve of technologies, technology trends.
+Model based design of mechatronic systems
+Introduction to mechatronic systems, Components of mechatronic systems, tasks of the components, the role of feedback in mechatronic systems, system complexity, design process, base design process: requirements-model stage-testbed stage-prototype stage-series product, development process according to the standard VDI 2206 - Design methodology for mechatronic systems, the role of simulation and hardware-in-the-loop simulations in the design of mechatronic systems, hard and soft real-time conditions, basic building blocks for the modelling of mechatronic systems
+Modelling of mechatronic systems
+Basic building blocks of control engineering systems (linear and nonlinear state space description, transfer functions, characteristic curves) and using the hierarchy concept for structuring the mechatronic system, analysis techniques (e.g. simulation, eigenvalues, transfer functions), code generation for simulation and embedded systems, example development of an active suspension system, model-based testing, structure and properties of driving simulators,
+Multibody system dynamics
+Mechanical subsystems of mechatronic systems, modelling depth, types of mechanical base structures in mechatronic systems, role of FEM models, simple mechanical models and multibody system models for the design, examples from automotive and robotics how to derive multibody system models for the analysis of the dynamical systems behavior, design tasks for the mechanical subsystem, function-oriented design of the mechanical subsystem (kinematic function, dynamic function, mechatronic function), the parts of multibody systems modeling, connection and joint types, degrees of freedom, system graph of topology, introduction to multibody systems formalisms
+Multibody system dynamics mathematics
+Coordinate systems, main views, center of gravity, moment of inertia and deviation, translational and rotational displacement of coordinate systems, coordinate transformations (Euler, cardan, quaternion, cosines), kinematic matrices, connections in multibody systems models and their mathematical description, mbs-formalisms and their mathematics (Lagrange- and Newton-Euler based formalisms suitable for real-time simulations of mechatronic systems)
+Engineering tools for the analysis of multibody system dynamics
+Modelling and simulation tools used in industry – overview, basic building blocks for multibody systems modelling used in a selected modelling tool suitable for the development of mechatronic systems, tool requirements from a mechatronics perspective, introduction into the tool structure, demonstration and discussion of typical multibody system models from automotive and robotics.
+Hardware-in-the-loop simulation
+Basic building blocks of hardware-in-the-loop simulation (AD-converters, DA-converters, PWM-in and outputs, CAN, SPI), signal capture, analogue and digital signals, algorithms, filters, sensors, actuators, real-time multibody system models, monitoring and reporting of system variables, connection to non-real-time systems, embedded systems used in industry.
+
+Selected Topics in Mechatronics (Practical Training):
+Laboratory Exercises: Training of modelling and simulation of multibody systems as part of mechatronic systems
+Introduction into the design environment CAMeL-View for the modelling of multibody systems, deriving the mathematical equations of motion and code them into the simulation environment, learn the use of rigid body, joint, actuator and hierarchical system parts, parameterization of systems, build a model of the NASA multi-axis trainer in the lab in a given time-frame.</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: A list of suitable textbooks is provided at the beginning of the lecture.
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18855&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:18855#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18855#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:18855#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:18855#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:18855"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:18855#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Selected Topics in Mechatronics (Lecture)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18855#1-1"/>
+    </learningEvent>
+    <learningEvent id="urn:thl:learning:spec:18855#1-2">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Selected Topics in Mechatronics (Practical Training)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18855#1-2"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:18855">
+      <identifier>18855</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 18855</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:18872#1">
+      <identifier>18872#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Composite Materials</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Introduction
+Fibres and matrices
+Processing of polymer composites
+Micromechanics
+Calculation of laminate properties
+Failure mechanisms in fiborous laminates
+Designing with composite materials
+Practice
+	- Technical and economic significance of composite materials,
+	- overview: classification of composite materials
+	- CF, GF, AF, other synthetic and natural fibres: structures and properties, selection rules
+	- Thermoplastics, thermosets, elastomeres: properties and processing, selection rules
+	- Tayloring of interfaces: adhesion, coupling agents
+	- Textile processing of fibres, semi-finished products, manufacturing of composite components.
+	- Effects of processing method on mechanical properties
+	- Processing of short fibre reinforced polymers and resulting microstructures (anisotropy)
+	- Fibre/matrix interaction, rules of mixture, internal stresses,
+	- Properties of UD laminae and of textile preforms
+	- Network theory, calculation of optimal fibre orientations, symmetry considerations
+	- Laminate theory: calculation of elastic constants and strength of  laminates, laminates under stress (stress distribution, interaction of laminae), hygrothermal stresses and their effects on laminate properties
+	- Failure modes under static loads: fibre matrix debonding, matrix cracking, fibre fracture, delamination
+	- Damage development under cyclic stresses
+	- Failure criteria and calculation of laminate failure
+	- Tailoring of material properties to loadings
+	- Joining of composites
+	- Design to manufacture rules
+Visit at a company</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: 	- O. Jacobs, Composite Materials, Manuscript, FH Lübeck
+	- D. Hull, An introduction to composite materials, Cambridge Univ. Press
+	- R.F. Gibson, Principles of Composite Materials Mechanics, McGraw Hill
+	- A. Kelly, C. Zweben (eds.), Comprehensive Composirte Materials, Vol. 1-6, Elsevier, Amsterdam et al.
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18872&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:18872#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18872#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:18872#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:18872"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:18872#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Composite Materials (Lecture)</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18872#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:18872">
+      <identifier>18872</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 18872</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:18889#1">
+      <identifier>18889#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Ethics</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Fundamentals of business ethics are discussed and practised with
+case studies
+	- Introduction and basics of modern ethics (morality and economical reasons)
+	- The individual view (idea of man, idea of conflicts, being a leader, conflict management)
+	- The organization (responsibility, duties and elements of ethics for companies, ethical problems, an integrative program for ethics)
+	- The economy (morality of the market, meaning of economic behavior, economy and fairness)
+	- Economy and sustainability
+	- Ethical and legal framework for individual and companies</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: 	- Jospeh Gilbert: Ethics for Managers. Philosophical Foundations and Business Realities, 2016
+	- Peter Ulrich: Integrative Wirtschaftsethik. Grundlagen einer lebensdienlichen ÖkonomikWien: Verlag Peter Haupt, 2001
+	- Daniel Dietzfelbinger: Aller Anfang ist leicht. Unternehmens- und Wirtschaftsethik für die PraxisHerbert Utz Verlag, München 2004
+	- Andreas Suchanek: Ökonomische EthikUTB Stuttgart 2001
+	- Michael Aßländer: „Handbuch Wirtschaftsethik“, Springer-Verlag GmbH; Stuttgart 2011
+	- Annette Kleinfeld: Gesellschaftliche Verantwortung von Organisationen und Unternehmen – Fragen und Antworten zur ISO 26000.Beuth, Berlin 2011
+	- Josef Wieland, Roland Steinmeyer, Stefan Grüninger (Hrsg.): “Handbuch Compliance-Management“, Berlin 2010
+	- Stephan Grüninger, Michael Fürst, Sebastian Porr, Maud Schmiedeknecht (Hrsg): „Verantwortung in der globalen Ökonomie gestalten“; Marburg 2011
+	- Gerd Michelsen, Jasmin Godeman: Handbuch NachhaltigkeitskommunikationOkom Verlag, 2005
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18889&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:18889#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18889#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:18889#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:18889"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:18889#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Ethics</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18889#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:18889">
+      <identifier>18889</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 18889</title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:18906#1">
+      <identifier>18906#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title lang="de">Product and Business Plan</title>
+      <definition>
+        <text content-type="text/plain" lang="de">Introduction to the teaching area
+Product Planning
+Business Plan content and preparation
+Presentation formats
+	- Connections between product and business plan
+	- Business plan as a integrated enterprise plan
+	- Defining new products and gathering market requirements
+	- Product Life Cycle considerations
+	- Product portfolio management
+	- Product differentiation
+	- Content of a business plan
+	- Support services
+	- Resources for researching facts and figures
+	- Strategic Analysis
+	- Forcasts
+Elevator pitch</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: Literature according to the current list in the script.
+Other Literature:
+Drucker, P. F.: Innovation and Entrepreneurship. HarperCollins Publishers, 2006
+Schwetje, G., Vaseghi, S., Gentilozzi, J.: The Business Plan, How to Win Your Investors' Confidence. Berlin: Springer, 2007 Fueglistaller, U.; Müller, C.; Volery T.: Entrepreneurship, Wiesbaden: Gabler, 2004
+Klandt, H.: Gründungsmanagement: Der integrierte Unternehmensplan. 2. Auflage, München: Oldenbourg, 2006
+Dowling, M.: Gründungsmanagement. Vom erfolgreichen Unternehmensstart zu dauerhaftem Wachstum, Berlin: Springer, 2003
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18906&amp;amp;version=1">
+        <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
+      </supplementaryDoc>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:18906#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18906#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:927"/>
+          <location uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+          <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:18906#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:18906"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:18906#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title lang="de">Product and Business Plan</title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18906#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:18906">
+      <identifier>18906</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title lang="de">Modul 18906</title>
+    </modul>
+  </learningSpecificationReferences>
+  <learningActivitySpecificationReferences>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18515#1-1">
+      <title lang="de">Selected Topics of the Finite Element Method</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18532#1-1">
+      <title lang="de">Selected Topics in Engineering Mathematics (Lecture)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18549#1-1">
+      <title lang="de">Material Science Lecture</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18549#1-2">
+      <title lang="de">Material Science Portfolio</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18566#1-1">
+      <title lang="de">Advanced Product Development</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18583#1-1">
+      <title lang="de">Management and Leadership</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18600#1-1">
+      <title lang="de">Seminar I: Current Topics in Research</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18617#1-1">
+      <title lang="de">Product Development in Production (Lecture and Practical Work)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18634#1-1">
+      <title lang="de">Seminar II: Guide to Systematic and Scientific Work</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18651#1-1">
+      <title lang="de">Master Thesis (Project)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18651#1-2">
+      <title lang="de">Abschlusskolloquium/Final Colloquium</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18668#1-1">
+      <title lang="de">Computer Aided Techniques in Design (Lecture)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18668#1-2">
+      <title lang="de">Computer Aided Techniques in Design (Practical Training)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18685#1-1">
+      <title lang="de">Simulation and Control (Lecture)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18685#1-2">
+      <title lang="de">Simulation and Control (Practical Training)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18702#1-1">
+      <title lang="de">Advanced Material Testing Lecture</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18702#1-2">
+      <title lang="de">Advanced material Testing Portfolio</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18719#1-1">
+      <title lang="de">Polymer Science (Lecture)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18736#1-1">
+      <title lang="de">Biomechanics and Biophysics (lecture)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18753#1-1">
+      <title lang="de">Medical Technology (Lecture)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18770#1-1">
+      <title lang="de">Current Topics in Mechanical Engineering (Lecture)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18787#1-1">
+      <title lang="de">Surface Engineering and Tribology</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18787#1-2">
+      <title lang="de">Surface Engineering and Tribology (Laboratory)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18804#1-1">
+      <title lang="de">Toolbox for Fluid Mechanical Design (Lecture)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18804#1-2">
+      <title lang="de">Toolbox for Fluid Mechanical Design (Practical Training)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18821#1-1">
+      <title lang="de">Prototyping and Virtual Reality (Lecture)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18821#1-2">
+      <title lang="de">Prototyping and Virtual Reality (Practical Training)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18838#1-1">
+      <title lang="de">Mechanics of Solids</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18855#1-1">
+      <title lang="de">Selected Topics in Mechatronics (Lecture)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18855#1-2">
+      <title lang="de">Selected Topics in Mechatronics (Practical Training)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18872#1-1">
+      <title lang="de">Composite Materials (Lecture)</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18889#1-1">
+      <title lang="de">Ethics</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18906#1-1">
+      <title lang="de">Product and Business Plan</title>
+      <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
+    </learningActivitySpecification>
+  </learningActivitySpecificationReferences>
+  <assessmentSpecificationReferences>
+    <assessmentSpecification id="urn:thl:assessment:spec:18515#1">
+      <title lang="de">Selected Topics of the Finite Element Method</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:18515#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:18532#1">
+      <title lang="de">Selected Topics in Engineering Mathematics</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:18532#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:18549#1">
+      <title lang="de">Material Science</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:18549#1"/>
+      <hasPart idref="urn:thl:assessment:spec:18549#1.1"/>
+      <hasPart idref="urn:thl:assessment:spec:18549#1.2"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:18549#1.1">
+      <title lang="de">Material Science Lecture</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:18549#1.2">
+      <title lang="de">Material Science Portfolio</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:18566#1">
+      <title lang="de">Advanced Product Development</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:18566#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:18583#1">
+      <title lang="de">Management and Leadership</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:18583#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:18600#1">
+      <title lang="de">Seminar I: Current Topics in Research</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:18600#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:18617#1">
+      <title lang="de">Product Development in Production</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:18617#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:18634#1">
+      <title lang="de">Seminar II: Guide to Systematic and Scientific Work</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:18634#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:18651#1">
+      <title lang="de">Abschluss/Graduation</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:18651#1"/>
+      <hasPart idref="urn:thl:assessment:spec:18651#1.1"/>
+      <hasPart idref="urn:thl:assessment:spec:18651#1.2"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:18651#1.1">
+      <title lang="de">Master Thesis (Project)</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:18651#1.2">
+      <title lang="de">Abschlusskolloquium/Final Colloquium</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/oralExamen"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:18668#1">
+      <title lang="de">Computer Aided Techniques in Design</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:18668#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:18685#1">
+      <title lang="de">Simulation and Control</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:18685#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:18702#1">
+      <title lang="de">Advanced Material Testing</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:18702#1"/>
+      <hasPart idref="urn:thl:assessment:spec:18702#1.1"/>
+      <hasPart idref="urn:thl:assessment:spec:18702#1.2"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:18702#1.1">
+      <title lang="de">Advanced Material Testing Lecture</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:18702#1.2">
+      <title lang="de">Advanced material Testing Portfolio</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:18719#1">
+      <title lang="de">Polymer Science</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:18719#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:18736#1">
+      <title lang="de">Biomechanics and Biophysics</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:18736#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:18753#1">
+      <title lang="de">Medical Technology</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:18753#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:18770#1">
+      <title lang="de">Current Topics in Mechanical Engineering</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:18770#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:18787#1">
+      <title lang="de">Surface Engineering and Tribology</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:18787#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:18804#1">
+      <title lang="de">Toolbox for Fluid Mechanical Design</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:18804#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:18821#1">
+      <title lang="de">Prototyping and Virtual Reality (VR)</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:18821#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:18838#1">
+      <title lang="de">Mechanics of Solids</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:18838#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:18855#1">
+      <title lang="de">Selected Topics in Mechatronics</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:18855#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:18872#1">
+      <title lang="de">Composite Materials</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:18872#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:18889#1">
+      <title lang="de">Ethics</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:18889#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:18906#1">
+      <title lang="de">Product and Business Plan</title>
+      <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <proves idref="urn:thl:learningoutcome:18906#1"/>
+    </assessmentSpecification>
+  </assessmentSpecificationReferences>
+  <entitlementSpecificationReferences/>
+  <learningOpportunityReferences/>
+  <agentReferences>
+    <organization id="urn:epass:thl:organization:927">
+      <registration spatialID="http://publications.europa.eu/resource/authority/country/DEU">DUMMY-REGISTRATION</registration>
+      <type uri="http://data.europa.eu/esco/agent-type#academic-institution"/>
+      <prefLabel lang="de">Technische Hochschule Lübeck</prefLabel>
+      <hasLocation>
+        <spatialCode uri="http://publications.europa.eu/resource/authority/country/DEU"/>
+      </hasLocation>
+    </organization>
+  </agentReferences>
+  <accreditationReferences/>
+  <scoringSchemeReferences/>
+  <semanticFrameworkReferences/>
+  <attachmentList/>
+  <proof/>
+</europassCredential>
