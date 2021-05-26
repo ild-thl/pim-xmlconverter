@@ -1,0 +1,2321 @@
+<Modulbeschreibungen>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Projekt: Städtebau im Bestand</M_Modulname>
+         <M_Modulnummer>1. Fachsemester</M_Modulnummer>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>sep1</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Project: Urban Design in existing Urban Places</M_Modulname_englisch>
+         <M_Modulverantwortliche>Locher, Michael, Prof. u. Schwartze, Frank, Prof.</M_Modulverantwortliche>
+         <M_Fachbereich>Bauwesen</M_Fachbereich>
+         <M_Studiengang>Stadtplanung, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Wahlpflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>12</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>360</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>
+            <html>
+               <body>
+                  <p>300</p>
+               </body>
+            </html>
+         </M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Bestehen</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Projektarbeit</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body><ul><li>Fähigkeit eigenständig Analysen und Erfassung von baulich-räumlichen Situationen zu konzipieren und durchzuführen. </li>
+                  <li>Komplexe städtebauliche Situationen im Bestand können erfasst und in unterschiedliche räumliche und kulturelle Kontexte eingeordnet werden.</li>
+                  <li>Fähigkeit den gebauten Bestand historisch einzuordnen und dessen Schutzwürdigkeit zu bewerten.</li>
+                  <li>Anforderungen an räumlich-funktionale wie auch gesellschaftliche, ökonomische und ökologische Konzepte zur städtebaulichen Weiterentwicklung werden ortsbezogen angewandt.</li>
+                  <li>Kreative, gestalterische Konzepte und Entwürfe können umfassend und eigenständig entwickelt und in Zeichnungen und Modellen umgesetzt werden.</li></ul><p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit>
+            <html>
+               <body>
+                  <p>Das Modul kann mit dem Modul Projekt 1 im Master Architektur zusammengeführt werden. </p>
+               </body>
+            </html>
+         </M_Verwendbarkeit>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Projekt: Städtebau im Bestand</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>sep1</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Projekt</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Project: Urban Design in existing Urban Places
+</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>12</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>360</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>300</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache>Deutsch</L1_Pruefsprache>
+            <L1_Pruefungsleistung>Projektarbeit</L1_Pruefungsleistung>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body><ul><li>Analyse und Erhebungstechniken im Städtebau und der Stadtanalyse (Fokus Bestand)</li>
+                     <li>Stadtmorphologische Analysen und Konzepte</li>
+                     <li>Konzepte und Strategien des Bauens im Bestand und der Baukultur</li>
+                     <li>Konzeptentwicklung und Entwurfsstrategien</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Oliveira, Vitor (2016) Urban Morpholgy - An Introduction to the Study of the Physical Form of Cities</p>
+                     <p>Rowe, Colin &amp; Koetter, Fred (1984) Collage City</p>
+                     <p>ZHAW (Hrsg.), Sylvain Malfroy, Gianfranco Caniggia</p>
+                     <p>Die morphologische Betrachtungsweise von Stadt und Territorium</p>
+                     <p>ZHAW (Hrsg.), Andri Gerber, Stefan Kurath, Holger Schurk, Roland Züger Methodenhandbuch für das Entwerfen in Architektur und Städtebau</p>
+                     <p>Gehl, Jan (2015) Städte für Menschen</p>
+                     <p/>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname/>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel/>
+            <L2_Lehrveranstaltungsart/>
+            <L2_Lernform/>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte/>
+            <L2_Semesterwochenstunden/>
+            <L2_Arbeitsaufwand_in_Stunden/>
+            <L2_Praesenzstunden/>
+            <L2_Selbststudiumsstunden/>
+            <L2_Anwesenheitspflicht/>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache/>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte/>
+            <L2_Lernergebnisse/>
+            <L2_Literatur/>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Projekt: Städtebau im Quartier</M_Modulname>
+         <M_Modulnummer>1. Fachsemester</M_Modulnummer>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>qep1</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Project: Neighborhood Design</M_Modulname_englisch>
+         <M_Modulverantwortliche>Rintz, Lydia, Prof.</M_Modulverantwortliche>
+         <M_Fachbereich>Bauwesen</M_Fachbereich>
+         <M_Studiengang>Stadtplanung, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Wahlpflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>12</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>360</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>
+            <html>
+               <body>
+                  <p>300</p>
+               </body>
+            </html>
+         </M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Bestehen</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Projektarbeit</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body><ul><li>die analytische und entwerferische Kompetenz für die Entwicklung angemessener städtebaulicher Lösungen</li>
+                  <li>die Einbeziehung und Abwägung entwurfs- und konzeptbeeinflussender Faktoren</li>
+                  <li>die Diskurs- und Kommunikationsfähigkeit </li>
+                  <li>die Entwicklung geeigneter Abgabe- und Darstellungsformate und die Kommunikation und Präsentation von Arbeitsergebnissen und Zwischenständen.</li></ul><p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Projekt: Städtebau im Quartier</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>qep1</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Projekt</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Project: Neighborhood Design</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>12</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>360</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>300</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht>false</L1_Anwesenheitspflicht>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>In einem städtebaulichen Entwurf auf Quartiersebene entwickeln die Studierenden anhand einer praxisnahen Aufgabenstellung ein tragfähiges stadträumliches Konzept. Hierbei werden die Ergebnisse einer umfassenden kontextbezogenen Analyse in eine planerische Lösung überführt, die in allen erforderlichen städtebaulichen Maßstabsebenen in Plan- und Modelldarstellungen und mit grafischen und textlichen Erläuterungen im Kursverlauf ausgearbeitet wird.</p>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Literaturhinweise werden den Studierenden kursbezogen und projektspezifisch zur Verfügung gestellt.</p>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname/>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel/>
+            <L2_Lehrveranstaltungsart/>
+            <L2_Lernform/>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte/>
+            <L2_Semesterwochenstunden/>
+            <L2_Arbeitsaufwand_in_Stunden/>
+            <L2_Praesenzstunden/>
+            <L2_Selbststudiumsstunden/>
+            <L2_Anwesenheitspflicht/>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache/>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte/>
+            <L2_Lernergebnisse/>
+            <L2_Literatur/>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Strategien der Stadterneuerung und der Quartiersentwicklung</M_Modulname>
+         <M_Modulnummer>1. Fachsemester</M_Modulnummer>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>sp1</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Strategies of Urban Regeneration and Neighborhood Development</M_Modulname_englisch>
+         <M_Modulverantwortliche>Hnilica, Sonja, Prof. Dr. / Schwartze, Frank, Prof. </M_Modulverantwortliche>
+         <M_Fachbereich>Bauwesen</M_Fachbereich>
+         <M_Studiengang>Stadtplanung, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>6</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>180</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>
+            <html>
+               <body>
+                  <p>120</p>
+               </body>
+            </html>
+         </M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Bestehen</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Portfolio-Prüfung</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Die Studierenden kennen unterschiedliche Methoden, sowie Prozesse und Strategien zur Einschätzung von Handlungsbedarfen und Entwicklung von Konzepten für Bestandsgebiete und neue Quartiere. </p>
+                  <p>Sie haben sich mit aktuellen (stadt-)politische, planerische und (förder-)rechtliche Rahmenbedingungen auseinandergesetzt und können diese anwendungsorientiert für eigene Projekte und Konzepte einsetzen. </p>
+                  <p>Sie haben unterschiedliche Interessen, Wertsysteme und Zielvorstellungen in räumlichen Interventionen kennengelernt und können diese in Wirkungsdimensionen einschätzen.</p>
+                  <p>Sie sind in der Lage Bewertungen zu räumlichen Entwicklungs- und Steuerungsprozessen vorzunehmen auf eigene Aufgaben zu übertragen. </p>
+                  <p>Anhand von Fallbeispielen und konkreten Untersuchungsfällen können die Erkenntnisse eigenständig angewandt werden.</p>
+                  <p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit>
+            <html>
+               <body>
+                  <p/>
+                  <p/>
+               </body>
+            </html>
+         </M_Verwendbarkeit>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Strategien der Stadterneuerung und der Quartiersentwicklung</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>sp1</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Seminar</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Strategies of Urban Regeneration and Neighborhood Development</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>6</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>180</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>120</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body><ul><li>Stadtentwicklung und Baukultur</li>
+                     <li>Quartier als Handlungseinheit</li>
+                     <li>Stadterneuerung und Bestandsentwicklung</li>
+                     <li>Formelle und informelle Steuerung und förderrechtliche Aspekte</li>
+                     <li>Strategien in der Stadtentwicklung und strategische Planung</li>
+                     <li>Aktuelle Konzepte und Fallbeispiele</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Stijn Oosterlynck, Jef Van den Broeck, Louis Albrechts, Frank Moulaert, Ann Verhetsel (Hg.) (2010): Strategic Spatial Projects</p>
+                     <p>Catalysts for Change</p>
+                     <p>Roberts, Peter W.; Sykes, Hugh (Hg.) (2000): Urban regeneration. A handbook.</p>
+                     <p>Werner Durth u. Paul Sigel (2016) Baukultur - Studienausgabe</p>
+                     <p>Spiegel gesellschaftlichen Wandels</p>
+                     <p>Drilling u. Schur (Hg.) (2012) Nachhaltige Quartiersentwicklung </p>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname/>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel/>
+            <L2_Lehrveranstaltungsart/>
+            <L2_Lernform/>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte/>
+            <L2_Semesterwochenstunden/>
+            <L2_Arbeitsaufwand_in_Stunden/>
+            <L2_Praesenzstunden/>
+            <L2_Selbststudiumsstunden/>
+            <L2_Anwesenheitspflicht/>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache/>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte/>
+            <L2_Lernergebnisse/>
+            <L2_Literatur/>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Wohnungswesen und Wohnungsbau</M_Modulname>
+         <M_Modulnummer>1. Fachsemester</M_Modulnummer>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>sp2</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Housing and Housing Development</M_Modulname_englisch>
+         <M_Modulverantwortliche>Menzl, Marcus, Prof. Dr. / Rintz, Lydia, Prof.</M_Modulverantwortliche>
+         <M_Fachbereich>Bauwesen</M_Fachbereich>
+         <M_Studiengang>Stadtplanung, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>6</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>180</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>
+            <html>
+               <body>
+                  <p>120</p>
+               </body>
+            </html>
+         </M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Portfolio-Prüfung</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Studierende erwerben Kenntnisse zu:</p>
+                  <p>- Grundlagen, Geschichte und Instrumenten der Wohnungspolitik und des Wohnungsbaus;</p>
+                  <p>- Handlungslogiken von Akteurinnen und Akteuren im Bereich des Wohnungsbaus und der Wohnungspolitik;</p>
+                  <p>- aktuellen Fragestellungen, Diskursen und konzeptionellen Ansätzen im<b> </b>Wohnungswesen und Wohnungsbau.</p>
+                  <p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Wohnungswesen und Wohnungsbau</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>sp2</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Seminar</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Housing and Housing Development</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>6</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>180</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>120</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>- Funktionsweise der Wohnungsmärkte (soziale, ökonomische, ökologische und politische Rahmenbedingungen des Wohnungswesens; räumliche und funktionale Teilmärkte); </p>
+                     <p>- Grundsätze und Instrumente der Wohnungspolitik und des Zusammenwirkens von Akteurinnen und Akteuren aus den Bereichen Staat, Markt und Zivilgesellschaft; </p>
+                     <p>- Analyse von Konzepten im Bereich des Wohnungsbaus, v.a. im 20. Jahrhundert</p>
+                     <p>- Aktuelle Herausforderungen in Wohnungswesen und -bau (z.B. Demographischer Wandel, Wohntrends, Revitalisierung von Wohnsiedlungen).</p>
+                     <p/>
+                     <p/>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Flagge, I. (Hg.)(1999): Geschichte des Wohnens, Band 5: Von 1945 bis heute, Aufbau-Neubau-Umbau, Stuttgart.</p>
+                     <p>Schönig, B. (Hg.)(2017): Wohnraum für alle?! Bielefeld.</p>
+                     <p>Dömer / Drexler / Schultz-Granberg (2016): Bezahlbar. Gut. Wohnen. Strategien für erschwinglichen Wohnraum, Jovis, Berlin.</p>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname/>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel/>
+            <L2_Lehrveranstaltungsart/>
+            <L2_Lernform/>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte/>
+            <L2_Semesterwochenstunden/>
+            <L2_Arbeitsaufwand_in_Stunden/>
+            <L2_Praesenzstunden/>
+            <L2_Selbststudiumsstunden/>
+            <L2_Anwesenheitspflicht/>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache/>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte/>
+            <L2_Lernergebnisse/>
+            <L2_Literatur/>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Partizipation und Kommunikation</M_Modulname>
+         <M_Modulnummer>1. Fachsemester</M_Modulnummer>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>sp3</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Participation and Communication</M_Modulname_englisch>
+         <M_Modulverantwortliche>Menzl, Marcus, Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Bauwesen</M_Fachbereich>
+         <M_Studiengang>Stadtplanung, Master</M_Studiengang>
+         <M_Fachsemester>1</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>6</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>180</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>
+            <html>
+               <body>
+                  <p>120</p>
+               </body>
+            </html>
+         </M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Portfolio-Prüfung</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Studierende erlernen:</p>
+                  <p>- Rolle, Aufgaben, Rechte und Interessen der unterschiedlichen öffentlichen, privaten und zivilgesellschaftlichen Akteure </p>
+                  <p>- Beteiligungsformen und Institutionalisierte Kommunikationsprozesse</p>
+                  <p>- Kommunikation in Gruppen, Organisationen und Institutionen</p>
+                  <p>- Öffentliche Beteiligungsverfahren</p>
+                  <p>- Methoden der Partizipation und der Aktivierung von Bürger*innen</p>
+                  <p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Partizipation und Kommunikation</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>sp3</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Seminar</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Participation and Communication</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>6</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>180</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>120</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Ausgehend vom Governanceansatz vermittelt das Seminar Grundlagen und Konzepte kooperativer Planung und der Prozessteuerung in Planungs- und Entwicklungsvorhaben. Die Analyse akteursbezogener Interessen und ihre Rolle im Planungsprozess werden ebenso erlernt wie theoretische Grundlagen der Kommunikation. Die Veranstaltung hat zum Ziel, Anforderungen an die Kommunikation in und mit Gruppen ebenso wie die situationsbezogene Entwicklung geeigneter Informations-, Beteiligungs- und Aktivierungsverfahren zu vermitteln und zu erproben.</p>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Selle, K.: Über Bürgerbeteiligung hinaus, Detmold 2013.</p>
+                     <p>Schulz von Thun, F.: Miteinander Reden, Reinbek 1981.</p>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname/>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel/>
+            <L2_Lehrveranstaltungsart/>
+            <L2_Lernform/>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte/>
+            <L2_Semesterwochenstunden/>
+            <L2_Arbeitsaufwand_in_Stunden/>
+            <L2_Praesenzstunden/>
+            <L2_Selbststudiumsstunden/>
+            <L2_Anwesenheitspflicht/>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache/>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte/>
+            <L2_Lernergebnisse/>
+            <L2_Literatur/>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Projekt: Städtebauliches Entwicklungskonzept</M_Modulname>
+         <M_Modulnummer>2. Fachsemester</M_Modulnummer>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>sep2</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Project: Strategic Urban Design and Development Concept</M_Modulname_englisch>
+         <M_Modulverantwortliche>Schwartze, Frank, Prof.</M_Modulverantwortliche>
+         <M_Fachbereich>Bauwesen</M_Fachbereich>
+         <M_Studiengang>Stadtplanung, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Wahlpflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>12</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>360</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>
+            <html>
+               <body>
+                  <p>300</p>
+               </body>
+            </html>
+         </M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SoSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Bestehen</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Projektarbeit</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Die Studierenden können eigenständig ein integriertes städtebauliches Konzept für die Gestaltung und Entwicklung eines bestehenden Quartiers oder eines Ortes erstellen. Durch die Auseinandersetzung mit einem konkreten Planungsfall können die Studierenden aktuelle Probleme und Herausforderungen urbaner Transformationen eigenständig bearbeiten. Sie haben auf der Grundlage eigener Analysen und Problemdefinitionen ein methodisches und konzeptionelles Vorgehen zur Entwicklung eines größeren Projektes mit hoher Komplexität eingeübt und im Ergebnis eine umfassende städtebauliche Entwicklungsplanung erstellt und Prozess- und Verfahrensschritte zur Umsetzung entwickelt.</p>
+                  <p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Projekt: Städtebauliches Entwicklungskonzept</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>sep2</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Projekt</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Project: Strategic Urban Design and Development Concept</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>12</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>360</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>300</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Studierende lernen</p><ul><li>methodische Vorgehensweisen zur Erstellung integrierter Entwicklungskonzepte</li>
+                     <li>Bestandserhebung + Analyse, Zieldiskussion und städtebauliche Leitidee / alternative Konzeptionen, Umsetzung im Entwurf oder Konzept </li>
+                     <li>ggf. eigenständig Gespräche mit Externen durchzuführen</li>
+                     <li>die Arbeitsergebnisse (öffentlich) vorzustellen</li>
+                     <li>Ergebnisse zusammenfassend in einem städtebaulichen Entwicklungskonzept darzustellen.</li></ul><p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Literatur wird projektbezogen bereitgestellt</p>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname/>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel/>
+            <L2_Lehrveranstaltungsart/>
+            <L2_Lernform/>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte/>
+            <L2_Semesterwochenstunden/>
+            <L2_Arbeitsaufwand_in_Stunden/>
+            <L2_Praesenzstunden/>
+            <L2_Selbststudiumsstunden/>
+            <L2_Anwesenheitspflicht/>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache/>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte/>
+            <L2_Lernergebnisse/>
+            <L2_Literatur/>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Projekt: Quartiersentwicklungskonzept</M_Modulname>
+         <M_Modulnummer>2. Fachsemester</M_Modulnummer>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>qep2</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Project: Neighborhood Development Concept</M_Modulname_englisch>
+         <M_Modulverantwortliche>Menzl, Marcus, Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Bauwesen</M_Fachbereich>
+         <M_Studiengang>Stadtplanung, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Wahlpflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>12</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>360</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>
+            <html>
+               <body>
+                  <p>300</p>
+               </body>
+            </html>
+         </M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SoSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Bestehen</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Projektarbeit</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Die Studierenden erlernen das methodische Vorgehen zur Erstellung eines städtebaulichen oder integrierten Entwicklungskonzepts auf Quartiersebene. Sie können komplexe räumliche Zusammenhänge in städtebaulich-gestalterischer, funktionaler, sozialer und ökologischer Hinsicht analysieren und mit Blick auf bestehende Missstände bewerten. Sie entwickeln die Kompetenz für ein konzeptionelles Vorgehen und das Entwickeln von Leitideen und Perspektiven integrierter räumlicher Entwicklung. Durch die Auseinandersetzung mit einem konkreten Planungsfall werden die Studierenden in die Lage versetzt werden, die aktuellen Probleme und Herausforderungen des bearbeiteten Quartiers selbstständig zu bearbeiten.</p>
+                  <p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Projekt: Quartiersentwicklungskonzept</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>qep2</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Projekt</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Project: Neighborhood Development Concept</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>12</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>360</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>300</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>• Erhebungs- und Analysemethoden und -instrumente</p>
+                     <p>• Beurteilung und Bewertungsmethoden</p>
+                     <p>• Konzept- und Strategieentwicklung</p>
+                     <p>• Ausarbeitung eines Konzeptes in textlicher und graphischer Form</p>
+                     <p>• Umsetzung in Gestaltungspläne und Maßnahmenprogramme</p>
+                     <p/>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Literatur wird in der Veranstaltung zur Verfügung gestellt.</p>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname/>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel/>
+            <L2_Lehrveranstaltungsart/>
+            <L2_Lernform/>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte/>
+            <L2_Semesterwochenstunden/>
+            <L2_Arbeitsaufwand_in_Stunden/>
+            <L2_Praesenzstunden/>
+            <L2_Selbststudiumsstunden/>
+            <L2_Anwesenheitspflicht/>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache/>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte/>
+            <L2_Lernergebnisse/>
+            <L2_Literatur/>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Integrierte Planung / Städtebaurecht aktuell</M_Modulname>
+         <M_Modulnummer>2. Fachsemester</M_Modulnummer>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>sev</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Integrated Planning / Urban Planning Legislation</M_Modulname_englisch>
+         <M_Modulverantwortliche>Schwartze, Frank, Prof.</M_Modulverantwortliche>
+         <M_Fachbereich>Bauwesen</M_Fachbereich>
+         <M_Studiengang>Stadtplanung, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Wahlpflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>6</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>180</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>
+            <html>
+               <body>
+                  <p>120</p>
+               </body>
+            </html>
+         </M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SoSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Portfolio-Prüfung</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Studierende haben sich mit planungstheoretischen und inhaltlichen Konzepten einer integrierten Planung zur Lösung komplexer urbaner Probleme auseinandergesetzt und können Einsatzgebiete und Anforderungen bestimmen und bewerten. Durch die Analyse von jeweils aktuellen Planungsfällen und -prozessen integrierter Stadtentwicklung werden Möglichkeiten und Strategien des planerischen Handelns kritisch reflektiert und können für die Gestaltung von integrierten Planungsprozessen als Grundlagen herangezogen werden. </p>
+                  <p/>
+                  <p>Instrumente und Anwendungen digital gestützter Planung sind bekannt und können in Bezug auf mögliche Einsatzgebiete bewertet werden. Die jeweils aktuellen Entwicklungen im deutschen Bauplanungsrecht zur Steuerung der räumlichen Entwicklung sind den Studierenden bekannt und können im Hinblick auf zukünftige Handlungsfelder und Aufgaben eingeordnet und in Projekten angewandt werden.</p>
+                  <p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Integrierte Planung / Städtebaurecht aktuell</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>sev</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Seminar</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Integrated Planning / Urban Planning Legislation</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>6</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>180</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>120</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Planungstheoretische Grundlagen des Planens</p>
+                     <p>Methoden und Strategien integrierter Planung und Lösungen komplexer Probleme </p>
+                     <p>Aktuelle Prozesse und Projekte der integrierten städtebaulichen Planung</p>
+                     <p>Digitalgestützte Werkzeuge und Verfahren in der Stadtplanung </p>
+                     <p>Aktuelle Entwicklung im Städtebaurecht</p>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Ravetz, Joe (2020) Deeper City – Collective Intelligence and Pathways from Smart to Wise</p>
+                     <p>Walter Schönwandt u.a. (2013) Solving complex problems – A Handbook.</p>
+                     <p>Umwelt- und Planungsrecht (Zeitschrift)</p>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname/>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel/>
+            <L2_Lehrveranstaltungsart/>
+            <L2_Lernform/>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte/>
+            <L2_Semesterwochenstunden/>
+            <L2_Arbeitsaufwand_in_Stunden/>
+            <L2_Praesenzstunden/>
+            <L2_Selbststudiumsstunden/>
+            <L2_Anwesenheitspflicht/>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache/>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte/>
+            <L2_Lernergebnisse/>
+            <L2_Literatur/>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Gemeinschaftliche Konzepte in der Planung</M_Modulname>
+         <M_Modulnummer>2. Fachsemester</M_Modulnummer>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>qev</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Community Planning Principles</M_Modulname_englisch>
+         <M_Modulverantwortliche>Menzl, Marcus, Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Bauwesen</M_Fachbereich>
+         <M_Studiengang>Stadtplanung, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Wahlpflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>6</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>180</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>
+            <html>
+               <body>
+                  <p>120</p>
+               </body>
+            </html>
+         </M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SoSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Portfolio-Prüfung</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Studierende erlangen Wissen zu:</p>
+                  <p>- Problemlagen, die kooperativ oder kollektiv gelöst werden müssen;</p>
+                  <p>- Ansätzen kooperativen Handelns in der Stadtentwicklung mit ihren jeweiligen Vor- und Nachteilen;</p>
+                  <p>- Möglichkeiten der staatlichen Förderung gemeinschaftlicher Ansätze; </p>
+                  <p>- dem Umgang mit Partikularinteressen und Nimby-Haltungen; </p>
+                  <p>- Chancen gemeinschaftlichen Agierens im Wohnungsbau, der Quartiersentwicklung, der Daseinsvorsorge etc.  </p>
+                  <p/>
+                  <p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Gemeinschaftliche Konzepte in der Planung</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>qev</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Seminar</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Community Planning Principles</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>6</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>180</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>120</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Ausgehend von den Handlungslogiken unterschiedlicher Akteurstypen (Staat, Markt, Zivilgesellschaft) wird vermittelt, welche Möglichkeiten kooperativen Agierens in der Stadtentwicklung bestehen. Historische wie aktuelle Beispiele in unterschiedlichen Themenfeldern (Wohnen, Daseinsvorsorge, Mobilität, Betreuung und Pflege) werden näher untersucht. Ein besonderer Schwerpunkt liegt auf der Frage, inwieweit Nahräume / Quartiere prädestiniert sind, die Umsetzung gemeinschaftlicher Konzepte zu befördern.</p>
+                     <p/>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Helfrich, S./Bollier, D.: Frei, fair und lebendig. Die Macht der Commons. Bielefeld 2020.</p>
+                     <p>Grzesiok, S.: Bündnisse für Wohnen im Quartier: Ein Format integrierter und kooperativer Quartiersentwicklung. Wiesbaden 2018.</p>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname/>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel/>
+            <L2_Lehrveranstaltungsart/>
+            <L2_Lernform/>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte/>
+            <L2_Semesterwochenstunden/>
+            <L2_Arbeitsaufwand_in_Stunden/>
+            <L2_Praesenzstunden/>
+            <L2_Selbststudiumsstunden/>
+            <L2_Anwesenheitspflicht/>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache/>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte/>
+            <L2_Lernergebnisse/>
+            <L2_Literatur/>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>(Nachhaltige) Städtebauliche Gestaltung und Freiraumplanung (Städtebaulicher Entwurf)</M_Modulname>
+         <M_Modulnummer>2. Fachsemester</M_Modulnummer>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>spp1</M_Stundenplankuerzel>
+         <M_Modulname_englisch>(Sustainable) Urban Design and Landscape Planning</M_Modulname_englisch>
+         <M_Modulverantwortliche>Rintz, Lydia, Prof. </M_Modulverantwortliche>
+         <M_Fachbereich>Bauwesen</M_Fachbereich>
+         <M_Studiengang>Stadtplanung, Master</M_Studiengang>
+         <M_Fachsemester>2</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>12</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>8</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>360</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>
+            <html>
+               <body>
+                  <p>300</p>
+               </body>
+            </html>
+         </M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SoSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Bestehen</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Projektarbeit</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Die Studierenden trainieren mit dem städtebaulich-freiraumplanerischen Entwurf</p><ul><li>die analytische und entwerferische Kompetenz und die Entwicklung innovativer planerischer Lösungen für komplexe Planungsaufgaben</li>
+                  <li>die Einbeziehung und Abwägung entwurfs- und konzeptbeeinflussender Faktoren</li>
+                  <li>die Diskurs- und Kommunikationsfähigkeit </li>
+                  <li>die Entwicklung angemessener Abgabe- und Darstellungsformate und die Kommunikation und Präsentation von Arbeitsergebnissen und Zwischenständen.</li></ul><p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>(Nachhaltige) Städtebauliche Gestaltung und Freiraumplanung (Städtebaulicher Entwurf)</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>spp1</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Projekt</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>(Sustainable) Urban Design and Landscape Planning</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>12</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>8</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>360</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>300</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht>false</L1_Anwesenheitspflicht>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Auf der Grundlage einer spezifischen aktuellen Fragestellung mit hohem Praxisbezug erarbeiten die Studierenden in einem städtebaulich-freiraumplanerischen Entwurf tragfähige und nachhaltige Planungs- und Gestaltungskonzeptionen. Eine kontextbezogene Analyse des untersuchten Planungsgebietes und daraus resultierende Entwurfsvarianten und räumliche Leitbilder werden im Kursverlauf in ein entwurfliches und programmatisches Konzept überführt, das in Abhängigkeit zur jeweiligen Aufgabenstellung bis hin zur Ausdifferenzierung der Gebäudetypologien auf hochbaulicher Ebene und Darstellung freiräumlicher Details in allen erforderlichen städtebaulich-freiraumplanerischen Maßstabsebenen durchgearbeitet wird.</p>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Gerber, Kurath, Schurk, Züger (2017): Methodenhandbuch für das Entwerfen in Architektur und Städtebau, Triest Verlag.</p>
+                     <p/>
+                     <p>Weitere Literaturhinweise werden den Studierenden kursbezogen und projektspezifisch zur Verfügung gestellt.</p>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname/>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel/>
+            <L2_Lehrveranstaltungsart/>
+            <L2_Lernform/>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte/>
+            <L2_Semesterwochenstunden/>
+            <L2_Arbeitsaufwand_in_Stunden/>
+            <L2_Praesenzstunden/>
+            <L2_Selbststudiumsstunden/>
+            <L2_Anwesenheitspflicht/>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache/>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte/>
+            <L2_Lernergebnisse/>
+            <L2_Literatur/>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Eigenständige Studienprojekte</M_Modulname>
+         <M_Modulnummer>3. Fachsemester</M_Modulnummer>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>spp2</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Study Projects</M_Modulname_englisch>
+         <M_Modulverantwortliche>Alle im Master Stadtplanung lehrenden Professuren </M_Modulverantwortliche>
+         <M_Fachbereich>Bauwesen</M_Fachbereich>
+         <M_Studiengang>Stadtplanung, Master</M_Studiengang>
+         <M_Fachsemester>3</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>12</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>6</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>360</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>40</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>
+            <html>
+               <body>
+                  <p>320</p>
+               </body>
+            </html>
+         </M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Bestehen</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Projektarbeit</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>k. A.</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Die Studierenden trainieren mit dem eigenständigen Studienprojekt</p><ul><li>die Identifikation relevanter stadtplanerischer Themen und Fragestellungen</li>
+                  <li>den Ausbau der inhaltlichen und fachlichen Eigenständigkeit</li>
+                  <li>die methodische, analytische und / oder planerische Vertiefung eines selbst gewählten Schwerpunktthemas</li>
+                  <li>Methodenkompetenzen in der Eigenorganisation eines Planungsprozesses oder einer wissenschaftlichen Arbeit</li>
+                  <li>die Entwicklung angemessener Abgabe- und Darstellungsformate und die Kommunikation und Präsentation von Arbeitsergebnissen und Zwischenständen.</li></ul><p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Eigenständige Studienprojekte</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>spp2</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Projekt</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Study Projects</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>12</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>6</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>360</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>40</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>320</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht>false</L1_Anwesenheitspflicht>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Aufbauend auf den im bisherigen Studienverlauf erworbenen Kenntnissen und Methoden bearbeiten die Studierenden eigenständig ein Projekt mit innerhalb des Studiengangsspektrums frei wählbarem thematischen Schwerpunkt. Eine Begleitung durch die Lehrenden erfolgt in Form von Inputs und Konsultationen während des Bearbeitungszeitraumes.</p>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse>
+               <html>
+                  <body>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lernergebnisse>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Literaturhinweise erfolgen projektspezifisch durch die jeweilige Betreuerin / den jeweiligen Betreuer der Arbeit.</p>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname/>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel/>
+            <L2_Lehrveranstaltungsart/>
+            <L2_Lernform/>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte/>
+            <L2_Semesterwochenstunden/>
+            <L2_Arbeitsaufwand_in_Stunden/>
+            <L2_Praesenzstunden/>
+            <L2_Selbststudiumsstunden/>
+            <L2_Anwesenheitspflicht/>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache/>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte/>
+            <L2_Lernergebnisse/>
+            <L2_Literatur/>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Nachhaltige Bodennutzung und -politik</M_Modulname>
+         <M_Modulnummer>3. Fachsemester</M_Modulnummer>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>sp4</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Sustainable Land Use and Land Use Policy</M_Modulname_englisch>
+         <M_Modulverantwortliche>Schwartze, Frank, Prof.</M_Modulverantwortliche>
+         <M_Fachbereich>Bauwesen</M_Fachbereich>
+         <M_Studiengang>Stadtplanung, Master</M_Studiengang>
+         <M_Fachsemester>3</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>6</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>180</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>
+            <html>
+               <body>
+                  <p>120</p>
+               </body>
+            </html>
+         </M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Portfolio-Prüfung</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Die Studierenden erlernen Grundlagen und anwendungsbezogene Methoden zur Entwicklung eines Kommunalen Flächenmanagements mit dem Ziel, mit verfügbaren Flächen so nachhaltig wie möglich umzugehen und eine wirtschaftlich, ökologisch und sozial tragfähige Stadtentwicklung zu gestalten. Darüber hinaus werden Aspekte der kommunalen Bodenpolitik insbesondere die Liegenschaftspolitik sowie die vorausschauende und kostengünstigen Baulandentwicklung im Rahmen von Anwendungsfällen mit kommunalen Partnern vermittelt und konkrete Lösungsstrategien für beide Bereiche in Form von Projekten und Handlungskonzepten entwickelt.</p>
+                  <p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Nachhaltige Bodennutzung und -politik</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>sp4</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Seminar</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Sustainable Land Use and Land Use Policy</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>6</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>180</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>120</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte/>
+            <L1_Lernergebnisse/>
+            <L1_Literatur/>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname/>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel/>
+            <L2_Lehrveranstaltungsart/>
+            <L2_Lernform/>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte/>
+            <L2_Semesterwochenstunden/>
+            <L2_Arbeitsaufwand_in_Stunden/>
+            <L2_Praesenzstunden/>
+            <L2_Selbststudiumsstunden/>
+            <L2_Anwesenheitspflicht/>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache/>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte>
+               <html>
+                  <body><ul><li>Ökonomische, technische und ökologische Aspekte des nachhaltigen Flächenmanagements</li>
+                     <li>Rechtliche und organisatorische Aspekte der Baulandentwicklung</li>
+                     <li>Konzepte einer integrierten Stadtentwicklungs- und Liegenschaftspolitik</li>
+                     <li>Handlungsfelder des Flächenmanagements wie Baulückenaktivierung, Sanierung und Umnutzung alter Bausubstanz, Nachverdichtung, das Flächenrecycling und flächensparendes Bauen</li></ul><p>Methoden und Instrumente der Bestandserfassung</p>
+                  </body>
+               </html>
+            </L2_Lehrinhalte>
+            <L2_Lernergebnisse/>
+            <L2_Literatur>
+               <html>
+                  <body>
+                     <p>Drixler, Erwin et.al. (2019) Kommunale Bodenpolitik und Baulandmodelle - Strategien für bezahlbaren Wohnraum? : eine vergleichende Analyse in deutschen Städten</p>
+                     <p>Scholich, Dietmar, Neubert, Lena (2013) Nachhaltiges Flächenmanagement: Flächensparen, aber wie</p>
+                  </body>
+               </html>
+            </L2_Literatur>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Sonderthemen in Architektur und Planung I</M_Modulname>
+         <M_Modulnummer>3. Fachsemester</M_Modulnummer>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>sp5</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Specific Topics in Architecture and Planning I</M_Modulname_englisch>
+         <M_Modulverantwortliche>Hnilica, Sonja, Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Bauwesen</M_Fachbereich>
+         <M_Studiengang>Stadtplanung, Master</M_Studiengang>
+         <M_Fachsemester>3</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>6</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>180</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>
+            <html>
+               <body>
+                  <p>120</p>
+               </body>
+            </html>
+         </M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Portfolio-Prüfung</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Studierende lernen sich in eine aktuelle Fragestellung aus dem Themenfeld von Architektur und Planung einzuarbeiten, die relevanten Aspekte zu identifizieren sowie zu analysieren und schließlich konzeptionelle Ideen für einen angemessenen Umgang mit der Fragestellung zu entwickeln.</p>
+                  <p/>
+                  <p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Sonderthemen in Architektur und Planung I</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>sp5</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Seminar</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Specific topics in Architecture and Planning I</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>6</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>180</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>120</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Ziel ist es, aktuelle Fragestellungen in Architektur und Planung aufgreifen, erarbeiten, diskutieren und konzeptionell entwickeln zu können. Die genauen Inhalte variieren je nach konkreter Fragestellung.</p>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Unterscheidet sich je nach Thema, wird in Veranstaltung ausgegeben.</p>
+                     <p/>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname/>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel/>
+            <L2_Lehrveranstaltungsart/>
+            <L2_Lernform/>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte/>
+            <L2_Semesterwochenstunden/>
+            <L2_Arbeitsaufwand_in_Stunden/>
+            <L2_Praesenzstunden/>
+            <L2_Selbststudiumsstunden/>
+            <L2_Anwesenheitspflicht/>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache/>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte/>
+            <L2_Lernergebnisse/>
+            <L2_Literatur/>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Sonderthemen in Architektur und Planung II</M_Modulname>
+         <M_Modulnummer>3. Fachsemester</M_Modulnummer>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>sp6</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Specific Topics in Architecture and Planning II</M_Modulname_englisch>
+         <M_Modulverantwortliche>Menzl, Marcus, Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Bauwesen</M_Fachbereich>
+         <M_Studiengang>Stadtplanung, Master</M_Studiengang>
+         <M_Fachsemester>3</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>6</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>4</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>180</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>60</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>
+            <html>
+               <body>
+                  <p>120</p>
+               </body>
+            </html>
+         </M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Drittelnoten</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Portfolio-Prüfung</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Studierende lernen sich in eine aktuelle Fragestellung aus dem Themenfeld von Architektur und Planung einzuarbeiten, die relevanten Aspekte zu identifizieren sowie zu analysieren und schließlich konzeptionelle Ideen für einen angemessenen Umgang mit der Fragestellung zu entwickeln.</p>
+                  <p/>
+                  <p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Sonderthemen in Architektur und Planung II</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>sp6</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Seminar</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Specific topics in Architecture and Planning II</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>6</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>4</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>180</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>60</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>120</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Ziel ist es, aktuelle Fragestellungen in Architektur und Planung aufgreifen, erarbeiten, diskutieren und konzeptionell entwickeln zu können. Die genauen Inhalte variieren je nach konkreter Fragestellung.</p>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Unterscheidet sich je nach Thema, wird in Veranstaltung ausgegeben.</p>
+                     <p/>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname/>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel/>
+            <L2_Lehrveranstaltungsart/>
+            <L2_Lernform/>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte/>
+            <L2_Semesterwochenstunden/>
+            <L2_Arbeitsaufwand_in_Stunden/>
+            <L2_Praesenzstunden/>
+            <L2_Selbststudiumsstunden/>
+            <L2_Anwesenheitspflicht/>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache/>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte/>
+            <L2_Lernergebnisse/>
+            <L2_Literatur/>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Exkursion</M_Modulname>
+         <M_Modulnummer>4. Fachsemester</M_Modulnummer>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>exk</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Study Trip</M_Modulname_englisch>
+         <M_Modulverantwortliche>Menzl, Marcus, Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Bauwesen</M_Fachbereich>
+         <M_Studiengang>Stadtplanung, Master</M_Studiengang>
+         <M_Fachsemester>4</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>3</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>2</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>90</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>45</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>
+            <html>
+               <body>
+                  <p>45</p>
+               </body>
+            </html>
+         </M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SoSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache/>
+         <M_Bewertungssystem_PL/>
+         <M_Pruefungsleistung/>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p> </p>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Exkursion</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>exk</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Exkursion</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Study Trip</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>3</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>2</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>90</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>45</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>45</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht>true</L1_Anwesenheitspflicht>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL>Drittelnoten</L1_Bewertungssystem_PL>
+            <L1_Studienleistung>Referat</L1_Studienleistung>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL>Bestehen</L1_Bewertungssystem_SL>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Studierende erlernen:</p>
+                     <p>- die Zusammenhänge zwischen gesellschaftlicher Entwicklung und Veränderung und Architektur und Städtebau sowie das Einordnen der Auswirkungen unterschiedlicher kultureller Hintergründe.</p>
+                     <p>- Sprach- und Kommunikationskompetenz</p>
+                     <p>Studierende sind in der Lage, die auf der Exkursion gewonnenen Kenntnisse und Fertigkeiten anzuwenden und zu kommunizieren.</p>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur>
+               <html>
+                  <body>
+                     <p>Werden je nach Ziel und Thema der Exkursion von den Lehrenden zur Verfügung gestellt.</p>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Literatur>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname/>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel/>
+            <L2_Lehrveranstaltungsart/>
+            <L2_Lernform/>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte/>
+            <L2_Semesterwochenstunden/>
+            <L2_Arbeitsaufwand_in_Stunden/>
+            <L2_Praesenzstunden/>
+            <L2_Selbststudiumsstunden/>
+            <L2_Anwesenheitspflicht>false</L2_Anwesenheitspflicht>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache/>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte/>
+            <L2_Lernergebnisse/>
+            <L2_Literatur/>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Masterseminar</M_Modulname>
+         <M_Modulnummer>4. Fachsemester</M_Modulnummer>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>ma1</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Master Seminar</M_Modulname_englisch>
+         <M_Modulverantwortliche>Menzl, Marcus, Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Bauwesen</M_Fachbereich>
+         <M_Studiengang>Stadtplanung, Master</M_Studiengang>
+         <M_Fachsemester>4</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>3</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden>2</M_Semesterwochenstunden>
+         <M_Arbeitsaufwand_in_Stunden>90</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden>30</M_Praesenzstunden>
+         <M_Selbststudiumsstunden>
+            <html>
+               <body>
+                  <p>60</p>
+               </body>
+            </html>
+         </M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SoSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Bestehen</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Mündliche Prüfung</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>30</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Vermittlung von Methoden des wissenschaftlichen Arbeitens sowie die Planung und Durchführung einer Abschlussarbeit mit einem wissenschaftlichen, gestalterischen oder konzeptionellen Untersuchungsansatz bzw. Forschungsansatz je nach Frage- bzw. Aufgabenstellung</p>
+                  <p>- Präsentation und Diskussion</p>
+                  <p>- Wissenschaftliches Arbeiten und Literaturrecherche</p>
+                  <p>- Zitierregeln nach DIN, Havard System</p>
+                  <p>- Aufbau wissenschaftlicher Arbeiten</p>
+                  <p>- Aufbau wissenschaftlicher Fachvorträge</p>
+                  <p>- Entwicklung von Projektideen</p>
+                  <p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Masterseminar</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>ma1</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart>Seminar</L1_Lehrveranstaltungsart>
+            <L1_Lernform>Präsenz</L1_Lernform>
+            <L1_Lehrveranstaltungsname_englisch>Master Seminar</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>3</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden>2</L1_Semesterwochenstunden>
+            <L1_Arbeitsaufwand_in_Stunden>90</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>30</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>60</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht>false</L1_Anwesenheitspflicht>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte>
+               <html>
+                  <body>
+                     <p>Studierende erlernen:</p>
+                     <p>- Literatur recherchieren, organisieren und verwalten</p>
+                     <p>- Wissenschaftliche Textsorten: Thesenpapier, Abstract, Exposé, Rezension, Forschungsbericht, Poster,</p>
+                     <p>- gestalterische, planerische bzw. wissenschaftliche Probleme im städtischen bzw. urbanen Kontext zu erkennen</p>
+                     <p>- Frage- bzw. Aufgabenstellungen aus dem Bereich städtebaulicher Entwürfe bzw. stadtplanerischer Herausforderungen und Problemlagen abzuleiten und die methodische und inhaltliche Bearbeitung für eine komplexe Frage- bzw. Aufgabenstellung zu konzipieren</p>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lehrinhalte>
+            <L1_Lernergebnisse/>
+            <L1_Literatur/>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname/>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel/>
+            <L2_Lehrveranstaltungsart/>
+            <L2_Lernform/>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte/>
+            <L2_Semesterwochenstunden/>
+            <L2_Arbeitsaufwand_in_Stunden/>
+            <L2_Praesenzstunden/>
+            <L2_Selbststudiumsstunden/>
+            <L2_Anwesenheitspflicht>false</L2_Anwesenheitspflicht>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache/>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte/>
+            <L2_Lernergebnisse/>
+            <L2_Literatur/>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Masterarbeit</M_Modulname>
+         <M_Modulnummer>4. Fachsemester</M_Modulnummer>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>ma2</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Masterthesis</M_Modulname_englisch>
+         <M_Modulverantwortliche>Menzl, Marcus, Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Bauwesen</M_Fachbereich>
+         <M_Studiengang>Stadtplanung, Master</M_Studiengang>
+         <M_Fachsemester>4</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>16</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden/>
+         <M_Arbeitsaufwand_in_Stunden>480</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden/>
+         <M_Selbststudiumsstunden>
+            <html>
+               <body>
+                  <p>480</p>
+               </body>
+            </html>
+         </M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SoSe und WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch/Englisch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Bestehen</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Abschlussarbeit</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten/>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Die eigenständige Erstellung einer wissenschaftlichen Abschlussarbeit im Bereich der Stadtplanung auf Master-Niveau.</p>
+                  <p/>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen/>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Masterarbeit</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>ma2</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart/>
+            <L1_Lernform/>
+            <L1_Lehrveranstaltungsname_englisch>Masterthesis</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>16</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden/>
+            <L1_Arbeitsaufwand_in_Stunden>480</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>0</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>480</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache/>
+            <L1_Pruefsprache>Deutsch</L1_Pruefsprache>
+            <L1_Pruefungsleistung>Abschlussarbeit</L1_Pruefungsleistung>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL>Drittelnoten</L1_Bewertungssystem_PL>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte/>
+            <L1_Lernergebnisse>
+               <html>
+                  <body>
+                     <p>Die Masterarbeit ist eine Abschlussarbeit und dient dem Nachweis, dass eine fachliche Fragestellung selbstständig und nach entsprechenden wissenschaftlichen und/oder gestalterisch-künstlerischen Standards bearbeitet werden kann. Die Masterarbeit ist eine eigenständige Vertiefung und Ausarbeitung eines selbstgewählten Themas. Jede Arbeit soll im Ergebnis einen konzeptionellen Ansatz aufweisen, in dem der Beitrag zur Verbesserung oder dem Umgang mit einer räumlichen Situation oder Problemlage deutlich wird. </p>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Lernergebnisse>
+            <L1_Literatur/>
+            <L1_Teilnahmevoraussetzungen>
+               <html>
+                  <body>
+                     <p>Siehe Prüfungsordnung</p>
+                     <p/>
+                  </body>
+               </html>
+            </L1_Teilnahmevoraussetzungen>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname/>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel/>
+            <L2_Lehrveranstaltungsart/>
+            <L2_Lernform/>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte/>
+            <L2_Semesterwochenstunden/>
+            <L2_Arbeitsaufwand_in_Stunden/>
+            <L2_Praesenzstunden/>
+            <L2_Selbststudiumsstunden/>
+            <L2_Anwesenheitspflicht>false</L2_Anwesenheitspflicht>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache/>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte/>
+            <L2_Lernergebnisse/>
+            <L2_Literatur/>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+   <Modulbeschreibung>
+      <Modul>
+         <M_Modulname>Kolloquium</M_Modulname>
+         <M_Modulnummer>4. Fachsemester</M_Modulnummer>
+         <M_Niveau>Master</M_Niveau>
+         <M_Stundenplankuerzel>ma3</M_Stundenplankuerzel>
+         <M_Modulname_englisch>Colloquium</M_Modulname_englisch>
+         <M_Modulverantwortliche>Menzl, Marcus, Prof. Dr.</M_Modulverantwortliche>
+         <M_Fachbereich>Bauwesen</M_Fachbereich>
+         <M_Studiengang>Stadtplanung, Master</M_Studiengang>
+         <M_Fachsemester>4</M_Fachsemester>
+         <M_Verpflichtungsgrad>Pflicht</M_Verpflichtungsgrad>
+         <M_ECTS_Leistungspunkte>2</M_ECTS_Leistungspunkte>
+         <M_Semesterwochenstunden/>
+         <M_Arbeitsaufwand_in_Stunden>60</M_Arbeitsaufwand_in_Stunden>
+         <M_Praesenzstunden/>
+         <M_Selbststudiumsstunden>
+            <html>
+               <body>
+                  <p>60</p>
+               </body>
+            </html>
+         </M_Selbststudiumsstunden>
+         <M_Dauer_in_Semestern>1</M_Dauer_in_Semestern>
+         <M_Angebotshaeufigkeit>SoSe und WiSe</M_Angebotshaeufigkeit>
+         <M_Lehrsprache>Deutsch</M_Lehrsprache>
+         <M_Pruefsprache>Deutsch/Englisch</M_Pruefsprache>
+         <M_Bewertungssystem_PL>Bestehen</M_Bewertungssystem_PL>
+         <M_Pruefungsleistung>Kolloquium</M_Pruefungsleistung>
+         <M_Dauer_PL_in_Minuten>45</M_Dauer_PL_in_Minuten>
+         <M_Lernergebnisse>
+            <html>
+               <body>
+                  <p>Das Abschlusskolloquium umfasst die hochschulöffentliche Präsentation der Masterarbeit sowie eine daran anschließende mündliche Fachprüfung</p>
+               </body>
+            </html>
+         </M_Lernergebnisse>
+         <M_Teilnahmevoraussetzungen>
+            <html>
+               <body>
+                  <p>Siehe Studien- und Prüfungsordnung</p>
+               </body>
+            </html>
+         </M_Teilnahmevoraussetzungen>
+         <M_GD_Geschlechtergerechte_Sprache>true</M_GD_Geschlechtergerechte_Sprache>
+         <M_GD_Anpassung_Didaktik>true</M_GD_Anpassung_Didaktik>
+         <M_GD_Vielfalt_im_Fach>true</M_GD_Vielfalt_im_Fach>
+         <M_Verwendbarkeit/>
+         <M_Bemerkungen/>
+      </Modul>
+      <Lehrveranstaltungen>
+         <Lehrveranstaltung1>
+            <L1_Lehrveranstaltungsname>Kolloquium</L1_Lehrveranstaltungsname>
+            <L1_Lehrveranstaltungsnummer/>
+            <L1_Modulnummer/>
+            <L1_Stundenplankuerzel>ma3</L1_Stundenplankuerzel>
+            <L1_Lehrveranstaltungsart/>
+            <L1_Lernform/>
+            <L1_Lehrveranstaltungsname_englisch>Colloquium</L1_Lehrveranstaltungsname_englisch>
+            <L1_ECTS_Leistungspunkte>2</L1_ECTS_Leistungspunkte>
+            <L1_Semesterwochenstunden/>
+            <L1_Arbeitsaufwand_in_Stunden>60</L1_Arbeitsaufwand_in_Stunden>
+            <L1_Praesenzstunden>0</L1_Praesenzstunden>
+            <L1_Selbststudiumsstunden>60</L1_Selbststudiumsstunden>
+            <L1_Anwesenheitspflicht/>
+            <L1_Teilnahmebeschraenkung/>
+            <L1_Gruppengroesse/>
+            <L1_Lehrsprache>Deutsch</L1_Lehrsprache>
+            <L1_Pruefsprache/>
+            <L1_Pruefungsleistung/>
+            <L1_Dauer_PL_in_Minuten/>
+            <L1_Bewertungssystem_PL/>
+            <L1_Studienleistung/>
+            <L1_Dauer_SL_in_Minuten/>
+            <L1_Bewertungssystem_SL/>
+            <L1_Lehrinhalte/>
+            <L1_Lernergebnisse/>
+            <L1_Literatur/>
+            <L1_Teilnahmevoraussetzungen/>
+            <L1_Pruefungsvorleistung/>
+            <L1_Bemerkungen/>
+         </Lehrveranstaltung1>
+         <Lehrveranstaltung2>
+            <L2_Lehrveranstaltungsname/>
+            <L2_Lehrveranstaltungsnummer/>
+            <L2_Modulnummer/>
+            <L2_Stundenplankuerzel/>
+            <L2_Lehrveranstaltungsart/>
+            <L2_Lernform/>
+            <L2_Lehrveranstaltungsname_englisch/>
+            <L2_ECTS_Leistungspunkte/>
+            <L2_Semesterwochenstunden/>
+            <L2_Arbeitsaufwand_in_Stunden/>
+            <L2_Praesenzstunden/>
+            <L2_Selbststudiumsstunden/>
+            <L2_Anwesenheitspflicht>false</L2_Anwesenheitspflicht>
+            <L2_Teilnahmebeschraenkung/>
+            <L2_Gruppengroesse/>
+            <L2_Lehrsprache/>
+            <L2_Pruefsprache/>
+            <L2_Pruefungsleistung/>
+            <L2_Dauer_PL_in_Minuten/>
+            <L2_Bewertungssystem_PL/>
+            <L2_Studienleistung/>
+            <L2_Dauer_SL_in_Minuten/>
+            <L2_Bewertungssystem_SL/>
+            <L2_Lehrinhalte/>
+            <L2_Lernergebnisse/>
+            <L2_Literatur/>
+            <L2_Teilnahmevoraussetzungen/>
+            <L2_Pruefungsvorleistung/>
+            <L2_Bemerkungen/>
+         </Lehrveranstaltung2>
+      </Lehrveranstaltungen>
+   </Modulbeschreibung>
+</Modulbeschreibungen>

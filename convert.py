@@ -16,7 +16,8 @@ veranstaltungsart_mapping = {
     "Project Work": "http://data.europa.eu/europass/learningActivityType/workShop",
     "Praktikum": "http://data.europa.eu/europass/learningActivityType/lab",
     "Practical Training": "http://data.europa.eu/europass/learningActivityType/lab",
-    "Projekt": "http://data.europa.eu/europass/learningActivityType/workShop"
+    "Projekt": "http://data.europa.eu/europass/learningActivityType/workShop",
+    "Exkursion": "http://data.europa.eu/europass/learningActivityType/workShop"
 }
 sprachen_mapping = {
     "Deutsch": "http://publications.europa.eu/resource/authority/language/DEU",
@@ -42,7 +43,8 @@ assessmentType_mapping = {
     "Colloquium": "http://data.europa.eu/europass/assessmentType/oralExamen",
     "Kolloquium": "http://data.europa.eu/europass/assessmentType/oralExamen",
     "Oral Exam": "http://data.europa.eu/europass/assessmentType/oralExamen",
-    "Mündliche Prüfung": "http://data.europa.eu/europass/assessmentType/oralExamen"
+    "Mündliche Prüfung": "http://data.europa.eu/europass/assessmentType/oralExamen",
+    "Prüfungsvortrag": "http://data.europa.eu/europass/assessmentType/oralExamen"
 }
 # The Validity is the date of the last reaccreditation
 fachbereich_validity_mapping = {
@@ -50,7 +52,8 @@ fachbereich_validity_mapping = {
     "Elektrotechnik und Informatik": "Seit 04.06.2020",
     "Electrical Engineering and Computer Science": "Seit 04.06.2020",
     "Maschinenbau und Wirtschaft": "Seit 14.11.2020",
-    "Mechanical Engineering and Business Administration": "Seit 14.11.2020"
+    "Mechanical Engineering and Business Administration": "Seit 14.11.2020",
+    "Bauwesen": "Seit 14.11.2020"
 }
 organization = {
     "id": "urn:epass:thl:organization:927",
@@ -181,7 +184,7 @@ class Module:
         alllearningEvents = [LearningEvent(lehrveranstaltungen[key], self.mspec_id, str(index+1)) for (
             index, key) in enumerate(lehrveranstaltungen)]
         self.learningEvents = [
-            x for x in alllearningEvents if x.learnActSpec.type != ""]
+            x for x in alllearningEvents if (x.learnActSpec.type != "" and x.learnActSpec.title != "")]
         self.learningOutcome = LearningOutcome(xml, self.mspec_id)
         self.description = Module.generateDescription(lehrveranstaltungen)
         self.mspec_title = modul['M_Modulname']
@@ -231,8 +234,10 @@ class Module:
             index+1)+'_Lehrinhalte'] for (index, key) in enumerate(lehrveranstaltungen)]
         for i in range(len(lehrinhalte)):
             if len(lehrinhalte) > 1:
-                description += lehrveranstaltungen['Lehrveranstaltung' + str(i+1)]['L'+str(
-                    i+1)+'_Lehrveranstaltungsname'] + ':\n'
+                if(lehrveranstaltungen['Lehrveranstaltung' + str(
+                        i+1)]['L'+str(i+1)+'_Lehrveranstaltungsname']):
+                    description += lehrveranstaltungen['Lehrveranstaltung' + str(
+                        i+1)]['L'+str(i+1)+'_Lehrveranstaltungsname'] + ':\n'
 
             description += unpackDict(lehrinhalte[i])
 

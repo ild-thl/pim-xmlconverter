@@ -21,7 +21,7 @@
     <awardings/>
   </credentialSubject>
   <learningSpecificationReferences>
-    <learningOutcome id="urn:thl:learningoutcome:20317#1">
+    <learningOutcome id="urn:thl:learningoutcome:21847#1">
       <prefLabel lang="de">Supply Chain Management</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">After successful completion of this course, the students will be able to:
@@ -31,7 +31,7 @@
 	- Apply SCM concepts in practice</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:20300#1">
+    <learningOutcome id="urn:thl:learningoutcome:21830#1">
       <prefLabel lang="de">Entrepreneurship und Innovation</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">- Die Studierenden können wissenschaftliche Grundlagen sowie spezialisiertes und vertieftes Fachwissen im Innovations- und Technologiemanagement erläutern und anwenden.
@@ -40,7 +40,7 @@
 	- Die Studierenden können in Gruppen kooperativ und verantwortlich arbeiten sowie das eigene Kooperationsverhalten in Gruppen kritisch reflektieren und erweitern.</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:20283#1">
+    <learningOutcome id="urn:thl:learningoutcome:21813#1">
       <prefLabel lang="de">Entrepreneurship in der digitalen Wirtschaft</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">- Die Studierenden erkennen somit die wichtigsten Fragestellungen im Rahmen eines Gründungsprozesses und verfügen anschließend über breites Wissen einschließlich der wissenschaftlichen Grundlagen und der praktischen Anwendung zur Bedeutung des Entrepreneurships im volks- und betriebswirtschaftlichen Kontext. Sie können ihr Wissen abrufen und ergänzt um eigene Beispiele, in einem geänderten Kontext wiedergeben. Die Studierenden können Merkmale und Faktoren erfolgreicher Unternehmensgründungen erschließen und Gründungsideen anhand von Kriterien und erworbenen Methoden bewerten sowie eigenständig entwickeln und visualisieren.
@@ -52,20 +52,20 @@
 	- Die Studierenden können in Gruppen kooperativ und verantwortlich arbeiten sowie das eigene Kooperationsverhalten in Gruppen kritisch reflektieren und erweitern.</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:20266#1">
+    <learningOutcome id="urn:thl:learningoutcome:21796#1">
       <prefLabel lang="de">Verhandlungsführung</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Studierenden kennen grundlegende Kommunikations- und Verhandlungstechniken und können diese in typischen Gesprächssituationen von Führungskräften und in einer eigenen Verhandlung erfolgreich anwenden.
 Sie lernen außerdem, ihre eigene Wirkung auf andere durch Auftreten, Sprache und Verhalten in Gesprächen einzuschätzen und zu steuern.</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:20249#1">
+    <learningOutcome id="urn:thl:learningoutcome:21779#1">
       <prefLabel lang="de">Entrepreneurial Behavior</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Nach der Teilnahme an der Veranstaltung sind die Studierenden in der Lage, psychologische Eigenschaften und Prozesse von Entrepreneuren und unternehmerischen Teams zu analysieren und zu bewerten, unternehmerische Denk- und Handlungsprinzipien anzuwenden, theoretisch fundierte unternehmerische Entscheidungen zu treffen, Motivationskonzepte zu bewerten, Personal zu führen und zu entwickeln sowie den Einfluss des Entrepreneurial Spirit auf die Handlungen einzuschätzen und zu bewerten.</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:20232#1">
+    <learningOutcome id="urn:thl:learningoutcome:21762#1">
       <prefLabel lang="de">Businessplan</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Zur Bearbeitung der einzelnen Businessplanbestandteile verfügen die Studierenden über erweitertes Wissen in angrenzenden Bereichen und erschließen darüber hinaus Informationen eigenständig über geeignete
@@ -75,13 +75,13 @@ werden. Bei unvollständigen oder widersprüchlichen Informationen wägen die St
 Der Aufbau des Businessplanseminars bedingt, dass die Studierenden fachliche Entwicklungen anderer Kommilitonen ebenfalls gezielt fördern, bereichsspezifische und -übergreifende Diskussionen führen sowie wertschätzendes Feedback auf die Zwischenpräsentationen der anderen Seminarteilnehmer geben.</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:20215#1">
+    <learningOutcome id="urn:thl:learningoutcome:21745#1">
       <prefLabel lang="de">Verkehrsbetriebslehre</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Lehrveranstaltung befähigt die Studierenden, Dienstleistungen in Verkehr und Logistik analysieren und bewerten zu können. Darüber hinaus werden Fähigkeiten für das Management von Verkehrs- und Logistikbetrieben vermittelt.</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:20198#1">
+    <learningOutcome id="urn:thl:learningoutcome:21728#1">
       <prefLabel lang="de">Supply Chain Management</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">After successful completion of this course, the students will be able to:
@@ -91,13 +91,13 @@ Der Aufbau des Businessplanseminars bedingt, dass die Studierenden fachliche Ent
 	- Apply SCM concepts in practice</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:20181#1">
+    <learningOutcome id="urn:thl:learningoutcome:21711#1">
       <prefLabel lang="de">Telematik-Anwendungen</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Lehrveranstaltung befähigt die Studierenden, Anwendungen von Telematik zu konzipieren und zu bewerten.</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:20164#1">
+    <learningOutcome id="urn:thl:learningoutcome:21694#1">
       <prefLabel lang="de">Strategisches Produktionscontrolling und Fallstudien</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Lehrveranstaltung vermittelt Grundlagen und innovative Methoden, so dass die Studierenden befähigt werden, in ihrer zukünftigen beruflichen Praxis das strategische Controlling projektorientiert in der produzierenden Industrie durchzuführen und weiterzuentwickeln. Nach Abschluss dieses Moduls sind die Studierenden in der Lage:
@@ -106,13 +106,13 @@ Der Aufbau des Businessplanseminars bedingt, dass die Studierenden fachliche Ent
 	- umfassende aktuelle Fallstudien durchzuführen und eigenständig Lösungen für die u.g. Inhalte zu entwickeln.</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:20147#1">
+    <learningOutcome id="urn:thl:learningoutcome:21677#1">
       <prefLabel lang="de">Advanced Planning Systems</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Studierenden lernen die verschiedenen Ebenen des Supply Chain Plannings in der Theorie und in der Anwendung mit mySAP SCM kennen</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:20130#1">
+    <learningOutcome id="urn:thl:learningoutcome:21660#1">
       <prefLabel lang="de">Simulation technischer Systeme</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Lehrveranstaltung vermittelt Grundlagen und aufbauende Methoden, so dass die Studierenden befähigt werden, in ihrer zukünftigen beruflichen Praxis komplexe technische Systeme zu planen und anhand der Simulation zu bewerten. Dazu zählt insbesondere die Anwendung der Simulation im Rahmen der Fabrikplanung. Nach Abschluss dieses Moduls sind die Studierenden in der Lage:
@@ -120,7 +120,7 @@ Der Aufbau des Businessplanseminars bedingt, dass die Studierenden fachliche Ent
 	- komplexe Zusammenhänge darzustellen und Lösungsansätze für die Layout-Gestaltung, Simulation und Optimierung von Fabriken und deren Prozesse mittels Software-Tools zu entwickeln.</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:20113#1">
+    <learningOutcome id="urn:thl:learningoutcome:21643#1">
       <prefLabel lang="de">Organisationspsychologie und Changemanagement</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">- Kenntnisse von Grundlagen, Methoden und Theorien zum erfolgreichen Gestalten von Zusammenarbeit in Organisationen
@@ -128,19 +128,19 @@ Der Aufbau des Businessplanseminars bedingt, dass die Studierenden fachliche Ent
 	- Entwicklung, Gestaltung und Bewertung von Innovations- und Veränderungsprozessen in Organisationen</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:20096#1">
+    <learningOutcome id="urn:thl:learningoutcome:21626#1">
       <prefLabel lang="de">Operations Research</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Lehrveranstaltung befähigt Studierende, Fragestellungen im Bereich von Logistik und Produktion  mittels mathematischer Optimierungsverfahren zu lösen.</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:20079#1">
+    <learningOutcome id="urn:thl:learningoutcome:21609#1">
       <prefLabel lang="de">Technische Investitionsplanung</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Lehrveranstaltung vermittelt Grundlagen und Methoden der Planung, so dass die Studierenden befähigt werden, in ihrer zukünftigen beruflichen Praxis technisch-fokussierte Investitionen in verschiedensten Branchen und Industrien konzipieren, dimensionieren und bewerten zu können.</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:20062#1">
+    <learningOutcome id="urn:thl:learningoutcome:21592#1">
       <prefLabel lang="de">Produktionsmanagement und Fabrikplanung</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Lehrveranstaltung befähigt Studierende:
@@ -148,7 +148,7 @@ Der Aufbau des Businessplanseminars bedingt, dass die Studierenden fachliche Ent
 	- Die wesentlichen Instrumente und Konzepte des Produktionsmanagements und der Fabrikplanung zu kennen und anwenden zu können</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:20045#1">
+    <learningOutcome id="urn:thl:learningoutcome:21575#1">
       <prefLabel lang="de">IT-Management und E-Business</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Lehrveranstaltung vermittelt Grundlagen und Methoden für das Verständnis von IT-Management und E-Business.
@@ -167,26 +167,26 @@ Dabei wird ein Schwerpunkt die Analyse aktueller Fälle/Beispiele sein.</text>
     </stupo>
     <studySection id="urn:thl:learning:spec:studysection:877377">
       <title lang="de">Wirtschaftsingenieurwesen, Master</title>
-      <hasPart idref="urn:thl:learning:spec:20045#1"/>
-      <hasPart idref="urn:thl:learning:spec:20062#1"/>
-      <hasPart idref="urn:thl:learning:spec:20079#1"/>
-      <hasPart idref="urn:thl:learning:spec:20096#1"/>
-      <hasPart idref="urn:thl:learning:spec:20113#1"/>
-      <hasPart idref="urn:thl:learning:spec:20130#1"/>
-      <hasPart idref="urn:thl:learning:spec:20147#1"/>
-      <hasPart idref="urn:thl:learning:spec:20164#1"/>
-      <hasPart idref="urn:thl:learning:spec:20181#1"/>
-      <hasPart idref="urn:thl:learning:spec:20198#1"/>
-      <hasPart idref="urn:thl:learning:spec:20215#1"/>
-      <hasPart idref="urn:thl:learning:spec:20232#1"/>
-      <hasPart idref="urn:thl:learning:spec:20249#1"/>
-      <hasPart idref="urn:thl:learning:spec:20266#1"/>
-      <hasPart idref="urn:thl:learning:spec:20283#1"/>
-      <hasPart idref="urn:thl:learning:spec:20300#1"/>
-      <hasPart idref="urn:thl:learning:spec:20317#1"/>
+      <hasPart idref="urn:thl:learning:spec:21575#1"/>
+      <hasPart idref="urn:thl:learning:spec:21592#1"/>
+      <hasPart idref="urn:thl:learning:spec:21609#1"/>
+      <hasPart idref="urn:thl:learning:spec:21626#1"/>
+      <hasPart idref="urn:thl:learning:spec:21643#1"/>
+      <hasPart idref="urn:thl:learning:spec:21660#1"/>
+      <hasPart idref="urn:thl:learning:spec:21677#1"/>
+      <hasPart idref="urn:thl:learning:spec:21694#1"/>
+      <hasPart idref="urn:thl:learning:spec:21711#1"/>
+      <hasPart idref="urn:thl:learning:spec:21728#1"/>
+      <hasPart idref="urn:thl:learning:spec:21745#1"/>
+      <hasPart idref="urn:thl:learning:spec:21762#1"/>
+      <hasPart idref="urn:thl:learning:spec:21779#1"/>
+      <hasPart idref="urn:thl:learning:spec:21796#1"/>
+      <hasPart idref="urn:thl:learning:spec:21813#1"/>
+      <hasPart idref="urn:thl:learning:spec:21830#1"/>
+      <hasPart idref="urn:thl:learning:spec:21847#1"/>
     </studySection>
-    <modulSpecialization id="urn:thl:learning:spec:20045#1">
-      <identifier>20045#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:21575#1">
+      <identifier>21575#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">IT-Management und E-Business</title>
       <definition>
@@ -210,7 +210,7 @@ Studierende sollen die Fähigkeit erwerben, vorstehende Themen für einen mögli
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=20045&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21575&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -223,9 +223,9 @@ Studierende sollen die Fähigkeit erwerben, vorstehende Themen für einen mögli
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:20045#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:21575#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:20045#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21575#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -233,21 +233,21 @@ Studierende sollen die Fähigkeit erwerben, vorstehende Themen für einen mögli
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:20045#1-1"/>
-      <specializationOf idref="urn:thl:learning:spec:20045"/>
+      <hasPart idref="urn:thl:learning:spec:21575#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:21575"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:20045#1-1">
+    <learningEvent id="urn:thl:learning:spec:21575#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">IT-Management und E-Business</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:20045#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21575#1-1"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:20045">
-      <identifier>20045</identifier>
+    <modul id="urn:thl:learning:spec:21575">
+      <identifier>21575</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 20045</title>
+      <title lang="de">Modul 21575</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:20062#1">
-      <identifier>20062#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:21592#1">
+      <identifier>21592#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Produktionsmanagement und Fabrikplanung</title>
       <definition>
@@ -278,7 +278,7 @@ Thonemann, U.: Operations Management. Pearson: München  2015
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=20062&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21592&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -291,9 +291,9 @@ Thonemann, U.: Operations Management. Pearson: München  2015
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:20062#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:21592#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:20062#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21592#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -301,21 +301,21 @@ Thonemann, U.: Operations Management. Pearson: München  2015
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:20062#1-1"/>
-      <specializationOf idref="urn:thl:learning:spec:20062"/>
+      <hasPart idref="urn:thl:learning:spec:21592#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:21592"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:20062#1-1">
+    <learningEvent id="urn:thl:learning:spec:21592#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Produktionsmanagement und Fabrikplanung</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:20062#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21592#1-1"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:20062">
-      <identifier>20062</identifier>
+    <modul id="urn:thl:learning:spec:21592">
+      <identifier>21592</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 20062</title>
+      <title lang="de">Modul 21592</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:20079#1">
-      <identifier>20079#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:21609#1">
+      <identifier>21609#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Technische Investitionsplanung</title>
       <definition>
@@ -337,7 +337,7 @@ Kettner / Schmidt / Greim: Leitfaden der systematischen Fabrikplanung, 1984
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=20079&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21609&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -350,9 +350,9 @@ Kettner / Schmidt / Greim: Leitfaden der systematischen Fabrikplanung, 1984
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:20079#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:21609#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:20079#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21609#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -360,21 +360,21 @@ Kettner / Schmidt / Greim: Leitfaden der systematischen Fabrikplanung, 1984
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:20079#1-1"/>
-      <specializationOf idref="urn:thl:learning:spec:20079"/>
+      <hasPart idref="urn:thl:learning:spec:21609#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:21609"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:20079#1-1">
+    <learningEvent id="urn:thl:learning:spec:21609#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Technische Investitionsplanung</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:20079#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21609#1-1"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:20079">
-      <identifier>20079</identifier>
+    <modul id="urn:thl:learning:spec:21609">
+      <identifier>21609</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 20079</title>
+      <title lang="de">Modul 21609</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:20096#1">
-      <identifier>20096#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:21626#1">
+      <identifier>21626#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Operations Research</title>
       <definition>
@@ -406,7 +406,7 @@ Zimmermann, H.-J.: Operations Research. Wiesbaden: Vieweg 2008
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=20096&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21626&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -419,9 +419,9 @@ Zimmermann, H.-J.: Operations Research. Wiesbaden: Vieweg 2008
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:20096#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:21626#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:20096#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21626#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -429,21 +429,21 @@ Zimmermann, H.-J.: Operations Research. Wiesbaden: Vieweg 2008
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:20096#1-1"/>
-      <specializationOf idref="urn:thl:learning:spec:20096"/>
+      <hasPart idref="urn:thl:learning:spec:21626#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:21626"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:20096#1-1">
+    <learningEvent id="urn:thl:learning:spec:21626#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Operations Research</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:20096#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21626#1-1"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:20096">
-      <identifier>20096</identifier>
+    <modul id="urn:thl:learning:spec:21626">
+      <identifier>21626</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 20096</title>
+      <title lang="de">Modul 21626</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:20113#1">
-      <identifier>20113#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:21643#1">
+      <identifier>21643#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Organisationspsychologie und Changemanagement</title>
       <definition>
@@ -489,7 +489,7 @@ Changemanagement:
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=20113&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21643&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -502,9 +502,9 @@ Changemanagement:
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:20113#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:21643#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:20113#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21643#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -512,27 +512,27 @@ Changemanagement:
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:20113#1-1"/>
-      <hasPart idref="urn:thl:learning:spec:20113#1-2"/>
-      <specializationOf idref="urn:thl:learning:spec:20113"/>
+      <hasPart idref="urn:thl:learning:spec:21643#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:21643#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:21643"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:20113#1-1">
+    <learningEvent id="urn:thl:learning:spec:21643#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Organisationspsychologie</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:20113#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21643#1-1"/>
     </learningEvent>
-    <learningEvent id="urn:thl:learning:spec:20113#1-2">
+    <learningEvent id="urn:thl:learning:spec:21643#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Changemanagement</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:20113#1-2"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21643#1-2"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:20113">
-      <identifier>20113</identifier>
+    <modul id="urn:thl:learning:spec:21643">
+      <identifier>21643</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 20113</title>
+      <title lang="de">Modul 21643</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:20130#1">
-      <identifier>20130#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:21660#1">
+      <identifier>21660#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Simulation technischer Systeme</title>
       <definition>
@@ -565,7 +565,7 @@ Fallstudien</text>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=20130&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21660&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -578,9 +578,9 @@ Fallstudien</text>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:20130#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:21660#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:20130#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21660#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -588,21 +588,21 @@ Fallstudien</text>
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:20130#1-1"/>
-      <specializationOf idref="urn:thl:learning:spec:20130"/>
+      <hasPart idref="urn:thl:learning:spec:21660#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:21660"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:20130#1-1">
+    <learningEvent id="urn:thl:learning:spec:21660#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Simulation technischer Systeme</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:20130#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21660#1-1"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:20130">
-      <identifier>20130</identifier>
+    <modul id="urn:thl:learning:spec:21660">
+      <identifier>21660</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 20130</title>
+      <title lang="de">Modul 21660</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:20147#1">
-      <identifier>20147#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:21677#1">
+      <identifier>21677#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Advanced Planning Systems</title>
       <definition>
@@ -646,7 +646,7 @@ Supply Network Planning (SNP)
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=20147&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21677&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT225H0M0S</volumeOfLearning>
@@ -659,9 +659,9 @@ Supply Network Planning (SNP)
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:20147#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:21677#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:20147#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21677#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -669,21 +669,21 @@ Supply Network Planning (SNP)
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:20147#1-1"/>
-      <specializationOf idref="urn:thl:learning:spec:20147"/>
+      <hasPart idref="urn:thl:learning:spec:21677#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:21677"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:20147#1-1">
+    <learningEvent id="urn:thl:learning:spec:21677#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Advanced Planning Systems</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:20147#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21677#1-1"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:20147">
-      <identifier>20147</identifier>
+    <modul id="urn:thl:learning:spec:21677">
+      <identifier>21677</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 20147</title>
+      <title lang="de">Modul 21677</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:20164#1">
-      <identifier>20164#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:21694#1">
+      <identifier>21694#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Strategisches Produktionscontrolling und Fallstudien</title>
       <definition>
@@ -721,7 +721,7 @@ Fallstudie: Sanierung eines Unternehmens</text>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=20164&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21694&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT225H0M0S</volumeOfLearning>
@@ -734,9 +734,9 @@ Fallstudie: Sanierung eines Unternehmens</text>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:20164#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:21694#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:20164#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21694#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -744,27 +744,27 @@ Fallstudie: Sanierung eines Unternehmens</text>
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:20164#1-1"/>
-      <hasPart idref="urn:thl:learning:spec:20164#1-2"/>
-      <specializationOf idref="urn:thl:learning:spec:20164"/>
+      <hasPart idref="urn:thl:learning:spec:21694#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:21694#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:21694"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:20164#1-1">
+    <learningEvent id="urn:thl:learning:spec:21694#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Strategisches Produktionscontrolling</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:20164#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21694#1-1"/>
     </learningEvent>
-    <learningEvent id="urn:thl:learning:spec:20164#1-2">
+    <learningEvent id="urn:thl:learning:spec:21694#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Fallstudien - Strategisches Produktionscontrolling</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:20164#1-2"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21694#1-2"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:20164">
-      <identifier>20164</identifier>
+    <modul id="urn:thl:learning:spec:21694">
+      <identifier>21694</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 20164</title>
+      <title lang="de">Modul 21694</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:20181#1">
-      <identifier>20181#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:21711#1">
+      <identifier>21711#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Telematik-Anwendungen</title>
       <definition>
@@ -791,7 +791,7 @@ Evers, Harry. (Hrsg.): Kompendium der Verkehrs-Telematik; Technologien, Applikat
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=20181&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21711&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -804,9 +804,9 @@ Evers, Harry. (Hrsg.): Kompendium der Verkehrs-Telematik; Technologien, Applikat
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:20181#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:21711#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:20181#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21711#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -814,21 +814,21 @@ Evers, Harry. (Hrsg.): Kompendium der Verkehrs-Telematik; Technologien, Applikat
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:20181#1-1"/>
-      <specializationOf idref="urn:thl:learning:spec:20181"/>
+      <hasPart idref="urn:thl:learning:spec:21711#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:21711"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:20181#1-1">
+    <learningEvent id="urn:thl:learning:spec:21711#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Telematik-Anwendungen</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:20181#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21711#1-1"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:20181">
-      <identifier>20181</identifier>
+    <modul id="urn:thl:learning:spec:21711">
+      <identifier>21711</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 20181</title>
+      <title lang="de">Modul 21711</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:20198#1">
-      <identifier>20198#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:21728#1">
+      <identifier>21728#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Supply Chain Management</title>
       <definition>
@@ -868,7 +868,7 @@ Simchi-Levi, D.; Kaminsky, P.; Simchi-Levi, E. Designing and Managing the Supply
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=20198&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21728&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -881,9 +881,9 @@ Simchi-Levi, D.; Kaminsky, P.; Simchi-Levi, E. Designing and Managing the Supply
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:20198#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:21728#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:20198#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21728#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -891,21 +891,21 @@ Simchi-Levi, D.; Kaminsky, P.; Simchi-Levi, E. Designing and Managing the Supply
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:20198#1-1"/>
-      <specializationOf idref="urn:thl:learning:spec:20198"/>
+      <hasPart idref="urn:thl:learning:spec:21728#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:21728"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:20198#1-1">
+    <learningEvent id="urn:thl:learning:spec:21728#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Supply Chain Management</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:20198#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21728#1-1"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:20198">
-      <identifier>20198</identifier>
+    <modul id="urn:thl:learning:spec:21728">
+      <identifier>21728</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 20198</title>
+      <title lang="de">Modul 21728</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:20215#1">
-      <identifier>20215#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:21745#1">
+      <identifier>21745#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Verkehrsbetriebslehre</title>
       <definition>
@@ -930,7 +930,7 @@ Holderied, C.: Güterverkehr, Spedition und Logistik: Managementkonzepte für G�
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=20215&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21745&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -943,9 +943,9 @@ Holderied, C.: Güterverkehr, Spedition und Logistik: Managementkonzepte für G�
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:20215#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:21745#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:20215#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21745#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -953,21 +953,21 @@ Holderied, C.: Güterverkehr, Spedition und Logistik: Managementkonzepte für G�
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:20215#1-1"/>
-      <specializationOf idref="urn:thl:learning:spec:20215"/>
+      <hasPart idref="urn:thl:learning:spec:21745#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:21745"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:20215#1-1">
+    <learningEvent id="urn:thl:learning:spec:21745#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Verkehrsbetriebslehre</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:20215#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21745#1-1"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:20215">
-      <identifier>20215</identifier>
+    <modul id="urn:thl:learning:spec:21745">
+      <identifier>21745</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 20215</title>
+      <title lang="de">Modul 21745</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:20232#1">
-      <identifier>20232#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:21762#1">
+      <identifier>21762#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Businessplan</title>
       <definition>
@@ -989,7 +989,7 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=20232&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21762&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -1002,9 +1002,9 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:20232#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:21762#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:20232#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21762#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -1012,21 +1012,21 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:20232#1-1"/>
-      <specializationOf idref="urn:thl:learning:spec:20232"/>
+      <hasPart idref="urn:thl:learning:spec:21762#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:21762"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:20232#1-1">
+    <learningEvent id="urn:thl:learning:spec:21762#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Businessplan</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:20232#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21762#1-1"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:20232">
-      <identifier>20232</identifier>
+    <modul id="urn:thl:learning:spec:21762">
+      <identifier>21762</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 20232</title>
+      <title lang="de">Modul 21762</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:20249#1">
-      <identifier>20249#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:21779#1">
+      <identifier>21779#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Entrepreneurial Behavior</title>
       <definition>
@@ -1050,7 +1050,7 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=20249&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21779&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -1063,9 +1063,9 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:20249#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:21779#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:20249#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21779#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -1073,21 +1073,21 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:20249#1-1"/>
-      <specializationOf idref="urn:thl:learning:spec:20249"/>
+      <hasPart idref="urn:thl:learning:spec:21779#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:21779"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:20249#1-1">
+    <learningEvent id="urn:thl:learning:spec:21779#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Entrepreneurial Behavior</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:20249#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21779#1-1"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:20249">
-      <identifier>20249</identifier>
+    <modul id="urn:thl:learning:spec:21779">
+      <identifier>21779</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 20249</title>
+      <title lang="de">Modul 21779</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:20266#1">
-      <identifier>20266#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:21796#1">
+      <identifier>21796#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Verhandlungsführung</title>
       <definition>
@@ -1115,7 +1115,7 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=20266&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21796&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -1128,9 +1128,9 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:20266#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:21796#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:20266#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21796#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -1138,21 +1138,21 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:20266#1-1"/>
-      <specializationOf idref="urn:thl:learning:spec:20266"/>
+      <hasPart idref="urn:thl:learning:spec:21796#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:21796"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:20266#1-1">
+    <learningEvent id="urn:thl:learning:spec:21796#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Verhandlungsführung</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:20266#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21796#1-1"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:20266">
-      <identifier>20266</identifier>
+    <modul id="urn:thl:learning:spec:21796">
+      <identifier>21796</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 20266</title>
+      <title lang="de">Modul 21796</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:20283#1">
-      <identifier>20283#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:21813#1">
+      <identifier>21813#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Entrepreneurship in der digitalen Wirtschaft</title>
       <definition>
@@ -1171,7 +1171,7 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=20283&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21813&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -1184,9 +1184,9 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:20283#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:21813#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:20283#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21813#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -1194,21 +1194,21 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:20283#1-1"/>
-      <specializationOf idref="urn:thl:learning:spec:20283"/>
+      <hasPart idref="urn:thl:learning:spec:21813#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:21813"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:20283#1-1">
+    <learningEvent id="urn:thl:learning:spec:21813#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Entrepreneurship und Innovation</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:20283#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21813#1-1"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:20283">
-      <identifier>20283</identifier>
+    <modul id="urn:thl:learning:spec:21813">
+      <identifier>21813</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 20283</title>
+      <title lang="de">Modul 21813</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:20300#1">
-      <identifier>20300#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:21830#1">
+      <identifier>21830#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Entrepreneurship und Innovation</title>
       <definition>
@@ -1229,7 +1229,7 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=20300&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21830&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -1242,9 +1242,9 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:20300#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:21830#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:20300#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21830#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -1252,21 +1252,21 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:20300#1-1"/>
-      <specializationOf idref="urn:thl:learning:spec:20300"/>
+      <hasPart idref="urn:thl:learning:spec:21830#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:21830"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:20300#1-1">
+    <learningEvent id="urn:thl:learning:spec:21830#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Entrepreneurship und Innovation</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:20300#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21830#1-1"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:20300">
-      <identifier>20300</identifier>
+    <modul id="urn:thl:learning:spec:21830">
+      <identifier>21830</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 20300</title>
+      <title lang="de">Modul 21830</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:20317#1">
-      <identifier>20317#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:21847#1">
+      <identifier>21847#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Supply Chain Management</title>
       <definition>
@@ -1306,7 +1306,7 @@ Simchi-Levi, D.; Kaminsky, P.; Simchi-Levi, E. Designing and Managing the Supply
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=20317&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21847&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -1319,9 +1319,9 @@ Simchi-Levi, D.; Kaminsky, P.; Simchi-Levi, E. Designing and Managing the Supply
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:20317#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:21847#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:20317#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21847#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -1329,200 +1329,200 @@ Simchi-Levi, D.; Kaminsky, P.; Simchi-Levi, E. Designing and Managing the Supply
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:20317#1-1"/>
-      <specializationOf idref="urn:thl:learning:spec:20317"/>
+      <hasPart idref="urn:thl:learning:spec:21847#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:21847"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:20317#1-1">
+    <learningEvent id="urn:thl:learning:spec:21847#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Supply Chain Management</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:20317#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21847#1-1"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:20317">
-      <identifier>20317</identifier>
+    <modul id="urn:thl:learning:spec:21847">
+      <identifier>21847</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 20317</title>
+      <title lang="de">Modul 21847</title>
     </modul>
   </learningSpecificationReferences>
   <learningActivitySpecificationReferences>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:20045#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21575#1-1">
       <title lang="de">IT-Management und E-Business</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:20062#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21592#1-1">
       <title lang="de">Produktionsmanagement und Fabrikplanung</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:20079#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21609#1-1">
       <title lang="de">Technische Investitionsplanung</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:20096#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21626#1-1">
       <title lang="de">Operations Research</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:20113#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21643#1-1">
       <title lang="de">Organisationspsychologie</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:20113#1-2">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21643#1-2">
       <title lang="de">Changemanagement</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:20130#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21660#1-1">
       <title lang="de">Simulation technischer Systeme</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:20147#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21677#1-1">
       <title lang="de">Advanced Planning Systems</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:20164#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21694#1-1">
       <title lang="de">Strategisches Produktionscontrolling</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:20164#1-2">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21694#1-2">
       <title lang="de">Fallstudien - Strategisches Produktionscontrolling</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:20181#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21711#1-1">
       <title lang="de">Telematik-Anwendungen</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:20198#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21728#1-1">
       <title lang="de">Supply Chain Management</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:20215#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21745#1-1">
       <title lang="de">Verkehrsbetriebslehre</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:20232#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21762#1-1">
       <title lang="de">Businessplan</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:20249#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21779#1-1">
       <title lang="de">Entrepreneurial Behavior</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:20266#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21796#1-1">
       <title lang="de">Verhandlungsführung</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:20283#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21813#1-1">
       <title lang="de">Entrepreneurship und Innovation</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:20300#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21830#1-1">
       <title lang="de">Entrepreneurship und Innovation</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:20317#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21847#1-1">
       <title lang="de">Supply Chain Management</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
   </learningActivitySpecificationReferences>
   <assessmentSpecificationReferences>
-    <assessmentSpecification id="urn:thl:assessment:spec:20045#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:21575#1">
       <title lang="de">IT-Management und E-Business</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:20045#1"/>
+      <proves idref="urn:thl:learningoutcome:21575#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:20062#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:21592#1">
       <title lang="de">Produktionsmanagement und Fabrikplanung</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:20062#1"/>
+      <proves idref="urn:thl:learningoutcome:21592#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:20079#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:21609#1">
       <title lang="de">Technische Investitionsplanung</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:20079#1"/>
+      <proves idref="urn:thl:learningoutcome:21609#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:20096#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:21626#1">
       <title lang="de">Operations Research</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:20096#1"/>
+      <proves idref="urn:thl:learningoutcome:21626#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:20113#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:21643#1">
       <title lang="de">Organisationspsychologie und Changemanagement</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:20113#1"/>
+      <proves idref="urn:thl:learningoutcome:21643#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:20130#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:21660#1">
       <title lang="de">Simulation technischer Systeme</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:20130#1"/>
+      <proves idref="urn:thl:learningoutcome:21660#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:20147#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:21677#1">
       <title lang="de">Advanced Planning Systems</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:20147#1"/>
+      <proves idref="urn:thl:learningoutcome:21677#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:20164#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:21694#1">
       <title lang="de">Strategisches Produktionscontrolling und Fallstudien</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:20164#1"/>
+      <proves idref="urn:thl:learningoutcome:21694#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:20181#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:21711#1">
       <title lang="de">Telematik-Anwendungen</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:20181#1"/>
+      <proves idref="urn:thl:learningoutcome:21711#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:20198#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:21728#1">
       <title lang="de">Supply Chain Management</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
-      <proves idref="urn:thl:learningoutcome:20198#1"/>
+      <proves idref="urn:thl:learningoutcome:21728#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:20215#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:21745#1">
       <title lang="de">Verkehrsbetriebslehre</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:20215#1"/>
+      <proves idref="urn:thl:learningoutcome:21745#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:20232#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:21762#1">
       <title lang="de">Businessplan</title>
       <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:20232#1"/>
+      <proves idref="urn:thl:learningoutcome:21762#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:20249#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:21779#1">
       <title lang="de">Entrepreneurial Behavior</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:20249#1"/>
+      <proves idref="urn:thl:learningoutcome:21779#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:20266#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:21796#1">
       <title lang="de">Verhandlungsführung</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:20266#1"/>
+      <proves idref="urn:thl:learningoutcome:21796#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:20283#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:21813#1">
       <title lang="de">Entrepreneurship in der digitalen Wirtschaft</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:20283#1"/>
+      <proves idref="urn:thl:learningoutcome:21813#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:20300#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:21830#1">
       <title lang="de">Entrepreneurship und Innovation</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:20300#1"/>
+      <proves idref="urn:thl:learningoutcome:21830#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:20317#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:21847#1">
       <title lang="de">Supply Chain Management</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
-      <proves idref="urn:thl:learningoutcome:20317#1"/>
+      <proves idref="urn:thl:learningoutcome:21847#1"/>
     </assessmentSpecification>
   </assessmentSpecificationReferences>
   <entitlementSpecificationReferences/>

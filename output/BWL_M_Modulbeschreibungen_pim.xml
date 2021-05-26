@@ -21,19 +21,19 @@
     <awardings/>
   </credentialSubject>
   <learningSpecificationReferences>
-    <learningOutcome id="urn:thl:learningoutcome:16815#1">
+    <learningOutcome id="urn:thl:learningoutcome:18345#1">
       <prefLabel lang="de">Wirtschaftsethik und Recht</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Kenntnis von wirtschaftsethischen Grundlagen und Erklärungsansätzen, verbindlichem Recht und freiwilligen Leitlinien und die Einordnung von Fallbeispielen im Hinblick auf Nachhaltigkeit, Lebensdienlichkeit und Rechtssicherheit.</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:16798#1">
+    <learningOutcome id="urn:thl:learningoutcome:18328#1">
       <prefLabel lang="de">Steuerung und Management</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Methodische und theoretische Ansätze zum Gestalten von Beratungs- und Trainingssituationen kennen und anwenden können</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:16781#1">
+    <learningOutcome id="urn:thl:learningoutcome:18311#1">
       <prefLabel lang="de">Methoden der Markt- und Branchenanalysen</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Fachkompetenz:
@@ -46,25 +46,25 @@ Selbstkompetenz:
 Ihre Fach- und Methodenkompetenz ermöglicht es den Studierenden, Vorschläge im unternehmerischen Handeln selbstbewusst vorzutragen und zu verteidigen.</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:16764#1">
+    <learningOutcome id="urn:thl:learningoutcome:18294#1">
       <prefLabel lang="de">e-Business Management</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Konzepte und Methoden des e-Business- Managements kennen, verstehen, anwenden, analysieren und bewerten zu können.</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:16747#1">
+    <learningOutcome id="urn:thl:learningoutcome:18277#1">
       <prefLabel lang="de">Dienstleistungsmanagement</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Studierenden erlangen Fähigkeiten und Fertigkeiten in der Methode und im Transfer zur Beurteilung und Lösung spezifischer Aufgabenstellungen im modernen Management von Dienstleistungen.</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:16730#1">
+    <learningOutcome id="urn:thl:learningoutcome:18260#1">
       <prefLabel lang="de">Public Services</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">The lecture presents contemporary concepts of a modern public sector. Considering the strict budgetary constraints of modern economies, students will gather a better understanding of public finance, i.e. of the modus operandi of public expenditures and revenues.</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:16713#1">
+    <learningOutcome id="urn:thl:learningoutcome:18243#1">
       <prefLabel lang="de">Nachhaltigkeitsmanagement</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Studierenden…
@@ -78,14 +78,14 @@ Ihre Fach- und Methodenkompetenz ermöglicht es den Studierenden, Vorschläge im
 	- sind mit Ansätzen und Modellen nachhaltiger Unternehmensführung und deren fallspezifischer Anwendung vertraut.</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:16696#1">
+    <learningOutcome id="urn:thl:learningoutcome:18226#1">
       <prefLabel lang="de">Information Management</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Studierenden können das Statistikpaket R zur Analyse großer Mengen betriebswirtschaftlicher Daten einsetzen. Sie sind weiterhin in der Lage, die im Rahmen einer neuen Analyse auftretenden Probleme zielgerichtet durch Recherchen auf geeigneten Plattformen zu lösen.
 Sie können wissenschaftliche Texte unter Verwendung des Textsatzsystems LaTeX so schreiben, dass Layout-Vorgaben automatisiert unterstützt werden.</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:16679#1">
+    <learningOutcome id="urn:thl:learningoutcome:18209#1">
       <prefLabel lang="de">Human Resources Management und Wirtschaftspsychologie</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Bei der Gestaltung erfolgreicher Prozesse in Führung, Management und Beratung ist die Einbeziehung des Menschen als Persönlichkeit, als Teil einer Gruppe und Organisation von erheblicher Bedeutung. Die Lehrveranstaltung vermittelt einen Überblick über Bereiche, Prozesse und Methoden der Wirtschaftspsychologie. Dieses Wissen wird neben Erkenntnissen der aktuellen Führungs- und Personalforschung auf ausgewählte Handlungsfelder des HRM angewendet.
@@ -95,7 +95,7 @@ Damit werden Voraussetzungen für die Teilnehmenden geschaffen zur:
 	- Berücksichtigung internationaler und interkultureller Aspekte</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:16662#1">
+    <learningOutcome id="urn:thl:learningoutcome:18192#1">
       <prefLabel lang="de">Forschungsprojekte</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Studierenden werden durch diese Veranstaltung in die Lage versetzt,
@@ -104,7 +104,7 @@ Damit werden Voraussetzungen für die Teilnehmenden geschaffen zur:
 	- die persönlichen Kompetenzen in der wissenschaftlichen Arbeit zu erweitern und zu vertiefen.</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:16645#1">
+    <learningOutcome id="urn:thl:learningoutcome:18175#1">
       <prefLabel lang="de">Fallstudien zu Controlling, Finanzierung, Marketing</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Studierenden
@@ -113,7 +113,7 @@ Damit werden Voraussetzungen für die Teilnehmenden geschaffen zur:
 	- praktizieren die Aufbereitung und adressatengerechte Präsentation von Arbeitsergebnissen.</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:16628#1">
+    <learningOutcome id="urn:thl:learningoutcome:18158#1">
       <prefLabel lang="de">Unternehmensplanung</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Nach Abschluss dieses Moduls sind die Studierenden in der Lage:
@@ -122,7 +122,7 @@ Damit werden Voraussetzungen für die Teilnehmenden geschaffen zur:
 	- die planerischen Herausforderungen eines Unternehmens aus dem Bereich Change Management zu erkennen, einzuschätzen und planerisch umzusetzen.</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:16611#1">
+    <learningOutcome id="urn:thl:learningoutcome:18141#1">
       <prefLabel lang="de">Strategisches Controlling</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Verständnis für wesentliche Einflussgrößen für die wertorientierte Strategiefindung sowie die Fähigkeit diese in strategische Planungs- und Steuerungssysteme einzubinden
@@ -132,7 +132,7 @@ Fähigkeit, wertorientierte Steuerungssysteme in Unternehmen einzusetzen und mit
 Fähigkeit, Chancen und Risiken in strategischen Projekte zu erkennen und zu bewerten</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:16594#1">
+    <learningOutcome id="urn:thl:learningoutcome:18124#1">
       <prefLabel lang="de">Operations Management</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Lehrveranstaltung befähigt Studierende:
@@ -140,19 +140,19 @@ Fähigkeit, Chancen und Risiken in strategischen Projekte zu erkennen und zu bew
 	- Die wesentlichen Instrumente und Konzepte des Operations  Managements zu kennen und anwenden zu können.</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:16577#1">
+    <learningOutcome id="urn:thl:learningoutcome:18107#1">
       <prefLabel lang="de">Märkte und Marktstrategien</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Absolventinnen und Absolventen erwerben Kompetenzen zur Bearbeitung der Herausforderungen, die mit der strategischen Positionierung von Unternehmen, deren Produkten und Preisen verbunden sind. Auf Basis der Analyse unterschiedlicher Marktformen werden die Studierenden befähigt, solche marktorientierten Unternehmensentscheidungen eigenverantwortlich vorzubereiten und zu steuern. Unter Berücksichtigung der wirtschaftlichen und gesellschaftlichen Rahmenbedingungen sind sie darüber hinaus in der Lage, forschungsorientierte Aufgaben zu formulieren und zu bearbeiten und können sich dazu erforderliche Kenntnisse auch eigenständig erschließen.</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:16560#1">
+    <learningOutcome id="urn:thl:learningoutcome:18090#1">
       <prefLabel lang="de">Contemporary Issues of Euro area Monetary Policy</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Students develop an understanding of the functioning of (European) monetary policy and can independently analyse international monetary and capital markets in order to make well-founded business investment and financing decisions. Further, students will be able to make use of a quantitative and qualitative toolkit to assess current developments in (Euro area) financial markets as well as their implications for business practice.</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:16543#1">
+    <learningOutcome id="urn:thl:learningoutcome:18073#1">
       <prefLabel lang="de">Analyse und Konzepte ökonomischen Denkens</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Seminar Empirische Forschungsmethoden:
@@ -181,26 +181,26 @@ Leaving behind the myth of the homo oeconomicus, students will be enabled to cor
     </stupo>
     <studySection id="urn:thl:learning:spec:studysection:66877677">
       <title lang="de">Betriebswirtschaftslehre, Master</title>
-      <hasPart idref="urn:thl:learning:spec:16543#1"/>
-      <hasPart idref="urn:thl:learning:spec:16560#1"/>
-      <hasPart idref="urn:thl:learning:spec:16577#1"/>
-      <hasPart idref="urn:thl:learning:spec:16594#1"/>
-      <hasPart idref="urn:thl:learning:spec:16611#1"/>
-      <hasPart idref="urn:thl:learning:spec:16628#1"/>
-      <hasPart idref="urn:thl:learning:spec:16645#1"/>
-      <hasPart idref="urn:thl:learning:spec:16662#1"/>
-      <hasPart idref="urn:thl:learning:spec:16679#1"/>
-      <hasPart idref="urn:thl:learning:spec:16696#1"/>
-      <hasPart idref="urn:thl:learning:spec:16713#1"/>
-      <hasPart idref="urn:thl:learning:spec:16730#1"/>
-      <hasPart idref="urn:thl:learning:spec:16747#1"/>
-      <hasPart idref="urn:thl:learning:spec:16764#1"/>
-      <hasPart idref="urn:thl:learning:spec:16781#1"/>
-      <hasPart idref="urn:thl:learning:spec:16798#1"/>
-      <hasPart idref="urn:thl:learning:spec:16815#1"/>
+      <hasPart idref="urn:thl:learning:spec:18073#1"/>
+      <hasPart idref="urn:thl:learning:spec:18090#1"/>
+      <hasPart idref="urn:thl:learning:spec:18107#1"/>
+      <hasPart idref="urn:thl:learning:spec:18124#1"/>
+      <hasPart idref="urn:thl:learning:spec:18141#1"/>
+      <hasPart idref="urn:thl:learning:spec:18158#1"/>
+      <hasPart idref="urn:thl:learning:spec:18175#1"/>
+      <hasPart idref="urn:thl:learning:spec:18192#1"/>
+      <hasPart idref="urn:thl:learning:spec:18209#1"/>
+      <hasPart idref="urn:thl:learning:spec:18226#1"/>
+      <hasPart idref="urn:thl:learning:spec:18243#1"/>
+      <hasPart idref="urn:thl:learning:spec:18260#1"/>
+      <hasPart idref="urn:thl:learning:spec:18277#1"/>
+      <hasPart idref="urn:thl:learning:spec:18294#1"/>
+      <hasPart idref="urn:thl:learning:spec:18311#1"/>
+      <hasPart idref="urn:thl:learning:spec:18328#1"/>
+      <hasPart idref="urn:thl:learning:spec:18345#1"/>
     </studySection>
-    <modulSpecialization id="urn:thl:learning:spec:16543#1">
-      <identifier>16543#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:18073#1">
+      <identifier>18073#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Analyse und Konzepte ökonomischen Denkens</title>
       <definition>
@@ -229,7 +229,7 @@ Backhaus, Multivariate Analysemethoden, SpringerGabler, aktuelle Auflage.
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=16543&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18073&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -242,9 +242,9 @@ Backhaus, Multivariate Analysemethoden, SpringerGabler, aktuelle Auflage.
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:16543#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:18073#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:16543#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18073#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -252,27 +252,27 @@ Backhaus, Multivariate Analysemethoden, SpringerGabler, aktuelle Auflage.
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:16543#1-1"/>
-      <hasPart idref="urn:thl:learning:spec:16543#1-2"/>
-      <specializationOf idref="urn:thl:learning:spec:16543"/>
+      <hasPart idref="urn:thl:learning:spec:18073#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:18073#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:18073"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:16543#1-1">
+    <learningEvent id="urn:thl:learning:spec:18073#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Seminar Empirische Forschungsmethoden</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:16543#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18073#1-1"/>
     </learningEvent>
-    <learningEvent id="urn:thl:learning:spec:16543#1-2">
+    <learningEvent id="urn:thl:learning:spec:18073#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Behavioural Economics</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:16543#1-2"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18073#1-2"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:16543">
-      <identifier>16543</identifier>
+    <modul id="urn:thl:learning:spec:18073">
+      <identifier>18073</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 16543</title>
+      <title lang="de">Modul 18073</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:16560#1">
-      <identifier>16560#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:18090#1">
+      <identifier>18090#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Contemporary Issues of Euro area Monetary Policy</title>
       <definition>
@@ -301,7 +301,7 @@ Walsh, C.E. (2010), Monetary Theory and Policy, 3rd edition, MIT Press, Cambridg
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=16560&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18090&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -314,9 +314,9 @@ Walsh, C.E. (2010), Monetary Theory and Policy, 3rd edition, MIT Press, Cambridg
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:16560#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:18090#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:16560#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18090#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -324,21 +324,21 @@ Walsh, C.E. (2010), Monetary Theory and Policy, 3rd edition, MIT Press, Cambridg
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:16560#1-1"/>
-      <specializationOf idref="urn:thl:learning:spec:16560"/>
+      <hasPart idref="urn:thl:learning:spec:18090#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:18090"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:16560#1-1">
+    <learningEvent id="urn:thl:learning:spec:18090#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Contemporary Issues of Euro area Monetary Policy</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:16560#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18090#1-1"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:16560">
-      <identifier>16560</identifier>
+    <modul id="urn:thl:learning:spec:18090">
+      <identifier>18090</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 16560</title>
+      <title lang="de">Modul 18090</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:16577#1">
-      <identifier>16577#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:18107#1">
+      <identifier>18107#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Märkte und Marktstrategien</title>
       <definition>
@@ -362,7 +362,7 @@ Simon, Hermann/ Fassnacht, Martin, Preismanagement, aktuelle Auflage (Gabler)
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=16577&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18107&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -375,9 +375,9 @@ Simon, Hermann/ Fassnacht, Martin, Preismanagement, aktuelle Auflage (Gabler)
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:16577#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:18107#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:16577#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18107#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -385,21 +385,21 @@ Simon, Hermann/ Fassnacht, Martin, Preismanagement, aktuelle Auflage (Gabler)
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:16577#1-1"/>
-      <specializationOf idref="urn:thl:learning:spec:16577"/>
+      <hasPart idref="urn:thl:learning:spec:18107#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:18107"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:16577#1-1">
+    <learningEvent id="urn:thl:learning:spec:18107#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Märkte und Marktstrategien</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:16577#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18107#1-1"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:16577">
-      <identifier>16577</identifier>
+    <modul id="urn:thl:learning:spec:18107">
+      <identifier>18107</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 16577</title>
+      <title lang="de">Modul 18107</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:16594#1">
-      <identifier>16594#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:18124#1">
+      <identifier>18124#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Operations Management</title>
       <definition>
@@ -426,7 +426,7 @@ Thonemann, U.: Operations Management. Pearson: München  2015
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=16594&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18124&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -439,9 +439,9 @@ Thonemann, U.: Operations Management. Pearson: München  2015
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:16594#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:18124#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:16594#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18124#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -449,21 +449,21 @@ Thonemann, U.: Operations Management. Pearson: München  2015
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:16594#1-1"/>
-      <specializationOf idref="urn:thl:learning:spec:16594"/>
+      <hasPart idref="urn:thl:learning:spec:18124#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:18124"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:16594#1-1">
+    <learningEvent id="urn:thl:learning:spec:18124#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Operations Management</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:16594#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18124#1-1"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:16594">
-      <identifier>16594</identifier>
+    <modul id="urn:thl:learning:spec:18124">
+      <identifier>18124</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 16594</title>
+      <title lang="de">Modul 18124</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:16611#1">
-      <identifier>16611#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:18141#1">
+      <identifier>18141#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Strategisches Controlling</title>
       <definition>
@@ -506,7 +506,7 @@ Horvath, P., Controlling, 13. Auflage, Vahlen, München, 2015
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=16611&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18141&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -519,9 +519,9 @@ Horvath, P., Controlling, 13. Auflage, Vahlen, München, 2015
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:16611#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:18141#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:16611#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18141#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -529,21 +529,21 @@ Horvath, P., Controlling, 13. Auflage, Vahlen, München, 2015
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:16611#1-1"/>
-      <specializationOf idref="urn:thl:learning:spec:16611"/>
+      <hasPart idref="urn:thl:learning:spec:18141#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:18141"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:16611#1-1">
+    <learningEvent id="urn:thl:learning:spec:18141#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Strategisches Controlling</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:16611#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18141#1-1"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:16611">
-      <identifier>16611</identifier>
+    <modul id="urn:thl:learning:spec:18141">
+      <identifier>18141</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 16611</title>
+      <title lang="de">Modul 18141</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:16628#1">
-      <identifier>16628#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:18158#1">
+      <identifier>18158#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Unternehmensplanung</title>
       <definition>
@@ -561,7 +561,7 @@ Ries, E.: The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation 
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=16628&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18158&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -574,9 +574,9 @@ Ries, E.: The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation 
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:16628#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:18158#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:16628#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18158#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -584,21 +584,21 @@ Ries, E.: The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation 
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:16628#1-1"/>
-      <specializationOf idref="urn:thl:learning:spec:16628"/>
+      <hasPart idref="urn:thl:learning:spec:18158#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:18158"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:16628#1-1">
+    <learningEvent id="urn:thl:learning:spec:18158#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Unternehmensplanung</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:16628#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18158#1-1"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:16628">
-      <identifier>16628</identifier>
+    <modul id="urn:thl:learning:spec:18158">
+      <identifier>18158</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 16628</title>
+      <title lang="de">Modul 18158</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:16645#1">
-      <identifier>16645#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:18175#1">
+      <identifier>18175#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Fallstudien zu Controlling, Finanzierung, Marketing</title>
       <definition>
@@ -614,7 +614,7 @@ Die konkreten Themen der Fallstudien werden zu Beginn des Semesters von den vera
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=16645&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18175&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -627,9 +627,9 @@ Die konkreten Themen der Fallstudien werden zu Beginn des Semesters von den vera
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:16645#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:18175#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:16645#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18175#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -637,21 +637,21 @@ Die konkreten Themen der Fallstudien werden zu Beginn des Semesters von den vera
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:16645#1-1"/>
-      <specializationOf idref="urn:thl:learning:spec:16645"/>
+      <hasPart idref="urn:thl:learning:spec:18175#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:18175"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:16645#1-1">
+    <learningEvent id="urn:thl:learning:spec:18175#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Fallstudien zu Controlling, Finanzierung, Marketing</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:16645#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18175#1-1"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:16645">
-      <identifier>16645</identifier>
+    <modul id="urn:thl:learning:spec:18175">
+      <identifier>18175</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 16645</title>
+      <title lang="de">Modul 18175</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:16662#1">
-      <identifier>16662#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:18192#1">
+      <identifier>18192#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Forschungsprojekte</title>
       <definition>
@@ -667,7 +667,7 @@ Die konkreten Themen der Fallstudien werden zu Beginn des Semesters von den vera
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=16662&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18192&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -680,9 +680,9 @@ Die konkreten Themen der Fallstudien werden zu Beginn des Semesters von den vera
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:16662#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:18192#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:16662#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18192#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -690,21 +690,21 @@ Die konkreten Themen der Fallstudien werden zu Beginn des Semesters von den vera
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:16662#1-1"/>
-      <specializationOf idref="urn:thl:learning:spec:16662"/>
+      <hasPart idref="urn:thl:learning:spec:18192#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:18192"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:16662#1-1">
+    <learningEvent id="urn:thl:learning:spec:18192#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Forschungsprojekte</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:16662#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18192#1-1"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:16662">
-      <identifier>16662</identifier>
+    <modul id="urn:thl:learning:spec:18192">
+      <identifier>18192</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 16662</title>
+      <title lang="de">Modul 18192</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:16679#1">
-      <identifier>16679#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:18209#1">
+      <identifier>18209#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Human Resources Management und Wirtschaftspsychologie</title>
       <definition>
@@ -752,7 +752,7 @@ Moderne Methoden der Personalauswahl – Personalentwicklung - Eignungsdiagnosti
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=16679&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18209&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -765,9 +765,9 @@ Moderne Methoden der Personalauswahl – Personalentwicklung - Eignungsdiagnosti
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:16679#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:18209#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:16679#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18209#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -775,27 +775,27 @@ Moderne Methoden der Personalauswahl – Personalentwicklung - Eignungsdiagnosti
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:16679#1-1"/>
-      <hasPart idref="urn:thl:learning:spec:16679#1-2"/>
-      <specializationOf idref="urn:thl:learning:spec:16679"/>
+      <hasPart idref="urn:thl:learning:spec:18209#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:18209#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:18209"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:16679#1-1">
+    <learningEvent id="urn:thl:learning:spec:18209#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Human Resources Management</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:16679#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18209#1-1"/>
     </learningEvent>
-    <learningEvent id="urn:thl:learning:spec:16679#1-2">
+    <learningEvent id="urn:thl:learning:spec:18209#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Wirtschaftspsychologie</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:16679#1-2"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18209#1-2"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:16679">
-      <identifier>16679</identifier>
+    <modul id="urn:thl:learning:spec:18209">
+      <identifier>18209</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 16679</title>
+      <title lang="de">Modul 18209</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:16696#1">
-      <identifier>16696#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:18226#1">
+      <identifier>18226#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Information Management</title>
       <definition>
@@ -819,7 +819,7 @@ Aktuelle Links zu weiteren Quellen jeweils im Moodlesystem
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=16696&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18226&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -832,9 +832,9 @@ Aktuelle Links zu weiteren Quellen jeweils im Moodlesystem
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:16696#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:18226#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:16696#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18226#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -842,21 +842,21 @@ Aktuelle Links zu weiteren Quellen jeweils im Moodlesystem
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:16696#1-1"/>
-      <specializationOf idref="urn:thl:learning:spec:16696"/>
+      <hasPart idref="urn:thl:learning:spec:18226#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:18226"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:16696#1-1">
+    <learningEvent id="urn:thl:learning:spec:18226#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Information Management</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:16696#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18226#1-1"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:16696">
-      <identifier>16696</identifier>
+    <modul id="urn:thl:learning:spec:18226">
+      <identifier>18226</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 16696</title>
+      <title lang="de">Modul 18226</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:16713#1">
-      <identifier>16713#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:18243#1">
+      <identifier>18243#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Nachhaltigkeitsmanagement</title>
       <definition>
@@ -881,7 +881,7 @@ Remschel, T.: Nachhaltiges Personalmanagement, Grin, aktuelle Auflage.
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=16713&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18243&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -894,9 +894,9 @@ Remschel, T.: Nachhaltiges Personalmanagement, Grin, aktuelle Auflage.
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:16713#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:18243#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:16713#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18243#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -904,21 +904,21 @@ Remschel, T.: Nachhaltiges Personalmanagement, Grin, aktuelle Auflage.
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:16713#1-1"/>
-      <specializationOf idref="urn:thl:learning:spec:16713"/>
+      <hasPart idref="urn:thl:learning:spec:18243#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:18243"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:16713#1-1">
+    <learningEvent id="urn:thl:learning:spec:18243#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Nachhaltigkeitsmanagement</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:16713#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18243#1-1"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:16713">
-      <identifier>16713</identifier>
+    <modul id="urn:thl:learning:spec:18243">
+      <identifier>18243</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 16713</title>
+      <title lang="de">Modul 18243</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:16730#1">
-      <identifier>16730#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:18260#1">
+      <identifier>18260#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Public Services</title>
       <definition>
@@ -958,7 +958,7 @@ Zimmermann, H., Henke, K.-D. and M. Broer (2017), Finanzwissenschaft, 12th ed., 
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=16730&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18260&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -971,9 +971,9 @@ Zimmermann, H., Henke, K.-D. and M. Broer (2017), Finanzwissenschaft, 12th ed., 
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:16730#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:18260#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:16730#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18260#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -981,21 +981,21 @@ Zimmermann, H., Henke, K.-D. and M. Broer (2017), Finanzwissenschaft, 12th ed., 
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:16730#1-1"/>
-      <specializationOf idref="urn:thl:learning:spec:16730"/>
+      <hasPart idref="urn:thl:learning:spec:18260#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:18260"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:16730#1-1">
+    <learningEvent id="urn:thl:learning:spec:18260#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Public Services</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:16730#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18260#1-1"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:16730">
-      <identifier>16730</identifier>
+    <modul id="urn:thl:learning:spec:18260">
+      <identifier>18260</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 16730</title>
+      <title lang="de">Modul 18260</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:16747#1">
-      <identifier>16747#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:18277#1">
+      <identifier>18277#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Dienstleistungsmanagement</title>
       <definition>
@@ -1024,7 +1024,7 @@ Meffert, Heribert; Bruhn, Manfred: Diensleistungsmarketing, Gabler, aktuelle Auf
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=16747&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18277&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -1037,9 +1037,9 @@ Meffert, Heribert; Bruhn, Manfred: Diensleistungsmarketing, Gabler, aktuelle Auf
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:16747#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:18277#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:16747#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18277#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -1047,21 +1047,21 @@ Meffert, Heribert; Bruhn, Manfred: Diensleistungsmarketing, Gabler, aktuelle Auf
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:16747#1-1"/>
-      <specializationOf idref="urn:thl:learning:spec:16747"/>
+      <hasPart idref="urn:thl:learning:spec:18277#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:18277"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:16747#1-1">
+    <learningEvent id="urn:thl:learning:spec:18277#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Dienstleistungsmanagement</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:16747#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18277#1-1"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:16747">
-      <identifier>16747</identifier>
+    <modul id="urn:thl:learning:spec:18277">
+      <identifier>18277</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 16747</title>
+      <title lang="de">Modul 18277</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:16764#1">
-      <identifier>16764#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:18294#1">
+      <identifier>18294#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">e-Business Management</title>
       <definition>
@@ -1095,7 +1095,7 @@ Wirtz, Bernd W.: Medien- und Internetmanagement, Gabler Verlag; Auflage: 7, übe
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=16764&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18294&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -1108,9 +1108,9 @@ Wirtz, Bernd W.: Medien- und Internetmanagement, Gabler Verlag; Auflage: 7, übe
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:16764#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:18294#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:16764#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18294#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -1118,21 +1118,21 @@ Wirtz, Bernd W.: Medien- und Internetmanagement, Gabler Verlag; Auflage: 7, übe
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:16764#1-1"/>
-      <specializationOf idref="urn:thl:learning:spec:16764"/>
+      <hasPart idref="urn:thl:learning:spec:18294#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:18294"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:16764#1-1">
+    <learningEvent id="urn:thl:learning:spec:18294#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">e-Business Management</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:16764#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18294#1-1"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:16764">
-      <identifier>16764</identifier>
+    <modul id="urn:thl:learning:spec:18294">
+      <identifier>18294</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 16764</title>
+      <title lang="de">Modul 18294</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:16781#1">
-      <identifier>16781#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:18311#1">
+      <identifier>18311#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Methoden der Markt- und Branchenanalysen</title>
       <definition>
@@ -1150,7 +1150,7 @@ Michael E. Porter, Competitive Strategy, Free Press, aktuelle Auflage.
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=16781&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18311&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -1163,9 +1163,9 @@ Michael E. Porter, Competitive Strategy, Free Press, aktuelle Auflage.
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:16781#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:18311#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:16781#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18311#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -1173,21 +1173,21 @@ Michael E. Porter, Competitive Strategy, Free Press, aktuelle Auflage.
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:16781#1-1"/>
-      <specializationOf idref="urn:thl:learning:spec:16781"/>
+      <hasPart idref="urn:thl:learning:spec:18311#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:18311"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:16781#1-1">
+    <learningEvent id="urn:thl:learning:spec:18311#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Markt- und Branchenanalysen</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:16781#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18311#1-1"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:16781">
-      <identifier>16781</identifier>
+    <modul id="urn:thl:learning:spec:18311">
+      <identifier>18311</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 16781</title>
+      <title lang="de">Modul 18311</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:16798#1">
-      <identifier>16798#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:18328#1">
+      <identifier>18328#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Steuerung und Management</title>
       <definition>
@@ -1222,7 +1222,7 @@ Michael E. Porter, Competitive Strategy, Free Press, aktuelle Auflage.
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=16798&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18328&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -1235,9 +1235,9 @@ Michael E. Porter, Competitive Strategy, Free Press, aktuelle Auflage.
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:16798#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:18328#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:16798#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18328#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -1245,21 +1245,21 @@ Michael E. Porter, Competitive Strategy, Free Press, aktuelle Auflage.
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:16798#1-1"/>
-      <specializationOf idref="urn:thl:learning:spec:16798"/>
+      <hasPart idref="urn:thl:learning:spec:18328#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:18328"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:16798#1-1">
+    <learningEvent id="urn:thl:learning:spec:18328#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Steuerung und Management</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:16798#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18328#1-1"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:16798">
-      <identifier>16798</identifier>
+    <modul id="urn:thl:learning:spec:18328">
+      <identifier>18328</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 16798</title>
+      <title lang="de">Modul 18328</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:16815#1">
-      <identifier>16815#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:18345#1">
+      <identifier>18345#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Wirtschaftsethik und Recht</title>
       <definition>
@@ -1298,7 +1298,7 @@ Recht:
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=16815&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=18345&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -1311,9 +1311,9 @@ Recht:
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:16815#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:18345#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:16815#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:18345#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -1321,220 +1321,220 @@ Recht:
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:16815#1-1"/>
-      <hasPart idref="urn:thl:learning:spec:16815#1-2"/>
-      <specializationOf idref="urn:thl:learning:spec:16815"/>
+      <hasPart idref="urn:thl:learning:spec:18345#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:18345#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:18345"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:16815#1-1">
+    <learningEvent id="urn:thl:learning:spec:18345#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Wirtschaftsethik</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:16815#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18345#1-1"/>
     </learningEvent>
-    <learningEvent id="urn:thl:learning:spec:16815#1-2">
+    <learningEvent id="urn:thl:learning:spec:18345#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Recht</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:16815#1-2"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:18345#1-2"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:16815">
-      <identifier>16815</identifier>
+    <modul id="urn:thl:learning:spec:18345">
+      <identifier>18345</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 16815</title>
+      <title lang="de">Modul 18345</title>
     </modul>
   </learningSpecificationReferences>
   <learningActivitySpecificationReferences>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:16543#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18073#1-1">
       <title lang="de">Seminar Empirische Forschungsmethoden</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:16543#1-2">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18073#1-2">
       <title lang="de">Behavioural Economics</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:16560#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18090#1-1">
       <title lang="de">Contemporary Issues of Euro area Monetary Policy</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:16577#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18107#1-1">
       <title lang="de">Märkte und Marktstrategien</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:16594#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18124#1-1">
       <title lang="de">Operations Management</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:16611#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18141#1-1">
       <title lang="de">Strategisches Controlling</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:16628#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18158#1-1">
       <title lang="de">Unternehmensplanung</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:16645#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18175#1-1">
       <title lang="de">Fallstudien zu Controlling, Finanzierung, Marketing</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:16662#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18192#1-1">
       <title lang="de">Forschungsprojekte</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:16679#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18209#1-1">
       <title lang="de">Human Resources Management</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:16679#1-2">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18209#1-2">
       <title lang="de">Wirtschaftspsychologie</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:16696#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18226#1-1">
       <title lang="de">Information Management</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:16713#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18243#1-1">
       <title lang="de">Nachhaltigkeitsmanagement</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:16730#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18260#1-1">
       <title lang="de">Public Services</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:16747#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18277#1-1">
       <title lang="de">Dienstleistungsmanagement</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:16764#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18294#1-1">
       <title lang="de">e-Business Management</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:16781#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18311#1-1">
       <title lang="de">Markt- und Branchenanalysen</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:16798#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18328#1-1">
       <title lang="de">Steuerung und Management</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:16815#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18345#1-1">
       <title lang="de">Wirtschaftsethik</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:16815#1-2">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:18345#1-2">
       <title lang="de">Recht</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
   </learningActivitySpecificationReferences>
   <assessmentSpecificationReferences>
-    <assessmentSpecification id="urn:thl:assessment:spec:16543#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:18073#1">
       <title lang="de">Analyse und Konzepte ökonomischen Denkens</title>
       <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
-      <proves idref="urn:thl:learningoutcome:16543#1"/>
-      <hasPart idref="urn:thl:assessment:spec:16543#1.1"/>
-      <hasPart idref="urn:thl:assessment:spec:16543#1.2"/>
+      <proves idref="urn:thl:learningoutcome:18073#1"/>
+      <hasPart idref="urn:thl:assessment:spec:18073#1.1"/>
+      <hasPart idref="urn:thl:assessment:spec:18073#1.2"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:16543#1.1">
+    <assessmentSpecification id="urn:thl:assessment:spec:18073#1.1">
       <title lang="de">Seminar Empirische Forschungsmethoden</title>
       <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:16543#1.2">
+    <assessmentSpecification id="urn:thl:assessment:spec:18073#1.2">
       <title lang="de">Behavioural Economics</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:16560#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:18090#1">
       <title lang="de">Contemporary Issues of Euro area Monetary Policy</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
-      <proves idref="urn:thl:learningoutcome:16560#1"/>
+      <proves idref="urn:thl:learningoutcome:18090#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:16577#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:18107#1">
       <title lang="de">Märkte und Marktstrategien</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:16577#1"/>
+      <proves idref="urn:thl:learningoutcome:18107#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:16594#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:18124#1">
       <title lang="de">Operations Management</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:16594#1"/>
+      <proves idref="urn:thl:learningoutcome:18124#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:16611#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:18141#1">
       <title lang="de">Strategisches Controlling</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:16611#1"/>
+      <proves idref="urn:thl:learningoutcome:18141#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:16628#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:18158#1">
       <title lang="de">Unternehmensplanung</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:16628#1"/>
+      <proves idref="urn:thl:learningoutcome:18158#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:16645#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:18175#1">
       <title lang="de">Fallstudien zu Controlling, Finanzierung, Marketing</title>
       <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:16645#1"/>
+      <proves idref="urn:thl:learningoutcome:18175#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:16662#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:18192#1">
       <title lang="de">Forschungsprojekte</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:16662#1"/>
+      <proves idref="urn:thl:learningoutcome:18192#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:16679#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:18209#1">
       <title lang="de">Human Resources Management und Wirtschaftspsychologie</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
-      <proves idref="urn:thl:learningoutcome:16679#1"/>
+      <proves idref="urn:thl:learningoutcome:18209#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:16696#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:18226#1">
       <title lang="de">Information Management</title>
       <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:16696#1"/>
+      <proves idref="urn:thl:learningoutcome:18226#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:16713#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:18243#1">
       <title lang="de">Nachhaltigkeitsmanagement</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:16713#1"/>
+      <proves idref="urn:thl:learningoutcome:18243#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:16730#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:18260#1">
       <title lang="de">Public Services</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
-      <proves idref="urn:thl:learningoutcome:16730#1"/>
+      <proves idref="urn:thl:learningoutcome:18260#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:16747#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:18277#1">
       <title lang="de">Dienstleistungsmanagement</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:16747#1"/>
+      <proves idref="urn:thl:learningoutcome:18277#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:16764#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:18294#1">
       <title lang="de">e-Business Management</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:16764#1"/>
+      <proves idref="urn:thl:learningoutcome:18294#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:16781#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:18311#1">
       <title lang="de">Methoden der Markt- und Branchenanalysen</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:16781#1"/>
+      <proves idref="urn:thl:learningoutcome:18311#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:16798#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:18328#1">
       <title lang="de">Steuerung und Management</title>
       <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:16798#1"/>
+      <proves idref="urn:thl:learningoutcome:18328#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:16815#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:18345#1">
       <title lang="de">Wirtschaftsethik und Recht</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:16815#1"/>
+      <proves idref="urn:thl:learningoutcome:18345#1"/>
     </assessmentSpecification>
   </assessmentSpecificationReferences>
   <entitlementSpecificationReferences/>

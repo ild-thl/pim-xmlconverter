@@ -21,7 +21,7 @@
     <awardings/>
   </credentialSubject>
   <learningSpecificationReferences>
-    <learningOutcome id="urn:thl:learningoutcome:12242#1">
+    <learningOutcome id="urn:thl:learningoutcome:13772#1">
       <prefLabel lang="de">Sichere vernetzte Steuerungssysteme</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Nach erfolgreichem Abschluss der Veranstaltung können die Studierenden
@@ -31,7 +31,7 @@
 	- Gegenmaßnahmen für industrielle Steuerungssysteme unter Berücksichtigung der Anwendungsfelder bewerten und umsetzen und reaktive und präventive Maßnahmen der IT-Sicherheit in industrielle Steuerungsnetze integrieren.</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:12225#1">
+    <learningOutcome id="urn:thl:learningoutcome:13755#1">
       <prefLabel lang="de">Mobile Anwendungen</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Studierenden kennen typische Anwendungsszenarien und spezielle Anforderungen an mobile Anwendungen.
@@ -40,7 +40,7 @@ Die Studierenden kennen aktuelle Trends und Themen mobiler Anwendungen und sind 
 Zusätzlich haben die Studierenden ihre Kompetenzen in Problemanalyse, Teamarbeit und Präsentationstechnik verbessert.</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:12208#1">
+    <learningOutcome id="urn:thl:learningoutcome:13738#1">
       <prefLabel lang="de">Sichere Programmierung</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Sichere Programmierung (Vorlesung):
@@ -53,7 +53,7 @@ Nach erfolgreichem Abschluss der Veranstaltung können die Studierenden
 Sichere Programmierung (Praktikum):</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:12191#1">
+    <learningOutcome id="urn:thl:learningoutcome:13721#1">
       <prefLabel lang="de">Hardware-basierte IT-Sicherheit</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Nach erfolgreichem Abschluss der Veranstaltung können die Studierenden:
@@ -64,7 +64,7 @@ Sichere Programmierung (Praktikum):</text>
 	- Lösungen für eine manipulationssichere Hardware entwickeln.</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:12174#1">
+    <learningOutcome id="urn:thl:learningoutcome:13704#1">
       <prefLabel lang="de">Drahtlose Netze für cyber-physische Systeme</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Drahtlose Netze für cyber-physische Systeme Vorlesung:
@@ -79,7 +79,7 @@ After successful completion of this course, the students will be able to:
 Drahtlose Netze für cyber-physische Systeme Praktikum:</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:12157#1">
+    <learningOutcome id="urn:thl:learningoutcome:13687#1">
       <prefLabel lang="de">Real-Time Systems</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Real-Time Systems (Lecture):
@@ -91,7 +91,7 @@ After successful completion of this course, the students will have acquired the 
 Real-Time Systems (Exercise):</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:12140#1">
+    <learningOutcome id="urn:thl:learningoutcome:13670#1">
       <prefLabel lang="de">Process Optimization</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Process Optimization (Lecture):
@@ -103,7 +103,7 @@ The students:
 Process Optimization (Practical Training):</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:12123#1">
+    <learningOutcome id="urn:thl:learningoutcome:13653#1">
       <prefLabel lang="de">Process Integration</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Process Integration (Lecture):
@@ -117,14 +117,14 @@ The students:
 Process Integration (Practical Training):</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:12106#1">
+    <learningOutcome id="urn:thl:learningoutcome:13636#1">
       <prefLabel lang="de">Human-Computer Interfaces</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">The students get an overview of the interdisciplinary science of Human-Computer Interaction and its central concepts, definitions, and research areas. They acquire knowledge regarding the foundations of HCI (especially Psychology, Cognitive Sciences, Ergonomics) and learn how to apply this knowledge to the analysis and design of interactive products. They study and analyze different interaction techniques and design principles and learn how to design dialogues for different use contexts. They are familiar with international norms and legal requirements of system engineering and get to know and apply different usability engineering methods.
 Furthermore the students practice scientific work by conducting their own HCI project work on a self-chosen topic throughout the semester (investigation, analysis, realization / implementation, written report, oral presentation).</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:12089#1">
+    <learningOutcome id="urn:thl:learningoutcome:13619#1">
       <prefLabel lang="de">Digital Processing of Stochastic Signals</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Digital Processing of Stochastic Signals (Lecture + Exercise):
@@ -141,7 +141,7 @@ After successful completion of this course, the students will be able to:
 Digital Processing of Stochastic Signals (Practical Training):</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:12072#1">
+    <learningOutcome id="urn:thl:learningoutcome:13602#1">
       <prefLabel lang="de">Masterarbeit und Kolloquium</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Masterarbeit:
@@ -151,13 +151,13 @@ Master-Kolloquium:
 Die Studierenden präsentieren die während der Bearbeitung ihrer Abschlussarbeit gesammelten Erfahrungen und wissenschaftlichen Ergebnisse und vertreten diese in einer anschließenden Diskussion.</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:12055#1">
+    <learningOutcome id="urn:thl:learningoutcome:13585#1">
       <prefLabel lang="de">Integrated Information Systems</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Students will get an SAP ERP working knowledge. In addition, students will learn how a variety of business processes can be covered with a standard ERP-system such as SAP.</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:12038#1">
+    <learningOutcome id="urn:thl:learningoutcome:13568#1">
       <prefLabel lang="de">Wissenschaftliche Projektarbeit</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">The learning goal of the module is to enable students to work on scientific topics (e.g. a master thesis) autonomously/independently. Additionally, students will acquire the skills necessary to write scientific publications and give scientific presentations.
@@ -170,7 +170,7 @@ Following the successful completion of this course, the students will have acqui
 	- Participate in scientific discussions typical for scientific presentations.</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:12021#1">
+    <learningOutcome id="urn:thl:learningoutcome:13551#1">
       <prefLabel lang="de">Business Process Management</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Business Process Management (Lecture):
@@ -179,7 +179,7 @@ Students will have an understanding of organizational structures and processes w
 Business Process Management (Exercises):</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:12004#1">
+    <learningOutcome id="urn:thl:learningoutcome:13534#1">
       <prefLabel lang="de">Brückenkurs: Kommunikationstechnik</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Brückenkurs: Kommunikationstechnik (Vorlesung):
@@ -198,7 +198,7 @@ Nach erfolgreichem Abschluss der Vorlesung können die Studierenden dieses Brüc
 Brückenkurs: Kommunikationstechnik (Praktikum):</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:11987#1">
+    <learningOutcome id="urn:thl:learningoutcome:13517#1">
       <prefLabel lang="de">Brückenkurs: Automatisierungstechnik</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Brückenkurs: Automatisierungstechnik (Vorlesung):
@@ -207,7 +207,7 @@ Das Modul richtet sich als Brückenkurs an Studierende, die einen Bachelorstudie
 Brückenkurs: Automatisierungstechnik (Praktikum):</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:11970#1">
+    <learningOutcome id="urn:thl:learningoutcome:13500#1">
       <prefLabel lang="de">Rechnungswesen und Controlling</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Rechnungswesen und Controlling (Vorlesung):
@@ -216,7 +216,7 @@ Die Studierenden verstehen betriebswirtschaftliche Zusammenhänge, die für Entw
 Rechnungswesen und Controlling (Praktikum):</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:11953#1">
+    <learningOutcome id="urn:thl:learningoutcome:13483#1">
       <prefLabel lang="de">Mikroprozessor-Design</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Nach erfolgreichem Abschluss der Veranstaltung können die Studierenden
@@ -227,7 +227,7 @@ Rechnungswesen und Controlling (Praktikum):</text>
 	- VHDL Design-Entscheidungen für Mikroprozessoren auswählen und umsetzen</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:11936#1">
+    <learningOutcome id="urn:thl:learningoutcome:13466#1">
       <prefLabel lang="de">Digitale Regelungssysteme</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Digitale Regelungssysteme (Vorlesung:
@@ -241,7 +241,7 @@ Digitale Regelungssysteme (Praktikum):
 Die Studierenden lernen den praktischen Einsatz von identifikationsverfahren und weiterführenden digitalen Reglern</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:11919#1">
+    <learningOutcome id="urn:thl:learningoutcome:13449#1">
       <prefLabel lang="de">Digitale Bildverarbeitung</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Digitale Bildverarbeitung (Vorlesung):
@@ -254,7 +254,7 @@ Nach dem Studium dieses Moduls kennen die Studierenden
 Digitale Bildverarbeitung (Praktikum):</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:11902#1">
+    <learningOutcome id="urn:thl:learningoutcome:13432#1">
       <prefLabel lang="de">Datenbanken und Informationsmanagement</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Datenbanken und Informationsmanagement (Vorlesung):
@@ -267,7 +267,7 @@ Die Studierenden
 Datenbanken und Informationsmanagement (Praktikum):</text>
       </description>
     </learningOutcome>
-    <learningOutcome id="urn:thl:learningoutcome:11885#1">
+    <learningOutcome id="urn:thl:learningoutcome:13415#1">
       <prefLabel lang="de">Angewandte Mathematik</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Angewandte Mathematik (Vorlesung):
@@ -295,31 +295,31 @@ Angewandte Mathematik (Übung):</text>
     </stupo>
     <studySection id="urn:thl:learning:spec:studysection:657384">
       <title lang="de">Angewandte Informationstechnik, Master</title>
-      <hasPart idref="urn:thl:learning:spec:11885#1"/>
-      <hasPart idref="urn:thl:learning:spec:11902#1"/>
-      <hasPart idref="urn:thl:learning:spec:11919#1"/>
-      <hasPart idref="urn:thl:learning:spec:11936#1"/>
-      <hasPart idref="urn:thl:learning:spec:11953#1"/>
-      <hasPart idref="urn:thl:learning:spec:11970#1"/>
-      <hasPart idref="urn:thl:learning:spec:11987#1"/>
-      <hasPart idref="urn:thl:learning:spec:12004#1"/>
-      <hasPart idref="urn:thl:learning:spec:12021#1"/>
-      <hasPart idref="urn:thl:learning:spec:12038#1"/>
-      <hasPart idref="urn:thl:learning:spec:12055#1"/>
-      <hasPart idref="urn:thl:learning:spec:12072#1"/>
-      <hasPart idref="urn:thl:learning:spec:12089#1"/>
-      <hasPart idref="urn:thl:learning:spec:12106#1"/>
-      <hasPart idref="urn:thl:learning:spec:12123#1"/>
-      <hasPart idref="urn:thl:learning:spec:12140#1"/>
-      <hasPart idref="urn:thl:learning:spec:12157#1"/>
-      <hasPart idref="urn:thl:learning:spec:12174#1"/>
-      <hasPart idref="urn:thl:learning:spec:12191#1"/>
-      <hasPart idref="urn:thl:learning:spec:12208#1"/>
-      <hasPart idref="urn:thl:learning:spec:12225#1"/>
-      <hasPart idref="urn:thl:learning:spec:12242#1"/>
+      <hasPart idref="urn:thl:learning:spec:13415#1"/>
+      <hasPart idref="urn:thl:learning:spec:13432#1"/>
+      <hasPart idref="urn:thl:learning:spec:13449#1"/>
+      <hasPart idref="urn:thl:learning:spec:13466#1"/>
+      <hasPart idref="urn:thl:learning:spec:13483#1"/>
+      <hasPart idref="urn:thl:learning:spec:13500#1"/>
+      <hasPart idref="urn:thl:learning:spec:13517#1"/>
+      <hasPart idref="urn:thl:learning:spec:13534#1"/>
+      <hasPart idref="urn:thl:learning:spec:13551#1"/>
+      <hasPart idref="urn:thl:learning:spec:13568#1"/>
+      <hasPart idref="urn:thl:learning:spec:13585#1"/>
+      <hasPart idref="urn:thl:learning:spec:13602#1"/>
+      <hasPart idref="urn:thl:learning:spec:13619#1"/>
+      <hasPart idref="urn:thl:learning:spec:13636#1"/>
+      <hasPart idref="urn:thl:learning:spec:13653#1"/>
+      <hasPart idref="urn:thl:learning:spec:13670#1"/>
+      <hasPart idref="urn:thl:learning:spec:13687#1"/>
+      <hasPart idref="urn:thl:learning:spec:13704#1"/>
+      <hasPart idref="urn:thl:learning:spec:13721#1"/>
+      <hasPart idref="urn:thl:learning:spec:13738#1"/>
+      <hasPart idref="urn:thl:learning:spec:13755#1"/>
+      <hasPart idref="urn:thl:learning:spec:13772#1"/>
     </studySection>
-    <modulSpecialization id="urn:thl:learning:spec:11885#1">
-      <identifier>11885#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:13415#1">
+      <identifier>13415#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Angewandte Mathematik</title>
       <definition>
@@ -359,7 +359,7 @@ Angewandte Mathematik (Übung):
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=11885&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13415&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -372,9 +372,9 @@ Angewandte Mathematik (Übung):
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:11885#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:13415#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:11885#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:13415#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -382,27 +382,27 @@ Angewandte Mathematik (Übung):
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:11885#1-1"/>
-      <hasPart idref="urn:thl:learning:spec:11885#1-2"/>
-      <specializationOf idref="urn:thl:learning:spec:11885"/>
+      <hasPart idref="urn:thl:learning:spec:13415#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:13415#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:13415"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:11885#1-1">
+    <learningEvent id="urn:thl:learning:spec:13415#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Angewandte Mathematik (Vorlesung)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:11885#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13415#1-1"/>
     </learningEvent>
-    <learningEvent id="urn:thl:learning:spec:11885#1-2">
+    <learningEvent id="urn:thl:learning:spec:13415#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Angewandte Mathematik (Übung)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:11885#1-2"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13415#1-2"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:11885">
-      <identifier>11885</identifier>
+    <modul id="urn:thl:learning:spec:13415">
+      <identifier>13415</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 11885</title>
+      <title lang="de">Modul 13415</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:11902#1">
-      <identifier>11902#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:13432#1">
+      <identifier>13432#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Datenbanken und Informationsmanagement</title>
       <definition>
@@ -429,7 +429,7 @@ Kemper, A. et al.: Datenbanksysteme – eine Einführung, Oldenbourg, 2011
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=11902&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13432&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -442,9 +442,9 @@ Kemper, A. et al.: Datenbanksysteme – eine Einführung, Oldenbourg, 2011
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:11902#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:13432#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:11902#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:13432#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -452,27 +452,27 @@ Kemper, A. et al.: Datenbanksysteme – eine Einführung, Oldenbourg, 2011
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:11902#1-1"/>
-      <hasPart idref="urn:thl:learning:spec:11902#1-2"/>
-      <specializationOf idref="urn:thl:learning:spec:11902"/>
+      <hasPart idref="urn:thl:learning:spec:13432#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:13432#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:13432"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:11902#1-1">
+    <learningEvent id="urn:thl:learning:spec:13432#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Datenbanken und Informationsmanagement (Vorlesung)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:11902#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13432#1-1"/>
     </learningEvent>
-    <learningEvent id="urn:thl:learning:spec:11902#1-2">
+    <learningEvent id="urn:thl:learning:spec:13432#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Datenbanken und Informationsmanagement (Praktikum)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:11902#1-2"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13432#1-2"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:11902">
-      <identifier>11902</identifier>
+    <modul id="urn:thl:learning:spec:13432">
+      <identifier>13432</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 11902</title>
+      <title lang="de">Modul 13432</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:11919#1">
-      <identifier>11919#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:13449#1">
+      <identifier>13449#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Digitale Bildverarbeitung</title>
       <definition>
@@ -511,7 +511,7 @@ Digitale Bildverarbeitung (Praktikum):
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=11919&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13449&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -524,9 +524,9 @@ Digitale Bildverarbeitung (Praktikum):
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:11919#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:13449#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:11919#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:13449#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -534,27 +534,27 @@ Digitale Bildverarbeitung (Praktikum):
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:11919#1-1"/>
-      <hasPart idref="urn:thl:learning:spec:11919#1-2"/>
-      <specializationOf idref="urn:thl:learning:spec:11919"/>
+      <hasPart idref="urn:thl:learning:spec:13449#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:13449#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:13449"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:11919#1-1">
+    <learningEvent id="urn:thl:learning:spec:13449#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Digitale Bildverarbeitung (Vorlesung)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:11919#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13449#1-1"/>
     </learningEvent>
-    <learningEvent id="urn:thl:learning:spec:11919#1-2">
+    <learningEvent id="urn:thl:learning:spec:13449#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Digitale Bildverarbeitung (Praktikum)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:11919#1-2"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13449#1-2"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:11919">
-      <identifier>11919</identifier>
+    <modul id="urn:thl:learning:spec:13449">
+      <identifier>13449</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 11919</title>
+      <title lang="de">Modul 13449</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:11936#1">
-      <identifier>11936#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:13466#1">
+      <identifier>13466#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Digitale Regelungssysteme</title>
       <definition>
@@ -584,7 +584,7 @@ Digitale Regelungssysteme (Praktikum):
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=11936&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13466&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -597,9 +597,9 @@ Digitale Regelungssysteme (Praktikum):
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:11936#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:13466#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:11936#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:13466#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -607,27 +607,27 @@ Digitale Regelungssysteme (Praktikum):
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:11936#1-1"/>
-      <hasPart idref="urn:thl:learning:spec:11936#1-2"/>
-      <specializationOf idref="urn:thl:learning:spec:11936"/>
+      <hasPart idref="urn:thl:learning:spec:13466#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:13466#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:13466"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:11936#1-1">
+    <learningEvent id="urn:thl:learning:spec:13466#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Digitale Regelungssysteme (Vorlesung</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:11936#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13466#1-1"/>
     </learningEvent>
-    <learningEvent id="urn:thl:learning:spec:11936#1-2">
+    <learningEvent id="urn:thl:learning:spec:13466#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Digitale Regelungssysteme (Praktikum)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:11936#1-2"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13466#1-2"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:11936">
-      <identifier>11936</identifier>
+    <modul id="urn:thl:learning:spec:13466">
+      <identifier>13466</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 11936</title>
+      <title lang="de">Modul 13466</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:11953#1">
-      <identifier>11953#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:13483#1">
+      <identifier>13483#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Mikroprozessor-Design</title>
       <definition>
@@ -663,7 +663,7 @@ Im vorlesungsbegleitenden Praktikum wird ein Mikroprozessor mit einer 32-bit RIS
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=11953&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13483&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -676,9 +676,9 @@ Im vorlesungsbegleitenden Praktikum wird ein Mikroprozessor mit einer 32-bit RIS
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:11953#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:13483#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:11953#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:13483#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -686,27 +686,27 @@ Im vorlesungsbegleitenden Praktikum wird ein Mikroprozessor mit einer 32-bit RIS
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:11953#1-1"/>
-      <hasPart idref="urn:thl:learning:spec:11953#1-2"/>
-      <specializationOf idref="urn:thl:learning:spec:11953"/>
+      <hasPart idref="urn:thl:learning:spec:13483#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:13483#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:13483"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:11953#1-1">
+    <learningEvent id="urn:thl:learning:spec:13483#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Mikroprozessor-Design (Vorlesung)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:11953#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13483#1-1"/>
     </learningEvent>
-    <learningEvent id="urn:thl:learning:spec:11953#1-2">
+    <learningEvent id="urn:thl:learning:spec:13483#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Mikroprozessor-Design (Praktikum)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:11953#1-2"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13483#1-2"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:11953">
-      <identifier>11953</identifier>
+    <modul id="urn:thl:learning:spec:13483">
+      <identifier>13483</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 11953</title>
+      <title lang="de">Modul 13483</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:11970#1">
-      <identifier>11970#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:13500#1">
+      <identifier>13500#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Rechnungswesen und Controlling</title>
       <definition>
@@ -731,7 +731,7 @@ Ermann, Krupp, Betriebswirtschaftslehre, Pearson, aktuelle Auflage.
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=11970&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13500&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -744,9 +744,9 @@ Ermann, Krupp, Betriebswirtschaftslehre, Pearson, aktuelle Auflage.
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:11970#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:13500#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:11970#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:13500#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -754,27 +754,27 @@ Ermann, Krupp, Betriebswirtschaftslehre, Pearson, aktuelle Auflage.
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:11970#1-1"/>
-      <hasPart idref="urn:thl:learning:spec:11970#1-2"/>
-      <specializationOf idref="urn:thl:learning:spec:11970"/>
+      <hasPart idref="urn:thl:learning:spec:13500#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:13500#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:13500"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:11970#1-1">
+    <learningEvent id="urn:thl:learning:spec:13500#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Rechnungswesen und Controlling (Vorlesung)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:11970#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13500#1-1"/>
     </learningEvent>
-    <learningEvent id="urn:thl:learning:spec:11970#1-2">
+    <learningEvent id="urn:thl:learning:spec:13500#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Rechnungswesen und Controlling (Praktikum)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:11970#1-2"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13500#1-2"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:11970">
-      <identifier>11970</identifier>
+    <modul id="urn:thl:learning:spec:13500">
+      <identifier>13500</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 11970</title>
+      <title lang="de">Modul 13500</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:11987#1">
-      <identifier>11987#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:13517#1">
+      <identifier>13517#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Brückenkurs: Automatisierungstechnik</title>
       <definition>
@@ -798,7 +798,7 @@ In den semesterbegleitenden Praktika wenden die Studierenden das in der Vorlesun
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=11987&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13517&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -811,9 +811,9 @@ In den semesterbegleitenden Praktika wenden die Studierenden das in der Vorlesun
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:11987#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:13517#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:11987#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:13517#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -821,27 +821,27 @@ In den semesterbegleitenden Praktika wenden die Studierenden das in der Vorlesun
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:11987#1-1"/>
-      <hasPart idref="urn:thl:learning:spec:11987#1-2"/>
-      <specializationOf idref="urn:thl:learning:spec:11987"/>
+      <hasPart idref="urn:thl:learning:spec:13517#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:13517#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:13517"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:11987#1-1">
+    <learningEvent id="urn:thl:learning:spec:13517#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Brückenkurs: Automatisierungstechnik (Vorlesung)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:11987#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13517#1-1"/>
     </learningEvent>
-    <learningEvent id="urn:thl:learning:spec:11987#1-2">
+    <learningEvent id="urn:thl:learning:spec:13517#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Brückenkurs: Automatisierungstechnik (Praktikum)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:11987#1-2"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13517#1-2"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:11987">
-      <identifier>11987</identifier>
+    <modul id="urn:thl:learning:spec:13517">
+      <identifier>13517</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 11987</title>
+      <title lang="de">Modul 13517</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:12004#1">
-      <identifier>12004#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:13534#1">
+      <identifier>13534#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Brückenkurs: Kommunikationstechnik</title>
       <definition>
@@ -900,7 +900,7 @@ Für das Praktikum werden aus den folgenden Aufgabenstellungen Versuche ausgewä
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=12004&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13534&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -913,9 +913,9 @@ Für das Praktikum werden aus den folgenden Aufgabenstellungen Versuche ausgewä
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:12004#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:13534#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:12004#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:13534#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -923,27 +923,27 @@ Für das Praktikum werden aus den folgenden Aufgabenstellungen Versuche ausgewä
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:12004#1-1"/>
-      <hasPart idref="urn:thl:learning:spec:12004#1-2"/>
-      <specializationOf idref="urn:thl:learning:spec:12004"/>
+      <hasPart idref="urn:thl:learning:spec:13534#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:13534#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:13534"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:12004#1-1">
+    <learningEvent id="urn:thl:learning:spec:13534#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Brückenkurs: Kommunikationstechnik (Vorlesung)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:12004#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13534#1-1"/>
     </learningEvent>
-    <learningEvent id="urn:thl:learning:spec:12004#1-2">
+    <learningEvent id="urn:thl:learning:spec:13534#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Brückenkurs: Kommunikationstechnik (Praktikum)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:12004#1-2"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13534#1-2"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:12004">
-      <identifier>12004</identifier>
+    <modul id="urn:thl:learning:spec:13534">
+      <identifier>13534</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 12004</title>
+      <title lang="de">Modul 13534</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:12021#1">
-      <identifier>12021#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:13551#1">
+      <identifier>13551#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Business Process Management</title>
       <definition>
@@ -972,7 +972,7 @@ Eversheim, W., Organisation in der Produktionstechnik - Band 1, Grundlagen, VDI-
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=12021&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13551&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -985,9 +985,9 @@ Eversheim, W., Organisation in der Produktionstechnik - Band 1, Grundlagen, VDI-
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:12021#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:13551#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:12021#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:13551#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -995,27 +995,27 @@ Eversheim, W., Organisation in der Produktionstechnik - Band 1, Grundlagen, VDI-
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:12021#1-1"/>
-      <hasPart idref="urn:thl:learning:spec:12021#1-2"/>
-      <specializationOf idref="urn:thl:learning:spec:12021"/>
+      <hasPart idref="urn:thl:learning:spec:13551#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:13551#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:13551"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:12021#1-1">
+    <learningEvent id="urn:thl:learning:spec:13551#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Business Process Management (Lecture)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:12021#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13551#1-1"/>
     </learningEvent>
-    <learningEvent id="urn:thl:learning:spec:12021#1-2">
+    <learningEvent id="urn:thl:learning:spec:13551#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Business Process Management (Exercises)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:12021#1-2"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13551#1-2"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:12021">
-      <identifier>12021</identifier>
+    <modul id="urn:thl:learning:spec:13551">
+      <identifier>13551</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 12021</title>
+      <title lang="de">Modul 13551</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:12038#1">
-      <identifier>12038#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:13568#1">
+      <identifier>13568#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Wissenschaftliche Projektarbeit</title>
       <definition>
@@ -1038,7 +1038,7 @@ Parts of Portfolio-Exam:</text>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=12038&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13568&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -1051,9 +1051,9 @@ Parts of Portfolio-Exam:</text>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:12038#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:13568#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:12038#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:13568#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -1061,21 +1061,21 @@ Parts of Portfolio-Exam:</text>
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:12038#1-1"/>
-      <specializationOf idref="urn:thl:learning:spec:12038"/>
+      <hasPart idref="urn:thl:learning:spec:13568#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:13568"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:12038#1-1">
+    <learningEvent id="urn:thl:learning:spec:13568#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Wissenschaftliches Projekt</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:12038#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13568#1-1"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:12038">
-      <identifier>12038</identifier>
+    <modul id="urn:thl:learning:spec:13568">
+      <identifier>13568</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 12038</title>
+      <title lang="de">Modul 13568</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:12055#1">
-      <identifier>12055#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:13585#1">
+      <identifier>13585#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Integrated Information Systems</title>
       <definition>
@@ -1096,7 +1096,7 @@ SAP process documentation for the case study
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=12055&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13585&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -1109,9 +1109,9 @@ SAP process documentation for the case study
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:12055#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:13585#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:12055#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:13585#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -1119,21 +1119,21 @@ SAP process documentation for the case study
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:12055#1-1"/>
-      <specializationOf idref="urn:thl:learning:spec:12055"/>
+      <hasPart idref="urn:thl:learning:spec:13585#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:13585"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:12055#1-1">
+    <learningEvent id="urn:thl:learning:spec:13585#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Integrated Information Systems</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:12055#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13585#1-1"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:12055">
-      <identifier>12055</identifier>
+    <modul id="urn:thl:learning:spec:13585">
+      <identifier>13585</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 12055</title>
+      <title lang="de">Modul 13585</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:12072#1">
-      <identifier>12072#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:13602#1">
+      <identifier>13602#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Masterarbeit und Kolloquium</title>
       <definition>
@@ -1153,7 +1153,7 @@ Die Lehrinhalte entsprechen dem festgelegten Thema der Masterarbeit.</text>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=12072&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13602&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT750H0M0S</volumeOfLearning>
@@ -1166,9 +1166,9 @@ Die Lehrinhalte entsprechen dem festgelegten Thema der Masterarbeit.</text>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:12072#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:13602#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:12072#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:13602#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -1176,15 +1176,15 @@ Die Lehrinhalte entsprechen dem festgelegten Thema der Masterarbeit.</text>
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <specializationOf idref="urn:thl:learning:spec:12072"/>
+      <specializationOf idref="urn:thl:learning:spec:13602"/>
     </modulSpecialization>
-    <modul id="urn:thl:learning:spec:12072">
-      <identifier>12072</identifier>
+    <modul id="urn:thl:learning:spec:13602">
+      <identifier>13602</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 12072</title>
+      <title lang="de">Modul 13602</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:12089#1">
-      <identifier>12089#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:13619#1">
+      <identifier>13619#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Digital Processing of Stochastic Signals</title>
       <definition>
@@ -1219,7 +1219,7 @@ In German:
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=12089&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13619&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -1232,9 +1232,9 @@ In German:
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:12089#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:13619#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:12089#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:13619#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -1242,27 +1242,27 @@ In German:
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:12089#1-1"/>
-      <hasPart idref="urn:thl:learning:spec:12089#1-2"/>
-      <specializationOf idref="urn:thl:learning:spec:12089"/>
+      <hasPart idref="urn:thl:learning:spec:13619#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:13619#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:13619"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:12089#1-1">
+    <learningEvent id="urn:thl:learning:spec:13619#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Digital Processing of Stochastic Signals (Lecture + Exercise)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:12089#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13619#1-1"/>
     </learningEvent>
-    <learningEvent id="urn:thl:learning:spec:12089#1-2">
+    <learningEvent id="urn:thl:learning:spec:13619#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Digital Processing of Stochastic Signals (Practical Training)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:12089#1-2"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13619#1-2"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:12089">
-      <identifier>12089</identifier>
+    <modul id="urn:thl:learning:spec:13619">
+      <identifier>13619</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 12089</title>
+      <title lang="de">Modul 13619</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:12106#1">
-      <identifier>12106#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:13636#1">
+      <identifier>13636#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Human-Computer Interfaces</title>
       <definition>
@@ -1306,7 +1306,7 @@ ISO 9241: Ergonomics of Human-Computer Interaction. International Organization f
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=12106&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13636&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -1319,9 +1319,9 @@ ISO 9241: Ergonomics of Human-Computer Interaction. International Organization f
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:12106#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:13636#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:12106#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:13636#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -1329,27 +1329,27 @@ ISO 9241: Ergonomics of Human-Computer Interaction. International Organization f
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:12106#1-1"/>
-      <hasPart idref="urn:thl:learning:spec:12106#1-2"/>
-      <specializationOf idref="urn:thl:learning:spec:12106"/>
+      <hasPart idref="urn:thl:learning:spec:13636#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:13636#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:13636"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:12106#1-1">
+    <learningEvent id="urn:thl:learning:spec:13636#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Human-Computer Interfaces (Lecture)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:12106#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13636#1-1"/>
     </learningEvent>
-    <learningEvent id="urn:thl:learning:spec:12106#1-2">
+    <learningEvent id="urn:thl:learning:spec:13636#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Human-Computer Interfaces (Practical Training)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:12106#1-2"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13636#1-2"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:12106">
-      <identifier>12106</identifier>
+    <modul id="urn:thl:learning:spec:13636">
+      <identifier>13636</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 12106</title>
+      <title lang="de">Modul 13636</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:12123#1">
-      <identifier>12123#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:13653#1">
+      <identifier>13653#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Process Integration</title>
       <definition>
@@ -1371,7 +1371,7 @@ In the practical trainings during the semester, the students apply what they hav
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=12123&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13653&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -1384,9 +1384,9 @@ In the practical trainings during the semester, the students apply what they hav
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:12123#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:13653#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:12123#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:13653#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -1394,27 +1394,27 @@ In the practical trainings during the semester, the students apply what they hav
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:12123#1-1"/>
-      <hasPart idref="urn:thl:learning:spec:12123#1-2"/>
-      <specializationOf idref="urn:thl:learning:spec:12123"/>
+      <hasPart idref="urn:thl:learning:spec:13653#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:13653#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:13653"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:12123#1-1">
+    <learningEvent id="urn:thl:learning:spec:13653#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Process Integration (Lecture)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:12123#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13653#1-1"/>
     </learningEvent>
-    <learningEvent id="urn:thl:learning:spec:12123#1-2">
+    <learningEvent id="urn:thl:learning:spec:13653#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Process Integration (Practical Training)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:12123#1-2"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13653#1-2"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:12123">
-      <identifier>12123</identifier>
+    <modul id="urn:thl:learning:spec:13653">
+      <identifier>13653</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 12123</title>
+      <title lang="de">Modul 13653</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:12140#1">
-      <identifier>12140#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:13670#1">
+      <identifier>13670#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Process Optimization</title>
       <definition>
@@ -1437,7 +1437,7 @@ In the practical trainings during the semester, the students apply what they hav
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=12140&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13670&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -1450,9 +1450,9 @@ In the practical trainings during the semester, the students apply what they hav
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:12140#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:13670#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:12140#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:13670#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -1460,27 +1460,27 @@ In the practical trainings during the semester, the students apply what they hav
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:12140#1-1"/>
-      <hasPart idref="urn:thl:learning:spec:12140#1-2"/>
-      <specializationOf idref="urn:thl:learning:spec:12140"/>
+      <hasPart idref="urn:thl:learning:spec:13670#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:13670#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:13670"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:12140#1-1">
+    <learningEvent id="urn:thl:learning:spec:13670#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Process Optimization (Lecture)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:12140#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13670#1-1"/>
     </learningEvent>
-    <learningEvent id="urn:thl:learning:spec:12140#1-2">
+    <learningEvent id="urn:thl:learning:spec:13670#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Process Optimization (Practical Training)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:12140#1-2"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13670#1-2"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:12140">
-      <identifier>12140</identifier>
+    <modul id="urn:thl:learning:spec:13670">
+      <identifier>13670</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 12140</title>
+      <title lang="de">Modul 13670</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:12157#1">
-      <identifier>12157#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:13687#1">
+      <identifier>13687#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Real-Time Systems</title>
       <definition>
@@ -1510,7 +1510,7 @@ The topics of the module are applied to a scenario with characteristic requireme
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=12157&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13687&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -1523,9 +1523,9 @@ The topics of the module are applied to a scenario with characteristic requireme
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:12157#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:13687#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:12157#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:13687#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -1533,27 +1533,27 @@ The topics of the module are applied to a scenario with characteristic requireme
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:12157#1-1"/>
-      <hasPart idref="urn:thl:learning:spec:12157#1-2"/>
-      <specializationOf idref="urn:thl:learning:spec:12157"/>
+      <hasPart idref="urn:thl:learning:spec:13687#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:13687#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:13687"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:12157#1-1">
+    <learningEvent id="urn:thl:learning:spec:13687#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Real-Time Systems (Lecture)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:12157#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13687#1-1"/>
     </learningEvent>
-    <learningEvent id="urn:thl:learning:spec:12157#1-2">
+    <learningEvent id="urn:thl:learning:spec:13687#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Real-Time Systems (Exercise)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:12157#1-2"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13687#1-2"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:12157">
-      <identifier>12157</identifier>
+    <modul id="urn:thl:learning:spec:13687">
+      <identifier>13687</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 12157</title>
+      <title lang="de">Modul 13687</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:12174#1">
-      <identifier>12174#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:13704#1">
+      <identifier>13704#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Drahtlose Netze für cyber-physische Systeme</title>
       <definition>
@@ -1604,7 +1604,7 @@ Kurose, Ross: „Computer Networks“, Pearson
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=12174&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13704&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -1617,9 +1617,9 @@ Kurose, Ross: „Computer Networks“, Pearson
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:12174#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:13704#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:12174#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:13704#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -1627,27 +1627,27 @@ Kurose, Ross: „Computer Networks“, Pearson
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:12174#1-1"/>
-      <hasPart idref="urn:thl:learning:spec:12174#1-2"/>
-      <specializationOf idref="urn:thl:learning:spec:12174"/>
+      <hasPart idref="urn:thl:learning:spec:13704#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:13704#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:13704"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:12174#1-1">
+    <learningEvent id="urn:thl:learning:spec:13704#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Drahtlose Netze für cyber-physische Systeme Vorlesung</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:12174#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13704#1-1"/>
     </learningEvent>
-    <learningEvent id="urn:thl:learning:spec:12174#1-2">
+    <learningEvent id="urn:thl:learning:spec:13704#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Drahtlose Netze für cyber-physische Systeme Praktikum</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:12174#1-2"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13704#1-2"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:12174">
-      <identifier>12174</identifier>
+    <modul id="urn:thl:learning:spec:13704">
+      <identifier>13704</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 12174</title>
+      <title lang="de">Modul 13704</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:12191#1">
-      <identifier>12191#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:13721#1">
+      <identifier>13721#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Hardware-basierte IT-Sicherheit</title>
       <definition>
@@ -1684,7 +1684,7 @@ In praktischen Beispielen soll das Wissen der Vorlesung verfestigt werden:
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=12191&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13721&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -1697,9 +1697,9 @@ In praktischen Beispielen soll das Wissen der Vorlesung verfestigt werden:
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:12191#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:13721#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:12191#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:13721#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -1707,27 +1707,27 @@ In praktischen Beispielen soll das Wissen der Vorlesung verfestigt werden:
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:12191#1-1"/>
-      <hasPart idref="urn:thl:learning:spec:12191#1-2"/>
-      <specializationOf idref="urn:thl:learning:spec:12191"/>
+      <hasPart idref="urn:thl:learning:spec:13721#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:13721#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:13721"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:12191#1-1">
+    <learningEvent id="urn:thl:learning:spec:13721#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Hardware-basierte IT-Sicherheit (Vorlesung)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:12191#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13721#1-1"/>
     </learningEvent>
-    <learningEvent id="urn:thl:learning:spec:12191#1-2">
+    <learningEvent id="urn:thl:learning:spec:13721#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Hardware-basierte IT-Sicherheit (Praktikum)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:12191#1-2"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13721#1-2"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:12191">
-      <identifier>12191</identifier>
+    <modul id="urn:thl:learning:spec:13721">
+      <identifier>13721</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 12191</title>
+      <title lang="de">Modul 13721</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:12208#1">
-      <identifier>12208#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:13738#1">
+      <identifier>13738#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Sichere Programmierung</title>
       <definition>
@@ -1758,7 +1758,7 @@ In praktischen Beispielen soll das Wissen der Vorlesung verfestigt werden:
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=12208&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13738&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -1771,9 +1771,9 @@ In praktischen Beispielen soll das Wissen der Vorlesung verfestigt werden:
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:12208#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:13738#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:12208#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:13738#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -1781,27 +1781,27 @@ In praktischen Beispielen soll das Wissen der Vorlesung verfestigt werden:
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:12208#1-1"/>
-      <hasPart idref="urn:thl:learning:spec:12208#1-2"/>
-      <specializationOf idref="urn:thl:learning:spec:12208"/>
+      <hasPart idref="urn:thl:learning:spec:13738#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:13738#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:13738"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:12208#1-1">
+    <learningEvent id="urn:thl:learning:spec:13738#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Sichere Programmierung (Vorlesung)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:12208#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13738#1-1"/>
     </learningEvent>
-    <learningEvent id="urn:thl:learning:spec:12208#1-2">
+    <learningEvent id="urn:thl:learning:spec:13738#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Sichere Programmierung (Praktikum)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:12208#1-2"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13738#1-2"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:12208">
-      <identifier>12208</identifier>
+    <modul id="urn:thl:learning:spec:13738">
+      <identifier>13738</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 12208</title>
+      <title lang="de">Modul 13738</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:12225#1">
-      <identifier>12225#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:13755#1">
+      <identifier>13755#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Mobile Anwendungen</title>
       <definition>
@@ -1830,7 +1830,7 @@ Mostefaoui, G., Tariq, F Mobile Apps Engineering: Design, Development, Security,
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=12225&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13755&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -1843,9 +1843,9 @@ Mostefaoui, G., Tariq, F Mobile Apps Engineering: Design, Development, Security,
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:12225#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:13755#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:12225#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:13755#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -1853,27 +1853,27 @@ Mostefaoui, G., Tariq, F Mobile Apps Engineering: Design, Development, Security,
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:12225#1-1"/>
-      <hasPart idref="urn:thl:learning:spec:12225#1-2"/>
-      <specializationOf idref="urn:thl:learning:spec:12225"/>
+      <hasPart idref="urn:thl:learning:spec:13755#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:13755#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:13755"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:12225#1-1">
+    <learningEvent id="urn:thl:learning:spec:13755#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Mobile Anwendungen (Vorlesung)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:12225#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13755#1-1"/>
     </learningEvent>
-    <learningEvent id="urn:thl:learning:spec:12225#1-2">
+    <learningEvent id="urn:thl:learning:spec:13755#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Mobile Anwendungen (Praktikum)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:12225#1-2"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13755#1-2"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:12225">
-      <identifier>12225</identifier>
+    <modul id="urn:thl:learning:spec:13755">
+      <identifier>13755</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 12225</title>
+      <title lang="de">Modul 13755</title>
     </modul>
-    <modulSpecialization id="urn:thl:learning:spec:12242#1">
-      <identifier>12242#1</identifier>
+    <modulSpecialization id="urn:thl:learning:spec:13772#1">
+      <identifier>13772#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Sichere vernetzte Steuerungssysteme</title>
       <definition>
@@ -1915,7 +1915,7 @@ Im Praktikum soll das Wissen der Vorlesung in praktischen Beispielen vertieft we
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
-      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=12242&amp;amp;version=1">
+      <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13772&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
       </supplementaryDoc>
       <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
@@ -1928,9 +1928,9 @@ Im Praktikum soll das Wissen der Vorlesung in praktischen Beispielen vertieft we
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
-        <learningOutcome idref="urn:thl:learningoutcome:12242#1"/>
+        <learningOutcome idref="urn:thl:learningoutcome:13772#1"/>
       </learningOutcomes>
-      <assessmentSpecification idref="urn:thl:assessment:spec:12242#1"/>
+      <assessmentSpecification idref="urn:thl:assessment:spec:13772#1"/>
       <awardingOpportunities>
         <awardingOpportunity>
           <organization idref="urn:epass:thl:organization:927"/>
@@ -1938,330 +1938,330 @@ Im Praktikum soll das Wissen der Vorlesung in praktischen Beispielen vertieft we
           <startedAtTime>2018-03-31T23:59:59.000Z</startedAtTime>
         </awardingOpportunity>
       </awardingOpportunities>
-      <hasPart idref="urn:thl:learning:spec:12242#1-1"/>
-      <hasPart idref="urn:thl:learning:spec:12242#1-2"/>
-      <specializationOf idref="urn:thl:learning:spec:12242"/>
+      <hasPart idref="urn:thl:learning:spec:13772#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:13772#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:13772"/>
     </modulSpecialization>
-    <learningEvent id="urn:thl:learning:spec:12242#1-1">
+    <learningEvent id="urn:thl:learning:spec:13772#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Sichere vernetzte Steuerungssysteme (Vorlesung)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:12242#1-1"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13772#1-1"/>
     </learningEvent>
-    <learningEvent id="urn:thl:learning:spec:12242#1-2">
+    <learningEvent id="urn:thl:learning:spec:13772#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Sichere vernetzte Steuerungssysteme (Praktikum)</title>
-      <learningActivitySpecification idref="urn:thl:learningactivity:spec:12242#1-2"/>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:13772#1-2"/>
     </learningEvent>
-    <modul id="urn:thl:learning:spec:12242">
-      <identifier>12242</identifier>
+    <modul id="urn:thl:learning:spec:13772">
+      <identifier>13772</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
-      <title lang="de">Modul 12242</title>
+      <title lang="de">Modul 13772</title>
     </modul>
   </learningSpecificationReferences>
   <learningActivitySpecificationReferences>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:11885#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13415#1-1">
       <title lang="de">Angewandte Mathematik (Vorlesung)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:11885#1-2">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13415#1-2">
       <title lang="de">Angewandte Mathematik (Übung)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:11902#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13432#1-1">
       <title lang="de">Datenbanken und Informationsmanagement (Vorlesung)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:11902#1-2">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13432#1-2">
       <title lang="de">Datenbanken und Informationsmanagement (Praktikum)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:11919#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13449#1-1">
       <title lang="de">Digitale Bildverarbeitung (Vorlesung)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:11919#1-2">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13449#1-2">
       <title lang="de">Digitale Bildverarbeitung (Praktikum)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:11936#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13466#1-1">
       <title lang="de">Digitale Regelungssysteme (Vorlesung</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:11936#1-2">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13466#1-2">
       <title lang="de">Digitale Regelungssysteme (Praktikum)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:11953#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13483#1-1">
       <title lang="de">Mikroprozessor-Design (Vorlesung)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:11953#1-2">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13483#1-2">
       <title lang="de">Mikroprozessor-Design (Praktikum)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:11970#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13500#1-1">
       <title lang="de">Rechnungswesen und Controlling (Vorlesung)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:11970#1-2">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13500#1-2">
       <title lang="de">Rechnungswesen und Controlling (Praktikum)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:11987#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13517#1-1">
       <title lang="de">Brückenkurs: Automatisierungstechnik (Vorlesung)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:11987#1-2">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13517#1-2">
       <title lang="de">Brückenkurs: Automatisierungstechnik (Praktikum)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:12004#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13534#1-1">
       <title lang="de">Brückenkurs: Kommunikationstechnik (Vorlesung)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:12004#1-2">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13534#1-2">
       <title lang="de">Brückenkurs: Kommunikationstechnik (Praktikum)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:12021#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13551#1-1">
       <title lang="de">Business Process Management (Lecture)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:12021#1-2">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13551#1-2">
       <title lang="de">Business Process Management (Exercises)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:12038#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13568#1-1">
       <title lang="de">Wissenschaftliches Projekt</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:12055#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13585#1-1">
       <title lang="de">Integrated Information Systems</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:12089#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13619#1-1">
       <title lang="de">Digital Processing of Stochastic Signals (Lecture + Exercise)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:12089#1-2">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13619#1-2">
       <title lang="de">Digital Processing of Stochastic Signals (Practical Training)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:12106#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13636#1-1">
       <title lang="de">Human-Computer Interfaces (Lecture)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:12106#1-2">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13636#1-2">
       <title lang="de">Human-Computer Interfaces (Practical Training)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:12123#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13653#1-1">
       <title lang="de">Process Integration (Lecture)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:12123#1-2">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13653#1-2">
       <title lang="de">Process Integration (Practical Training)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:12140#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13670#1-1">
       <title lang="de">Process Optimization (Lecture)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:12140#1-2">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13670#1-2">
       <title lang="de">Process Optimization (Practical Training)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:12157#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13687#1-1">
       <title lang="de">Real-Time Systems (Lecture)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:12157#1-2">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13687#1-2">
       <title lang="de">Real-Time Systems (Exercise)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:12174#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13704#1-1">
       <title lang="de">Drahtlose Netze für cyber-physische Systeme Vorlesung</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:12174#1-2">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13704#1-2">
       <title lang="de">Drahtlose Netze für cyber-physische Systeme Praktikum</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:12191#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13721#1-1">
       <title lang="de">Hardware-basierte IT-Sicherheit (Vorlesung)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:12191#1-2">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13721#1-2">
       <title lang="de">Hardware-basierte IT-Sicherheit (Praktikum)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:12208#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13738#1-1">
       <title lang="de">Sichere Programmierung (Vorlesung)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:12208#1-2">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13738#1-2">
       <title lang="de">Sichere Programmierung (Praktikum)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:12225#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13755#1-1">
       <title lang="de">Mobile Anwendungen (Vorlesung)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:12225#1-2">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13755#1-2">
       <title lang="de">Mobile Anwendungen (Praktikum)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:12242#1-1">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13772#1-1">
       <title lang="de">Sichere vernetzte Steuerungssysteme (Vorlesung)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
-    <learningActivitySpecification id="urn:thl:learningactivity:spec:12242#1-2">
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:13772#1-2">
       <title lang="de">Sichere vernetzte Steuerungssysteme (Praktikum)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
     </learningActivitySpecification>
   </learningActivitySpecificationReferences>
   <assessmentSpecificationReferences>
-    <assessmentSpecification id="urn:thl:assessment:spec:11885#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:13415#1">
       <title lang="de">Angewandte Mathematik</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:11885#1"/>
+      <proves idref="urn:thl:learningoutcome:13415#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:11902#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:13432#1">
       <title lang="de">Datenbanken und Informationsmanagement</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:11902#1"/>
+      <proves idref="urn:thl:learningoutcome:13432#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:11919#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:13449#1">
       <title lang="de">Digitale Bildverarbeitung</title>
       <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:11919#1"/>
+      <proves idref="urn:thl:learningoutcome:13449#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:11936#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:13466#1">
       <title lang="de">Digitale Regelungssysteme</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:11936#1"/>
+      <proves idref="urn:thl:learningoutcome:13466#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:11953#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:13483#1">
       <title lang="de">Mikroprozessor-Design</title>
       <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
-      <proves idref="urn:thl:learningoutcome:11953#1"/>
+      <proves idref="urn:thl:learningoutcome:13483#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:11970#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:13500#1">
       <title lang="de">Rechnungswesen und Controlling</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:11970#1"/>
+      <proves idref="urn:thl:learningoutcome:13500#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:11987#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:13517#1">
       <title lang="de">Brückenkurs: Automatisierungstechnik</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:11987#1"/>
+      <proves idref="urn:thl:learningoutcome:13517#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:12004#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:13534#1">
       <title lang="de">Brückenkurs: Kommunikationstechnik</title>
       <type uri="http://data.europa.eu/europass/assessmentType/oralExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
-      <proves idref="urn:thl:learningoutcome:12004#1"/>
+      <proves idref="urn:thl:learningoutcome:13534#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:12021#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:13551#1">
       <title lang="de">Business Process Management</title>
       <type uri="http://data.europa.eu/europass/assessmentType/oralExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
-      <proves idref="urn:thl:learningoutcome:12021#1"/>
+      <proves idref="urn:thl:learningoutcome:13551#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:12038#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:13568#1">
       <title lang="de">Wissenschaftliche Projektarbeit</title>
       <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
-      <proves idref="urn:thl:learningoutcome:12038#1"/>
+      <proves idref="urn:thl:learningoutcome:13568#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:12055#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:13585#1">
       <title lang="de">Integrated Information Systems</title>
       <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
-      <proves idref="urn:thl:learningoutcome:12055#1"/>
+      <proves idref="urn:thl:learningoutcome:13585#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:12072#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:13602#1">
       <title lang="de">Masterarbeit und Kolloquium</title>
       <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
-      <proves idref="urn:thl:learningoutcome:12072#1"/>
-      <hasPart idref="urn:thl:assessment:spec:12072#1.1"/>
-      <hasPart idref="urn:thl:assessment:spec:12072#1.2"/>
+      <proves idref="urn:thl:learningoutcome:13602#1"/>
+      <hasPart idref="urn:thl:assessment:spec:13602#1.1"/>
+      <hasPart idref="urn:thl:assessment:spec:13602#1.2"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:12072#1.1">
+    <assessmentSpecification id="urn:thl:assessment:spec:13602#1.1">
       <title lang="de">Masterarbeit</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:12072#1.2">
+    <assessmentSpecification id="urn:thl:assessment:spec:13602#1.2">
       <title lang="de">Master-Kolloquium</title>
       <type uri="http://data.europa.eu/europass/assessmentType/oralExamen"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:12089#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:13619#1">
       <title lang="de">Digital Processing of Stochastic Signals</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
-      <proves idref="urn:thl:learningoutcome:12089#1"/>
+      <proves idref="urn:thl:learningoutcome:13619#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:12106#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:13636#1">
       <title lang="de">Human-Computer Interfaces</title>
       <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
-      <proves idref="urn:thl:learningoutcome:12106#1"/>
+      <proves idref="urn:thl:learningoutcome:13636#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:12123#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:13653#1">
       <title lang="de">Process Integration</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
-      <proves idref="urn:thl:learningoutcome:12123#1"/>
+      <proves idref="urn:thl:learningoutcome:13653#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:12140#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:13670#1">
       <title lang="de">Process Optimization</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
-      <proves idref="urn:thl:learningoutcome:12140#1"/>
+      <proves idref="urn:thl:learningoutcome:13670#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:12157#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:13687#1">
       <title lang="de">Real-Time Systems</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
-      <proves idref="urn:thl:learningoutcome:12157#1"/>
+      <proves idref="urn:thl:learningoutcome:13687#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:12174#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:13704#1">
       <title lang="de">Drahtlose Netze für cyber-physische Systeme</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
-      <proves idref="urn:thl:learningoutcome:12174#1"/>
+      <proves idref="urn:thl:learningoutcome:13704#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:12191#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:13721#1">
       <title lang="de">Hardware-basierte IT-Sicherheit</title>
       <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
-      <proves idref="urn:thl:learningoutcome:12191#1"/>
+      <proves idref="urn:thl:learningoutcome:13721#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:12208#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:13738#1">
       <title lang="de">Sichere Programmierung</title>
       <type uri="http://data.europa.eu/europass/assessmentType/oralExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
-      <proves idref="urn:thl:learningoutcome:12208#1"/>
+      <proves idref="urn:thl:learningoutcome:13738#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:12225#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:13755#1">
       <title lang="de">Mobile Anwendungen</title>
       <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
-      <proves idref="urn:thl:learningoutcome:12225#1"/>
+      <proves idref="urn:thl:learningoutcome:13755#1"/>
     </assessmentSpecification>
-    <assessmentSpecification id="urn:thl:assessment:spec:12242#1">
+    <assessmentSpecification id="urn:thl:assessment:spec:13772#1">
       <title lang="de">Sichere vernetzte Steuerungssysteme</title>
       <type uri="http://data.europa.eu/europass/assessmentType/oralExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
-      <proves idref="urn:thl:learningoutcome:12242#1"/>
+      <proves idref="urn:thl:learningoutcome:13772#1"/>
     </assessmentSpecification>
   </assessmentSpecificationReferences>
   <entitlementSpecificationReferences/>
