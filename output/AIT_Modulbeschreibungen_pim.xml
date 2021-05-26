@@ -4,10 +4,12 @@
   <issuanceDate>2021-01-21T16:01:34.979+02:00</issuanceDate>
   <issuer idref="urn:epass:thl:organization:927"/>
   <title lang="de">Angewandte Informationstechnik, Master</title>
-  <title lang="eng">Angewandte Informationstechnik, Master</title>
+  <title lang="en">Angewandte Informationstechnik, Master</title>
   <description>
     <text content-type="text/plain" lang="de">Dies ist der Studiengang Angewandte Informationstechnik, Master aus dem Fachbereich Elektrotechnik und Informatik.</text>
-    <text content-type="text/plain" lang="eng">Dies ist der Studiengang Angewandte Informationstechnik, Master aus dem Fachbereich Elektrotechnik und Informatik.</text>
+  </description>
+  <description>
+    <text content-type="text/plain" lang="en">Dies ist der Studiengang Angewandte Informationstechnik, Master aus dem Fachbereich Elektrotechnik und Informatik.</text>
   </description>
   <credentialSubject id="DUMMY-SUBJECT">
     <nationalId spatialID="http://publications.europa.eu/resource/authority/country/DEU">DUMMY-NATIONALID</nationalId>
@@ -25,14 +27,16 @@
   <learningSpecificationReferences>
     <learningOutcome id="urn:thl:learningoutcome:13772#1">
       <prefLabel lang="de">Sichere vernetzte Steuerungssysteme</prefLabel>
-      <prefLabel lang="eng">Sichere vernetzte Steuerungssysteme</prefLabel>
+      <prefLabel lang="en">Sichere vernetzte Steuerungssysteme</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Nach erfolgreichem Abschluss der Veranstaltung können die Studierenden
 	- die Grundbegriffe der Netzwerksicherheit erklären und im Umfeld der industriellen Steuerung einordnen,
 	- Angriffstechniken strukturieren und mögliche Gegenmaßnahmen benennen,
 	- industrielle Systeme hinsichtlich möglicher Gefährdungen analysieren und bewerten,
 	- Gegenmaßnahmen für industrielle Steuerungssysteme unter Berücksichtigung der Anwendungsfelder bewerten und umsetzen und reaktive und präventive Maßnahmen der IT-Sicherheit in industrielle Steuerungsnetze integrieren.</text>
-        <text content-type="text/plain" lang="eng">Nach erfolgreichem Abschluss der Veranstaltung können die Studierenden
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Nach erfolgreichem Abschluss der Veranstaltung können die Studierenden
 	- die Grundbegriffe der Netzwerksicherheit erklären und im Umfeld der industriellen Steuerung einordnen,
 	- Angriffstechniken strukturieren und mögliche Gegenmaßnahmen benennen,
 	- industrielle Systeme hinsichtlich möglicher Gefährdungen analysieren und bewerten,
@@ -41,13 +45,15 @@
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13755#1">
       <prefLabel lang="de">Mobile Anwendungen</prefLabel>
-      <prefLabel lang="eng">Mobile Anwendungen</prefLabel>
+      <prefLabel lang="en">Mobile Anwendungen</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Studierenden kennen typische Anwendungsszenarien und spezielle Anforderungen an mobile Anwendungen.
 Sie sind in der Lage verschiedene Ansätze zur Programmierung mobiler Anwendungen umzusetzen und die Ansätze hinsichtlich ihrer Eignung für spezielle Anwendungskontexte zu beurteilen.
 Die Studierenden kennen aktuelle Trends und Themen mobiler Anwendungen und sind in der Lage diese bei eigenen Projekten zu berücksichtigen.
 Zusätzlich haben die Studierenden ihre Kompetenzen in Problemanalyse, Teamarbeit und Präsentationstechnik verbessert.</text>
-        <text content-type="text/plain" lang="eng">Die Studierenden kennen typische Anwendungsszenarien und spezielle Anforderungen an mobile Anwendungen.
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Die Studierenden kennen typische Anwendungsszenarien und spezielle Anforderungen an mobile Anwendungen.
 Sie sind in der Lage verschiedene Ansätze zur Programmierung mobiler Anwendungen umzusetzen und die Ansätze hinsichtlich ihrer Eignung für spezielle Anwendungskontexte zu beurteilen.
 Die Studierenden kennen aktuelle Trends und Themen mobiler Anwendungen und sind in der Lage diese bei eigenen Projekten zu berücksichtigen.
 Zusätzlich haben die Studierenden ihre Kompetenzen in Problemanalyse, Teamarbeit und Präsentationstechnik verbessert.</text>
@@ -55,7 +61,7 @@ Zusätzlich haben die Studierenden ihre Kompetenzen in Problemanalyse, Teamarbei
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13738#1">
       <prefLabel lang="de">Sichere Programmierung</prefLabel>
-      <prefLabel lang="eng">Sichere Programmierung</prefLabel>
+      <prefLabel lang="en">Sichere Programmierung</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Sichere Programmierung (Vorlesung):
 Nach erfolgreichem Abschluss der Veranstaltung können die Studierenden
@@ -65,7 +71,9 @@ Nach erfolgreichem Abschluss der Veranstaltung können die Studierenden
 	- Programme hinsichtlich sicherheitskritischer Programmabschnitte analysieren
 
 Sichere Programmierung (Praktikum):</text>
-        <text content-type="text/plain" lang="eng">Sichere Programmierung (Vorlesung):
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Sichere Programmierung (Vorlesung):
 Nach erfolgreichem Abschluss der Veranstaltung können die Studierenden
 	- Das Vorgehen zum Erstellen von sicheren Programmen erläutern und umsetzen
 	- Programme mit der Programmiersprache Ada entwickeln
@@ -77,7 +85,7 @@ Sichere Programmierung (Praktikum):</text>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13721#1">
       <prefLabel lang="de">Hardware-basierte IT-Sicherheit</prefLabel>
-      <prefLabel lang="eng">Hardware-basierte IT-Sicherheit</prefLabel>
+      <prefLabel lang="en">Hardware-basierte IT-Sicherheit</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Nach erfolgreichem Abschluss der Veranstaltung können die Studierenden:
 	- die Effektivität und Effizienz von hardware-basierten IT-Sicherheitslösungen abschätzen und beurteilen,
@@ -85,7 +93,9 @@ Sichere Programmierung (Praktikum):</text>
 	- Anwendungsspezifische Lösungen der Hardware-basierten Sicherheit gestalten,
 	- sichere Hardware-basierten Krypto-Funktionen und Zufallszahlengeneratoren umsetzen und
 	- Lösungen für eine manipulationssichere Hardware entwickeln.</text>
-        <text content-type="text/plain" lang="eng">Nach erfolgreichem Abschluss der Veranstaltung können die Studierenden:
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Nach erfolgreichem Abschluss der Veranstaltung können die Studierenden:
 	- die Effektivität und Effizienz von hardware-basierten IT-Sicherheitslösungen abschätzen und beurteilen,
 	- Anforderungen zur Bereitstellung von sicherheitsfördernden Fähigkeiten von System-Modulen formulieren,
 	- Anwendungsspezifische Lösungen der Hardware-basierten Sicherheit gestalten,
@@ -95,7 +105,7 @@ Sichere Programmierung (Praktikum):</text>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13704#1">
       <prefLabel lang="de">Drahtlose Netze für cyber-physische Systeme</prefLabel>
-      <prefLabel lang="eng">Drahtlose Netze für cyber-physische Systeme</prefLabel>
+      <prefLabel lang="en">Drahtlose Netze für cyber-physische Systeme</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Drahtlose Netze für cyber-physische Systeme Vorlesung:
 After successful completion of this course, the students will be able to:
@@ -107,7 +117,9 @@ After successful completion of this course, the students will be able to:
 	- perform diagnose, tests and optimizations of wireless networked systems.
 
 Drahtlose Netze für cyber-physische Systeme Praktikum:</text>
-        <text content-type="text/plain" lang="eng">Drahtlose Netze für cyber-physische Systeme Vorlesung:
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Drahtlose Netze für cyber-physische Systeme Vorlesung:
 After successful completion of this course, the students will be able to:
 	- present the specialties of wireless sensor systems and the challenges and concepts of these systems.
 	- interpret and follow actual research activities and technology trends.
@@ -121,7 +133,7 @@ Drahtlose Netze für cyber-physische Systeme Praktikum:</text>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13687#1">
       <prefLabel lang="de">Real-Time Systems</prefLabel>
-      <prefLabel lang="eng">Real-Time Systems</prefLabel>
+      <prefLabel lang="en">Real-Time Systems</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Real-Time Systems (Lecture):
 After successful completion of this course, the students will have acquired the following competences:
@@ -130,7 +142,9 @@ After successful completion of this course, the students will have acquired the 
 	- Modelling and implementation of real-time systems.
 
 Real-Time Systems (Exercise):</text>
-        <text content-type="text/plain" lang="eng">Real-Time Systems (Lecture):
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Real-Time Systems (Lecture):
 After successful completion of this course, the students will have acquired the following competences:
 	- Understanding of requirements specific to real-time systems.
 	- Analysis and design of hard- and software of systems with real-time capabilities.
@@ -141,7 +155,7 @@ Real-Time Systems (Exercise):</text>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13670#1">
       <prefLabel lang="de">Process Optimization</prefLabel>
-      <prefLabel lang="eng">Process Optimization</prefLabel>
+      <prefLabel lang="en">Process Optimization</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Process Optimization (Lecture):
 The students:
@@ -150,7 +164,9 @@ The students:
 	- can implement such functions using suitable optimization methods and integrate them into the basic system
 
 Process Optimization (Practical Training):</text>
-        <text content-type="text/plain" lang="eng">Process Optimization (Lecture):
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Process Optimization (Lecture):
 The students:
 	- can apply various mathematical and heuristic optimization methods and know their fields of application and limitations
 	- can systematically plan and describe requirements for higher decision and optimization functions in automation systems or superimposed operating systems (e.g. Manufacturing Execution Systems)
@@ -161,7 +177,7 @@ Process Optimization (Practical Training):</text>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13653#1">
       <prefLabel lang="de">Process Integration</prefLabel>
-      <prefLabel lang="eng">Process Integration</prefLabel>
+      <prefLabel lang="en">Process Integration</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Process Integration (Lecture):
 The students:
@@ -172,7 +188,9 @@ The students:
 	- have gained first experiences in using industrial MES systems.
 
 Process Integration (Practical Training):</text>
-        <text content-type="text/plain" lang="eng">Process Integration (Lecture):
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Process Integration (Lecture):
 The students:
 	- understand concepts of integrated operation management systems and the digital factory and in particular for the integration of the automation process level with Manufacturing Execution Systems (MES) and Enterprise Resource Planning (ERP) systems.
 	- understand different systems, system concepts, system architectures and the reasons for each choice
@@ -185,17 +203,19 @@ Process Integration (Practical Training):</text>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13636#1">
       <prefLabel lang="de">Human-Computer Interfaces</prefLabel>
-      <prefLabel lang="eng">Human-Computer Interfaces</prefLabel>
+      <prefLabel lang="en">Human-Computer Interfaces</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">The students get an overview of the interdisciplinary science of Human-Computer Interaction and its central concepts, definitions, and research areas. They acquire knowledge regarding the foundations of HCI (especially Psychology, Cognitive Sciences, Ergonomics) and learn how to apply this knowledge to the analysis and design of interactive products. They study and analyze different interaction techniques and design principles and learn how to design dialogues for different use contexts. They are familiar with international norms and legal requirements of system engineering and get to know and apply different usability engineering methods.
 Furthermore the students practice scientific work by conducting their own HCI project work on a self-chosen topic throughout the semester (investigation, analysis, realization / implementation, written report, oral presentation).</text>
-        <text content-type="text/plain" lang="eng">The students get an overview of the interdisciplinary science of Human-Computer Interaction and its central concepts, definitions, and research areas. They acquire knowledge regarding the foundations of HCI (especially Psychology, Cognitive Sciences, Ergonomics) and learn how to apply this knowledge to the analysis and design of interactive products. They study and analyze different interaction techniques and design principles and learn how to design dialogues for different use contexts. They are familiar with international norms and legal requirements of system engineering and get to know and apply different usability engineering methods.
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">The students get an overview of the interdisciplinary science of Human-Computer Interaction and its central concepts, definitions, and research areas. They acquire knowledge regarding the foundations of HCI (especially Psychology, Cognitive Sciences, Ergonomics) and learn how to apply this knowledge to the analysis and design of interactive products. They study and analyze different interaction techniques and design principles and learn how to design dialogues for different use contexts. They are familiar with international norms and legal requirements of system engineering and get to know and apply different usability engineering methods.
 Furthermore the students practice scientific work by conducting their own HCI project work on a self-chosen topic throughout the semester (investigation, analysis, realization / implementation, written report, oral presentation).</text>
       </description>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13619#1">
       <prefLabel lang="de">Digital Processing of Stochastic Signals</prefLabel>
-      <prefLabel lang="eng">Digital Processing of Stochastic Signals</prefLabel>
+      <prefLabel lang="en">Digital Processing of Stochastic Signals</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Digital Processing of Stochastic Signals (Lecture + Exercise):
 After successful completion of this course, the students will be able to:
@@ -209,7 +229,9 @@ After successful completion of this course, the students will be able to:
 	- Describe the basic structures of different systems for source coding.
 
 Digital Processing of Stochastic Signals (Practical Training):</text>
-        <text content-type="text/plain" lang="eng">Digital Processing of Stochastic Signals (Lecture + Exercise):
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Digital Processing of Stochastic Signals (Lecture + Exercise):
 After successful completion of this course, the students will be able to:
 	- Describe stochastic signals mathematically using expectations like the first and second moments of a stochastic process.
 	- Represent stochastic signals in the time domain and the frequency domain and to classify them.
@@ -225,14 +247,16 @@ Digital Processing of Stochastic Signals (Practical Training):</text>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13602#1">
       <prefLabel lang="de">Masterarbeit und Kolloquium</prefLabel>
-      <prefLabel lang="eng">Masterarbeit und Kolloquium</prefLabel>
+      <prefLabel lang="en">Masterarbeit und Kolloquium</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Masterarbeit:
 Die Studierenden wenden die während ihres Studiums erworbene Fach-, Methoden-, System- und Sozialkompetenz auf eine konkrete Problemstellung in ihrer Abschlussarbeit an und stellen damit ihre Fähigkeit zur selbstständigen wissenschaftlichen Arbeit unter Beweis.
 
 Master-Kolloquium:
 Die Studierenden präsentieren die während der Bearbeitung ihrer Abschlussarbeit gesammelten Erfahrungen und wissenschaftlichen Ergebnisse und vertreten diese in einer anschließenden Diskussion.</text>
-        <text content-type="text/plain" lang="eng">Masterarbeit:
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Masterarbeit:
 Die Studierenden wenden die während ihres Studiums erworbene Fach-, Methoden-, System- und Sozialkompetenz auf eine konkrete Problemstellung in ihrer Abschlussarbeit an und stellen damit ihre Fähigkeit zur selbstständigen wissenschaftlichen Arbeit unter Beweis.
 
 Master-Kolloquium:
@@ -241,15 +265,17 @@ Die Studierenden präsentieren die während der Bearbeitung ihrer Abschlussarbei
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13585#1">
       <prefLabel lang="de">Integrated Information Systems</prefLabel>
-      <prefLabel lang="eng">Integrated Information Systems</prefLabel>
+      <prefLabel lang="en">Integrated Information Systems</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Students will get an SAP ERP working knowledge. In addition, students will learn how a variety of business processes can be covered with a standard ERP-system such as SAP.</text>
-        <text content-type="text/plain" lang="eng">Students will get an SAP ERP working knowledge. In addition, students will learn how a variety of business processes can be covered with a standard ERP-system such as SAP.</text>
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Students will get an SAP ERP working knowledge. In addition, students will learn how a variety of business processes can be covered with a standard ERP-system such as SAP.</text>
       </description>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13568#1">
       <prefLabel lang="de">Wissenschaftliche Projektarbeit</prefLabel>
-      <prefLabel lang="eng">Wissenschaftliche Projektarbeit</prefLabel>
+      <prefLabel lang="en">Wissenschaftliche Projektarbeit</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">The learning goal of the module is to enable students to work on scientific topics (e.g. a master thesis) autonomously/independently. Additionally, students will acquire the skills necessary to write scientific publications and give scientific presentations.
 Following the successful completion of this course, the students will have acquired the following competencies:
@@ -259,7 +285,9 @@ Following the successful completion of this course, the students will have acqui
 	- Retrieval and evaluation of information using literature and online resources.
 	- Giving an overview of a complex scientific area in a presentation to a professional audience.
 	- Participate in scientific discussions typical for scientific presentations.</text>
-        <text content-type="text/plain" lang="eng">The learning goal of the module is to enable students to work on scientific topics (e.g. a master thesis) autonomously/independently. Additionally, students will acquire the skills necessary to write scientific publications and give scientific presentations.
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">The learning goal of the module is to enable students to work on scientific topics (e.g. a master thesis) autonomously/independently. Additionally, students will acquire the skills necessary to write scientific publications and give scientific presentations.
 Following the successful completion of this course, the students will have acquired the following competencies:
 	- Writing of a scientific article of approximately 5 to 10 pages in length that covers state of the art, approach and result of the project.
 	- Document and present the scientific approach used for solving the selected task.
@@ -271,13 +299,15 @@ Following the successful completion of this course, the students will have acqui
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13551#1">
       <prefLabel lang="de">Business Process Management</prefLabel>
-      <prefLabel lang="eng">Business Process Management</prefLabel>
+      <prefLabel lang="en">Business Process Management</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Business Process Management (Lecture):
 Students will have an understanding of organizational structures and processes within enterprises. They will have learned techniques and rules of process design necessary for analysis and design of information systems.
 
 Business Process Management (Exercises):</text>
-        <text content-type="text/plain" lang="eng">Business Process Management (Lecture):
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Business Process Management (Lecture):
 Students will have an understanding of organizational structures and processes within enterprises. They will have learned techniques and rules of process design necessary for analysis and design of information systems.
 
 Business Process Management (Exercises):</text>
@@ -285,7 +315,7 @@ Business Process Management (Exercises):</text>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13534#1">
       <prefLabel lang="de">Brückenkurs: Kommunikationstechnik</prefLabel>
-      <prefLabel lang="eng">Brückenkurs: Kommunikationstechnik</prefLabel>
+      <prefLabel lang="en">Brückenkurs: Kommunikationstechnik</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Brückenkurs: Kommunikationstechnik (Vorlesung):
 Nach erfolgreichem Abschluss der Vorlesung können die Studierenden dieses Brückenkurses
@@ -301,7 +331,9 @@ Nach erfolgreichem Abschluss der Vorlesung können die Studierenden dieses Brüc
 	- die Funktionsweise lokaler Netze erläutern
 
 Brückenkurs: Kommunikationstechnik (Praktikum):</text>
-        <text content-type="text/plain" lang="eng">Brückenkurs: Kommunikationstechnik (Vorlesung):
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Brückenkurs: Kommunikationstechnik (Vorlesung):
 Nach erfolgreichem Abschluss der Vorlesung können die Studierenden dieses Brückenkurses
 	- die Struktur und die Funktionen eines Architekturmodells (z.B. OSI-Modell) erklären,
 	- die Eigenschaften eines Basisband-Übertragungssystems erläutern,
@@ -319,13 +351,15 @@ Brückenkurs: Kommunikationstechnik (Praktikum):</text>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13517#1">
       <prefLabel lang="de">Brückenkurs: Automatisierungstechnik</prefLabel>
-      <prefLabel lang="eng">Brückenkurs: Automatisierungstechnik</prefLabel>
+      <prefLabel lang="en">Brückenkurs: Automatisierungstechnik</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Brückenkurs: Automatisierungstechnik (Vorlesung):
 Das Modul richtet sich als Brückenkurs an Studierende, die einen Bachelorstudiengang mit dem Schwerpunkt Kommunikationstechnik oder Elektronik abgeschlossen haben. In dem Modul lernen Sie wesentliche Komponenten von Steuerungs- und Leitsystemen, sowie Feldbusse kennen. Nach dem erfolgreichen Abschluss des Moduls sind sie in der Lage die Inhalte des Masterkurses in den Kontext von industriellen Automatisierungssystemen einzuordnen.
 
 Brückenkurs: Automatisierungstechnik (Praktikum):</text>
-        <text content-type="text/plain" lang="eng">Brückenkurs: Automatisierungstechnik (Vorlesung):
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Brückenkurs: Automatisierungstechnik (Vorlesung):
 Das Modul richtet sich als Brückenkurs an Studierende, die einen Bachelorstudiengang mit dem Schwerpunkt Kommunikationstechnik oder Elektronik abgeschlossen haben. In dem Modul lernen Sie wesentliche Komponenten von Steuerungs- und Leitsystemen, sowie Feldbusse kennen. Nach dem erfolgreichen Abschluss des Moduls sind sie in der Lage die Inhalte des Masterkurses in den Kontext von industriellen Automatisierungssystemen einzuordnen.
 
 Brückenkurs: Automatisierungstechnik (Praktikum):</text>
@@ -333,13 +367,15 @@ Brückenkurs: Automatisierungstechnik (Praktikum):</text>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13500#1">
       <prefLabel lang="de">Rechnungswesen und Controlling</prefLabel>
-      <prefLabel lang="eng">Rechnungswesen und Controlling</prefLabel>
+      <prefLabel lang="en">Rechnungswesen und Controlling</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Rechnungswesen und Controlling (Vorlesung):
 Die Studierenden verstehen betriebswirtschaftliche Zusammenhänge, die für Entwicklung, Einführung und Analyse von Informationssystemen erforderlich sind.
 
 Rechnungswesen und Controlling (Praktikum):</text>
-        <text content-type="text/plain" lang="eng">Rechnungswesen und Controlling (Vorlesung):
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Rechnungswesen und Controlling (Vorlesung):
 Die Studierenden verstehen betriebswirtschaftliche Zusammenhänge, die für Entwicklung, Einführung und Analyse von Informationssystemen erforderlich sind.
 
 Rechnungswesen und Controlling (Praktikum):</text>
@@ -347,7 +383,7 @@ Rechnungswesen und Controlling (Praktikum):</text>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13483#1">
       <prefLabel lang="de">Mikroprozessor-Design</prefLabel>
-      <prefLabel lang="eng">Mikroprozessor-Design</prefLabel>
+      <prefLabel lang="en">Mikroprozessor-Design</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Nach erfolgreichem Abschluss der Veranstaltung können die Studierenden
 	- Prozessordesigns vergleichen und bewerten
@@ -355,7 +391,9 @@ Rechnungswesen und Controlling (Praktikum):</text>
 	- Prozessoroptimierungen differenzieren und umsetzen
 	- Probleme und Lösungen eines Pipeline-Prozessors wiedergeben
 	- VHDL Design-Entscheidungen für Mikroprozessoren auswählen und umsetzen</text>
-        <text content-type="text/plain" lang="eng">Nach erfolgreichem Abschluss der Veranstaltung können die Studierenden
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Nach erfolgreichem Abschluss der Veranstaltung können die Studierenden
 	- Prozessordesigns vergleichen und bewerten
 	- den RISC-V Prozessor in VHDL umsetzen
 	- Prozessoroptimierungen differenzieren und umsetzen
@@ -365,7 +403,7 @@ Rechnungswesen und Controlling (Praktikum):</text>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13466#1">
       <prefLabel lang="de">Digitale Regelungssysteme</prefLabel>
-      <prefLabel lang="eng">Digitale Regelungssysteme</prefLabel>
+      <prefLabel lang="en">Digitale Regelungssysteme</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Digitale Regelungssysteme (Vorlesung:
 Die Studierenden kennen:
@@ -376,7 +414,9 @@ Die Studierenden kennen:
 
 Digitale Regelungssysteme (Praktikum):
 Die Studierenden lernen den praktischen Einsatz von identifikationsverfahren und weiterführenden digitalen Reglern</text>
-        <text content-type="text/plain" lang="eng">Digitale Regelungssysteme (Vorlesung:
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Digitale Regelungssysteme (Vorlesung:
 Die Studierenden kennen:
 	- die gebräuchlichen Designmethoden von digitalen Reglern mittels der Z- Transformation. Sie sollen für verschiedene mögliche Hardwarevoraussetzungen den Algorithmus in beliebiger Sprache programmieren können.
 	- Modellbildungsmethoden und Simulation mittels verschiedener Identifikationsalgorithmen für die Regelstrecken.
@@ -389,7 +429,7 @@ Die Studierenden lernen den praktischen Einsatz von identifikationsverfahren und
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13449#1">
       <prefLabel lang="de">Digitale Bildverarbeitung</prefLabel>
-      <prefLabel lang="eng">Digitale Bildverarbeitung</prefLabel>
+      <prefLabel lang="en">Digitale Bildverarbeitung</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Digitale Bildverarbeitung (Vorlesung):
 Nach dem Studium dieses Moduls kennen die Studierenden
@@ -399,7 +439,9 @@ Nach dem Studium dieses Moduls kennen die Studierenden
 	- einige elementare Verfahren zur Segmentierung und Erkennung von Bildinhalten und können diese praktisch einsetzen.
 
 Digitale Bildverarbeitung (Praktikum):</text>
-        <text content-type="text/plain" lang="eng">Digitale Bildverarbeitung (Vorlesung):
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Digitale Bildverarbeitung (Vorlesung):
 Nach dem Studium dieses Moduls kennen die Studierenden
 	- grundlegende Eigenschaften unserer visuellen Wahrnehmung und die daraus entwickelten Verfahren zur Gewinnung digitaler Bilder,
 	- mathematische Werkzeuge zur Bildanalyse, wie z.B. die DFT und das Histogramm und können diese in der Anwendung interpretieren,
@@ -411,7 +453,7 @@ Digitale Bildverarbeitung (Praktikum):</text>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13432#1">
       <prefLabel lang="de">Datenbanken und Informationsmanagement</prefLabel>
-      <prefLabel lang="eng">Datenbanken und Informationsmanagement</prefLabel>
+      <prefLabel lang="en">Datenbanken und Informationsmanagement</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Datenbanken und Informationsmanagement (Vorlesung):
 Die Studierenden
@@ -421,7 +463,9 @@ Die Studierenden
 	- können die Studierenden Datenbanktransaktionen entwerfen und implementieren.
 
 Datenbanken und Informationsmanagement (Praktikum):</text>
-        <text content-type="text/plain" lang="eng">Datenbanken und Informationsmanagement (Vorlesung):
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Datenbanken und Informationsmanagement (Vorlesung):
 Die Studierenden
 	- kennen Grundkonzepte von Relationalen Datenbanksystemen, NoSQL-Datenbanken und Informationssystemen
 	- können selbständig eine Datenbank von der fachlichen Modellierung bis zur Implementierung der technischen Lösung systematisch erstellen
@@ -433,7 +477,7 @@ Datenbanken und Informationsmanagement (Praktikum):</text>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13415#1">
       <prefLabel lang="de">Angewandte Mathematik</prefLabel>
-      <prefLabel lang="eng">Angewandte Mathematik</prefLabel>
+      <prefLabel lang="en">Angewandte Mathematik</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Angewandte Mathematik (Vorlesung):
 Nach erfolgreichem Abschluss der Lehrveranstaltung können die Studierenden:
@@ -446,7 +490,9 @@ Ein wesentliches Ziel dieses Moduls ist es, bei den Studierenden ein gesundes Mi
 	- das Computer-Algebra-System Maple zielsicher numerische und analytische mathematische Aufgabenstellungen einsetzen.
 
 Angewandte Mathematik (Übung):</text>
-        <text content-type="text/plain" lang="eng">Angewandte Mathematik (Vorlesung):
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Angewandte Mathematik (Vorlesung):
 Nach erfolgreichem Abschluss der Lehrveranstaltung können die Studierenden:
 Ein wesentliches Ziel dieses Moduls ist es, bei den Studierenden ein gesundes Misstrauen gegen Ergebnisse von numerischen Algorithmen hervorzurufen. Sie sollen erkennen, dass auch im Sinne der reinen Mathematik völlig korrekte Algorithmen zu gänzlich falschen Resultaten führen können. Ist eine solche Situation eingetreten, sind sie in der Lage festzustellen, worin die Ursache liegt: in der schlechten Konditionierung des Problems oder in der Instabilität des Algorithmus. Sie erwerben die Fähigkeit, Instabilitäten von Algorithmen zu identifizieren und zu beseitigen.
 	- die Konzepte und Methoden der Wahrscheinlichkeitsrechnung und Statistik in typischen Problemstellungen der Praxis anwenden, wie sie beispielsweise im Modul „Digitale Verarbeitung stochastischer Signale“ behandelt werden;
@@ -461,20 +507,20 @@ Angewandte Mathematik (Übung):</text>
     </learningOutcome>
     <studyProgramme id="urn:thl:learning:spec:studyprogramme:657384">
       <title lang="de">Angewandte Informationstechnik, Master</title>
-      <title lang="eng">Angewandte Informationstechnik, Master</title>
+      <title lang="en">Angewandte Informationstechnik, Master</title>
       <hasEducationLevel>
         <targetName lang="de">M. Sc.</targetName>
-        <targetName lang="eng">M. Sc.</targetName>
+        <targetName lang="en">M. Sc.</targetName>
       </hasEducationLevel>
     </studyProgramme>
     <stupo id="urn:thl:learning:spec:stupo:657384">
       <title lang="de">Angewandte Informationstechnik, Master</title>
-      <title lang="eng">Angewandte Informationstechnik, Master</title>
+      <title lang="en">Angewandte Informationstechnik, Master</title>
       <specializationOf idref="urn:thl:learning:spec:studyprogramme:657384"/>
     </stupo>
     <studySection id="urn:thl:learning:spec:studysection:657384">
       <title lang="de">Angewandte Informationstechnik, Master</title>
-      <title lang="eng">Angewandte Informationstechnik, Master</title>
+      <title lang="en">Angewandte Informationstechnik, Master</title>
       <hasPart idref="urn:thl:learning:spec:13415#1"/>
       <hasPart idref="urn:thl:learning:spec:13432#1"/>
       <hasPart idref="urn:thl:learning:spec:13449#1"/>
@@ -502,7 +548,7 @@ Angewandte Mathematik (Übung):</text>
       <identifier>13415#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Angewandte Mathematik</title>
-      <title lang="eng">Angewandte Mathematik</title>
+      <title lang="en">Angewandte Mathematik</title>
       <definition>
         <text content-type="text/plain" lang="de">Angewandte Mathematik (Vorlesung):
 Statistik und Fehlerfortpflanzung
@@ -525,7 +571,9 @@ Angewandte Mathematik (Übung):
 	- Kurvenanpassung, Least Square Fit (LSF)
 	- Lineare Algebra
 	- Fehleranalyse in der Numerik</text>
-        <text content-type="text/plain" lang="eng">Angewandte Mathematik (Vorlesung):
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Angewandte Mathematik (Vorlesung):
 Statistik und Fehlerfortpflanzung
 Kurvenanpassung, Least Square Fit (LSF)
 Lineare Algebra
@@ -554,7 +602,9 @@ Angewandte Mathematik (Übung):
 	- Martin Hermann: "Numerische Mathematik", Oldenbourg
 	- Alfio Quarteroni, Riccardo Sacco, Fausto Saleri: "Numerical Mathematics", Springer
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: 	- Helge Toutenburg, Christian Heumann: „Induktive Statistik“, Springer
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: 	- Helge Toutenburg, Christian Heumann: „Induktive Statistik“, Springer
 	- Hans Rudolf Schwarz, Norbert Köckler: "Numerische Mathematik", Vieweg+Teubner
 	- Josef Stoer, Roland Bulirsch: "Numerische Mathematik I/II", Springer
 	- Martin Hermann: "Numerische Mathematik", Oldenbourg
@@ -563,11 +613,15 @@ Angewandte Mathematik (Übung):
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13415&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -580,7 +634,9 @@ Angewandte Mathematik (Übung):
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13415#1"/>
@@ -600,26 +656,26 @@ Angewandte Mathematik (Übung):
     <learningEvent id="urn:thl:learning:spec:13415#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Angewandte Mathematik (Vorlesung)</title>
-      <title lang="eng">Angewandte Mathematik (Vorlesung)</title>
+      <title lang="en">Angewandte Mathematik (Vorlesung)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13415#1-1"/>
     </learningEvent>
     <learningEvent id="urn:thl:learning:spec:13415#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Angewandte Mathematik (Übung)</title>
-      <title lang="eng">Angewandte Mathematik (Übung)</title>
+      <title lang="en">Angewandte Mathematik (Übung)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13415#1-2"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13415">
       <identifier>13415</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13415</title>
-      <title lang="eng">Modul 13415</title>
+      <title lang="en">Modul 13415</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13432#1">
       <identifier>13432#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Datenbanken und Informationsmanagement</title>
-      <title lang="eng">Datenbanken und Informationsmanagement</title>
+      <title lang="en">Datenbanken und Informationsmanagement</title>
       <definition>
         <text content-type="text/plain" lang="de">Datenbanken und Informationsmanagement (Vorlesung):
 	- Grundkonzepte von Relationalen Datenbanksystemen, NoSQL-Datenbanken und Informationssystemen
@@ -631,7 +687,9 @@ Angewandte Mathematik (Übung):
 
 Datenbanken und Informationsmanagement (Praktikum):
 In den semesterbegleitenden Praktika wenden die Studierenden das in der Vorlesung Gelernte auf gegebene oder selbst gewählte Anwendungen an.</text>
-        <text content-type="text/plain" lang="eng">Datenbanken und Informationsmanagement (Vorlesung):
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Datenbanken und Informationsmanagement (Vorlesung):
 	- Grundkonzepte von Relationalen Datenbanksystemen, NoSQL-Datenbanken und Informationssystemen
 	- Entwurf und Normalisierung relationaler Datenbanken
 	- wesentliche Sprachelemente von SQL
@@ -647,18 +705,24 @@ In den semesterbegleitenden Praktika wenden die Studierenden das in der Vorlesun
 Jukic, N. et al.: Database Systems, Prospect Press, 2016
 Kemper, A. et al.: Datenbanksysteme – eine Einführung, Oldenbourg, 2011
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Elmasri, R. A. et al.: Grundlagen von Datenbanksystemen, Pearson, 2011
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Elmasri, R. A. et al.: Grundlagen von Datenbanksystemen, Pearson, 2011
 Jukic, N. et al.: Database Systems, Prospect Press, 2016
 Kemper, A. et al.: Datenbanksysteme – eine Einführung, Oldenbourg, 2011
 </text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13432&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -671,7 +735,9 @@ Kemper, A. et al.: Datenbanksysteme – eine Einführung, Oldenbourg, 2011
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13432#1"/>
@@ -691,26 +757,26 @@ Kemper, A. et al.: Datenbanksysteme – eine Einführung, Oldenbourg, 2011
     <learningEvent id="urn:thl:learning:spec:13432#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Datenbanken und Informationsmanagement (Vorlesung)</title>
-      <title lang="eng">Datenbanken und Informationsmanagement (Vorlesung)</title>
+      <title lang="en">Datenbanken und Informationsmanagement (Vorlesung)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13432#1-1"/>
     </learningEvent>
     <learningEvent id="urn:thl:learning:spec:13432#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Datenbanken und Informationsmanagement (Praktikum)</title>
-      <title lang="eng">Datenbanken und Informationsmanagement (Praktikum)</title>
+      <title lang="en">Datenbanken und Informationsmanagement (Praktikum)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13432#1-2"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13432">
       <identifier>13432</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13432</title>
-      <title lang="eng">Modul 13432</title>
+      <title lang="en">Modul 13432</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13449#1">
       <identifier>13449#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Digitale Bildverarbeitung</title>
-      <title lang="eng">Digitale Bildverarbeitung</title>
+      <title lang="en">Digitale Bildverarbeitung</title>
       <definition>
         <text content-type="text/plain" lang="de">Digitale Bildverarbeitung (Vorlesung):
 	- Einführung,Anwendungsgebiete der DBV, Aufbau des Auges, Farbräume, Look-Up-Table, Sensoren, Abtastung, Aliasing, SNR, Fehlermaße
@@ -731,7 +797,9 @@ Digitale Bildverarbeitung (Praktikum):
 	- Histogramm,Histogrammausgleich, Histogrammanpassung
 	- Filteranwendung, Scharf-/Unscharffilterung
 	- Hough-Transformation oder Fourierdeskriptoren</text>
-        <text content-type="text/plain" lang="eng">Digitale Bildverarbeitung (Vorlesung):
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Digitale Bildverarbeitung (Vorlesung):
 	- Einführung,Anwendungsgebiete der DBV, Aufbau des Auges, Farbräume, Look-Up-Table, Sensoren, Abtastung, Aliasing, SNR, Fehlermaße
 	- Histogramm und Summenhäufigkeit
 	- Punktabbildungen,Helligkeits- und Kontraständerung, Gammakorrektur
@@ -759,7 +827,9 @@ Digitale Bildverarbeitung (Praktikum):
 	- R.-J. Ahlers, Das Handbuch der Bildverarbeitung, Expert Verlag, 2000, ISBN 3-8169-0675-3
 
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: 	- W.Burger, M.J. Burge, Digitale Bildverarbeitung, Springer Verlag, 2005, ISBN 3-540-21465-8
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: 	- W.Burger, M.J. Burge, Digitale Bildverarbeitung, Springer Verlag, 2005, ISBN 3-540-21465-8
 	- B.Jähne, Digitale Bildverarbeitung, 5. Auflage, Springer Verlag, 2002, ISBN 3-540-41260-3
 	- R.C.Gonzalez, R.E.Woods, Digital Image Processing, 2nd Edition, Pearson Education, 2002, ISBN 0-201-18075-8
 	- W.K.Pratt, Digital Image Processing, 3rd Edition, Wiley &amp; Sons Inc., 2001, ISBN 0-471-37407-5
@@ -769,11 +839,15 @@ Digitale Bildverarbeitung (Praktikum):
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13449&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -786,7 +860,9 @@ Digitale Bildverarbeitung (Praktikum):
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13449#1"/>
@@ -806,26 +882,26 @@ Digitale Bildverarbeitung (Praktikum):
     <learningEvent id="urn:thl:learning:spec:13449#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Digitale Bildverarbeitung (Vorlesung)</title>
-      <title lang="eng">Digitale Bildverarbeitung (Vorlesung)</title>
+      <title lang="en">Digitale Bildverarbeitung (Vorlesung)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13449#1-1"/>
     </learningEvent>
     <learningEvent id="urn:thl:learning:spec:13449#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Digitale Bildverarbeitung (Praktikum)</title>
-      <title lang="eng">Digitale Bildverarbeitung (Praktikum)</title>
+      <title lang="en">Digitale Bildverarbeitung (Praktikum)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13449#1-2"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13449">
       <identifier>13449</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13449</title>
-      <title lang="eng">Modul 13449</title>
+      <title lang="en">Modul 13449</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13466#1">
       <identifier>13466#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Digitale Regelungssysteme</title>
-      <title lang="eng">Digitale Regelungssysteme</title>
+      <title lang="en">Digitale Regelungssysteme</title>
       <definition>
         <text content-type="text/plain" lang="de">Digitale Regelungssysteme (Vorlesung:
 	- Entwurf Digitaler Regler
@@ -842,7 +918,9 @@ Entwurf und Implementierung eines weiterführenden Reglers für ein Regelsystem.
 
 Digitale Regelungssysteme (Praktikum):
 3 integrative Laborversuche zu den weiterführenden digitalen Reglern</text>
-        <text content-type="text/plain" lang="eng">Digitale Regelungssysteme (Vorlesung:
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Digitale Regelungssysteme (Vorlesung:
 	- Entwurf Digitaler Regler
 :
 Benutzung der Z-Transformation zum Entwurf digitaler Filter, PID und Dead-Beat- Regler. Algorithmen und Realisierung auf PC- und Embedded Systems. Wahl der Abtastzeit.
@@ -861,16 +939,22 @@ Digitale Regelungssysteme (Praktikum):
       <additionalNote>
         <text content-type="text/plain" lang="de">Literaturangaben: Rainer Dittmar: Advanced Process Control, Oldenbourg
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Rainer Dittmar: Advanced Process Control, Oldenbourg
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Rainer Dittmar: Advanced Process Control, Oldenbourg
 </text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13466&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -883,7 +967,9 @@ Digitale Regelungssysteme (Praktikum):
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13466#1"/>
@@ -903,26 +989,26 @@ Digitale Regelungssysteme (Praktikum):
     <learningEvent id="urn:thl:learning:spec:13466#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Digitale Regelungssysteme (Vorlesung</title>
-      <title lang="eng">Digitale Regelungssysteme (Vorlesung</title>
+      <title lang="en">Digitale Regelungssysteme (Vorlesung</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13466#1-1"/>
     </learningEvent>
     <learningEvent id="urn:thl:learning:spec:13466#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Digitale Regelungssysteme (Praktikum)</title>
-      <title lang="eng">Digitale Regelungssysteme (Praktikum)</title>
+      <title lang="en">Digitale Regelungssysteme (Praktikum)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13466#1-2"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13466">
       <identifier>13466</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13466</title>
-      <title lang="eng">Modul 13466</title>
+      <title lang="en">Modul 13466</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13483#1">
       <identifier>13483#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Mikroprozessor-Design</title>
-      <title lang="eng">Mikroprozessor-Design</title>
+      <title lang="en">Mikroprozessor-Design</title>
       <definition>
         <text content-type="text/plain" lang="de">Mikroprozessor-Design (Vorlesung):
 Die Automatisierung und die Autonomisierung von Systemen erhöht den Bedarf nach anwendungsspezifischer Rechenleistung. Der Einsatz von General-Purpose Mikroprozessoren wird aufgrund ihres Energiebedarfs oder ihrer Kosten in Anwendungsgebieten zunehmend an Bedeutung verlieren. Auf deren Seite biete moderne programmierbare Standard-ICs bereits heutzutage die Voraussetzung um ein kundenspezifisches System effizient einzusetzen. Somit werden anwendungsspezifische Prozessoren für die Zukunft immer wichtiger.
@@ -941,7 +1027,9 @@ Teil 3 – Prozessor Optimierung
 
 Mikroprozessor-Design (Praktikum):
 Im vorlesungsbegleitenden Praktikum wird ein Mikroprozessor mit einer 32-bit RISC-V Architektur umgesetzt. Die Umsetzung des Prozessor-Designs erfolgt schrittweise unter Anleitung und mit Beispielen des Dozenten in zweier Teams.</text>
-        <text content-type="text/plain" lang="eng">Mikroprozessor-Design (Vorlesung):
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Mikroprozessor-Design (Vorlesung):
 Die Automatisierung und die Autonomisierung von Systemen erhöht den Bedarf nach anwendungsspezifischer Rechenleistung. Der Einsatz von General-Purpose Mikroprozessoren wird aufgrund ihres Energiebedarfs oder ihrer Kosten in Anwendungsgebieten zunehmend an Bedeutung verlieren. Auf deren Seite biete moderne programmierbare Standard-ICs bereits heutzutage die Voraussetzung um ein kundenspezifisches System effizient einzusetzen. Somit werden anwendungsspezifische Prozessoren für die Zukunft immer wichtiger.
 Im Rahmen des Moduls soll anhand eines praktischen Anwendungsbeispiels das Design eines Microprozessors auf der Register-Transfer-Ebene vollzogen werden. Als Basis für das Design eines Prozessors wird der RISC-V verwendet. Hierbei handelt es sich um eine freie RISC Architektur, die unter anderem Bestandteil der Europäischen Prozessorinitiative ist.
 Teil 1 - Einführung Prozessor-Architekturen
@@ -966,7 +1054,9 @@ Im vorlesungsbegleitenden Praktikum wird ein Mikroprozessor mit einer 32-bit RIS
 [4] Jürgen Reichardt, Bernd Schwarz; VHDL-Synthese; Oldenbourg Verlag
 [5] Peter J. Ashenden; The Designer's Guide to VHDL; Morgan Kaufmann
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: [1] Andrew S. Tanenbaum: Computerarchitekturen; Pearson Education; 2005
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: [1] Andrew S. Tanenbaum: Computerarchitekturen; Pearson Education; 2005
 [2] David Patterson und John Hennessy: Computer Architecture: A Quantitative Approach; Morgan Kaufmann; 2017
 [3] David Patterson und John Hennessy: Computer Organization and Design RISC-V Edition; 2017
 [4] Jürgen Reichardt, Bernd Schwarz; VHDL-Synthese; Oldenbourg Verlag
@@ -975,11 +1065,15 @@ Im vorlesungsbegleitenden Praktikum wird ein Mikroprozessor mit einer 32-bit RIS
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13483&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -992,7 +1086,9 @@ Im vorlesungsbegleitenden Praktikum wird ein Mikroprozessor mit einer 32-bit RIS
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13483#1"/>
@@ -1012,26 +1108,26 @@ Im vorlesungsbegleitenden Praktikum wird ein Mikroprozessor mit einer 32-bit RIS
     <learningEvent id="urn:thl:learning:spec:13483#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Mikroprozessor-Design (Vorlesung)</title>
-      <title lang="eng">Mikroprozessor-Design (Vorlesung)</title>
+      <title lang="en">Mikroprozessor-Design (Vorlesung)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13483#1-1"/>
     </learningEvent>
     <learningEvent id="urn:thl:learning:spec:13483#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Mikroprozessor-Design (Praktikum)</title>
-      <title lang="eng">Mikroprozessor-Design (Praktikum)</title>
+      <title lang="en">Mikroprozessor-Design (Praktikum)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13483#1-2"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13483">
       <identifier>13483</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13483</title>
-      <title lang="eng">Modul 13483</title>
+      <title lang="en">Modul 13483</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13500#1">
       <identifier>13500#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Rechnungswesen und Controlling</title>
-      <title lang="eng">Rechnungswesen und Controlling</title>
+      <title lang="en">Rechnungswesen und Controlling</title>
       <definition>
         <text content-type="text/plain" lang="de">Rechnungswesen und Controlling (Vorlesung):
 	- Grundlegende betriebswirtschaftliche Konzepte (Produktionsfaktoren, Organisationsmodell, Logistik, Supply Chain Management, …)
@@ -1042,7 +1138,9 @@ Im vorlesungsbegleitenden Praktikum wird ein Mikroprozessor mit einer 32-bit RIS
 
 Rechnungswesen und Controlling (Praktikum):
 Das Praktikum vermittelt ausgewählte Inhalte der Vorlesung in Form von praktischen Aufgaben in Team- oder Einzelarbeit. Die Studierenden können die Konzepte und Verfahren des Rechnungswesen und Controlling praktisch anwenden</text>
-        <text content-type="text/plain" lang="eng">Rechnungswesen und Controlling (Vorlesung):
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Rechnungswesen und Controlling (Vorlesung):
 	- Grundlegende betriebswirtschaftliche Konzepte (Produktionsfaktoren, Organisationsmodell, Logistik, Supply Chain Management, …)
 	- Externes Rechnungswesen (Bilanz, FiBu, …)
 	- Internes Rechnungswesen (BAB, Produktkalkulation, Interne Leistungsverrechnung, Target Costing, …)
@@ -1056,17 +1154,23 @@ Das Praktikum vermittelt ausgewählte Inhalte der Vorlesung in Form von praktisc
         <text content-type="text/plain" lang="de">Literaturangaben: Thommen, Achleitner, Allgemeine Betriebswirtschaftslehre, SpringerGabler, aktuelle Auflage;
 Ermann, Krupp, Betriebswirtschaftslehre, Pearson, aktuelle Auflage.
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Thommen, Achleitner, Allgemeine Betriebswirtschaftslehre, SpringerGabler, aktuelle Auflage;
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Thommen, Achleitner, Allgemeine Betriebswirtschaftslehre, SpringerGabler, aktuelle Auflage;
 Ermann, Krupp, Betriebswirtschaftslehre, Pearson, aktuelle Auflage.
 </text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13500&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -1079,7 +1183,9 @@ Ermann, Krupp, Betriebswirtschaftslehre, Pearson, aktuelle Auflage.
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13500#1"/>
@@ -1099,26 +1205,26 @@ Ermann, Krupp, Betriebswirtschaftslehre, Pearson, aktuelle Auflage.
     <learningEvent id="urn:thl:learning:spec:13500#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Rechnungswesen und Controlling (Vorlesung)</title>
-      <title lang="eng">Rechnungswesen und Controlling (Vorlesung)</title>
+      <title lang="en">Rechnungswesen und Controlling (Vorlesung)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13500#1-1"/>
     </learningEvent>
     <learningEvent id="urn:thl:learning:spec:13500#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Rechnungswesen und Controlling (Praktikum)</title>
-      <title lang="eng">Rechnungswesen und Controlling (Praktikum)</title>
+      <title lang="en">Rechnungswesen und Controlling (Praktikum)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13500#1-2"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13500">
       <identifier>13500</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13500</title>
-      <title lang="eng">Modul 13500</title>
+      <title lang="en">Modul 13500</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13517#1">
       <identifier>13517#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Brückenkurs: Automatisierungstechnik</title>
-      <title lang="eng">Brückenkurs: Automatisierungstechnik</title>
+      <title lang="en">Brückenkurs: Automatisierungstechnik</title>
       <definition>
         <text content-type="text/plain" lang="de">Brückenkurs: Automatisierungstechnik (Vorlesung):
 	- Allgemeine Grundlagen der Steuerungstechnik und der Automatisierungspyramide
@@ -1129,7 +1235,9 @@ Ermann, Krupp, Betriebswirtschaftslehre, Pearson, aktuelle Auflage.
 
 Brückenkurs: Automatisierungstechnik (Praktikum):
 In den semesterbegleitenden Praktika wenden die Studierenden das in der Vorlesung Gelernte auf gegebene oder selbst gewählte Anwendungsszenarien an.</text>
-        <text content-type="text/plain" lang="eng">Brückenkurs: Automatisierungstechnik (Vorlesung):
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Brückenkurs: Automatisierungstechnik (Vorlesung):
 	- Allgemeine Grundlagen der Steuerungstechnik und der Automatisierungspyramide
 	- IEC61131, Verknüpfungs- und Ablaufsteuerungen
 	- Industrielle Feldbussysteme
@@ -1142,16 +1250,22 @@ In den semesterbegleitenden Praktika wenden die Studierenden das in der Vorlesun
       <additionalNote>
         <text content-type="text/plain" lang="de">Literaturangaben: Literatur wird in der Veranstaltung benannt.
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Literatur wird in der Veranstaltung benannt.
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Literatur wird in der Veranstaltung benannt.
 </text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13517&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -1164,7 +1278,9 @@ In den semesterbegleitenden Praktika wenden die Studierenden das in der Vorlesun
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13517#1"/>
@@ -1184,26 +1300,26 @@ In den semesterbegleitenden Praktika wenden die Studierenden das in der Vorlesun
     <learningEvent id="urn:thl:learning:spec:13517#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Brückenkurs: Automatisierungstechnik (Vorlesung)</title>
-      <title lang="eng">Brückenkurs: Automatisierungstechnik (Vorlesung)</title>
+      <title lang="en">Brückenkurs: Automatisierungstechnik (Vorlesung)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13517#1-1"/>
     </learningEvent>
     <learningEvent id="urn:thl:learning:spec:13517#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Brückenkurs: Automatisierungstechnik (Praktikum)</title>
-      <title lang="eng">Brückenkurs: Automatisierungstechnik (Praktikum)</title>
+      <title lang="en">Brückenkurs: Automatisierungstechnik (Praktikum)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13517#1-2"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13517">
       <identifier>13517</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13517</title>
-      <title lang="eng">Modul 13517</title>
+      <title lang="en">Modul 13517</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13534#1">
       <identifier>13534#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Brückenkurs: Kommunikationstechnik</title>
-      <title lang="eng">Brückenkurs: Kommunikationstechnik</title>
+      <title lang="en">Brückenkurs: Kommunikationstechnik</title>
       <definition>
         <text content-type="text/plain" lang="de">Brückenkurs: Kommunikationstechnik (Vorlesung):
 Grundlagen
@@ -1246,7 +1362,9 @@ Für das Praktikum werden aus den folgenden Aufgabenstellungen Versuche ausgewä
 	- Sicherungsschicht / Switch
 	- Vermittlungsschicht / Router
 	- Transportschicht / TCP und UDP</text>
-        <text content-type="text/plain" lang="eng">Brückenkurs: Kommunikationstechnik (Vorlesung):
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Brückenkurs: Kommunikationstechnik (Vorlesung):
 Grundlagen
 Bitübertragungsschicht
 Sicherungsschicht
@@ -1294,7 +1412,9 @@ Für das Praktikum werden aus den folgenden Aufgabenstellungen Versuche ausgewä
 	- Meyer: Kommunikationstechnik, Vieweg+Teubner Verlag
 	- Tanenbaum: Computernetze, Prentice Hall
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: 	- Roppel: Grundlagen der digitalen Kommunikationstechnik: Übertragungstechnik - Signalverarbeitung – Netz
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: 	- Roppel: Grundlagen der digitalen Kommunikationstechnik: Übertragungstechnik - Signalverarbeitung – Netz
 	- Lochmann: Digitale Nachrichtentechnik, Verlag Technik
 	- Meyer: Kommunikationstechnik, Vieweg+Teubner Verlag
 	- Tanenbaum: Computernetze, Prentice Hall
@@ -1302,11 +1422,15 @@ Für das Praktikum werden aus den folgenden Aufgabenstellungen Versuche ausgewä
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13534&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -1319,7 +1443,9 @@ Für das Praktikum werden aus den folgenden Aufgabenstellungen Versuche ausgewä
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13534#1"/>
@@ -1339,26 +1465,26 @@ Für das Praktikum werden aus den folgenden Aufgabenstellungen Versuche ausgewä
     <learningEvent id="urn:thl:learning:spec:13534#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Brückenkurs: Kommunikationstechnik (Vorlesung)</title>
-      <title lang="eng">Brückenkurs: Kommunikationstechnik (Vorlesung)</title>
+      <title lang="en">Brückenkurs: Kommunikationstechnik (Vorlesung)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13534#1-1"/>
     </learningEvent>
     <learningEvent id="urn:thl:learning:spec:13534#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Brückenkurs: Kommunikationstechnik (Praktikum)</title>
-      <title lang="eng">Brückenkurs: Kommunikationstechnik (Praktikum)</title>
+      <title lang="en">Brückenkurs: Kommunikationstechnik (Praktikum)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13534#1-2"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13534">
       <identifier>13534</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13534</title>
-      <title lang="eng">Modul 13534</title>
+      <title lang="en">Modul 13534</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13551#1">
       <identifier>13551#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Business Process Management</title>
-      <title lang="eng">Business Process Management</title>
+      <title lang="en">Business Process Management</title>
       <definition>
         <text content-type="text/plain" lang="de">Business Process Management (Lecture):
 	- Fundamentals of Organizations
@@ -1372,7 +1498,9 @@ OTC, P2P, planning and manufacturing, production order, scheduling, order confir
 
 Business Process Management (Exercises):
 The exercises train students in applying knowledge and methods of business models in several practical tasks.</text>
-        <text content-type="text/plain" lang="eng">Business Process Management (Lecture):
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Business Process Management (Lecture):
 	- Fundamentals of Organizations
 	- IT Applications in Business
 	- Business Process Management
@@ -1390,18 +1518,24 @@ The exercises train students in applying knowledge and methods of business model
 Eversheim, W., Schuh, G., Integrierte Produkt- und Prozessgestaltung, Springer, Berlin.
 Eversheim, W., Organisation in der Produktionstechnik - Band 1, Grundlagen, VDI-Verlag, Düsseldorf
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Essentials of Business Processes and Information Systems (Magal, Word), current edition
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Essentials of Business Processes and Information Systems (Magal, Word), current edition
 Eversheim, W., Schuh, G., Integrierte Produkt- und Prozessgestaltung, Springer, Berlin.
 Eversheim, W., Organisation in der Produktionstechnik - Band 1, Grundlagen, VDI-Verlag, Düsseldorf
 </text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13551&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -1414,7 +1548,9 @@ Eversheim, W., Organisation in der Produktionstechnik - Band 1, Grundlagen, VDI-
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13551#1"/>
@@ -1434,26 +1570,26 @@ Eversheim, W., Organisation in der Produktionstechnik - Band 1, Grundlagen, VDI-
     <learningEvent id="urn:thl:learning:spec:13551#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Business Process Management (Lecture)</title>
-      <title lang="eng">Business Process Management (Lecture)</title>
+      <title lang="en">Business Process Management (Lecture)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13551#1-1"/>
     </learningEvent>
     <learningEvent id="urn:thl:learning:spec:13551#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Business Process Management (Exercises)</title>
-      <title lang="eng">Business Process Management (Exercises)</title>
+      <title lang="en">Business Process Management (Exercises)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13551#1-2"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13551">
       <identifier>13551</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13551</title>
-      <title lang="eng">Modul 13551</title>
+      <title lang="en">Modul 13551</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13568#1">
       <identifier>13568#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Wissenschaftliche Projektarbeit</title>
-      <title lang="eng">Wissenschaftliche Projektarbeit</title>
+      <title lang="en">Wissenschaftliche Projektarbeit</title>
       <definition>
         <text content-type="text/plain" lang="de">- Introduction to scientific working
 	- Types of scientific publications
@@ -1463,7 +1599,9 @@ Eversheim, W., Organisation in der Produktionstechnik - Band 1, Grundlagen, VDI-
 	- Scientific presentations (poster, slides etc.)
 	- Scientific speeches
 Parts of Portfolio-Exam:</text>
-        <text content-type="text/plain" lang="eng">- Introduction to scientific working
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">- Introduction to scientific working
 	- Types of scientific publications
 	- Structure and outline of a scientific article
 	- Structured approach for writing a scientific article
@@ -1475,16 +1613,22 @@ Parts of Portfolio-Exam:</text>
       <additionalNote>
         <text content-type="text/plain" lang="de">Literaturangaben: Individual, dependent on the topic/task
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Individual, dependent on the topic/task
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Individual, dependent on the topic/task
 </text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13568&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -1497,7 +1641,9 @@ Parts of Portfolio-Exam:</text>
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13568#1"/>
@@ -1516,25 +1662,27 @@ Parts of Portfolio-Exam:</text>
     <learningEvent id="urn:thl:learning:spec:13568#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Wissenschaftliches Projekt</title>
-      <title lang="eng">Wissenschaftliches Projekt</title>
+      <title lang="en">Wissenschaftliches Projekt</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13568#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13568">
       <identifier>13568</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13568</title>
-      <title lang="eng">Modul 13568</title>
+      <title lang="en">Modul 13568</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13585#1">
       <identifier>13585#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Integrated Information Systems</title>
-      <title lang="eng">Integrated Information Systems</title>
+      <title lang="en">Integrated Information Systems</title>
       <definition>
         <text content-type="text/plain" lang="de">Students do two supervised SAP case studies to acquire basic SAP handling skills and to get familiar with the basic ERP functionalities.
 Based on this, students will do a group work to test a new business process in SAP.
 The process and its implementation in SAP is finally presented to the entire group. In addition, the students turn in a management report describing the process, it´s application and it´s realization in SAP.</text>
-        <text content-type="text/plain" lang="eng">Students do two supervised SAP case studies to acquire basic SAP handling skills and to get familiar with the basic ERP functionalities.
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Students do two supervised SAP case studies to acquire basic SAP handling skills and to get familiar with the basic ERP functionalities.
 Based on this, students will do a group work to test a new business process in SAP.
 The process and its implementation in SAP is finally presented to the entire group. In addition, the students turn in a management report describing the process, it´s application and it´s realization in SAP.</text>
       </definition>
@@ -1544,7 +1692,9 @@ Logistics with SAP ERP (Murray)
 Essentials of Business Processes and Information Systems (Magal, Word)
 SAP process documentation for the case study
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Discover SAP (Muir, Kimbell), Rheinwerk Verlag
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Discover SAP (Muir, Kimbell), Rheinwerk Verlag
 Logistics with SAP ERP (Murray)
 Essentials of Business Processes and Information Systems (Magal, Word)
 SAP process documentation for the case study
@@ -1552,11 +1702,15 @@ SAP process documentation for the case study
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13585&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -1569,7 +1723,9 @@ SAP process documentation for the case study
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13585#1"/>
@@ -1588,27 +1744,29 @@ SAP process documentation for the case study
     <learningEvent id="urn:thl:learning:spec:13585#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Integrated Information Systems</title>
-      <title lang="eng">Integrated Information Systems</title>
+      <title lang="en">Integrated Information Systems</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13585#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13585">
       <identifier>13585</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13585</title>
-      <title lang="eng">Modul 13585</title>
+      <title lang="en">Modul 13585</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13602#1">
       <identifier>13602#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Masterarbeit und Kolloquium</title>
-      <title lang="eng">Masterarbeit und Kolloquium</title>
+      <title lang="en">Masterarbeit und Kolloquium</title>
       <definition>
         <text content-type="text/plain" lang="de">Masterarbeit:
 Die Lehrinhalte entsprechen dem festgelegten Thema der Masterarbeit.
 
 Master-Kolloquium:
 Die Lehrinhalte entsprechen dem festgelegten Thema der Masterarbeit.</text>
-        <text content-type="text/plain" lang="eng">Masterarbeit:
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Masterarbeit:
 Die Lehrinhalte entsprechen dem festgelegten Thema der Masterarbeit.
 
 Master-Kolloquium:
@@ -1617,16 +1775,22 @@ Die Lehrinhalte entsprechen dem festgelegten Thema der Masterarbeit.</text>
       <additionalNote>
         <text content-type="text/plain" lang="de">Literaturangaben: Auswahl von Literatur entsprechend der Aufgabenstellung.
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Auswahl von Literatur entsprechend der Aufgabenstellung.
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Auswahl von Literatur entsprechend der Aufgabenstellung.
 </text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13602&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -1639,7 +1803,9 @@ Die Lehrinhalte entsprechen dem festgelegten Thema der Masterarbeit.</text>
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13602#1"/>
@@ -1658,13 +1824,13 @@ Die Lehrinhalte entsprechen dem festgelegten Thema der Masterarbeit.</text>
       <identifier>13602</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13602</title>
-      <title lang="eng">Modul 13602</title>
+      <title lang="en">Modul 13602</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13619#1">
       <identifier>13619#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Digital Processing of Stochastic Signals</title>
-      <title lang="eng">Digital Processing of Stochastic Signals</title>
+      <title lang="en">Digital Processing of Stochastic Signals</title>
       <definition>
         <text content-type="text/plain" lang="de">Digital Processing of Stochastic Signals (Lecture + Exercise):
 Lecture classes include exercises. Topics covered include:
@@ -1679,7 +1845,9 @@ Lecture classes include exercises. Topics covered include:
 Digital Processing of Stochastic Signals (Practical Training):
 To deepen and expand the practical knowledge the students will solve three problems out of a set of given problems using MATLAB on a PC. Topics are:
 Signal analysis and measurement of the autocorrelation function, adaptive gain control using the probability density function, design of a linear predictor for speech signals, programming an adaptive lattice predictor, implementation of the LMS-Algorithm.</text>
-        <text content-type="text/plain" lang="eng">Digital Processing of Stochastic Signals (Lecture + Exercise):
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Digital Processing of Stochastic Signals (Lecture + Exercise):
 Lecture classes include exercises. Topics covered include:
 	- Introduction:Content and organization of the course, features of stochastic signals, basic model of information transmission.
 	- Introduction to Probability:Events, random variables and probability, discrete and continuous random variables, stochastic processes, autocorrelation function.
@@ -1703,7 +1871,9 @@ In German:
 	- W.Hess, U.Heute, P.Vary Digitale Sprachsignalverarbeitung Teubner Verlag, Stuttgart, 1998, ISBN 3-519-06165-1, ISBN-13 978-3519061656
 	- J.F. Böhme, Stochastische Signale, Teubner Verlag, 1998, ISBN 3-5191-6160-5
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: In English:
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: In English:
 In German:
 	- P.S.R. Diniz, Adaptive Filtering, Kluwer Academic Publishers, 2002, ISBN 1-4020-7125-6
 	- A.Papoulis, Probability, Random Variables and Stochastic Processes, McGraw-Hill, 2002, ISBN 0- 0711-9981-0
@@ -1715,11 +1885,15 @@ In German:
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13619&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -1732,7 +1906,9 @@ In German:
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13619#1"/>
@@ -1752,26 +1928,26 @@ In German:
     <learningEvent id="urn:thl:learning:spec:13619#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Digital Processing of Stochastic Signals (Lecture + Exercise)</title>
-      <title lang="eng">Digital Processing of Stochastic Signals (Lecture + Exercise)</title>
+      <title lang="en">Digital Processing of Stochastic Signals (Lecture + Exercise)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13619#1-1"/>
     </learningEvent>
     <learningEvent id="urn:thl:learning:spec:13619#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Digital Processing of Stochastic Signals (Practical Training)</title>
-      <title lang="eng">Digital Processing of Stochastic Signals (Practical Training)</title>
+      <title lang="en">Digital Processing of Stochastic Signals (Practical Training)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13619#1-2"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13619">
       <identifier>13619</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13619</title>
-      <title lang="eng">Modul 13619</title>
+      <title lang="en">Modul 13619</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13636#1">
       <identifier>13636#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Human-Computer Interfaces</title>
-      <title lang="eng">Human-Computer Interfaces</title>
+      <title lang="en">Human-Computer Interfaces</title>
       <definition>
         <text content-type="text/plain" lang="de">Human-Computer Interfaces (Lecture):
 History of HCI
@@ -1799,7 +1975,9 @@ Human-Computer Interfaces (Practical Training):
 	- Analyzing information systems according to ergonomic principles
 	- Design and prototypical implementation of ergonomic systems
 	- Practical evaluation of usability engineering methods</text>
-        <text content-type="text/plain" lang="eng">Human-Computer Interfaces (Lecture):
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Human-Computer Interfaces (Lecture):
 History of HCI
 Foundations of HCI
 Designing complex Human-Computer Interfaces
@@ -1832,7 +2010,9 @@ Norman, D. (1988). The Psychology of Everyday Things. New York: Basic Books. (de
 Shneiderman, B., Plaisant, C. (2010). Designing the user interface. Strategies for effective human-computer interaction. Addison-Wesley. Boston, 5th edition.
 ISO 9241: Ergonomics of Human-Computer Interaction. International Organization for Standardization.
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Carroll, J. M. (2003). HCI Models, Theories and Frameworks: Toward a Multidisciplinary Science. San Francisco u.a.: Morgan Kaufman.
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Carroll, J. M. (2003). HCI Models, Theories and Frameworks: Toward a Multidisciplinary Science. San Francisco u.a.: Morgan Kaufman.
 Norman, D. (1988). The Psychology of Everyday Things. New York: Basic Books. (deutsch: Dinge des Alltags, Frankfurt: Campus)
 Shneiderman, B., Plaisant, C. (2010). Designing the user interface. Strategies for effective human-computer interaction. Addison-Wesley. Boston, 5th edition.
 ISO 9241: Ergonomics of Human-Computer Interaction. International Organization for Standardization.
@@ -1840,11 +2020,15 @@ ISO 9241: Ergonomics of Human-Computer Interaction. International Organization f
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13636&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -1857,7 +2041,9 @@ ISO 9241: Ergonomics of Human-Computer Interaction. International Organization f
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13636#1"/>
@@ -1877,26 +2063,26 @@ ISO 9241: Ergonomics of Human-Computer Interaction. International Organization f
     <learningEvent id="urn:thl:learning:spec:13636#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Human-Computer Interfaces (Lecture)</title>
-      <title lang="eng">Human-Computer Interfaces (Lecture)</title>
+      <title lang="en">Human-Computer Interfaces (Lecture)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13636#1-1"/>
     </learningEvent>
     <learningEvent id="urn:thl:learning:spec:13636#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Human-Computer Interfaces (Practical Training)</title>
-      <title lang="eng">Human-Computer Interfaces (Practical Training)</title>
+      <title lang="en">Human-Computer Interfaces (Practical Training)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13636#1-2"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13636">
       <identifier>13636</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13636</title>
-      <title lang="eng">Modul 13636</title>
+      <title lang="en">Modul 13636</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13653#1">
       <identifier>13653#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Process Integration</title>
-      <title lang="eng">Process Integration</title>
+      <title lang="en">Process Integration</title>
       <definition>
         <text content-type="text/plain" lang="de">Process Integration (Lecture):
 	- Concepts and variants of integrated operations management and the digital factory
@@ -1905,7 +2091,9 @@ ISO 9241: Ergonomics of Human-Computer Interaction. International Organization f
 
 Process Integration (Practical Training):
 In the practical trainings during the semester, the students apply what they have learned in the lecture to given or self-study topics for selected application scenarios.</text>
-        <text content-type="text/plain" lang="eng">Process Integration (Lecture):
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Process Integration (Lecture):
 	- Concepts and variants of integrated operations management and the digital factory
 	- Modules of MES systems and their functionalities
 	- Interface description, design and implementation between automation process level and higher operating levels (MES and ERP)
@@ -1916,16 +2104,22 @@ In the practical trainings during the semester, the students apply what they hav
       <additionalNote>
         <text content-type="text/plain" lang="de">Literaturangaben: Literature will be named in the lecture.
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Literature will be named in the lecture.
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Literature will be named in the lecture.
 </text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13653&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -1938,7 +2132,9 @@ In the practical trainings during the semester, the students apply what they hav
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13653#1"/>
@@ -1958,26 +2154,26 @@ In the practical trainings during the semester, the students apply what they hav
     <learningEvent id="urn:thl:learning:spec:13653#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Process Integration (Lecture)</title>
-      <title lang="eng">Process Integration (Lecture)</title>
+      <title lang="en">Process Integration (Lecture)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13653#1-1"/>
     </learningEvent>
     <learningEvent id="urn:thl:learning:spec:13653#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Process Integration (Practical Training)</title>
-      <title lang="eng">Process Integration (Practical Training)</title>
+      <title lang="en">Process Integration (Practical Training)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13653#1-2"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13653">
       <identifier>13653</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13653</title>
-      <title lang="eng">Modul 13653</title>
+      <title lang="en">Modul 13653</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13670#1">
       <identifier>13670#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Process Optimization</title>
-      <title lang="eng">Process Optimization</title>
+      <title lang="en">Process Optimization</title>
       <definition>
         <text content-type="text/plain" lang="de">Process Optimization (Lecture):
 	- Mathematical and heuristic optimization methods
@@ -1987,7 +2183,9 @@ In the practical trainings during the semester, the students apply what they hav
 
 Process Optimization (Practical Training):
 In the practical trainings during the semester, the students apply what they have learned in the lecture to given or self-study topics for selected application scenarios.</text>
-        <text content-type="text/plain" lang="eng">Process Optimization (Lecture):
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Process Optimization (Lecture):
 	- Mathematical and heuristic optimization methods
 	- Modelling of process tasks for higher decision and optimization functions and selection of suitable processes
 	- Design, implementation, simulation and testing of higher decision and optimization functions
@@ -1999,16 +2197,22 @@ In the practical trainings during the semester, the students apply what they hav
       <additionalNote>
         <text content-type="text/plain" lang="de">Literaturangaben: Literature will be named in the lecture.
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Literature will be named in the lecture.
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Literature will be named in the lecture.
 </text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13670&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -2021,7 +2225,9 @@ In the practical trainings during the semester, the students apply what they hav
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13670#1"/>
@@ -2041,26 +2247,26 @@ In the practical trainings during the semester, the students apply what they hav
     <learningEvent id="urn:thl:learning:spec:13670#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Process Optimization (Lecture)</title>
-      <title lang="eng">Process Optimization (Lecture)</title>
+      <title lang="en">Process Optimization (Lecture)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13670#1-1"/>
     </learningEvent>
     <learningEvent id="urn:thl:learning:spec:13670#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Process Optimization (Practical Training)</title>
-      <title lang="eng">Process Optimization (Practical Training)</title>
+      <title lang="en">Process Optimization (Practical Training)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13670#1-2"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13670">
       <identifier>13670</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13670</title>
-      <title lang="eng">Modul 13670</title>
+      <title lang="en">Modul 13670</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13687#1">
       <identifier>13687#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Real-Time Systems</title>
-      <title lang="eng">Real-Time Systems</title>
+      <title lang="en">Real-Time Systems</title>
       <definition>
         <text content-type="text/plain" lang="de">Real-Time Systems (Lecture):
 	- Presentation of selected real-time systems, classification of real-time systems.
@@ -2072,7 +2278,9 @@ In the practical trainings during the semester, the students apply what they hav
 
 Real-Time Systems (Exercise):
 The topics of the module are applied to a scenario with characteristic requirements and constraints, e.g. implementation of an online scheduler for real-time systems.</text>
-        <text content-type="text/plain" lang="eng">Real-Time Systems (Lecture):
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Real-Time Systems (Lecture):
 	- Presentation of selected real-time systems, classification of real-time systems.
 	- Safety in real-time systems: Dependability, reliability, methods for analysis, fault models, redundant design.
 	- Security in real-time systems.
@@ -2091,7 +2299,9 @@ The topics of the module are applied to a scenario with characteristic requireme
 	- Hermann Kopetz: Real-Time Systems, Springer, 2011.
 
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: 	- Giorgio Buttazzo, Giuseppe Lipari, Luca Abeni und Marco Caccamo: Soft Real-Time Systems Predictability vs. Efficiency, Springer, 2005.
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: 	- Giorgio Buttazzo, Giuseppe Lipari, Luca Abeni und Marco Caccamo: Soft Real-Time Systems Predictability vs. Efficiency, Springer, 2005.
 	- Giorgio Buttazzo: Hard Real-Time Computing Systems Predictable Scheduling Algorithms and Applications, Springer, 2011.
 	- Abraham Silberschatz, Peter B. Galvin, Greg Gagne: Operating System Concepts, 8th ed., Wiley, 2010.
 	- Andrew S. Tanenbaum, Herbert Bos: Modern Operating Systems, Pearson Education Limited, 2014.
@@ -2101,11 +2311,15 @@ The topics of the module are applied to a scenario with characteristic requireme
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13687&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -2118,7 +2332,9 @@ The topics of the module are applied to a scenario with characteristic requireme
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13687#1"/>
@@ -2138,26 +2354,26 @@ The topics of the module are applied to a scenario with characteristic requireme
     <learningEvent id="urn:thl:learning:spec:13687#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Real-Time Systems (Lecture)</title>
-      <title lang="eng">Real-Time Systems (Lecture)</title>
+      <title lang="en">Real-Time Systems (Lecture)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13687#1-1"/>
     </learningEvent>
     <learningEvent id="urn:thl:learning:spec:13687#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Real-Time Systems (Exercise)</title>
-      <title lang="eng">Real-Time Systems (Exercise)</title>
+      <title lang="en">Real-Time Systems (Exercise)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13687#1-2"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13687">
       <identifier>13687</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13687</title>
-      <title lang="eng">Modul 13687</title>
+      <title lang="en">Modul 13687</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13704#1">
       <identifier>13704#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Drahtlose Netze für cyber-physische Systeme</title>
-      <title lang="eng">Drahtlose Netze für cyber-physische Systeme</title>
+      <title lang="en">Drahtlose Netze für cyber-physische Systeme</title>
       <definition>
         <text content-type="text/plain" lang="de">Drahtlose Netze für cyber-physische Systeme Vorlesung:
 Introduction to Communication Systems (Workload 10h)
@@ -2190,7 +2406,9 @@ Applications (Workload 15h)
 Drahtlose Netze für cyber-physische Systeme Praktikum:
 	- Concept, implementation of real-time networking with wireless components
 	- Data acquisition, processing and transfer from the field to management systems</text>
-        <text content-type="text/plain" lang="eng">Drahtlose Netze für cyber-physische Systeme Vorlesung:
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Drahtlose Netze für cyber-physische Systeme Vorlesung:
 Introduction to Communication Systems (Workload 10h)
 Wireless Data Transmission (Workload 10h)
 Wireless Data Link Layer (Workload 10h)
@@ -2230,7 +2448,9 @@ Fheng Zhao, Leonidas Guibas: Wireless Sensor Networks, Morgan Kaufmann
 Andreas F. Molisch: „Wireless Communications“, John Wiley &amp; Sons
 Kurose, Ross: „Computer Networks“, Pearson
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Jochen Schiller: Mobile Communications, Addison-Wesley
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Jochen Schiller: Mobile Communications, Addison-Wesley
 Andrew S. Tanenbaum: Computer Networks, Prentice-Hall
 Holger Karl, Andreas Willig: Protocols and Architectures of Wireless Sensor Networks, Wiley
 Fheng Zhao, Leonidas Guibas: Wireless Sensor Networks, Morgan Kaufmann
@@ -2240,11 +2460,15 @@ Kurose, Ross: „Computer Networks“, Pearson
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13704&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -2257,7 +2481,9 @@ Kurose, Ross: „Computer Networks“, Pearson
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13704#1"/>
@@ -2277,26 +2503,26 @@ Kurose, Ross: „Computer Networks“, Pearson
     <learningEvent id="urn:thl:learning:spec:13704#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Drahtlose Netze für cyber-physische Systeme Vorlesung</title>
-      <title lang="eng">Drahtlose Netze für cyber-physische Systeme Vorlesung</title>
+      <title lang="en">Drahtlose Netze für cyber-physische Systeme Vorlesung</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13704#1-1"/>
     </learningEvent>
     <learningEvent id="urn:thl:learning:spec:13704#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Drahtlose Netze für cyber-physische Systeme Praktikum</title>
-      <title lang="eng">Drahtlose Netze für cyber-physische Systeme Praktikum</title>
+      <title lang="en">Drahtlose Netze für cyber-physische Systeme Praktikum</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13704#1-2"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13704">
       <identifier>13704</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13704</title>
-      <title lang="eng">Modul 13704</title>
+      <title lang="en">Modul 13704</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13721#1">
       <identifier>13721#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Hardware-basierte IT-Sicherheit</title>
-      <title lang="eng">Hardware-basierte IT-Sicherheit</title>
+      <title lang="en">Hardware-basierte IT-Sicherheit</title>
       <definition>
         <text content-type="text/plain" lang="de">Hardware-basierte IT-Sicherheit (Vorlesung):
 In diesem Modul werden Kenntnisse zur technischen Umsetzung von Mechanismen und Algorithmen der IT-Sicherheit vermittelt. Der Schwerpunkt des Moduls liegt auf den Hardware-basierten Problemstellungen und Lösungen in Klein- und Kleinstsystemen. Die Studierenden können im Anschluss Fragenstellungen zur Hardware-basierten Umsetzung von Sicherheitsfunktionen hinsichtlich ihrer Anwendungsspezifischen Eignung prüfen bzw. geeignete Lösungsansätze zusammenstellen und deren Effektivität und Effizienz abschätzen.
@@ -2317,7 +2543,9 @@ Hardware-basierte IT-Sicherheit (Praktikum):
 In praktischen Beispielen soll das Wissen der Vorlesung verfestigt werden:
 	- Elektromagnetische und/oder Power Analyse von Crypto-Funktionen in FPGAs und auf Mikrocontrollern
 	- Aufbau von Tamper-Resistenten Schaltungen</text>
-        <text content-type="text/plain" lang="eng">Hardware-basierte IT-Sicherheit (Vorlesung):
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Hardware-basierte IT-Sicherheit (Vorlesung):
 In diesem Modul werden Kenntnisse zur technischen Umsetzung von Mechanismen und Algorithmen der IT-Sicherheit vermittelt. Der Schwerpunkt des Moduls liegt auf den Hardware-basierten Problemstellungen und Lösungen in Klein- und Kleinstsystemen. Die Studierenden können im Anschluss Fragenstellungen zur Hardware-basierten Umsetzung von Sicherheitsfunktionen hinsichtlich ihrer Anwendungsspezifischen Eignung prüfen bzw. geeignete Lösungsansätze zusammenstellen und deren Effektivität und Effizienz abschätzen.
 	- Einführung in Klein- und Kleinstsysteme
 	- Methoden und Verfahren physischer Angriffe
@@ -2343,7 +2571,9 @@ In praktischen Beispielen soll das Wissen der Vorlesung verfestigt werden:
 [3] Mohammed Theranipoor, Cliff Wang; Introduction to Hardware Security and Trust; Springer 2012
 [4] Christoph Böhm, Maximilian Hofer; Physical Unclonable Functions in Theory and Practice; Springer 2013
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: [1] Stefan Mangard, Elisabeth Oswald und Thomas Popp; Power Analysis Attacks; Springer 2007
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: [1] Stefan Mangard, Elisabeth Oswald und Thomas Popp; Power Analysis Attacks; Springer 2007
 [2] Christof Paar, Jan Palzl; Understanding Cryptography: A Textbook for Students and Practitioners; Springer 2010
 [3] Mohammed Theranipoor, Cliff Wang; Introduction to Hardware Security and Trust; Springer 2012
 [4] Christoph Böhm, Maximilian Hofer; Physical Unclonable Functions in Theory and Practice; Springer 2013
@@ -2351,11 +2581,15 @@ In praktischen Beispielen soll das Wissen der Vorlesung verfestigt werden:
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13721&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -2368,7 +2602,9 @@ In praktischen Beispielen soll das Wissen der Vorlesung verfestigt werden:
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13721#1"/>
@@ -2388,26 +2624,26 @@ In praktischen Beispielen soll das Wissen der Vorlesung verfestigt werden:
     <learningEvent id="urn:thl:learning:spec:13721#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Hardware-basierte IT-Sicherheit (Vorlesung)</title>
-      <title lang="eng">Hardware-basierte IT-Sicherheit (Vorlesung)</title>
+      <title lang="en">Hardware-basierte IT-Sicherheit (Vorlesung)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13721#1-1"/>
     </learningEvent>
     <learningEvent id="urn:thl:learning:spec:13721#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Hardware-basierte IT-Sicherheit (Praktikum)</title>
-      <title lang="eng">Hardware-basierte IT-Sicherheit (Praktikum)</title>
+      <title lang="en">Hardware-basierte IT-Sicherheit (Praktikum)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13721#1-2"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13721">
       <identifier>13721</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13721</title>
-      <title lang="eng">Modul 13721</title>
+      <title lang="en">Modul 13721</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13738#1">
       <identifier>13738#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Sichere Programmierung</title>
-      <title lang="eng">Sichere Programmierung</title>
+      <title lang="en">Sichere Programmierung</title>
       <definition>
         <text content-type="text/plain" lang="de">Sichere Programmierung (Vorlesung):
 Autonome und sicherheitskritische Systeme bestimmen zunehmend unser alltägliches Leben. Sie haben Einfluss auf das was wir tun bzw. wie wir es tun können. Fehler in diesen Systemen haben oft einen direkten Einfluss auf uns und unsere Umwelt. Fehler können zu einen im Design aber auch in der Umsetzung gemacht werden. So muss Hardware-Entwurf aber auch insbesondere beim Programmieren von Anwendungen für sicherheitskritische Systeme mit großer Sorgfalt vorgegangen werden. Um das Erstellen der Programme zu unterstützen, können zum einen Regeln für die Programmierung aufgestellt oder sichere Programmiersprachen eingesetzt werden.
@@ -2421,7 +2657,9 @@ In praktischen Beispielen soll das Wissen der Vorlesung verfestigt werden:
 	- Software-Analyse von Programmbeispiele
 	- Programmierung nach MISRA-C
 	- Programmierung in Ada</text>
-        <text content-type="text/plain" lang="eng">Sichere Programmierung (Vorlesung):
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Sichere Programmierung (Vorlesung):
 Autonome und sicherheitskritische Systeme bestimmen zunehmend unser alltägliches Leben. Sie haben Einfluss auf das was wir tun bzw. wie wir es tun können. Fehler in diesen Systemen haben oft einen direkten Einfluss auf uns und unsere Umwelt. Fehler können zu einen im Design aber auch in der Umsetzung gemacht werden. So muss Hardware-Entwurf aber auch insbesondere beim Programmieren von Anwendungen für sicherheitskritische Systeme mit großer Sorgfalt vorgegangen werden. Um das Erstellen der Programme zu unterstützen, können zum einen Regeln für die Programmierung aufgestellt oder sichere Programmiersprachen eingesetzt werden.
 Das Modul „Sichere Systemprogrammierung“ gibt den Studierenden einen Einblick in das sichere Programmieren von Anwendungen für sicherheitskritische (autonome) Systemen. Hierbei werden zum einen Regel für unsichere Sprachen, wie z.B. C, und zum anderen sichere Programmsprachen, wie z.B. ADA, betrachtet. In praktischen Beispielen wird untersucht, wie Regeln bzw. Programmiersprachen helfen, Fehler bei der Umsetzung einer sicherheitskritischen Anwendung zu vermeiden.
 Teil 1 – Einführung in die sichere Programmierung
@@ -2441,7 +2679,9 @@ In praktischen Beispielen soll das Wissen der Vorlesung verfestigt werden:
 [4] Brian W. Kernighan; The C Programming Language; Prentice Hall 2000
 [5] MISRA C: 2012 Guidelines for the use of the C language in critical systems, 2012
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: [1] OWASP Secure Coding Practices Quick Reference Guide, 2010
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: [1] OWASP Secure Coding Practices Quick Reference Guide, 2010
 [2] John Barnes; Programming in Ada 2012, Cambridge University Press, 2014
 [3] John W. McCormick, Building High Integrity Applications with SPARK, Cambridge University Press, 2015
 [4] Brian W. Kernighan; The C Programming Language; Prentice Hall 2000
@@ -2450,11 +2690,15 @@ In praktischen Beispielen soll das Wissen der Vorlesung verfestigt werden:
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13738&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -2467,7 +2711,9 @@ In praktischen Beispielen soll das Wissen der Vorlesung verfestigt werden:
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13738#1"/>
@@ -2487,26 +2733,26 @@ In praktischen Beispielen soll das Wissen der Vorlesung verfestigt werden:
     <learningEvent id="urn:thl:learning:spec:13738#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Sichere Programmierung (Vorlesung)</title>
-      <title lang="eng">Sichere Programmierung (Vorlesung)</title>
+      <title lang="en">Sichere Programmierung (Vorlesung)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13738#1-1"/>
     </learningEvent>
     <learningEvent id="urn:thl:learning:spec:13738#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Sichere Programmierung (Praktikum)</title>
-      <title lang="eng">Sichere Programmierung (Praktikum)</title>
+      <title lang="en">Sichere Programmierung (Praktikum)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13738#1-2"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13738">
       <identifier>13738</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13738</title>
-      <title lang="eng">Modul 13738</title>
+      <title lang="en">Modul 13738</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13755#1">
       <identifier>13755#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Mobile Anwendungen</title>
-      <title lang="eng">Mobile Anwendungen</title>
+      <title lang="en">Mobile Anwendungen</title>
       <definition>
         <text content-type="text/plain" lang="de">Mobile Anwendungen (Vorlesung):
 	- Anwendungsszenarien mobiler Anwendungen
@@ -2520,7 +2766,9 @@ In praktischen Beispielen soll das Wissen der Vorlesung verfestigt werden:
 
 Mobile Anwendungen (Praktikum):
 Das Praktikum dient der Anwendung der in der Vorlesung vorgestellten Lehrinhalte und der Vertiefung eines bestimmten aktuellen Themas aus dem Bereich der mobilen Anwendungen.</text>
-        <text content-type="text/plain" lang="eng">Mobile Anwendungen (Vorlesung):
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Mobile Anwendungen (Vorlesung):
 	- Anwendungsszenarien mobiler Anwendungen
 	- Besondere Anforderungen an mobile Anwendungen
 	- Native mobile Anwendungen
@@ -2538,18 +2786,24 @@ Das Praktikum dient der Anwendung der in der Vorlesung vorgestellten Lehrinhalte
 https://developer.android.com/
 Mostefaoui, G., Tariq, F Mobile Apps Engineering: Design, Development, Security, and Testing, Chapman and Hall, 2018
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: https://cordova.apache.org/
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: https://cordova.apache.org/
 https://developer.android.com/
 Mostefaoui, G., Tariq, F Mobile Apps Engineering: Design, Development, Security, and Testing, Chapman and Hall, 2018
 </text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13755&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -2562,7 +2816,9 @@ Mostefaoui, G., Tariq, F Mobile Apps Engineering: Design, Development, Security,
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13755#1"/>
@@ -2582,26 +2838,26 @@ Mostefaoui, G., Tariq, F Mobile Apps Engineering: Design, Development, Security,
     <learningEvent id="urn:thl:learning:spec:13755#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Mobile Anwendungen (Vorlesung)</title>
-      <title lang="eng">Mobile Anwendungen (Vorlesung)</title>
+      <title lang="en">Mobile Anwendungen (Vorlesung)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13755#1-1"/>
     </learningEvent>
     <learningEvent id="urn:thl:learning:spec:13755#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Mobile Anwendungen (Praktikum)</title>
-      <title lang="eng">Mobile Anwendungen (Praktikum)</title>
+      <title lang="en">Mobile Anwendungen (Praktikum)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13755#1-2"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13755">
       <identifier>13755</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13755</title>
-      <title lang="eng">Modul 13755</title>
+      <title lang="en">Modul 13755</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13772#1">
       <identifier>13772#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Sichere vernetzte Steuerungssysteme</title>
-      <title lang="eng">Sichere vernetzte Steuerungssysteme</title>
+      <title lang="en">Sichere vernetzte Steuerungssysteme</title>
       <definition>
         <text content-type="text/plain" lang="de">Sichere vernetzte Steuerungssysteme (Vorlesung):
 Mit der Einführung von Industrie 4.0 gewinnt der Sicherheit von vernetzten Steuerungssystemen wesentlich an Bedeutung. Ein solches System kann von einem Unternehmen nur dann wirksam in einer Industriellen Umgebung eingesetzt werden, wenn die vom System erzeugten Daten verlässlich sind bzw. garantiert werden kann, dass Befehle an das System unverfälscht ankommen und auch wie gefordert ausgeführt werden.
@@ -2626,7 +2882,9 @@ Im Praktikum soll das Wissen der Vorlesung in praktischen Beispielen vertieft we
 	- Netzwerk-Protokolle industrieller Steuerungssysteme analysiert
 	- Netzwerk-Filter eingerichtet
 	- Verfahren zum sicheren Patch-Management durchgeführt</text>
-        <text content-type="text/plain" lang="eng">Sichere vernetzte Steuerungssysteme (Vorlesung):
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Sichere vernetzte Steuerungssysteme (Vorlesung):
 Mit der Einführung von Industrie 4.0 gewinnt der Sicherheit von vernetzten Steuerungssystemen wesentlich an Bedeutung. Ein solches System kann von einem Unternehmen nur dann wirksam in einer Industriellen Umgebung eingesetzt werden, wenn die vom System erzeugten Daten verlässlich sind bzw. garantiert werden kann, dass Befehle an das System unverfälscht ankommen und auch wie gefordert ausgeführt werden.
 Das Modul behandelt mögliche Szenarien, die sich mit der zunehmenden Vernetzung und Autonomisierung von Systemen ergeben und gibt Lösungsansätze, um Sicherheit in einem solchen System zu installieren bzw. sichere Systeme zu entwickeln,
 Teil 1: Grundlagen Netzwerksicherheit
@@ -2657,7 +2915,9 @@ Im Praktikum soll das Wissen der Vorlesung in praktischen Beispielen vertieft we
 [4] Matthias Seitz: Speicherprogrammierbare Steuerungen für die Fabrik- und Prozessautomation: Strukturierte und objektorientierte SPS-Programmierung, Motion Control, Sicherheit, vertikale Integration; Hanser 2012
 [5] BSI: ICS-Securit Kompendium; BSI 2013
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: [1] Heinrich Kersten, IT-Sicherheitsmanagement nach der neuen ISO 270001; Springer 2016
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: [1] Heinrich Kersten, IT-Sicherheitsmanagement nach der neuen ISO 270001; Springer 2016
 [2] Claudia Eckert: IT-Sicherheit; De Gruyter 2018
 [3] Michael Kofler und Andre Zingsheim et.al.: Hacking &amp; Security. Das umfassende Handbuch; Rheinwerk 2018
 [4] Matthias Seitz: Speicherprogrammierbare Steuerungen für die Fabrik- und Prozessautomation: Strukturierte und objektorientierte SPS-Programmierung, Motion Control, Sicherheit, vertikale Integration; Hanser 2012
@@ -2666,11 +2926,15 @@ Im Praktikum soll das Wissen der Vorlesung in praktischen Beispielen vertieft we
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 04.06.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 04.06.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 04.06.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13772&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -2683,7 +2947,9 @@ Im Praktikum soll das Wissen der Vorlesung in praktischen Beispielen vertieft we
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13772#1"/>
@@ -2703,305 +2969,305 @@ Im Praktikum soll das Wissen der Vorlesung in praktischen Beispielen vertieft we
     <learningEvent id="urn:thl:learning:spec:13772#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Sichere vernetzte Steuerungssysteme (Vorlesung)</title>
-      <title lang="eng">Sichere vernetzte Steuerungssysteme (Vorlesung)</title>
+      <title lang="en">Sichere vernetzte Steuerungssysteme (Vorlesung)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13772#1-1"/>
     </learningEvent>
     <learningEvent id="urn:thl:learning:spec:13772#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Sichere vernetzte Steuerungssysteme (Praktikum)</title>
-      <title lang="eng">Sichere vernetzte Steuerungssysteme (Praktikum)</title>
+      <title lang="en">Sichere vernetzte Steuerungssysteme (Praktikum)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13772#1-2"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13772">
       <identifier>13772</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13772</title>
-      <title lang="eng">Modul 13772</title>
+      <title lang="en">Modul 13772</title>
     </modul>
   </learningSpecificationReferences>
   <learningActivitySpecificationReferences>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13415#1-1">
       <title lang="de">Angewandte Mathematik (Vorlesung)</title>
-      <title lang="eng">Angewandte Mathematik (Vorlesung)</title>
+      <title lang="en">Angewandte Mathematik (Vorlesung)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13415#1-2">
       <title lang="de">Angewandte Mathematik (Übung)</title>
-      <title lang="eng">Angewandte Mathematik (Übung)</title>
+      <title lang="en">Angewandte Mathematik (Übung)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13432#1-1">
       <title lang="de">Datenbanken und Informationsmanagement (Vorlesung)</title>
-      <title lang="eng">Datenbanken und Informationsmanagement (Vorlesung)</title>
+      <title lang="en">Datenbanken und Informationsmanagement (Vorlesung)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13432#1-2">
       <title lang="de">Datenbanken und Informationsmanagement (Praktikum)</title>
-      <title lang="eng">Datenbanken und Informationsmanagement (Praktikum)</title>
+      <title lang="en">Datenbanken und Informationsmanagement (Praktikum)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13449#1-1">
       <title lang="de">Digitale Bildverarbeitung (Vorlesung)</title>
-      <title lang="eng">Digitale Bildverarbeitung (Vorlesung)</title>
+      <title lang="en">Digitale Bildverarbeitung (Vorlesung)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13449#1-2">
       <title lang="de">Digitale Bildverarbeitung (Praktikum)</title>
-      <title lang="eng">Digitale Bildverarbeitung (Praktikum)</title>
+      <title lang="en">Digitale Bildverarbeitung (Praktikum)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13466#1-1">
       <title lang="de">Digitale Regelungssysteme (Vorlesung</title>
-      <title lang="eng">Digitale Regelungssysteme (Vorlesung</title>
+      <title lang="en">Digitale Regelungssysteme (Vorlesung</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13466#1-2">
       <title lang="de">Digitale Regelungssysteme (Praktikum)</title>
-      <title lang="eng">Digitale Regelungssysteme (Praktikum)</title>
+      <title lang="en">Digitale Regelungssysteme (Praktikum)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13483#1-1">
       <title lang="de">Mikroprozessor-Design (Vorlesung)</title>
-      <title lang="eng">Mikroprozessor-Design (Vorlesung)</title>
+      <title lang="en">Mikroprozessor-Design (Vorlesung)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13483#1-2">
       <title lang="de">Mikroprozessor-Design (Praktikum)</title>
-      <title lang="eng">Mikroprozessor-Design (Praktikum)</title>
+      <title lang="en">Mikroprozessor-Design (Praktikum)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13500#1-1">
       <title lang="de">Rechnungswesen und Controlling (Vorlesung)</title>
-      <title lang="eng">Rechnungswesen und Controlling (Vorlesung)</title>
+      <title lang="en">Rechnungswesen und Controlling (Vorlesung)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13500#1-2">
       <title lang="de">Rechnungswesen und Controlling (Praktikum)</title>
-      <title lang="eng">Rechnungswesen und Controlling (Praktikum)</title>
+      <title lang="en">Rechnungswesen und Controlling (Praktikum)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13517#1-1">
       <title lang="de">Brückenkurs: Automatisierungstechnik (Vorlesung)</title>
-      <title lang="eng">Brückenkurs: Automatisierungstechnik (Vorlesung)</title>
+      <title lang="en">Brückenkurs: Automatisierungstechnik (Vorlesung)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13517#1-2">
       <title lang="de">Brückenkurs: Automatisierungstechnik (Praktikum)</title>
-      <title lang="eng">Brückenkurs: Automatisierungstechnik (Praktikum)</title>
+      <title lang="en">Brückenkurs: Automatisierungstechnik (Praktikum)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13534#1-1">
       <title lang="de">Brückenkurs: Kommunikationstechnik (Vorlesung)</title>
-      <title lang="eng">Brückenkurs: Kommunikationstechnik (Vorlesung)</title>
+      <title lang="en">Brückenkurs: Kommunikationstechnik (Vorlesung)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13534#1-2">
       <title lang="de">Brückenkurs: Kommunikationstechnik (Praktikum)</title>
-      <title lang="eng">Brückenkurs: Kommunikationstechnik (Praktikum)</title>
+      <title lang="en">Brückenkurs: Kommunikationstechnik (Praktikum)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13551#1-1">
       <title lang="de">Business Process Management (Lecture)</title>
-      <title lang="eng">Business Process Management (Lecture)</title>
+      <title lang="en">Business Process Management (Lecture)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13551#1-2">
       <title lang="de">Business Process Management (Exercises)</title>
-      <title lang="eng">Business Process Management (Exercises)</title>
+      <title lang="en">Business Process Management (Exercises)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13568#1-1">
       <title lang="de">Wissenschaftliches Projekt</title>
-      <title lang="eng">Wissenschaftliches Projekt</title>
+      <title lang="en">Wissenschaftliches Projekt</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13585#1-1">
       <title lang="de">Integrated Information Systems</title>
-      <title lang="eng">Integrated Information Systems</title>
+      <title lang="en">Integrated Information Systems</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13619#1-1">
       <title lang="de">Digital Processing of Stochastic Signals (Lecture + Exercise)</title>
-      <title lang="eng">Digital Processing of Stochastic Signals (Lecture + Exercise)</title>
+      <title lang="en">Digital Processing of Stochastic Signals (Lecture + Exercise)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13619#1-2">
       <title lang="de">Digital Processing of Stochastic Signals (Practical Training)</title>
-      <title lang="eng">Digital Processing of Stochastic Signals (Practical Training)</title>
+      <title lang="en">Digital Processing of Stochastic Signals (Practical Training)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13636#1-1">
       <title lang="de">Human-Computer Interfaces (Lecture)</title>
-      <title lang="eng">Human-Computer Interfaces (Lecture)</title>
+      <title lang="en">Human-Computer Interfaces (Lecture)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13636#1-2">
       <title lang="de">Human-Computer Interfaces (Practical Training)</title>
-      <title lang="eng">Human-Computer Interfaces (Practical Training)</title>
+      <title lang="en">Human-Computer Interfaces (Practical Training)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13653#1-1">
       <title lang="de">Process Integration (Lecture)</title>
-      <title lang="eng">Process Integration (Lecture)</title>
+      <title lang="en">Process Integration (Lecture)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13653#1-2">
       <title lang="de">Process Integration (Practical Training)</title>
-      <title lang="eng">Process Integration (Practical Training)</title>
+      <title lang="en">Process Integration (Practical Training)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13670#1-1">
       <title lang="de">Process Optimization (Lecture)</title>
-      <title lang="eng">Process Optimization (Lecture)</title>
+      <title lang="en">Process Optimization (Lecture)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13670#1-2">
       <title lang="de">Process Optimization (Practical Training)</title>
-      <title lang="eng">Process Optimization (Practical Training)</title>
+      <title lang="en">Process Optimization (Practical Training)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13687#1-1">
       <title lang="de">Real-Time Systems (Lecture)</title>
-      <title lang="eng">Real-Time Systems (Lecture)</title>
+      <title lang="en">Real-Time Systems (Lecture)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13687#1-2">
       <title lang="de">Real-Time Systems (Exercise)</title>
-      <title lang="eng">Real-Time Systems (Exercise)</title>
+      <title lang="en">Real-Time Systems (Exercise)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13704#1-1">
       <title lang="de">Drahtlose Netze für cyber-physische Systeme Vorlesung</title>
-      <title lang="eng">Drahtlose Netze für cyber-physische Systeme Vorlesung</title>
+      <title lang="en">Drahtlose Netze für cyber-physische Systeme Vorlesung</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13704#1-2">
       <title lang="de">Drahtlose Netze für cyber-physische Systeme Praktikum</title>
-      <title lang="eng">Drahtlose Netze für cyber-physische Systeme Praktikum</title>
+      <title lang="en">Drahtlose Netze für cyber-physische Systeme Praktikum</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13721#1-1">
       <title lang="de">Hardware-basierte IT-Sicherheit (Vorlesung)</title>
-      <title lang="eng">Hardware-basierte IT-Sicherheit (Vorlesung)</title>
+      <title lang="en">Hardware-basierte IT-Sicherheit (Vorlesung)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13721#1-2">
       <title lang="de">Hardware-basierte IT-Sicherheit (Praktikum)</title>
-      <title lang="eng">Hardware-basierte IT-Sicherheit (Praktikum)</title>
+      <title lang="en">Hardware-basierte IT-Sicherheit (Praktikum)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13738#1-1">
       <title lang="de">Sichere Programmierung (Vorlesung)</title>
-      <title lang="eng">Sichere Programmierung (Vorlesung)</title>
+      <title lang="en">Sichere Programmierung (Vorlesung)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13738#1-2">
       <title lang="de">Sichere Programmierung (Praktikum)</title>
-      <title lang="eng">Sichere Programmierung (Praktikum)</title>
+      <title lang="en">Sichere Programmierung (Praktikum)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13755#1-1">
       <title lang="de">Mobile Anwendungen (Vorlesung)</title>
-      <title lang="eng">Mobile Anwendungen (Vorlesung)</title>
+      <title lang="en">Mobile Anwendungen (Vorlesung)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13755#1-2">
       <title lang="de">Mobile Anwendungen (Praktikum)</title>
-      <title lang="eng">Mobile Anwendungen (Praktikum)</title>
+      <title lang="en">Mobile Anwendungen (Praktikum)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13772#1-1">
       <title lang="de">Sichere vernetzte Steuerungssysteme (Vorlesung)</title>
-      <title lang="eng">Sichere vernetzte Steuerungssysteme (Vorlesung)</title>
+      <title lang="en">Sichere vernetzte Steuerungssysteme (Vorlesung)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13772#1-2">
       <title lang="de">Sichere vernetzte Steuerungssysteme (Praktikum)</title>
-      <title lang="eng">Sichere vernetzte Steuerungssysteme (Praktikum)</title>
+      <title lang="en">Sichere vernetzte Steuerungssysteme (Praktikum)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/lab"/>
     </learningActivitySpecification>
   </learningActivitySpecificationReferences>
   <assessmentSpecificationReferences>
     <assessmentSpecification id="urn:thl:assessment:spec:13415#1">
       <title lang="de">Angewandte Mathematik</title>
-      <title lang="eng">Angewandte Mathematik</title>
+      <title lang="en">Angewandte Mathematik</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:13415#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13432#1">
       <title lang="de">Datenbanken und Informationsmanagement</title>
-      <title lang="eng">Datenbanken und Informationsmanagement</title>
+      <title lang="en">Datenbanken und Informationsmanagement</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:13432#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13449#1">
       <title lang="de">Digitale Bildverarbeitung</title>
-      <title lang="eng">Digitale Bildverarbeitung</title>
+      <title lang="en">Digitale Bildverarbeitung</title>
       <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:13449#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13466#1">
       <title lang="de">Digitale Regelungssysteme</title>
-      <title lang="eng">Digitale Regelungssysteme</title>
+      <title lang="en">Digitale Regelungssysteme</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:13466#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13483#1">
       <title lang="de">Mikroprozessor-Design</title>
-      <title lang="eng">Mikroprozessor-Design</title>
+      <title lang="en">Mikroprozessor-Design</title>
       <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
       <proves idref="urn:thl:learningoutcome:13483#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13500#1">
       <title lang="de">Rechnungswesen und Controlling</title>
-      <title lang="eng">Rechnungswesen und Controlling</title>
+      <title lang="en">Rechnungswesen und Controlling</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:13500#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13517#1">
       <title lang="de">Brückenkurs: Automatisierungstechnik</title>
-      <title lang="eng">Brückenkurs: Automatisierungstechnik</title>
+      <title lang="en">Brückenkurs: Automatisierungstechnik</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:13517#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13534#1">
       <title lang="de">Brückenkurs: Kommunikationstechnik</title>
-      <title lang="eng">Brückenkurs: Kommunikationstechnik</title>
+      <title lang="en">Brückenkurs: Kommunikationstechnik</title>
       <type uri="http://data.europa.eu/europass/assessmentType/oralExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:13534#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13551#1">
       <title lang="de">Business Process Management</title>
-      <title lang="eng">Business Process Management</title>
+      <title lang="en">Business Process Management</title>
       <type uri="http://data.europa.eu/europass/assessmentType/oralExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
       <proves idref="urn:thl:learningoutcome:13551#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13568#1">
       <title lang="de">Wissenschaftliche Projektarbeit</title>
-      <title lang="eng">Wissenschaftliche Projektarbeit</title>
+      <title lang="en">Wissenschaftliche Projektarbeit</title>
       <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
       <proves idref="urn:thl:learningoutcome:13568#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13585#1">
       <title lang="de">Integrated Information Systems</title>
-      <title lang="eng">Integrated Information Systems</title>
+      <title lang="en">Integrated Information Systems</title>
       <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
       <proves idref="urn:thl:learningoutcome:13585#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13602#1">
       <title lang="de">Masterarbeit und Kolloquium</title>
-      <title lang="eng">Masterarbeit und Kolloquium</title>
+      <title lang="en">Masterarbeit und Kolloquium</title>
       <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
       <proves idref="urn:thl:learningoutcome:13602#1"/>
@@ -3010,80 +3276,80 @@ Im Praktikum soll das Wissen der Vorlesung in praktischen Beispielen vertieft we
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13602#1.1">
       <title lang="de">Masterarbeit</title>
-      <title lang="eng">Masterarbeit</title>
+      <title lang="en">Masterarbeit</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13602#1.2">
       <title lang="de">Master-Kolloquium</title>
-      <title lang="eng">Master-Kolloquium</title>
+      <title lang="en">Master-Kolloquium</title>
       <type uri="http://data.europa.eu/europass/assessmentType/oralExamen"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13619#1">
       <title lang="de">Digital Processing of Stochastic Signals</title>
-      <title lang="eng">Digital Processing of Stochastic Signals</title>
+      <title lang="en">Digital Processing of Stochastic Signals</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
       <proves idref="urn:thl:learningoutcome:13619#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13636#1">
       <title lang="de">Human-Computer Interfaces</title>
-      <title lang="eng">Human-Computer Interfaces</title>
+      <title lang="en">Human-Computer Interfaces</title>
       <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
       <proves idref="urn:thl:learningoutcome:13636#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13653#1">
       <title lang="de">Process Integration</title>
-      <title lang="eng">Process Integration</title>
+      <title lang="en">Process Integration</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
       <proves idref="urn:thl:learningoutcome:13653#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13670#1">
       <title lang="de">Process Optimization</title>
-      <title lang="eng">Process Optimization</title>
+      <title lang="en">Process Optimization</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
       <proves idref="urn:thl:learningoutcome:13670#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13687#1">
       <title lang="de">Real-Time Systems</title>
-      <title lang="eng">Real-Time Systems</title>
+      <title lang="en">Real-Time Systems</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
       <proves idref="urn:thl:learningoutcome:13687#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13704#1">
       <title lang="de">Drahtlose Netze für cyber-physische Systeme</title>
-      <title lang="eng">Drahtlose Netze für cyber-physische Systeme</title>
+      <title lang="en">Drahtlose Netze für cyber-physische Systeme</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
       <proves idref="urn:thl:learningoutcome:13704#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13721#1">
       <title lang="de">Hardware-basierte IT-Sicherheit</title>
-      <title lang="eng">Hardware-basierte IT-Sicherheit</title>
+      <title lang="en">Hardware-basierte IT-Sicherheit</title>
       <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
       <proves idref="urn:thl:learningoutcome:13721#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13738#1">
       <title lang="de">Sichere Programmierung</title>
-      <title lang="eng">Sichere Programmierung</title>
+      <title lang="en">Sichere Programmierung</title>
       <type uri="http://data.europa.eu/europass/assessmentType/oralExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
       <proves idref="urn:thl:learningoutcome:13738#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13755#1">
       <title lang="de">Mobile Anwendungen</title>
-      <title lang="eng">Mobile Anwendungen</title>
+      <title lang="en">Mobile Anwendungen</title>
       <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
       <proves idref="urn:thl:learningoutcome:13755#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13772#1">
       <title lang="de">Sichere vernetzte Steuerungssysteme</title>
-      <title lang="eng">Sichere vernetzte Steuerungssysteme</title>
+      <title lang="en">Sichere vernetzte Steuerungssysteme</title>
       <type uri="http://data.europa.eu/europass/assessmentType/oralExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
       <proves idref="urn:thl:learningoutcome:13772#1"/>
@@ -3096,7 +3362,7 @@ Im Praktikum soll das Wissen der Vorlesung in praktischen Beispielen vertieft we
       <registration spatialID="http://publications.europa.eu/resource/authority/country/DEU">DUMMY-REGISTRATION</registration>
       <type uri="http://data.europa.eu/esco/agent-type#academic-institution"/>
       <prefLabel lang="de">Technische Hochschule Lübeck</prefLabel>
-      <prefLabel lang="eng">Technische Hochschule Lübeck</prefLabel>
+      <prefLabel lang="en">Technische Hochschule Lübeck</prefLabel>
       <hasLocation>
         <spatialCode uri="http://publications.europa.eu/resource/authority/country/DEU"/>
       </hasLocation>

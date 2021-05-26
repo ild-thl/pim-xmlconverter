@@ -139,7 +139,7 @@ class LearnSpecRef:
 
         studyProgramme_title_node = et.SubElement(
             studyProgramme_node, NS5+'title')
-        studyProgramme_title_node.set('lang', 'eng')
+        studyProgramme_title_node.set('lang', 'en')
         studyProgramme_title_node.text = self.studyProgramme
 
         education_node = et.SubElement(
@@ -150,7 +150,7 @@ class LearnSpecRef:
         education_targetName_node.text = self.degree
         education_targetName_node = et.SubElement(
             education_node, NS5+'targetName')
-        education_targetName_node.set('lang', 'eng')
+        education_targetName_node.set('lang', 'en')
         education_targetName_node.text = self.degree
 
         # Create Stupo
@@ -160,7 +160,7 @@ class LearnSpecRef:
         stupo_title_node.set('lang', 'de')
         stupo_title_node.text = self.studyProgramme
         stupo_title_node = et.SubElement(stupo_node, NS5+'title')
-        stupo_title_node.set('lang', 'eng')
+        stupo_title_node.set('lang', 'en')
         stupo_title_node.text = self.studyProgramme
         stupo_specOf_node = et.SubElement(stupo_node, NS5+'specializationOf')
         stupo_specOf_node.set('idref', self.studyProgramme_id)
@@ -173,7 +173,7 @@ class LearnSpecRef:
         studySection_title_node.set('lang', 'de')
         studySection_title_node.text = self.studyProgramme
         studySection_title_node = et.SubElement(studySection_node, NS5+'title')
-        studySection_title_node.set('lang', 'eng')
+        studySection_title_node.set('lang', 'en')
         studySection_title_node.text = self.studyProgramme
 
         for module in self.modules:
@@ -205,7 +205,7 @@ class Module:
         self.description = Module.generateDescription(lehrveranstaltungen)
         self.mspec_title = modul['M_Modulname']
         self.mspec_type = "http://data.europa.eu/europass/learningOpportunityType/course"
-        self.ects = modul['M_ECTS_Leistungspunkte']
+        self.ects = modul['M_ECTS_Leistungspunkte'].replace(",", ".")
         self.volumeOfLearning = 0
         if modul['M_Arbeitsaufwand_in_Stunden'] is not None:
             if isinstance(modul['M_Arbeitsaufwand_in_Stunden'], str):
@@ -301,7 +301,7 @@ class Module:
         title_node.set('lang', 'de')
         title_node.text = self.mspec_title
         title_node = et.SubElement(root, NS5+'title')
-        title_node.set('lang', 'eng')
+        title_node.set('lang', 'en')
         title_node.text = self.mspec_title
 
         # Create Definition
@@ -310,9 +310,10 @@ class Module:
         definition_text_node.set('content-type', 'text/plain')
         definition_text_node.set('lang', 'de')
         definition_text_node.text = self.description
+        definition_node = et.SubElement(root, NS5+'definition')
         definition_text_node = et.SubElement(definition_node, NS5+'text')
         definition_text_node.set('content-type', 'text/plain')
-        definition_text_node.set('lang', 'eng')
+        definition_text_node.set('lang', 'en')
         definition_text_node.text = self.description
 
         # Create additional note, Literatur
@@ -322,9 +323,11 @@ class Module:
         literature_text_node.set('content-type', "text/plain")
         literature_text_node.set('lang', "de")
         literature_text_node.text = 'Literaturangaben: ' + self.literature
+        literature_node = et.SubElement(
+            root, NS5+'additionalNote')
         literature_text_node = et.SubElement(literature_node, NS5+'text')
         literature_text_node.set('content-type', "text/plain")
-        literature_text_node.set('lang', "eng")
+        literature_text_node.set('lang', "en")
         literature_text_node.text = 'Literaturangaben: ' + self.literature
 
         # Create additional note, enrolement formalities
@@ -334,9 +337,11 @@ class Module:
         formalities_text_node.set('content-type', "text/plain")
         formalities_text_node.set('lang', "de")
         formalities_text_node.text = 'Anmeldeformalitäten: ' + self.enrollment_formalities
+        formalities_node = et.SubElement(
+            root, NS5+'additionalNote')
         formalities_text_node = et.SubElement(formalities_node, NS5+'text')
         formalities_text_node.set('content-type', "text/plain")
-        formalities_text_node.set('lang', "eng")
+        formalities_text_node.set('lang', "en")
         formalities_text_node.text = 'Anmeldeformalitäten: ' + self.enrollment_formalities
 
         # Create additional note, period of validity
@@ -346,9 +351,11 @@ class Module:
         validity_text_node.set('content-type', "text/plain")
         validity_text_node.set('lang', "de")
         validity_text_node.text = 'Gültigkeit: ' + self.validity
+        validity_node = et.SubElement(
+            root, NS5+'additionalNote')
         validity_text_node = et.SubElement(validity_node, NS5+'text')
         validity_text_node.set('content-type', "text/plain")
-        validity_text_node.set('lang', "eng")
+        validity_text_node.set('lang', "en")
         validity_text_node.text = 'Gültigkeit: ' + self.validity
 
         # Create supplementaryDoc
@@ -393,9 +400,10 @@ class Module:
         entry_text_node.set('content-type', "text/html")
         entry_text_node.set('lang', "de")
         entry_text_node.text = self.entryRequirementsNote
+        entry_node = et.SubElement(root, NS5+'entryRequirementsNote')
         entry_text_node = et.SubElement(entry_node, NS5+'text')
         entry_text_node.set('content-type', "text/html")
-        entry_text_node.set('lang', "eng")
+        entry_text_node.set('lang', "en")
         entry_text_node.text = self.entryRequirementsNote
 
         # Create reference to LearningOutcome
@@ -444,7 +452,7 @@ class Module:
         module_title_node.set('lang', 'de')
         module_title_node.text = self.module_title
         module_title_node = et.SubElement(module_root, NS5+'title')
-        module_title_node.set('lang', 'eng')
+        module_title_node.set('lang', 'en')
         module_title_node.text = self.module_title
 
 
@@ -514,7 +522,7 @@ class AssessmentSpecification:
         title_node.set('lang', 'de')
         title_node.text = self.title
         title_node = et.SubElement(root, NS5+'title')
-        title_node.set('lang', 'eng')
+        title_node.set('lang', 'en')
         title_node.text = self.title
         type_node = et.SubElement(root, NS5+'type')
         type_node.set('uri',  self.type)
@@ -536,7 +544,7 @@ class AssessmentSpecification:
                 assessment_title_node.text = assessment['title']
                 assessment_title_node = et.SubElement(
                     assessment_node, NS5+'title')
-                assessment_title_node.set('lang', 'eng')
+                assessment_title_node.set('lang', 'en')
                 assessment_title_node.text = assessment['title']
                 assessment_type_node = et.SubElement(
                     assessment_node, NS5+'type')
@@ -585,7 +593,7 @@ class LearningOutcome:
         prefLabel_node.set('lang', 'de')
         prefLabel_node.text = self.prefLabel
         prefLabel_node = et.SubElement(root, NS5+'prefLabel')
-        prefLabel_node.set('lang', 'eng')
+        prefLabel_node.set('lang', 'en')
         prefLabel_node.text = self.prefLabel
 
         description_node = et.SubElement(root, NS5+'description')
@@ -593,9 +601,10 @@ class LearningOutcome:
         description_text_node.set('content-type', 'text/plain')
         description_text_node.set('lang', 'de')
         description_text_node.text = self.description
+        description_node = et.SubElement(root, NS5+'description')
         description_text_node = et.SubElement(description_node, NS5+'text')
         description_text_node.set('content-type', 'text/plain')
-        description_text_node.set('lang', 'eng')
+        description_text_node.set('lang', 'en')
         description_text_node.text = self.description
 
         parent.insert(0, parent[-1])
@@ -632,7 +641,7 @@ class LearningEvent:
         title_node.set('lang', 'de')
         title_node.text = self.title
         title_node = et.SubElement(root, NS5+'title')
-        title_node.set('lang', 'eng')
+        title_node.set('lang', 'en')
         title_node.text = self.title
 
         # Create ref to learningActivitySpecification
@@ -675,7 +684,7 @@ class LearnActSpec:
         title_node.set('lang', 'de')
         title_node.text = self.title
         title_node = et.SubElement(root, NS5+'title')
-        title_node.set('lang', 'eng')
+        title_node.set('lang', 'en')
         title_node.text = self.title
 
         # Create Type-Tag
@@ -697,7 +706,7 @@ def generateOrganization(root):
     prefLabel_node.set('lang', 'de')
     prefLabel_node.text = organization['title']
     prefLabel_node = et.SubElement(organization_node, NS5+'prefLabel')
-    prefLabel_node.set('lang', 'eng')
+    prefLabel_node.set('lang', 'en')
     prefLabel_node.text = organization['title']
     hasLocation_node = et.SubElement(organization_node, NS5+'hasLocation')
     spatialCode_node = et.SubElement(hasLocation_node, NS5+'spatialCode')
@@ -758,7 +767,7 @@ def genereateCredential():
     title_node.set('lang', 'de')
     title_node.text = xml_in['Modulbeschreibungen']['Modulbeschreibung'][0]['Modul']['M_Studiengang']
     title_node = et.SubElement(root, NS5+'title')
-    title_node.set('lang', 'eng')
+    title_node.set('lang', 'en')
     title_node.text = xml_in['Modulbeschreibungen']['Modulbeschreibung'][0]['Modul']['M_Studiengang']
     description_node = et.SubElement(root, NS5+'description')
     description_text_node = et.SubElement(description_node, NS5+'text')
@@ -767,9 +776,10 @@ def genereateCredential():
     description_text_node.text = "Dies ist der Studiengang " + \
         xml_in['Modulbeschreibungen']['Modulbeschreibung'][0]['Modul']['M_Studiengang'] + " aus dem Fachbereich " + \
         xml_in['Modulbeschreibungen']['Modulbeschreibung'][0]['Modul']['M_Fachbereich'] + "."
+    description_node = et.SubElement(root, NS5+'description')
     description_text_node = et.SubElement(description_node, NS5+'text')
     description_text_node.set('content-type', "text/plain")
-    description_text_node.set("lang", "eng")
+    description_text_node.set("lang", "en")
     description_text_node.text = "Dies ist der Studiengang " + \
         xml_in['Modulbeschreibungen']['Modulbeschreibung'][0]['Modul']['M_Studiengang'] + " aus dem Fachbereich " + \
         xml_in['Modulbeschreibungen']['Modulbeschreibung'][0]['Modul']['M_Fachbereich'] + "."

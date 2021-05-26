@@ -4,10 +4,12 @@
   <issuanceDate>2021-01-21T16:01:34.979+02:00</issuanceDate>
   <issuer idref="urn:epass:thl:organization:927"/>
   <title lang="de">Wirtschaftsingenieurwesen, Master</title>
-  <title lang="eng">Wirtschaftsingenieurwesen, Master</title>
+  <title lang="en">Wirtschaftsingenieurwesen, Master</title>
   <description>
     <text content-type="text/plain" lang="de">Dies ist der Studiengang Wirtschaftsingenieurwesen, Master aus dem Fachbereich Maschinenbau und Wirtschaft.</text>
-    <text content-type="text/plain" lang="eng">Dies ist der Studiengang Wirtschaftsingenieurwesen, Master aus dem Fachbereich Maschinenbau und Wirtschaft.</text>
+  </description>
+  <description>
+    <text content-type="text/plain" lang="en">Dies ist der Studiengang Wirtschaftsingenieurwesen, Master aus dem Fachbereich Maschinenbau und Wirtschaft.</text>
   </description>
   <credentialSubject id="DUMMY-SUBJECT">
     <nationalId spatialID="http://publications.europa.eu/resource/authority/country/DEU">DUMMY-NATIONALID</nationalId>
@@ -25,14 +27,16 @@
   <learningSpecificationReferences>
     <learningOutcome id="urn:thl:learningoutcome:21847#1">
       <prefLabel lang="de">Supply Chain Management</prefLabel>
-      <prefLabel lang="eng">Supply Chain Management</prefLabel>
+      <prefLabel lang="en">Supply Chain Management</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">After successful completion of this course, the students will be able to:
 	- Take cultural aspects of the participants of a supply chain into account.
 	- Prepare strategic and operational supply chain management decisions in various enterprises
 	- Understand, analyze and evaluate major SCM tools and concepts
 	- Apply SCM concepts in practice</text>
-        <text content-type="text/plain" lang="eng">After successful completion of this course, the students will be able to:
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">After successful completion of this course, the students will be able to:
 	- Take cultural aspects of the participants of a supply chain into account.
 	- Prepare strategic and operational supply chain management decisions in various enterprises
 	- Understand, analyze and evaluate major SCM tools and concepts
@@ -41,13 +45,15 @@
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:21830#1">
       <prefLabel lang="de">Entrepreneurship und Innovation</prefLabel>
-      <prefLabel lang="eng">Entrepreneurship und Innovation</prefLabel>
+      <prefLabel lang="en">Entrepreneurship und Innovation</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">- Die Studierenden können wissenschaftliche Grundlagen sowie spezialisiertes und vertieftes Fachwissen im Innovations- und Technologiemanagement erläutern und anwenden.
 	- Die Studierenden können Arbeitsschritte bei der Lösung von Problemen auch in neuen und unvertrauten sowie fachübergreifenden Kontexten des Innovations- und Technologiemanagements planen und durchführen.
 	- Die Studierenden können Ziele für die eigene Entwicklung definieren sowie eigene Stärken und Schwächen reflektieren, die eigene Entwicklung planen sowie mit Blick auf gesellschaftlichen Auswirkungen reflektieren.
 	- Die Studierenden können in Gruppen kooperativ und verantwortlich arbeiten sowie das eigene Kooperationsverhalten in Gruppen kritisch reflektieren und erweitern.</text>
-        <text content-type="text/plain" lang="eng">- Die Studierenden können wissenschaftliche Grundlagen sowie spezialisiertes und vertieftes Fachwissen im Innovations- und Technologiemanagement erläutern und anwenden.
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">- Die Studierenden können wissenschaftliche Grundlagen sowie spezialisiertes und vertieftes Fachwissen im Innovations- und Technologiemanagement erläutern und anwenden.
 	- Die Studierenden können Arbeitsschritte bei der Lösung von Problemen auch in neuen und unvertrauten sowie fachübergreifenden Kontexten des Innovations- und Technologiemanagements planen und durchführen.
 	- Die Studierenden können Ziele für die eigene Entwicklung definieren sowie eigene Stärken und Schwächen reflektieren, die eigene Entwicklung planen sowie mit Blick auf gesellschaftlichen Auswirkungen reflektieren.
 	- Die Studierenden können in Gruppen kooperativ und verantwortlich arbeiten sowie das eigene Kooperationsverhalten in Gruppen kritisch reflektieren und erweitern.</text>
@@ -55,7 +61,7 @@
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:21813#1">
       <prefLabel lang="de">Entrepreneurship in der digitalen Wirtschaft</prefLabel>
-      <prefLabel lang="eng">Entrepreneurship in der digitalen Wirtschaft</prefLabel>
+      <prefLabel lang="en">Entrepreneurship in der digitalen Wirtschaft</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">- Die Studierenden erkennen somit die wichtigsten Fragestellungen im Rahmen eines Gründungsprozesses und verfügen anschließend über breites Wissen einschließlich der wissenschaftlichen Grundlagen und der praktischen Anwendung zur Bedeutung des Entrepreneurships im volks- und betriebswirtschaftlichen Kontext. Sie können ihr Wissen abrufen und ergänzt um eigene Beispiele, in einem geänderten Kontext wiedergeben. Die Studierenden können Merkmale und Faktoren erfolgreicher Unternehmensgründungen erschließen und Gründungsideen anhand von Kriterien und erworbenen Methoden bewerten sowie eigenständig entwickeln und visualisieren.
 	- Die Themen werden außerdem mit praktischen und aktuellen Schwerpunktthemen verknüpft um so einen Anwendungsbezug darzustellen.
@@ -64,7 +70,9 @@
 	- Die Studierenden können Arbeitsschritte bei der Lösung von Problemen auch in neuen und unvertrauten sowie fachübergreifenden Kontexten des Innovations- und Technologiemanagements planen und durchführen.
 	- Die Studierenden können Ziele für die eigene Entwicklung definieren sowie eigene Stärken und Schwächen reflektieren, die eigene Entwicklung planen sowie mit Blick auf gesellschaftlichen Auswirkungen reflektieren.
 	- Die Studierenden können in Gruppen kooperativ und verantwortlich arbeiten sowie das eigene Kooperationsverhalten in Gruppen kritisch reflektieren und erweitern.</text>
-        <text content-type="text/plain" lang="eng">- Die Studierenden erkennen somit die wichtigsten Fragestellungen im Rahmen eines Gründungsprozesses und verfügen anschließend über breites Wissen einschließlich der wissenschaftlichen Grundlagen und der praktischen Anwendung zur Bedeutung des Entrepreneurships im volks- und betriebswirtschaftlichen Kontext. Sie können ihr Wissen abrufen und ergänzt um eigene Beispiele, in einem geänderten Kontext wiedergeben. Die Studierenden können Merkmale und Faktoren erfolgreicher Unternehmensgründungen erschließen und Gründungsideen anhand von Kriterien und erworbenen Methoden bewerten sowie eigenständig entwickeln und visualisieren.
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">- Die Studierenden erkennen somit die wichtigsten Fragestellungen im Rahmen eines Gründungsprozesses und verfügen anschließend über breites Wissen einschließlich der wissenschaftlichen Grundlagen und der praktischen Anwendung zur Bedeutung des Entrepreneurships im volks- und betriebswirtschaftlichen Kontext. Sie können ihr Wissen abrufen und ergänzt um eigene Beispiele, in einem geänderten Kontext wiedergeben. Die Studierenden können Merkmale und Faktoren erfolgreicher Unternehmensgründungen erschließen und Gründungsideen anhand von Kriterien und erworbenen Methoden bewerten sowie eigenständig entwickeln und visualisieren.
 	- Die Themen werden außerdem mit praktischen und aktuellen Schwerpunktthemen verknüpft um so einen Anwendungsbezug darzustellen.
 	- Einzelaspekte der Veranstaltung werden anhand von ausgewählten Fallstudien (in englischer Sprache) vertieft.
 	- Die Studierenden können wissenschaftliche Grundlagen sowie spezialisiertes und vertieftes Fachwissen im Innovations- und Technologiemanagement erläutern und anwenden.
@@ -75,32 +83,38 @@
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:21796#1">
       <prefLabel lang="de">Verhandlungsführung</prefLabel>
-      <prefLabel lang="eng">Verhandlungsführung</prefLabel>
+      <prefLabel lang="en">Verhandlungsführung</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Studierenden kennen grundlegende Kommunikations- und Verhandlungstechniken und können diese in typischen Gesprächssituationen von Führungskräften und in einer eigenen Verhandlung erfolgreich anwenden.
 Sie lernen außerdem, ihre eigene Wirkung auf andere durch Auftreten, Sprache und Verhalten in Gesprächen einzuschätzen und zu steuern.</text>
-        <text content-type="text/plain" lang="eng">Die Studierenden kennen grundlegende Kommunikations- und Verhandlungstechniken und können diese in typischen Gesprächssituationen von Führungskräften und in einer eigenen Verhandlung erfolgreich anwenden.
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Die Studierenden kennen grundlegende Kommunikations- und Verhandlungstechniken und können diese in typischen Gesprächssituationen von Führungskräften und in einer eigenen Verhandlung erfolgreich anwenden.
 Sie lernen außerdem, ihre eigene Wirkung auf andere durch Auftreten, Sprache und Verhalten in Gesprächen einzuschätzen und zu steuern.</text>
       </description>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:21779#1">
       <prefLabel lang="de">Entrepreneurial Behavior</prefLabel>
-      <prefLabel lang="eng">Entrepreneurial Behavior</prefLabel>
+      <prefLabel lang="en">Entrepreneurial Behavior</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Nach der Teilnahme an der Veranstaltung sind die Studierenden in der Lage, psychologische Eigenschaften und Prozesse von Entrepreneuren und unternehmerischen Teams zu analysieren und zu bewerten, unternehmerische Denk- und Handlungsprinzipien anzuwenden, theoretisch fundierte unternehmerische Entscheidungen zu treffen, Motivationskonzepte zu bewerten, Personal zu führen und zu entwickeln sowie den Einfluss des Entrepreneurial Spirit auf die Handlungen einzuschätzen und zu bewerten.</text>
-        <text content-type="text/plain" lang="eng">Nach der Teilnahme an der Veranstaltung sind die Studierenden in der Lage, psychologische Eigenschaften und Prozesse von Entrepreneuren und unternehmerischen Teams zu analysieren und zu bewerten, unternehmerische Denk- und Handlungsprinzipien anzuwenden, theoretisch fundierte unternehmerische Entscheidungen zu treffen, Motivationskonzepte zu bewerten, Personal zu führen und zu entwickeln sowie den Einfluss des Entrepreneurial Spirit auf die Handlungen einzuschätzen und zu bewerten.</text>
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Nach der Teilnahme an der Veranstaltung sind die Studierenden in der Lage, psychologische Eigenschaften und Prozesse von Entrepreneuren und unternehmerischen Teams zu analysieren und zu bewerten, unternehmerische Denk- und Handlungsprinzipien anzuwenden, theoretisch fundierte unternehmerische Entscheidungen zu treffen, Motivationskonzepte zu bewerten, Personal zu führen und zu entwickeln sowie den Einfluss des Entrepreneurial Spirit auf die Handlungen einzuschätzen und zu bewerten.</text>
       </description>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:21762#1">
       <prefLabel lang="de">Businessplan</prefLabel>
-      <prefLabel lang="eng">Businessplan</prefLabel>
+      <prefLabel lang="en">Businessplan</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Zur Bearbeitung der einzelnen Businessplanbestandteile verfügen die Studierenden über erweitertes Wissen in angrenzenden Bereichen und erschließen darüber hinaus Informationen eigenständig über geeignete
 Dokumentenrecherche, Internet und/oder empirische Erhebungen.
 Die gesammelten Informationen müssen bewertet, beurteilt, verglichen und themenspezifisch als Präsentation aufbereitet
 werden. Bei unvollständigen oder widersprüchlichen Informationen wägen die Studierenden diese gegeneinander ab und entwickeln Lösungsmöglichkeiten für den Umgang fehlenden oder uneinheitlichen Informationen.
 Der Aufbau des Businessplanseminars bedingt, dass die Studierenden fachliche Entwicklungen anderer Kommilitonen ebenfalls gezielt fördern, bereichsspezifische und -übergreifende Diskussionen führen sowie wertschätzendes Feedback auf die Zwischenpräsentationen der anderen Seminarteilnehmer geben.</text>
-        <text content-type="text/plain" lang="eng">Zur Bearbeitung der einzelnen Businessplanbestandteile verfügen die Studierenden über erweitertes Wissen in angrenzenden Bereichen und erschließen darüber hinaus Informationen eigenständig über geeignete
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Zur Bearbeitung der einzelnen Businessplanbestandteile verfügen die Studierenden über erweitertes Wissen in angrenzenden Bereichen und erschließen darüber hinaus Informationen eigenständig über geeignete
 Dokumentenrecherche, Internet und/oder empirische Erhebungen.
 Die gesammelten Informationen müssen bewertet, beurteilt, verglichen und themenspezifisch als Präsentation aufbereitet
 werden. Bei unvollständigen oder widersprüchlichen Informationen wägen die Studierenden diese gegeneinander ab und entwickeln Lösungsmöglichkeiten für den Umgang fehlenden oder uneinheitlichen Informationen.
@@ -109,22 +123,26 @@ Der Aufbau des Businessplanseminars bedingt, dass die Studierenden fachliche Ent
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:21745#1">
       <prefLabel lang="de">Verkehrsbetriebslehre</prefLabel>
-      <prefLabel lang="eng">Verkehrsbetriebslehre</prefLabel>
+      <prefLabel lang="en">Verkehrsbetriebslehre</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Lehrveranstaltung befähigt die Studierenden, Dienstleistungen in Verkehr und Logistik analysieren und bewerten zu können. Darüber hinaus werden Fähigkeiten für das Management von Verkehrs- und Logistikbetrieben vermittelt.</text>
-        <text content-type="text/plain" lang="eng">Die Lehrveranstaltung befähigt die Studierenden, Dienstleistungen in Verkehr und Logistik analysieren und bewerten zu können. Darüber hinaus werden Fähigkeiten für das Management von Verkehrs- und Logistikbetrieben vermittelt.</text>
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Die Lehrveranstaltung befähigt die Studierenden, Dienstleistungen in Verkehr und Logistik analysieren und bewerten zu können. Darüber hinaus werden Fähigkeiten für das Management von Verkehrs- und Logistikbetrieben vermittelt.</text>
       </description>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:21728#1">
       <prefLabel lang="de">Supply Chain Management</prefLabel>
-      <prefLabel lang="eng">Supply Chain Management</prefLabel>
+      <prefLabel lang="en">Supply Chain Management</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">After successful completion of this course, the students will be able to:
 	- Take cultural aspects of the participants of a supply chain into account.
 	- Prepare strategic and operational supply chain management decisions in various enterprises
 	- Understand, analyze and evaluate major SCM tools and concepts
 	- Apply SCM concepts in practice</text>
-        <text content-type="text/plain" lang="eng">After successful completion of this course, the students will be able to:
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">After successful completion of this course, the students will be able to:
 	- Take cultural aspects of the participants of a supply chain into account.
 	- Prepare strategic and operational supply chain management decisions in various enterprises
 	- Understand, analyze and evaluate major SCM tools and concepts
@@ -133,21 +151,25 @@ Der Aufbau des Businessplanseminars bedingt, dass die Studierenden fachliche Ent
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:21711#1">
       <prefLabel lang="de">Telematik-Anwendungen</prefLabel>
-      <prefLabel lang="eng">Telematik-Anwendungen</prefLabel>
+      <prefLabel lang="en">Telematik-Anwendungen</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Lehrveranstaltung befähigt die Studierenden, Anwendungen von Telematik zu konzipieren und zu bewerten.</text>
-        <text content-type="text/plain" lang="eng">Die Lehrveranstaltung befähigt die Studierenden, Anwendungen von Telematik zu konzipieren und zu bewerten.</text>
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Die Lehrveranstaltung befähigt die Studierenden, Anwendungen von Telematik zu konzipieren und zu bewerten.</text>
       </description>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:21694#1">
       <prefLabel lang="de">Strategisches Produktionscontrolling und Fallstudien</prefLabel>
-      <prefLabel lang="eng">Strategisches Produktionscontrolling und Fallstudien</prefLabel>
+      <prefLabel lang="en">Strategisches Produktionscontrolling und Fallstudien</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Lehrveranstaltung vermittelt Grundlagen und innovative Methoden, so dass die Studierenden befähigt werden, in ihrer zukünftigen beruflichen Praxis das strategische Controlling projektorientiert in der produzierenden Industrie durchzuführen und weiterzuentwickeln. Nach Abschluss dieses Moduls sind die Studierenden in der Lage:
 	- die Schwerpunkte von strategischen Controllingfunktionen in produzierenden Unternehmen zu erklären und diese für unterschiedlichste strategische Planungsprozesse eigenständig anzuwenden
 	- komplexe Zusammenhänge zu erfassen, diese in den unternehmerischen Kontext zu stellen und Lösungsansätze für unterschiedlichste Fragestellungen in produzierenden Unternehmen zu entwickeln.
 	- umfassende aktuelle Fallstudien durchzuführen und eigenständig Lösungen für die u.g. Inhalte zu entwickeln.</text>
-        <text content-type="text/plain" lang="eng">Die Lehrveranstaltung vermittelt Grundlagen und innovative Methoden, so dass die Studierenden befähigt werden, in ihrer zukünftigen beruflichen Praxis das strategische Controlling projektorientiert in der produzierenden Industrie durchzuführen und weiterzuentwickeln. Nach Abschluss dieses Moduls sind die Studierenden in der Lage:
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Die Lehrveranstaltung vermittelt Grundlagen und innovative Methoden, so dass die Studierenden befähigt werden, in ihrer zukünftigen beruflichen Praxis das strategische Controlling projektorientiert in der produzierenden Industrie durchzuführen und weiterzuentwickeln. Nach Abschluss dieses Moduls sind die Studierenden in der Lage:
 	- die Schwerpunkte von strategischen Controllingfunktionen in produzierenden Unternehmen zu erklären und diese für unterschiedlichste strategische Planungsprozesse eigenständig anzuwenden
 	- komplexe Zusammenhänge zu erfassen, diese in den unternehmerischen Kontext zu stellen und Lösungsansätze für unterschiedlichste Fragestellungen in produzierenden Unternehmen zu entwickeln.
 	- umfassende aktuelle Fallstudien durchzuführen und eigenständig Lösungen für die u.g. Inhalte zu entwickeln.</text>
@@ -155,90 +177,104 @@ Der Aufbau des Businessplanseminars bedingt, dass die Studierenden fachliche Ent
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:21677#1">
       <prefLabel lang="de">Advanced Planning Systems</prefLabel>
-      <prefLabel lang="eng">Advanced Planning Systems</prefLabel>
+      <prefLabel lang="en">Advanced Planning Systems</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Studierenden lernen die verschiedenen Ebenen des Supply Chain Plannings in der Theorie und in der Anwendung mit mySAP SCM kennen</text>
-        <text content-type="text/plain" lang="eng">Die Studierenden lernen die verschiedenen Ebenen des Supply Chain Plannings in der Theorie und in der Anwendung mit mySAP SCM kennen</text>
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Die Studierenden lernen die verschiedenen Ebenen des Supply Chain Plannings in der Theorie und in der Anwendung mit mySAP SCM kennen</text>
       </description>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:21660#1">
       <prefLabel lang="de">Simulation technischer Systeme</prefLabel>
-      <prefLabel lang="eng">Simulation technischer Systeme</prefLabel>
+      <prefLabel lang="en">Simulation technischer Systeme</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Lehrveranstaltung vermittelt Grundlagen und aufbauende Methoden, so dass die Studierenden befähigt werden, in ihrer zukünftigen beruflichen Praxis komplexe technische Systeme zu planen und anhand der Simulation zu bewerten. Dazu zählt insbesondere die Anwendung der Simulation im Rahmen der Fabrikplanung. Nach Abschluss dieses Moduls sind die Studierenden in der Lage:
 	- die vermittelte Vorgehensweise zur Planung von Investitionen insbesondere in Fabrikanlagen sowie deren Fertigungseinrichtungen der produzierenden Unternehmen eigenständig anzuwenden.
 	- komplexe Zusammenhänge darzustellen und Lösungsansätze für die Layout-Gestaltung, Simulation und Optimierung von Fabriken und deren Prozesse mittels Software-Tools zu entwickeln.</text>
-        <text content-type="text/plain" lang="eng">Die Lehrveranstaltung vermittelt Grundlagen und aufbauende Methoden, so dass die Studierenden befähigt werden, in ihrer zukünftigen beruflichen Praxis komplexe technische Systeme zu planen und anhand der Simulation zu bewerten. Dazu zählt insbesondere die Anwendung der Simulation im Rahmen der Fabrikplanung. Nach Abschluss dieses Moduls sind die Studierenden in der Lage:
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Die Lehrveranstaltung vermittelt Grundlagen und aufbauende Methoden, so dass die Studierenden befähigt werden, in ihrer zukünftigen beruflichen Praxis komplexe technische Systeme zu planen und anhand der Simulation zu bewerten. Dazu zählt insbesondere die Anwendung der Simulation im Rahmen der Fabrikplanung. Nach Abschluss dieses Moduls sind die Studierenden in der Lage:
 	- die vermittelte Vorgehensweise zur Planung von Investitionen insbesondere in Fabrikanlagen sowie deren Fertigungseinrichtungen der produzierenden Unternehmen eigenständig anzuwenden.
 	- komplexe Zusammenhänge darzustellen und Lösungsansätze für die Layout-Gestaltung, Simulation und Optimierung von Fabriken und deren Prozesse mittels Software-Tools zu entwickeln.</text>
       </description>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:21643#1">
       <prefLabel lang="de">Organisationspsychologie und Changemanagement</prefLabel>
-      <prefLabel lang="eng">Organisationspsychologie und Changemanagement</prefLabel>
+      <prefLabel lang="en">Organisationspsychologie und Changemanagement</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">- Kenntnisse von Grundlagen, Methoden und Theorien zum erfolgreichen Gestalten von Zusammenarbeit in Organisationen
 	- Fähigkeit komplexe Gruppenprozesse kommunikativ zu bewerten und zu gestalten
 	- Entwicklung, Gestaltung und Bewertung von Innovations- und Veränderungsprozessen in Organisationen</text>
-        <text content-type="text/plain" lang="eng">- Kenntnisse von Grundlagen, Methoden und Theorien zum erfolgreichen Gestalten von Zusammenarbeit in Organisationen
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">- Kenntnisse von Grundlagen, Methoden und Theorien zum erfolgreichen Gestalten von Zusammenarbeit in Organisationen
 	- Fähigkeit komplexe Gruppenprozesse kommunikativ zu bewerten und zu gestalten
 	- Entwicklung, Gestaltung und Bewertung von Innovations- und Veränderungsprozessen in Organisationen</text>
       </description>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:21626#1">
       <prefLabel lang="de">Operations Research</prefLabel>
-      <prefLabel lang="eng">Operations Research</prefLabel>
+      <prefLabel lang="en">Operations Research</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Lehrveranstaltung befähigt Studierende, Fragestellungen im Bereich von Logistik und Produktion  mittels mathematischer Optimierungsverfahren zu lösen.</text>
-        <text content-type="text/plain" lang="eng">Die Lehrveranstaltung befähigt Studierende, Fragestellungen im Bereich von Logistik und Produktion  mittels mathematischer Optimierungsverfahren zu lösen.</text>
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Die Lehrveranstaltung befähigt Studierende, Fragestellungen im Bereich von Logistik und Produktion  mittels mathematischer Optimierungsverfahren zu lösen.</text>
       </description>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:21609#1">
       <prefLabel lang="de">Technische Investitionsplanung</prefLabel>
-      <prefLabel lang="eng">Technische Investitionsplanung</prefLabel>
+      <prefLabel lang="en">Technische Investitionsplanung</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Lehrveranstaltung vermittelt Grundlagen und Methoden der Planung, so dass die Studierenden befähigt werden, in ihrer zukünftigen beruflichen Praxis technisch-fokussierte Investitionen in verschiedensten Branchen und Industrien konzipieren, dimensionieren und bewerten zu können.</text>
-        <text content-type="text/plain" lang="eng">Die Lehrveranstaltung vermittelt Grundlagen und Methoden der Planung, so dass die Studierenden befähigt werden, in ihrer zukünftigen beruflichen Praxis technisch-fokussierte Investitionen in verschiedensten Branchen und Industrien konzipieren, dimensionieren und bewerten zu können.</text>
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Die Lehrveranstaltung vermittelt Grundlagen und Methoden der Planung, so dass die Studierenden befähigt werden, in ihrer zukünftigen beruflichen Praxis technisch-fokussierte Investitionen in verschiedensten Branchen und Industrien konzipieren, dimensionieren und bewerten zu können.</text>
       </description>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:21592#1">
       <prefLabel lang="de">Produktionsmanagement und Fabrikplanung</prefLabel>
-      <prefLabel lang="eng">Produktionsmanagement und Fabrikplanung</prefLabel>
+      <prefLabel lang="en">Produktionsmanagement und Fabrikplanung</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Lehrveranstaltung befähigt Studierende:
 	- Strategische und operative Produktionsmanagement-Entscheidungen in einem Unternehmen vorzubereiten bzw. mitzugestalten
 	- Die wesentlichen Instrumente und Konzepte des Produktionsmanagements und der Fabrikplanung zu kennen und anwenden zu können</text>
-        <text content-type="text/plain" lang="eng">Die Lehrveranstaltung befähigt Studierende:
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Die Lehrveranstaltung befähigt Studierende:
 	- Strategische und operative Produktionsmanagement-Entscheidungen in einem Unternehmen vorzubereiten bzw. mitzugestalten
 	- Die wesentlichen Instrumente und Konzepte des Produktionsmanagements und der Fabrikplanung zu kennen und anwenden zu können</text>
       </description>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:21575#1">
       <prefLabel lang="de">IT-Management und E-Business</prefLabel>
-      <prefLabel lang="eng">IT-Management und E-Business</prefLabel>
+      <prefLabel lang="en">IT-Management und E-Business</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Lehrveranstaltung vermittelt Grundlagen und Methoden für das Verständnis von IT-Management und E-Business.
 Dabei wird ein Schwerpunkt die Analyse aktueller Fälle/Beispiele sein.</text>
-        <text content-type="text/plain" lang="eng">Die Lehrveranstaltung vermittelt Grundlagen und Methoden für das Verständnis von IT-Management und E-Business.
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Die Lehrveranstaltung vermittelt Grundlagen und Methoden für das Verständnis von IT-Management und E-Business.
 Dabei wird ein Schwerpunkt die Analyse aktueller Fälle/Beispiele sein.</text>
       </description>
     </learningOutcome>
     <studyProgramme id="urn:thl:learning:spec:studyprogramme:877377">
       <title lang="de">Wirtschaftsingenieurwesen, Master</title>
-      <title lang="eng">Wirtschaftsingenieurwesen, Master</title>
+      <title lang="en">Wirtschaftsingenieurwesen, Master</title>
       <hasEducationLevel>
         <targetName lang="de">B. Sc.</targetName>
-        <targetName lang="eng">B. Sc.</targetName>
+        <targetName lang="en">B. Sc.</targetName>
       </hasEducationLevel>
     </studyProgramme>
     <stupo id="urn:thl:learning:spec:stupo:877377">
       <title lang="de">Wirtschaftsingenieurwesen, Master</title>
-      <title lang="eng">Wirtschaftsingenieurwesen, Master</title>
+      <title lang="en">Wirtschaftsingenieurwesen, Master</title>
       <specializationOf idref="urn:thl:learning:spec:studyprogramme:877377"/>
     </stupo>
     <studySection id="urn:thl:learning:spec:studysection:877377">
       <title lang="de">Wirtschaftsingenieurwesen, Master</title>
-      <title lang="eng">Wirtschaftsingenieurwesen, Master</title>
+      <title lang="en">Wirtschaftsingenieurwesen, Master</title>
       <hasPart idref="urn:thl:learning:spec:21575#1"/>
       <hasPart idref="urn:thl:learning:spec:21592#1"/>
       <hasPart idref="urn:thl:learning:spec:21609#1"/>
@@ -261,12 +297,14 @@ Dabei wird ein Schwerpunkt die Analyse aktueller Fälle/Beispiele sein.</text>
       <identifier>21575#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">IT-Management und E-Business</title>
-      <title lang="eng">IT-Management und E-Business</title>
+      <title lang="en">IT-Management und E-Business</title>
       <definition>
         <text content-type="text/plain" lang="de">- Vermittlung der Grundlagen von IT-Prozessen, IT-Governance und IT-Management
 	- Vermittlung der Grundlagen von E-Business, E-Marketing, E-Commerce und E-Procurement
 Studierende sollen die Fähigkeit erwerben, vorstehende Themen für einen möglichen Einsatz in ihrer späteren beruflichen Praxis beurteilen und Abhängigkeiten erkennen zu können.</text>
-        <text content-type="text/plain" lang="eng">- Vermittlung der Grundlagen von IT-Prozessen, IT-Governance und IT-Management
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">- Vermittlung der Grundlagen von IT-Prozessen, IT-Governance und IT-Management
 	- Vermittlung der Grundlagen von E-Business, E-Marketing, E-Commerce und E-Procurement
 Studierende sollen die Fähigkeit erwerben, vorstehende Themen für einen möglichen Einsatz in ihrer späteren beruflichen Praxis beurteilen und Abhängigkeiten erkennen zu können.</text>
       </definition>
@@ -279,7 +317,9 @@ Studierende sollen die Fähigkeit erwerben, vorstehende Themen für einen mögli
 	- Christian Maaß: E-Business-Management, UTB
 	- Andreas Meier, Henrik Stormer: eBusiness &amp; eCommerce - Management der digitalen Wertschöpfungskette, Springer
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Literatur (in Auswahl):
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Literatur (in Auswahl):
 	- Div. aktuelle Artikel etc.
 	- Hans Robert Hansen, Gustaf Neumann: Wirtschaftsinformatik 1, Grundlagen und Anwendungen
 	- Tobias Kollmann: E-Business - Grundlagen elektronischer Geschäftsprozesse in der Net Economy, Gabler
@@ -290,11 +330,15 @@ Studierende sollen die Fähigkeit erwerben, vorstehende Themen für einen mögli
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21575&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -307,7 +351,9 @@ Studierende sollen die Fähigkeit erwerben, vorstehende Themen für einen mögli
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:21575#1"/>
@@ -326,20 +372,20 @@ Studierende sollen die Fähigkeit erwerben, vorstehende Themen für einen mögli
     <learningEvent id="urn:thl:learning:spec:21575#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">IT-Management und E-Business</title>
-      <title lang="eng">IT-Management und E-Business</title>
+      <title lang="en">IT-Management und E-Business</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:21575#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:21575">
       <identifier>21575</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 21575</title>
-      <title lang="eng">Modul 21575</title>
+      <title lang="en">Modul 21575</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:21592#1">
       <identifier>21592#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Produktionsmanagement und Fabrikplanung</title>
-      <title lang="eng">Produktionsmanagement und Fabrikplanung</title>
+      <title lang="en">Produktionsmanagement und Fabrikplanung</title>
       <definition>
         <text content-type="text/plain" lang="de">- Einführung
 	- Fabrikplanung
@@ -350,7 +396,9 @@ Studierende sollen die Fähigkeit erwerben, vorstehende Themen für einen mögli
 	- Strategisches Produktionsmanagement
 	- Operatives Produktionsmanagement
 	- Fallstudie</text>
-        <text content-type="text/plain" lang="eng">- Einführung
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">- Einführung
 	- Fabrikplanung
 	- Produktionsmanagement
 	- Fabrikplanungssystematik
@@ -370,7 +418,9 @@ McGrath, R. G.: The End of Competitive Advantage. Boston: Harvard Business Revie
 Schenk, M.; Wirth, S. (Hrsg.) Fabrikplanung und Fabrikbetrieb. Berlin u.a.: Springer 2004
 Thonemann, U.: Operations Management. Pearson: München  2015
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Corsten, H.; Gössinger, R.: Produktionswirtschaft. Oldenbourg: München und Wien 2016
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Corsten, H.; Gössinger, R.: Produktionswirtschaft. Oldenbourg: München und Wien 2016
 Domschke, W.; Drexl, A.: Logistik: Standorte. München, Wien: Oldenbourg 1996
 Eversheim, W.; Schuh, G. (Hrsg): Gestaltung von Produktionssystemen. Berlin u.a.: Springer 1999
 Grundig, C.-G.: Fabrikplanung. München: Hanser 2016
@@ -382,11 +432,15 @@ Thonemann, U.: Operations Management. Pearson: München  2015
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21592&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -399,7 +453,9 @@ Thonemann, U.: Operations Management. Pearson: München  2015
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:21592#1"/>
@@ -418,27 +474,29 @@ Thonemann, U.: Operations Management. Pearson: München  2015
     <learningEvent id="urn:thl:learning:spec:21592#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Produktionsmanagement und Fabrikplanung</title>
-      <title lang="eng">Produktionsmanagement und Fabrikplanung</title>
+      <title lang="en">Produktionsmanagement und Fabrikplanung</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:21592#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:21592">
       <identifier>21592</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 21592</title>
-      <title lang="eng">Modul 21592</title>
+      <title lang="en">Modul 21592</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:21609#1">
       <identifier>21609#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Technische Investitionsplanung</title>
-      <title lang="eng">Technische Investitionsplanung</title>
+      <title lang="en">Technische Investitionsplanung</title>
       <definition>
         <text content-type="text/plain" lang="de">- Grundlagen der Investitions- und Fabrikplanung - Allgemeine Definition, Tätigkeitsprofile, Aufbauorganisation
 	- Konzeption und Auslegung technischer Anlagen
 	- Eindimensionale Bewertungsverfahren - Statische und dynamische Methoden
 	- Mehrdimensionale Bewertungsverfahren - Qualitative Bewertungsmethoden, Risikoanalysen, Sensitivitäten
 	- Fallstudien</text>
-        <text content-type="text/plain" lang="eng">- Grundlagen der Investitions- und Fabrikplanung - Allgemeine Definition, Tätigkeitsprofile, Aufbauorganisation
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">- Grundlagen der Investitions- und Fabrikplanung - Allgemeine Definition, Tätigkeitsprofile, Aufbauorganisation
 	- Konzeption und Auslegung technischer Anlagen
 	- Eindimensionale Bewertungsverfahren - Statische und dynamische Methoden
 	- Mehrdimensionale Bewertungsverfahren - Qualitative Bewertungsmethoden, Risikoanalysen, Sensitivitäten
@@ -449,18 +507,24 @@ Thonemann, U.: Operations Management. Pearson: München  2015
 Wiendahl / Reichardt/ Nyhuis: Handbuch Fabrikplanung: Konzept, Gestaltung und Umsetzung wandlungsfähiger Produktionsstätten, 2014
 Kettner / Schmidt / Greim: Leitfaden der systematischen Fabrikplanung, 1984
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Grundig, Claus-Gerold: Fabrikplanung: Planungssystematik - Methoden – Anwendungen; 2018
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Grundig, Claus-Gerold: Fabrikplanung: Planungssystematik - Methoden – Anwendungen; 2018
 Wiendahl / Reichardt/ Nyhuis: Handbuch Fabrikplanung: Konzept, Gestaltung und Umsetzung wandlungsfähiger Produktionsstätten, 2014
 Kettner / Schmidt / Greim: Leitfaden der systematischen Fabrikplanung, 1984
 </text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21609&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -473,7 +537,9 @@ Kettner / Schmidt / Greim: Leitfaden der systematischen Fabrikplanung, 1984
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:21609#1"/>
@@ -492,20 +558,20 @@ Kettner / Schmidt / Greim: Leitfaden der systematischen Fabrikplanung, 1984
     <learningEvent id="urn:thl:learning:spec:21609#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Technische Investitionsplanung</title>
-      <title lang="eng">Technische Investitionsplanung</title>
+      <title lang="en">Technische Investitionsplanung</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:21609#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:21609">
       <identifier>21609</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 21609</title>
-      <title lang="eng">Modul 21609</title>
+      <title lang="en">Modul 21609</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:21626#1">
       <identifier>21626#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Operations Research</title>
-      <title lang="eng">Operations Research</title>
+      <title lang="en">Operations Research</title>
       <definition>
         <text content-type="text/plain" lang="de">- Einführung
 	- Lineare Optimierung
@@ -513,7 +579,9 @@ Kettner / Schmidt / Greim: Leitfaden der systematischen Fabrikplanung, 1984
 	- Heuristiken
 	- Ganzzahlige Optimierung
 	- Dynamische Optimierung</text>
-        <text content-type="text/plain" lang="eng">- Einführung
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">- Einführung
 	- Lineare Optimierung
 	- Graphen und Netzwerke
 	- Heuristiken
@@ -534,7 +602,9 @@ Thonemann, U.: Operations Management – Konzepte, Methoden, Anwendungen. Pearso
 Werners, B.: Grundlagen des Operations Research. Berlin, Heidelberg:Springer  2013
 Zimmermann, H.-J.: Operations Research. Wiesbaden: Vieweg 2008
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Domschke, W.; Drexl, A.; Klein, Robert; Scholl, A.: Einführung Operations Research. Berlin, Heidelberg:Springer  2015
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Domschke, W.; Drexl, A.; Klein, Robert; Scholl, A.: Einführung Operations Research. Berlin, Heidelberg:Springer  2015
 Domschke, W.; Drexl, A.: Logistik: Transport. München: Oldenbourg 2007
 Dürr, W.; Kleibohm, K.: Operations Research. München, Wien: Hanser 1992
 Gohout, W.: Operations Research. München: Oldenbourg 2009
@@ -550,11 +620,15 @@ Zimmermann, H.-J.: Operations Research. Wiesbaden: Vieweg 2008
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21626&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -567,7 +641,9 @@ Zimmermann, H.-J.: Operations Research. Wiesbaden: Vieweg 2008
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:21626#1"/>
@@ -586,20 +662,20 @@ Zimmermann, H.-J.: Operations Research. Wiesbaden: Vieweg 2008
     <learningEvent id="urn:thl:learning:spec:21626#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Operations Research</title>
-      <title lang="eng">Operations Research</title>
+      <title lang="en">Operations Research</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:21626#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:21626">
       <identifier>21626</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 21626</title>
-      <title lang="eng">Modul 21626</title>
+      <title lang="en">Modul 21626</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:21643#1">
       <identifier>21643#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Organisationspsychologie und Changemanagement</title>
-      <title lang="eng">Organisationspsychologie und Changemanagement</title>
+      <title lang="en">Organisationspsychologie und Changemanagement</title>
       <definition>
         <text content-type="text/plain" lang="de">Organisationspsychologie:
 	- Grundlagen der Organisationspsychologie
@@ -627,7 +703,9 @@ Changemanagement:
 	- Kreativitätstechniken, Wahrnehmung, Innovationszirkel etc.
 	- Produktinnovationen
 	- Prozessinnovationen</text>
-        <text content-type="text/plain" lang="eng">Organisationspsychologie:
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Organisationspsychologie:
 	- Grundlagen der Organisationspsychologie
 	- Grundlagen der Sozialpsychologie
 	- Grundlagen der Persönlichkeitspsychologie
@@ -662,7 +740,9 @@ Changemanagement:
 	- Nerdinger, Friedemann W., Gerhard Blickle und Niclas Schaper (Hrsg.): Arbeits- und Organisationspsychologie. 3. Aufl. Berlin, Heidelberg: Springer, 2014
 	- Jonas/Stroebe/Newstone (Hrsg.) Sozialpsychologie, Springer Verlag Berlin Heidelberg 2014
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: 	- Dittrich-Brauner, Karin; Eberhard Dittmann, Volker List und Carmen Windisch: Interaktive Großgruppen. Change-Prozesse in Organisationen gestalten. 2. Aufl. Heidelberg: Springer, 2013
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: 	- Dittrich-Brauner, Karin; Eberhard Dittmann, Volker List und Carmen Windisch: Interaktive Großgruppen. Change-Prozesse in Organisationen gestalten. 2. Aufl. Heidelberg: Springer, 2013
 	- Kanning, Peter Uwe und Thomas Staufenbiel: Organisationspsychologie. Reihe: Bachelorstudium Psychologie, Bd. 11. Göttingen: Hogrefe, 2012
 	- Kauffeld, Simone (Hrsg.): Arbeits-, Organisations- und Personalpsychologie. 2. Aufl. Berlin/Heidelberg: Springer, 2014
 	- König, Eckard und Gerda Volmer: Handbuch Systemische Organisationsberatung. Beltz: Weinheim und Basel, 2008
@@ -672,11 +752,15 @@ Changemanagement:
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21643&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -689,7 +773,9 @@ Changemanagement:
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:21643#1"/>
@@ -709,26 +795,26 @@ Changemanagement:
     <learningEvent id="urn:thl:learning:spec:21643#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Organisationspsychologie</title>
-      <title lang="eng">Organisationspsychologie</title>
+      <title lang="en">Organisationspsychologie</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:21643#1-1"/>
     </learningEvent>
     <learningEvent id="urn:thl:learning:spec:21643#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Changemanagement</title>
-      <title lang="eng">Changemanagement</title>
+      <title lang="en">Changemanagement</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:21643#1-2"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:21643">
       <identifier>21643</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 21643</title>
-      <title lang="eng">Modul 21643</title>
+      <title lang="en">Modul 21643</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:21660#1">
       <identifier>21660#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Simulation technischer Systeme</title>
-      <title lang="eng">Simulation technischer Systeme</title>
+      <title lang="en">Simulation technischer Systeme</title>
       <definition>
         <text content-type="text/plain" lang="de">- Einführung in die Systemplanung und Simulation
 	- Struktur des Planungsprozesses
@@ -741,7 +827,9 @@ Changemanagement:
 	- Strukturplanung
 	- Ausführungsplanung
 Fallstudien</text>
-        <text content-type="text/plain" lang="eng">- Einführung in die Systemplanung und Simulation
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">- Einführung in die Systemplanung und Simulation
 	- Struktur des Planungsprozesses
 	- Einführung in die Simulationssoftware FLEXSIM
 	- Projekt
@@ -763,7 +851,9 @@ Fallstudien</text>
 	- Pawellek, G.; Ganzheitliche Fabrikplanung: Grundlagen, Vorgehensweise, VDI-Buch, Springer Verlag, Berlin, 2014.
 	- Wiendahl, H.-P.; Planung modularer Fabriken: Vorgehen und Beispiele aus der Praxis, Hanser Verlag, 2013.
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: 	- Aggteleky, B.; Fabrikplanung - Werksentwicklung und Betriebsrationalisierung, Band 1: Grundlagen, Zielplanung, Vorarbeiten, Carl Hanser Verlag, München, Wien, 1998.
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: 	- Aggteleky, B.; Fabrikplanung - Werksentwicklung und Betriebsrationalisierung, Band 1: Grundlagen, Zielplanung, Vorarbeiten, Carl Hanser Verlag, München, Wien, 1998.
 	- Aggteleky, B.; Fabrikplanung - Werksentwicklung und Betriebsrationalisierung, Band 2: Betriebsanalyse, Feasibility- Studie, Carl Hanser Verlag, München, Wien, 2001.
 	- Aggteleky, B.: Fabrikplanung - Werksentwicklung und Betriebsrationalisierung, Band 3: Ausführungsplanung und Projektmanagement, Carl Hanser Verlag, München, Wien, 1990.
 	- Grundig, C.-G.; Fabrikplanung: Planungssystematik, Methoden, Anwendungen, München, Hanser Verlag, 2014.
@@ -775,11 +865,15 @@ Fallstudien</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21660&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -792,7 +886,9 @@ Fallstudien</text>
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:21660#1"/>
@@ -811,20 +907,20 @@ Fallstudien</text>
     <learningEvent id="urn:thl:learning:spec:21660#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Simulation technischer Systeme</title>
-      <title lang="eng">Simulation technischer Systeme</title>
+      <title lang="en">Simulation technischer Systeme</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:21660#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:21660">
       <identifier>21660</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 21660</title>
-      <title lang="eng">Modul 21660</title>
+      <title lang="en">Modul 21660</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:21677#1">
       <identifier>21677#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Advanced Planning Systems</title>
-      <title lang="eng">Advanced Planning Systems</title>
+      <title lang="en">Advanced Planning Systems</title>
       <definition>
         <text content-type="text/plain" lang="de">- S&amp;OP und Produktionsprogrammplanung im ERP-Umfeld,
 	- 
@@ -850,7 +946,9 @@ Supply Network Planning (SNP)
 	- manuelle Bedarfsübergabe
 	- Optimierungstechniken
 	- Vergleich zu S&amp;OP u. Programmplanung im ERP</text>
-        <text content-type="text/plain" lang="eng">- S&amp;OP und Produktionsprogrammplanung im ERP-Umfeld,
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">- S&amp;OP und Produktionsprogrammplanung im ERP-Umfeld,
 	- 
 Advanced Planning Systems (APS)
 	- 
@@ -883,7 +981,9 @@ Supply Network Planning (SNP)
 	- Absatz- und Bestandsplanung mit SAP APO, Hoppe, Galileo Press, Bonn
 	- Demand and Supply Planning with SAP APO, Pradhan, Galileo Press, Bonn
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: 	- SAP APO-System, vorbereitete Fallstudien und Vortragsunterlagen
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: 	- SAP APO-System, vorbereitete Fallstudien und Vortragsunterlagen
 	- Supply Chain Management mit SAP APO, Bartsch u.a., Galileo Press, Bonn
 	- Supply Chain Management with APO: Structures, Modelling Approaches and Implementation Pecularities, Dickersbach, Springer Verlag, Berlin
 	- Supply Chain Management auf Basis von SAP-Systemen, Mertens u.a., Springer Verlag, Berlin - Supply Chain Management and Advanced Planning: Concepts, Models, Software, and Case Studies, Stadtler, Kilger, Springer Verlag, Berlin
@@ -893,11 +993,15 @@ Supply Network Planning (SNP)
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21677&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -910,7 +1014,9 @@ Supply Network Planning (SNP)
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:21677#1"/>
@@ -929,20 +1035,20 @@ Supply Network Planning (SNP)
     <learningEvent id="urn:thl:learning:spec:21677#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Advanced Planning Systems</title>
-      <title lang="eng">Advanced Planning Systems</title>
+      <title lang="en">Advanced Planning Systems</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:21677#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:21677">
       <identifier>21677</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 21677</title>
-      <title lang="eng">Modul 21677</title>
+      <title lang="en">Modul 21677</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:21694#1">
       <identifier>21694#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Strategisches Produktionscontrolling und Fallstudien</title>
-      <title lang="eng">Strategisches Produktionscontrolling und Fallstudien</title>
+      <title lang="en">Strategisches Produktionscontrolling und Fallstudien</title>
       <definition>
         <text content-type="text/plain" lang="de">Strategisches Produktionscontrolling:
 	- Grundlagen des Controlling
@@ -963,7 +1069,9 @@ Supply Network Planning (SNP)
 
 Fallstudien - Strategisches Produktionscontrolling:
 Fallstudie: Sanierung eines Unternehmens</text>
-        <text content-type="text/plain" lang="eng">Strategisches Produktionscontrolling:
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Strategisches Produktionscontrolling:
 	- Grundlagen des Controlling
 	- Strategisches Controlling
 	- Methoden des strategischen Controlling
@@ -990,7 +1098,9 @@ Fallstudie: Sanierung eines Unternehmens</text>
 	- Reichmann, T.; Controlling mit Kennzahlen, München, Vahlen, 2017.
 	- Gathen, von der A.; Das große Handbuch der Strategieinstrumente, Frankfurt, Campus Verlag, 2014.
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: 	- Horvath, P., Controlling, München, Vahlen, 2015.
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: 	- Horvath, P., Controlling, München, Vahlen, 2015.
 	- Kerth, K., Asum, H.; Die besten Strategietools in der Praxis, München, Carl Hanser Verlag, 2015.
 	- Kralicek, P., Böhmdorfer, F.; Kennzahlen für Geschäftsführer, Wien/Frankfurt, Wirtschaftsverlag Ueberreuter, 2013.
 	- Reichmann, T.; Controlling mit Kennzahlen, München, Vahlen, 2017.
@@ -999,11 +1109,15 @@ Fallstudie: Sanierung eines Unternehmens</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21694&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -1016,7 +1130,9 @@ Fallstudie: Sanierung eines Unternehmens</text>
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:21694#1"/>
@@ -1036,26 +1152,26 @@ Fallstudie: Sanierung eines Unternehmens</text>
     <learningEvent id="urn:thl:learning:spec:21694#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Strategisches Produktionscontrolling</title>
-      <title lang="eng">Strategisches Produktionscontrolling</title>
+      <title lang="en">Strategisches Produktionscontrolling</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:21694#1-1"/>
     </learningEvent>
     <learningEvent id="urn:thl:learning:spec:21694#1-2">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Fallstudien - Strategisches Produktionscontrolling</title>
-      <title lang="eng">Fallstudien - Strategisches Produktionscontrolling</title>
+      <title lang="en">Fallstudien - Strategisches Produktionscontrolling</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:21694#1-2"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:21694">
       <identifier>21694</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 21694</title>
-      <title lang="eng">Modul 21694</title>
+      <title lang="en">Modul 21694</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:21711#1">
       <identifier>21711#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Telematik-Anwendungen</title>
-      <title lang="eng">Telematik-Anwendungen</title>
+      <title lang="en">Telematik-Anwendungen</title>
       <definition>
         <text content-type="text/plain" lang="de">- Elemente der Verkehrs-Telematik - Ortung mobiler Objekte im Verkehrsgeschehen
 	- Wirtschaftlichkeitsbetrachtungen - Konzept des TCO Total Cost of Ownership
@@ -1067,7 +1183,9 @@ Fallstudie: Sanierung eines Unternehmens</text>
 	- Biometrische Verfahren -Wahrnehmung, Visualisierung
 	- GIS - Geographische Informationssysteme
 	- Spezielle Anwendungen von Telematik Landwirtschaft, Medizin, Touristik, Logistik, Hausautomation etc.</text>
-        <text content-type="text/plain" lang="eng">- Elemente der Verkehrs-Telematik - Ortung mobiler Objekte im Verkehrsgeschehen
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">- Elemente der Verkehrs-Telematik - Ortung mobiler Objekte im Verkehrsgeschehen
 	- Wirtschaftlichkeitsbetrachtungen - Konzept des TCO Total Cost of Ownership
 	- IT-Sicherheit - Sicherheitskonzepte
 	- Zielfindungs- und Zielführungssysteme- Verkehrsleitsysteme, - Parkhausleitsysteme
@@ -1083,18 +1201,24 @@ Fallstudie: Sanierung eines Unternehmens</text>
 Leitfaden Verkehrs-Telematik-Hinweise zur Planung und Nutzung in Kommunen und Kreisen, TU Darmstadt, ZIV – Zentrum für integrierte Verkehrssysteme, 2005
 Evers, Harry. (Hrsg.): Kompendium der Verkehrs-Telematik; Technologien, Applikationen, Perspektiven
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Dochow: Grundlagen und normativer Rahmen der Telematik im Gesundheitswesen; 2017
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Dochow: Grundlagen und normativer Rahmen der Telematik im Gesundheitswesen; 2017
 Leitfaden Verkehrs-Telematik-Hinweise zur Planung und Nutzung in Kommunen und Kreisen, TU Darmstadt, ZIV – Zentrum für integrierte Verkehrssysteme, 2005
 Evers, Harry. (Hrsg.): Kompendium der Verkehrs-Telematik; Technologien, Applikationen, Perspektiven
 </text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21711&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -1107,7 +1231,9 @@ Evers, Harry. (Hrsg.): Kompendium der Verkehrs-Telematik; Technologien, Applikat
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:21711#1"/>
@@ -1126,20 +1252,20 @@ Evers, Harry. (Hrsg.): Kompendium der Verkehrs-Telematik; Technologien, Applikat
     <learningEvent id="urn:thl:learning:spec:21711#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Telematik-Anwendungen</title>
-      <title lang="eng">Telematik-Anwendungen</title>
+      <title lang="en">Telematik-Anwendungen</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:21711#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:21711">
       <identifier>21711</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 21711</title>
-      <title lang="eng">Modul 21711</title>
+      <title lang="en">Modul 21711</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:21728#1">
       <identifier>21728#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Supply Chain Management</title>
-      <title lang="eng">Supply Chain Management</title>
+      <title lang="en">Supply Chain Management</title>
       <definition>
         <text content-type="text/plain" lang="de">- Introduction to SCM
 	- Supply Chain Design and Operations
@@ -1154,7 +1280,9 @@ Evers, Harry. (Hrsg.): Kompendium der Verkehrs-Telematik; Technologien, Applikat
 	- Selected quantitative models
 	- Change management
 E-Business</text>
-        <text content-type="text/plain" lang="eng">- Introduction to SCM
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">- Introduction to SCM
 	- Supply Chain Design and Operations
 	- SCM information systems
 	- Case study/Exercise:
@@ -1183,7 +1311,9 @@ Schönsleben, P.: Integrated Logistics Management. Boca
 Raton et al: St. Lucie 2000
 Simchi-Levi, D.; Kaminsky, P.; Simchi-Levi, E. Designing and Managing the Supply Chain; Mcgraw-Hill Education - Europe; Auflage: 4 Rev ed. 2016
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Chopra, S.; Meindl, P. ; Supply Chain Management
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Chopra, S.; Meindl, P. ; Supply Chain Management
 Pearson Education Limited; Auflage: 6th Global ed Mai 2016
 Corsten, D.; Gabriel, Chr.: Supply Chain Management
 erfolgreich umsetzen. Berlin u.a.: Springer 2002
@@ -1200,11 +1330,15 @@ Simchi-Levi, D.; Kaminsky, P.; Simchi-Levi, E. Designing and Managing the Supply
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21728&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -1217,7 +1351,9 @@ Simchi-Levi, D.; Kaminsky, P.; Simchi-Levi, E. Designing and Managing the Supply
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:21728#1"/>
@@ -1236,20 +1372,20 @@ Simchi-Levi, D.; Kaminsky, P.; Simchi-Levi, E. Designing and Managing the Supply
     <learningEvent id="urn:thl:learning:spec:21728#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Supply Chain Management</title>
-      <title lang="eng">Supply Chain Management</title>
+      <title lang="en">Supply Chain Management</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:21728#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:21728">
       <identifier>21728</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 21728</title>
-      <title lang="eng">Modul 21728</title>
+      <title lang="en">Modul 21728</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:21745#1">
       <identifier>21745#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Verkehrsbetriebslehre</title>
-      <title lang="eng">Verkehrsbetriebslehre</title>
+      <title lang="en">Verkehrsbetriebslehre</title>
       <definition>
         <text content-type="text/plain" lang="de">- Unternehmensformen in Verkehr und Logistik - Verkehrsunternehmen, Spediteure, Logistikdienstleister, Reedereien etc.
 	- Anforderungen an Verkehrsbetriebe und Logistikdienstleister - Besonderheiten der betrieblichen Leistungserstellung
@@ -1260,7 +1396,9 @@ Simchi-Levi, D.; Kaminsky, P.; Simchi-Levi, E. Designing and Managing the Supply
 	- Spezielle Logistik -Automobil-, Textil-, Kühl-, Getränke-, Gefahrgut-Logistik u.a.
 	- Beschaffungskonzepte
 	- Instrumente des Controllings für Verkehrs- und Logistikbetriebe -Aspekte der Preisgestaltung für Dienstleistungen in Logistik- und Verkehr</text>
-        <text content-type="text/plain" lang="eng">- Unternehmensformen in Verkehr und Logistik - Verkehrsunternehmen, Spediteure, Logistikdienstleister, Reedereien etc.
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">- Unternehmensformen in Verkehr und Logistik - Verkehrsunternehmen, Spediteure, Logistikdienstleister, Reedereien etc.
 	- Anforderungen an Verkehrsbetriebe und Logistikdienstleister - Besonderheiten der betrieblichen Leistungserstellung
 	- Kerngedanken des Supply Chain Managements -Gestaltungsparameter, Rahmenbedingungen
 	- Vorgehen zur Planung der Transportlogistik - Analyse von Transport- und Distributionsnetzen
@@ -1274,17 +1412,23 @@ Simchi-Levi, D.; Kaminsky, P.; Simchi-Levi, E. Designing and Managing the Supply
         <text content-type="text/plain" lang="de">Literaturangaben: Clausen / Geiger (Hrsg.): Verkehrs- und Transportlogistik, Springer-Verlag Berlin Heidelberg 2013
 Holderied, C.: Güterverkehr, Spedition und Logistik: Managementkonzepte für Güterverkehrs-betriebe, Speditionsunternehmen und logistische Dienstleister, 2005
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Clausen / Geiger (Hrsg.): Verkehrs- und Transportlogistik, Springer-Verlag Berlin Heidelberg 2013
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Clausen / Geiger (Hrsg.): Verkehrs- und Transportlogistik, Springer-Verlag Berlin Heidelberg 2013
 Holderied, C.: Güterverkehr, Spedition und Logistik: Managementkonzepte für Güterverkehrs-betriebe, Speditionsunternehmen und logistische Dienstleister, 2005
 </text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21745&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -1297,7 +1441,9 @@ Holderied, C.: Güterverkehr, Spedition und Logistik: Managementkonzepte für G�
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:21745#1"/>
@@ -1316,23 +1462,25 @@ Holderied, C.: Güterverkehr, Spedition und Logistik: Managementkonzepte für G�
     <learningEvent id="urn:thl:learning:spec:21745#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Verkehrsbetriebslehre</title>
-      <title lang="eng">Verkehrsbetriebslehre</title>
+      <title lang="en">Verkehrsbetriebslehre</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:21745#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:21745">
       <identifier>21745</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 21745</title>
-      <title lang="eng">Modul 21745</title>
+      <title lang="en">Modul 21745</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:21762#1">
       <identifier>21762#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Businessplan</title>
-      <title lang="eng">Businessplan</title>
+      <title lang="en">Businessplan</title>
       <definition>
         <text content-type="text/plain" lang="de">Im Rahmen der Veranstaltung werden die Geschäftsideen für eine potenzielle Unternehmensgründung gesammelt, bewertet und in Form eines detaillierten Business Plans ausgearbeitet. Mittels Fachvorträgen zu den einzelnen Bestandteilen des Business Plans soll dessen Relevanz für die unternehmerische Praxis gezeigt werden. Die Studierenden arbeiten in Arbeitsgruppen einen vollständigen Businessplan selbstständig aus.</text>
-        <text content-type="text/plain" lang="eng">Im Rahmen der Veranstaltung werden die Geschäftsideen für eine potenzielle Unternehmensgründung gesammelt, bewertet und in Form eines detaillierten Business Plans ausgearbeitet. Mittels Fachvorträgen zu den einzelnen Bestandteilen des Business Plans soll dessen Relevanz für die unternehmerische Praxis gezeigt werden. Die Studierenden arbeiten in Arbeitsgruppen einen vollständigen Businessplan selbstständig aus.</text>
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Im Rahmen der Veranstaltung werden die Geschäftsideen für eine potenzielle Unternehmensgründung gesammelt, bewertet und in Form eines detaillierten Business Plans ausgearbeitet. Mittels Fachvorträgen zu den einzelnen Bestandteilen des Business Plans soll dessen Relevanz für die unternehmerische Praxis gezeigt werden. Die Studierenden arbeiten in Arbeitsgruppen einen vollständigen Businessplan selbstständig aus.</text>
       </definition>
       <additionalNote>
         <text content-type="text/plain" lang="de">Literaturangaben: Ries, E. (2017). The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses. London: Penguin Books.
@@ -1343,7 +1491,9 @@ Fueglistaller, U.; Müller, C.; Volery, T. (2016). Entrepreneurship. Modelle –
 Vollmann, S. (2018). Innovationsmanagement unter extremer Unsicherheit: Neue Methoden zur Ideenbewertung zu Beginn des Innovationsprozesses. Marburg: Büchner Verlag
 Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderheiten, Aufgaben und Lösungsansätze für Gründungsunternehmen. Wiesbaden: Springer Gabler
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Ries, E. (2017). The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses. London: Penguin Books.
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Ries, E. (2017). The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses. London: Penguin Books.
 Kollmann, T. (2016). E-Entrepreneurship: Grundlagen der Unternehmensgründung in der Digitalen Wirtschaft. 6. Auflage. Wiesbaden: Springer Gabler.
 Kailer, N.; Weiß, G. (2018). Gründungsmanagement kompakt: Von der Idee zum Businessplan. Wien: Linde Verlag
 Hering, T.; Olbrich, M.; Klein, A. (2018). Unternehmensnachfolge (Lehr- und Handbücher der Wirtschaftswissenschaft). Berlin: Walter de Gruyter GmbH.
@@ -1354,11 +1504,15 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21762&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -1371,7 +1525,9 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:21762#1"/>
@@ -1390,27 +1546,29 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
     <learningEvent id="urn:thl:learning:spec:21762#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Businessplan</title>
-      <title lang="eng">Businessplan</title>
+      <title lang="en">Businessplan</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:21762#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:21762">
       <identifier>21762</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 21762</title>
-      <title lang="eng">Modul 21762</title>
+      <title lang="en">Modul 21762</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:21779#1">
       <identifier>21779#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Entrepreneurial Behavior</title>
-      <title lang="eng">Entrepreneurial Behavior</title>
+      <title lang="en">Entrepreneurial Behavior</title>
       <definition>
         <text content-type="text/plain" lang="de">- Psychologie von UnternehmerInnen und unternehmerischen Teams
 	- Unternehmerische Entscheidungsfindung und Umsetzung
 	- Motivation von MitarbeiterInnen
 	- Personalführung und Persönlichkeitsentwicklung
 	- Einfluss der unternehmerischen Leidenschaft auf die Handlungen von Entrepreneuren</text>
-        <text content-type="text/plain" lang="eng">- Psychologie von UnternehmerInnen und unternehmerischen Teams
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">- Psychologie von UnternehmerInnen und unternehmerischen Teams
 	- Unternehmerische Entscheidungsfindung und Umsetzung
 	- Motivation von MitarbeiterInnen
 	- Personalführung und Persönlichkeitsentwicklung
@@ -1423,7 +1581,9 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
 	- Sozialpsychologie - Interaktion und GruppeDieter Frey, Hans Werner Bierhoff:  - Hogrefe Verlag, Göttingen 2011
 	- International Human Resource ManagementPeter Dowling, Marion Festing, Allen D. Engle:  - 5th Edition, London, 2008
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: 	- Organisations- und PersonalpsychologieAnsfried B. Weinert:  - Beitz Verlag, Basel, 2004
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: 	- Organisations- und PersonalpsychologieAnsfried B. Weinert:  - Beitz Verlag, Basel, 2004
 	- Grundlagen der OrganisationspsychologieLutz von Rosenstiel, Friedemann W. Nerdinger:  - Schaeffer Poeschel Verlag, 7. überarbeitete Auflage
 	- Psychologie für die WirtschaftLioba Werth:  - Spektrum Akademischer Verlag, 2004
 	- Sozialpsychologie - Interaktion und GruppeDieter Frey, Hans Werner Bierhoff:  - Hogrefe Verlag, Göttingen 2011
@@ -1432,11 +1592,15 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21779&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -1449,7 +1613,9 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:21779#1"/>
@@ -1468,20 +1634,20 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
     <learningEvent id="urn:thl:learning:spec:21779#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Entrepreneurial Behavior</title>
-      <title lang="eng">Entrepreneurial Behavior</title>
+      <title lang="en">Entrepreneurial Behavior</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:21779#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:21779">
       <identifier>21779</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 21779</title>
-      <title lang="eng">Modul 21779</title>
+      <title lang="en">Modul 21779</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:21796#1">
       <identifier>21796#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Verhandlungsführung</title>
-      <title lang="eng">Verhandlungsführung</title>
+      <title lang="en">Verhandlungsführung</title>
       <definition>
         <text content-type="text/plain" lang="de">- Grundlagen der Verhandlungsführung
 	- Prozessschritte von Verhandlungen
@@ -1489,7 +1655,9 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
 	- Individuelle Verhandlungsdifferenzen
 	- Lösungen für Verhandlungsdifferenzen
 	- Emotionen in Verhandlungen</text>
-        <text content-type="text/plain" lang="eng">- Grundlagen der Verhandlungsführung
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">- Grundlagen der Verhandlungsführung
 	- Prozessschritte von Verhandlungen
 	- Verhandlungszusammenhänge
 	- Individuelle Verhandlungsdifferenzen
@@ -1506,7 +1674,9 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
 	- Allgemeine Betriebs- und Managementlehre, Grundlagen und Praxis einer integrierten marktorientierten UnternehmensführungOpresnik, Rennhak:  - Gabler, 2011
 	- Visualisieren - Präsentieren - ModerierenSeifert:  - 23. Auflage, Offenbach, 2009
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: 	- Marketing - A relationship approachHollensen, Oprensik:  - Vahlen Verlag, München, 2010
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: 	- Marketing - A relationship approachHollensen, Oprensik:  - Vahlen Verlag, München, 2010
 	- Wie Manager richtig führenKotter:  - München / Wien, 1999
 	- Mikropolitik. Rationalität, Macht und Spiele in OrganisationenKüpper, Ortmann:  - Opladen, 2. Auflage, 1992
 	- Die heimlichen Spielregeln der Karriere. Wie Sie die ungeschriebenen Gesetze am Arbeitsplatz für ihren Erfolg nutzenLürssen, Opresnik:  - 3. Auflage, Frankfurt / New York, 2010
@@ -1518,11 +1688,15 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21796&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -1535,7 +1709,9 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:21796#1"/>
@@ -1554,24 +1730,26 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
     <learningEvent id="urn:thl:learning:spec:21796#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Verhandlungsführung</title>
-      <title lang="eng">Verhandlungsführung</title>
+      <title lang="en">Verhandlungsführung</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:21796#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:21796">
       <identifier>21796</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 21796</title>
-      <title lang="eng">Modul 21796</title>
+      <title lang="en">Modul 21796</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:21813#1">
       <identifier>21813#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Entrepreneurship in der digitalen Wirtschaft</title>
-      <title lang="eng">Entrepreneurship in der digitalen Wirtschaft</title>
+      <title lang="en">Entrepreneurship in der digitalen Wirtschaft</title>
       <definition>
         <text content-type="text/plain" lang="de">- Im Rahmen der Veranstaltung erhalten die Studierenden unter anderem einen Einblick in den unternehmerischen Prozess, das Erkennen von Geschäftsmöglichkeiten sowie die Gestaltung und Veränderung von jungen Unternehmen. Daneben werden die Studierenden in die Lage versetzt, Geschäftsmodelle auf einfacher Ebene zu verstehen. Gleichzeitig umfasst die Veranstaltung die Strategieentwicklung, grundsätzliche Aspekte des unternehmerischen Marketing, Wachstumsformen und -strategien, Unternehmertum im Kontext etablierter Unternehmen sowie Social Entrepreneurship.
 	- Bei der Behandlung der genannten Aspekte wird ein Schwerpunkt auf Gründungen in der digitalen Wirtschaft gelegt.</text>
-        <text content-type="text/plain" lang="eng">- Im Rahmen der Veranstaltung erhalten die Studierenden unter anderem einen Einblick in den unternehmerischen Prozess, das Erkennen von Geschäftsmöglichkeiten sowie die Gestaltung und Veränderung von jungen Unternehmen. Daneben werden die Studierenden in die Lage versetzt, Geschäftsmodelle auf einfacher Ebene zu verstehen. Gleichzeitig umfasst die Veranstaltung die Strategieentwicklung, grundsätzliche Aspekte des unternehmerischen Marketing, Wachstumsformen und -strategien, Unternehmertum im Kontext etablierter Unternehmen sowie Social Entrepreneurship.
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">- Im Rahmen der Veranstaltung erhalten die Studierenden unter anderem einen Einblick in den unternehmerischen Prozess, das Erkennen von Geschäftsmöglichkeiten sowie die Gestaltung und Veränderung von jungen Unternehmen. Daneben werden die Studierenden in die Lage versetzt, Geschäftsmodelle auf einfacher Ebene zu verstehen. Gleichzeitig umfasst die Veranstaltung die Strategieentwicklung, grundsätzliche Aspekte des unternehmerischen Marketing, Wachstumsformen und -strategien, Unternehmertum im Kontext etablierter Unternehmen sowie Social Entrepreneurship.
 	- Bei der Behandlung der genannten Aspekte wird ein Schwerpunkt auf Gründungen in der digitalen Wirtschaft gelegt.</text>
       </definition>
       <additionalNote>
@@ -1579,18 +1757,24 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
 	- EntrepreneurshipBygrave &amp; Zacharakis:  - Wiley-Verlag: 3. Auflage 2013
 	- EntrepreneurshipHisrich, Peters &amp; Shepherd:  - McGraw-Hill: International Edition 2010
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: 	- The Portable MBA in EntrepreneurshipBygrave &amp; Zacharakis:  - Wiley-Verlag: 2010
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: 	- The Portable MBA in EntrepreneurshipBygrave &amp; Zacharakis:  - Wiley-Verlag: 2010
 	- EntrepreneurshipBygrave &amp; Zacharakis:  - Wiley-Verlag: 3. Auflage 2013
 	- EntrepreneurshipHisrich, Peters &amp; Shepherd:  - McGraw-Hill: International Edition 2010
 </text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21813&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -1603,7 +1787,9 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:21813#1"/>
@@ -1622,25 +1808,27 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
     <learningEvent id="urn:thl:learning:spec:21813#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Entrepreneurship und Innovation</title>
-      <title lang="eng">Entrepreneurship und Innovation</title>
+      <title lang="en">Entrepreneurship und Innovation</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:21813#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:21813">
       <identifier>21813</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 21813</title>
-      <title lang="eng">Modul 21813</title>
+      <title lang="en">Modul 21813</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:21830#1">
       <identifier>21830#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Entrepreneurship und Innovation</title>
-      <title lang="eng">Entrepreneurship und Innovation</title>
+      <title lang="en">Entrepreneurship und Innovation</title>
       <definition>
         <text content-type="text/plain" lang="de">- Die Veranstaltung beschäftigt sich mit den grundlegenden Theorien, Konzepten und Managementinstrumenten in den Kontexten Entrepreneurship und Innovationsmanagement.
 	- Der Inhalt der Veranstaltung ist verbunden mit aktuellen und praxisrelevanten Inhalten und deckt daher relevante Anwendungsmöglichkeiten ab.
 	- Einzelne Aspekte der Veranstaltung werden anhand von Fallstudien besprochen.</text>
-        <text content-type="text/plain" lang="eng">- Die Veranstaltung beschäftigt sich mit den grundlegenden Theorien, Konzepten und Managementinstrumenten in den Kontexten Entrepreneurship und Innovationsmanagement.
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">- Die Veranstaltung beschäftigt sich mit den grundlegenden Theorien, Konzepten und Managementinstrumenten in den Kontexten Entrepreneurship und Innovationsmanagement.
 	- Der Inhalt der Veranstaltung ist verbunden mit aktuellen und praxisrelevanten Inhalten und deckt daher relevante Anwendungsmöglichkeiten ab.
 	- Einzelne Aspekte der Veranstaltung werden anhand von Fallstudien besprochen.</text>
       </definition>
@@ -1650,7 +1838,9 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
 	- Fallstudien zum InnovationsmanagementFisch &amp; Roß:  - Gabler-Verlag 1. Auflage 2009
 	- Managing Innovation: Integrating Technological, Market and Organizational ChangeBessant &amp; Tidd:  - Wiley-Verlag: 5. Auflage 2013
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: 	- Social EntrepreneurshipNichols:  - Oxford University Press 1. Auflage 2008
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: 	- Social EntrepreneurshipNichols:  - Oxford University Press 1. Auflage 2008
 	- Innovation and EntrepreneurshipBessant &amp; Tidd:  - Wiley-Verlag 2. Auflage 2013
 	- Fallstudien zum InnovationsmanagementFisch &amp; Roß:  - Gabler-Verlag 1. Auflage 2009
 	- Managing Innovation: Integrating Technological, Market and Organizational ChangeBessant &amp; Tidd:  - Wiley-Verlag: 5. Auflage 2013
@@ -1658,11 +1848,15 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21830&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -1675,7 +1869,9 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:21830#1"/>
@@ -1694,20 +1890,20 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
     <learningEvent id="urn:thl:learning:spec:21830#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Entrepreneurship und Innovation</title>
-      <title lang="eng">Entrepreneurship und Innovation</title>
+      <title lang="en">Entrepreneurship und Innovation</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:21830#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:21830">
       <identifier>21830</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 21830</title>
-      <title lang="eng">Modul 21830</title>
+      <title lang="en">Modul 21830</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:21847#1">
       <identifier>21847#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Supply Chain Management</title>
-      <title lang="eng">Supply Chain Management</title>
+      <title lang="en">Supply Chain Management</title>
       <definition>
         <text content-type="text/plain" lang="de">- Introduction to SCM
 	- Supply Chain Design and Operations
@@ -1722,7 +1918,9 @@ Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderhe
 	- Selected quantitative models
 	- Change management
 E-Business</text>
-        <text content-type="text/plain" lang="eng">- Introduction to SCM
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">- Introduction to SCM
 	- Supply Chain Design and Operations
 	- SCM information systems
 	- Case study/Exercise:
@@ -1751,7 +1949,9 @@ Schönsleben, P.: Integrated Logistics Management. Boca
 Raton et al: St. Lucie 2000
 Simchi-Levi, D.; Kaminsky, P.; Simchi-Levi, E. Designing and Managing the Supply Chain; Mcgraw-Hill Education - Europe; Auflage: 4 Rev ed. 2016
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Chopra, S.; Meindl, P. ; Supply Chain Management
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Chopra, S.; Meindl, P. ; Supply Chain Management
 Pearson Education Limited; Auflage: 6th Global ed Mai 2016
 Corsten, D.; Gabriel, Chr.: Supply Chain Management
 erfolgreich umsetzen. Berlin u.a.: Springer 2002
@@ -1768,11 +1968,15 @@ Simchi-Levi, D.; Kaminsky, P.; Simchi-Levi, E. Designing and Managing the Supply
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=21847&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -1785,7 +1989,9 @@ Simchi-Levi, D.; Kaminsky, P.; Simchi-Levi, E. Designing and Managing the Supply
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:21847#1"/>
@@ -1804,229 +2010,229 @@ Simchi-Levi, D.; Kaminsky, P.; Simchi-Levi, E. Designing and Managing the Supply
     <learningEvent id="urn:thl:learning:spec:21847#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Supply Chain Management</title>
-      <title lang="eng">Supply Chain Management</title>
+      <title lang="en">Supply Chain Management</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:21847#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:21847">
       <identifier>21847</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 21847</title>
-      <title lang="eng">Modul 21847</title>
+      <title lang="en">Modul 21847</title>
     </modul>
   </learningSpecificationReferences>
   <learningActivitySpecificationReferences>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:21575#1-1">
       <title lang="de">IT-Management und E-Business</title>
-      <title lang="eng">IT-Management und E-Business</title>
+      <title lang="en">IT-Management und E-Business</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:21592#1-1">
       <title lang="de">Produktionsmanagement und Fabrikplanung</title>
-      <title lang="eng">Produktionsmanagement und Fabrikplanung</title>
+      <title lang="en">Produktionsmanagement und Fabrikplanung</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:21609#1-1">
       <title lang="de">Technische Investitionsplanung</title>
-      <title lang="eng">Technische Investitionsplanung</title>
+      <title lang="en">Technische Investitionsplanung</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:21626#1-1">
       <title lang="de">Operations Research</title>
-      <title lang="eng">Operations Research</title>
+      <title lang="en">Operations Research</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:21643#1-1">
       <title lang="de">Organisationspsychologie</title>
-      <title lang="eng">Organisationspsychologie</title>
+      <title lang="en">Organisationspsychologie</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:21643#1-2">
       <title lang="de">Changemanagement</title>
-      <title lang="eng">Changemanagement</title>
+      <title lang="en">Changemanagement</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:21660#1-1">
       <title lang="de">Simulation technischer Systeme</title>
-      <title lang="eng">Simulation technischer Systeme</title>
+      <title lang="en">Simulation technischer Systeme</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:21677#1-1">
       <title lang="de">Advanced Planning Systems</title>
-      <title lang="eng">Advanced Planning Systems</title>
+      <title lang="en">Advanced Planning Systems</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:21694#1-1">
       <title lang="de">Strategisches Produktionscontrolling</title>
-      <title lang="eng">Strategisches Produktionscontrolling</title>
+      <title lang="en">Strategisches Produktionscontrolling</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:21694#1-2">
       <title lang="de">Fallstudien - Strategisches Produktionscontrolling</title>
-      <title lang="eng">Fallstudien - Strategisches Produktionscontrolling</title>
+      <title lang="en">Fallstudien - Strategisches Produktionscontrolling</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:21711#1-1">
       <title lang="de">Telematik-Anwendungen</title>
-      <title lang="eng">Telematik-Anwendungen</title>
+      <title lang="en">Telematik-Anwendungen</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:21728#1-1">
       <title lang="de">Supply Chain Management</title>
-      <title lang="eng">Supply Chain Management</title>
+      <title lang="en">Supply Chain Management</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:21745#1-1">
       <title lang="de">Verkehrsbetriebslehre</title>
-      <title lang="eng">Verkehrsbetriebslehre</title>
+      <title lang="en">Verkehrsbetriebslehre</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:21762#1-1">
       <title lang="de">Businessplan</title>
-      <title lang="eng">Businessplan</title>
+      <title lang="en">Businessplan</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:21779#1-1">
       <title lang="de">Entrepreneurial Behavior</title>
-      <title lang="eng">Entrepreneurial Behavior</title>
+      <title lang="en">Entrepreneurial Behavior</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:21796#1-1">
       <title lang="de">Verhandlungsführung</title>
-      <title lang="eng">Verhandlungsführung</title>
+      <title lang="en">Verhandlungsführung</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:21813#1-1">
       <title lang="de">Entrepreneurship und Innovation</title>
-      <title lang="eng">Entrepreneurship und Innovation</title>
+      <title lang="en">Entrepreneurship und Innovation</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:21830#1-1">
       <title lang="de">Entrepreneurship und Innovation</title>
-      <title lang="eng">Entrepreneurship und Innovation</title>
+      <title lang="en">Entrepreneurship und Innovation</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:21847#1-1">
       <title lang="de">Supply Chain Management</title>
-      <title lang="eng">Supply Chain Management</title>
+      <title lang="en">Supply Chain Management</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/classroom"/>
     </learningActivitySpecification>
   </learningActivitySpecificationReferences>
   <assessmentSpecificationReferences>
     <assessmentSpecification id="urn:thl:assessment:spec:21575#1">
       <title lang="de">IT-Management und E-Business</title>
-      <title lang="eng">IT-Management und E-Business</title>
+      <title lang="en">IT-Management und E-Business</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:21575#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:21592#1">
       <title lang="de">Produktionsmanagement und Fabrikplanung</title>
-      <title lang="eng">Produktionsmanagement und Fabrikplanung</title>
+      <title lang="en">Produktionsmanagement und Fabrikplanung</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:21592#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:21609#1">
       <title lang="de">Technische Investitionsplanung</title>
-      <title lang="eng">Technische Investitionsplanung</title>
+      <title lang="en">Technische Investitionsplanung</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:21609#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:21626#1">
       <title lang="de">Operations Research</title>
-      <title lang="eng">Operations Research</title>
+      <title lang="en">Operations Research</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:21626#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:21643#1">
       <title lang="de">Organisationspsychologie und Changemanagement</title>
-      <title lang="eng">Organisationspsychologie und Changemanagement</title>
+      <title lang="en">Organisationspsychologie und Changemanagement</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:21643#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:21660#1">
       <title lang="de">Simulation technischer Systeme</title>
-      <title lang="eng">Simulation technischer Systeme</title>
+      <title lang="en">Simulation technischer Systeme</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:21660#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:21677#1">
       <title lang="de">Advanced Planning Systems</title>
-      <title lang="eng">Advanced Planning Systems</title>
+      <title lang="en">Advanced Planning Systems</title>
       <type uri="http://data.europa.eu/europass/assessmentType/writtenExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:21677#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:21694#1">
       <title lang="de">Strategisches Produktionscontrolling und Fallstudien</title>
-      <title lang="eng">Strategisches Produktionscontrolling und Fallstudien</title>
+      <title lang="en">Strategisches Produktionscontrolling und Fallstudien</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:21694#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:21711#1">
       <title lang="de">Telematik-Anwendungen</title>
-      <title lang="eng">Telematik-Anwendungen</title>
+      <title lang="en">Telematik-Anwendungen</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:21711#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:21728#1">
       <title lang="de">Supply Chain Management</title>
-      <title lang="eng">Supply Chain Management</title>
+      <title lang="en">Supply Chain Management</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
       <proves idref="urn:thl:learningoutcome:21728#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:21745#1">
       <title lang="de">Verkehrsbetriebslehre</title>
-      <title lang="eng">Verkehrsbetriebslehre</title>
+      <title lang="en">Verkehrsbetriebslehre</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:21745#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:21762#1">
       <title lang="de">Businessplan</title>
-      <title lang="eng">Businessplan</title>
+      <title lang="en">Businessplan</title>
       <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:21762#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:21779#1">
       <title lang="de">Entrepreneurial Behavior</title>
-      <title lang="eng">Entrepreneurial Behavior</title>
+      <title lang="en">Entrepreneurial Behavior</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:21779#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:21796#1">
       <title lang="de">Verhandlungsführung</title>
-      <title lang="eng">Verhandlungsführung</title>
+      <title lang="en">Verhandlungsführung</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:21796#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:21813#1">
       <title lang="de">Entrepreneurship in der digitalen Wirtschaft</title>
-      <title lang="eng">Entrepreneurship in der digitalen Wirtschaft</title>
+      <title lang="en">Entrepreneurship in der digitalen Wirtschaft</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:21813#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:21830#1">
       <title lang="de">Entrepreneurship und Innovation</title>
-      <title lang="eng">Entrepreneurship und Innovation</title>
+      <title lang="en">Entrepreneurship und Innovation</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:21830#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:21847#1">
       <title lang="de">Supply Chain Management</title>
-      <title lang="eng">Supply Chain Management</title>
+      <title lang="en">Supply Chain Management</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
       <proves idref="urn:thl:learningoutcome:21847#1"/>
@@ -2039,7 +2245,7 @@ Simchi-Levi, D.; Kaminsky, P.; Simchi-Levi, E. Designing and Managing the Supply
       <registration spatialID="http://publications.europa.eu/resource/authority/country/DEU">DUMMY-REGISTRATION</registration>
       <type uri="http://data.europa.eu/esco/agent-type#academic-institution"/>
       <prefLabel lang="de">Technische Hochschule Lübeck</prefLabel>
-      <prefLabel lang="eng">Technische Hochschule Lübeck</prefLabel>
+      <prefLabel lang="en">Technische Hochschule Lübeck</prefLabel>
       <hasLocation>
         <spatialCode uri="http://publications.europa.eu/resource/authority/country/DEU"/>
       </hasLocation>

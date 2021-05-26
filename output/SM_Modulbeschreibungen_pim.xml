@@ -4,10 +4,12 @@
   <issuanceDate>2021-01-21T16:01:34.979+02:00</issuanceDate>
   <issuer idref="urn:epass:thl:organization:927"/>
   <title lang="de">Stadtplanung, Master</title>
-  <title lang="eng">Stadtplanung, Master</title>
+  <title lang="en">Stadtplanung, Master</title>
   <description>
     <text content-type="text/plain" lang="de">Dies ist der Studiengang Stadtplanung, Master aus dem Fachbereich Bauwesen.</text>
-    <text content-type="text/plain" lang="eng">Dies ist der Studiengang Stadtplanung, Master aus dem Fachbereich Bauwesen.</text>
+  </description>
+  <description>
+    <text content-type="text/plain" lang="en">Dies ist der Studiengang Stadtplanung, Master aus dem Fachbereich Bauwesen.</text>
   </description>
   <credentialSubject id="DUMMY-SUBJECT">
     <nationalId spatialID="http://publications.europa.eu/resource/authority/country/DEU">DUMMY-NATIONALID</nationalId>
@@ -25,23 +27,27 @@
   <learningSpecificationReferences>
     <learningOutcome id="urn:thl:learningoutcome:13398#1">
       <prefLabel lang="de">Kolloquium</prefLabel>
-      <prefLabel lang="eng">Kolloquium</prefLabel>
+      <prefLabel lang="en">Kolloquium</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Das Abschlusskolloquium umfasst die hochschulöffentliche Präsentation der Masterarbeit sowie eine daran anschließende mündliche Fachprüfung</text>
-        <text content-type="text/plain" lang="eng">Das Abschlusskolloquium umfasst die hochschulöffentliche Präsentation der Masterarbeit sowie eine daran anschließende mündliche Fachprüfung</text>
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Das Abschlusskolloquium umfasst die hochschulöffentliche Präsentation der Masterarbeit sowie eine daran anschließende mündliche Fachprüfung</text>
       </description>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13381#1">
       <prefLabel lang="de">Masterarbeit</prefLabel>
-      <prefLabel lang="eng">Masterarbeit</prefLabel>
+      <prefLabel lang="en">Masterarbeit</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die eigenständige Erstellung einer wissenschaftlichen Abschlussarbeit im Bereich der Stadtplanung auf Master-Niveau.</text>
-        <text content-type="text/plain" lang="eng">Die eigenständige Erstellung einer wissenschaftlichen Abschlussarbeit im Bereich der Stadtplanung auf Master-Niveau.</text>
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Die eigenständige Erstellung einer wissenschaftlichen Abschlussarbeit im Bereich der Stadtplanung auf Master-Niveau.</text>
       </description>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13364#1">
       <prefLabel lang="de">Masterseminar</prefLabel>
-      <prefLabel lang="eng">Masterseminar</prefLabel>
+      <prefLabel lang="en">Masterseminar</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Vermittlung von Methoden des wissenschaftlichen Arbeitens sowie die Planung und Durchführung einer Abschlussarbeit mit einem wissenschaftlichen, gestalterischen oder konzeptionellen Untersuchungsansatz bzw. Forschungsansatz je nach Frage- bzw. Aufgabenstellung
 - Präsentation und Diskussion
@@ -50,7 +56,9 @@
 - Aufbau wissenschaftlicher Arbeiten
 - Aufbau wissenschaftlicher Fachvorträge
 - Entwicklung von Projektideen</text>
-        <text content-type="text/plain" lang="eng">Vermittlung von Methoden des wissenschaftlichen Arbeitens sowie die Planung und Durchführung einer Abschlussarbeit mit einem wissenschaftlichen, gestalterischen oder konzeptionellen Untersuchungsansatz bzw. Forschungsansatz je nach Frage- bzw. Aufgabenstellung
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Vermittlung von Methoden des wissenschaftlichen Arbeitens sowie die Planung und Durchführung einer Abschlussarbeit mit einem wissenschaftlichen, gestalterischen oder konzeptionellen Untersuchungsansatz bzw. Forschungsansatz je nach Frage- bzw. Aufgabenstellung
 - Präsentation und Diskussion
 - Wissenschaftliches Arbeiten und Literaturrecherche
 - Zitierregeln nach DIN, Havard System
@@ -61,39 +69,47 @@
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13347#1">
       <prefLabel lang="de">Exkursion</prefLabel>
-      <prefLabel lang="eng">Exkursion</prefLabel>
+      <prefLabel lang="en">Exkursion</prefLabel>
       <description>
         <text content-type="text/plain" lang="de"></text>
-        <text content-type="text/plain" lang="eng"></text>
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en"></text>
       </description>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13330#1">
       <prefLabel lang="de">Sonderthemen in Architektur und Planung II</prefLabel>
-      <prefLabel lang="eng">Sonderthemen in Architektur und Planung II</prefLabel>
+      <prefLabel lang="en">Sonderthemen in Architektur und Planung II</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Studierende lernen sich in eine aktuelle Fragestellung aus dem Themenfeld von Architektur und Planung einzuarbeiten, die relevanten Aspekte zu identifizieren sowie zu analysieren und schließlich konzeptionelle Ideen für einen angemessenen Umgang mit der Fragestellung zu entwickeln.</text>
-        <text content-type="text/plain" lang="eng">Studierende lernen sich in eine aktuelle Fragestellung aus dem Themenfeld von Architektur und Planung einzuarbeiten, die relevanten Aspekte zu identifizieren sowie zu analysieren und schließlich konzeptionelle Ideen für einen angemessenen Umgang mit der Fragestellung zu entwickeln.</text>
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Studierende lernen sich in eine aktuelle Fragestellung aus dem Themenfeld von Architektur und Planung einzuarbeiten, die relevanten Aspekte zu identifizieren sowie zu analysieren und schließlich konzeptionelle Ideen für einen angemessenen Umgang mit der Fragestellung zu entwickeln.</text>
       </description>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13313#1">
       <prefLabel lang="de">Sonderthemen in Architektur und Planung I</prefLabel>
-      <prefLabel lang="eng">Sonderthemen in Architektur und Planung I</prefLabel>
+      <prefLabel lang="en">Sonderthemen in Architektur und Planung I</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Studierende lernen sich in eine aktuelle Fragestellung aus dem Themenfeld von Architektur und Planung einzuarbeiten, die relevanten Aspekte zu identifizieren sowie zu analysieren und schließlich konzeptionelle Ideen für einen angemessenen Umgang mit der Fragestellung zu entwickeln.</text>
-        <text content-type="text/plain" lang="eng">Studierende lernen sich in eine aktuelle Fragestellung aus dem Themenfeld von Architektur und Planung einzuarbeiten, die relevanten Aspekte zu identifizieren sowie zu analysieren und schließlich konzeptionelle Ideen für einen angemessenen Umgang mit der Fragestellung zu entwickeln.</text>
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Studierende lernen sich in eine aktuelle Fragestellung aus dem Themenfeld von Architektur und Planung einzuarbeiten, die relevanten Aspekte zu identifizieren sowie zu analysieren und schließlich konzeptionelle Ideen für einen angemessenen Umgang mit der Fragestellung zu entwickeln.</text>
       </description>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13296#1">
       <prefLabel lang="de">Nachhaltige Bodennutzung und -politik</prefLabel>
-      <prefLabel lang="eng">Nachhaltige Bodennutzung und -politik</prefLabel>
+      <prefLabel lang="en">Nachhaltige Bodennutzung und -politik</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Studierenden erlernen Grundlagen und anwendungsbezogene Methoden zur Entwicklung eines Kommunalen Flächenmanagements mit dem Ziel, mit verfügbaren Flächen so nachhaltig wie möglich umzugehen und eine wirtschaftlich, ökologisch und sozial tragfähige Stadtentwicklung zu gestalten. Darüber hinaus werden Aspekte der kommunalen Bodenpolitik insbesondere die Liegenschaftspolitik sowie die vorausschauende und kostengünstigen Baulandentwicklung im Rahmen von Anwendungsfällen mit kommunalen Partnern vermittelt und konkrete Lösungsstrategien für beide Bereiche in Form von Projekten und Handlungskonzepten entwickelt.</text>
-        <text content-type="text/plain" lang="eng">Die Studierenden erlernen Grundlagen und anwendungsbezogene Methoden zur Entwicklung eines Kommunalen Flächenmanagements mit dem Ziel, mit verfügbaren Flächen so nachhaltig wie möglich umzugehen und eine wirtschaftlich, ökologisch und sozial tragfähige Stadtentwicklung zu gestalten. Darüber hinaus werden Aspekte der kommunalen Bodenpolitik insbesondere die Liegenschaftspolitik sowie die vorausschauende und kostengünstigen Baulandentwicklung im Rahmen von Anwendungsfällen mit kommunalen Partnern vermittelt und konkrete Lösungsstrategien für beide Bereiche in Form von Projekten und Handlungskonzepten entwickelt.</text>
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Die Studierenden erlernen Grundlagen und anwendungsbezogene Methoden zur Entwicklung eines Kommunalen Flächenmanagements mit dem Ziel, mit verfügbaren Flächen so nachhaltig wie möglich umzugehen und eine wirtschaftlich, ökologisch und sozial tragfähige Stadtentwicklung zu gestalten. Darüber hinaus werden Aspekte der kommunalen Bodenpolitik insbesondere die Liegenschaftspolitik sowie die vorausschauende und kostengünstigen Baulandentwicklung im Rahmen von Anwendungsfällen mit kommunalen Partnern vermittelt und konkrete Lösungsstrategien für beide Bereiche in Form von Projekten und Handlungskonzepten entwickelt.</text>
       </description>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13279#1">
       <prefLabel lang="de">Eigenständige Studienprojekte</prefLabel>
-      <prefLabel lang="eng">Eigenständige Studienprojekte</prefLabel>
+      <prefLabel lang="en">Eigenständige Studienprojekte</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Studierenden trainieren mit dem eigenständigen Studienprojekt
 	- die Identifikation relevanter stadtplanerischer Themen und Fragestellungen
@@ -101,7 +117,9 @@
 	- die methodische, analytische und / oder planerische Vertiefung eines selbst gewählten Schwerpunktthemas
 	- Methodenkompetenzen in der Eigenorganisation eines Planungsprozesses oder einer wissenschaftlichen Arbeit
 	- die Entwicklung angemessener Abgabe- und Darstellungsformate und die Kommunikation und Präsentation von Arbeitsergebnissen und Zwischenständen.</text>
-        <text content-type="text/plain" lang="eng">Die Studierenden trainieren mit dem eigenständigen Studienprojekt
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Die Studierenden trainieren mit dem eigenständigen Studienprojekt
 	- die Identifikation relevanter stadtplanerischer Themen und Fragestellungen
 	- den Ausbau der inhaltlichen und fachlichen Eigenständigkeit
 	- die methodische, analytische und / oder planerische Vertiefung eines selbst gewählten Schwerpunktthemas
@@ -111,14 +129,16 @@
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13262#1">
       <prefLabel lang="de">(Nachhaltige) Städtebauliche Gestaltung und Freiraumplanung (Städtebaulicher Entwurf)</prefLabel>
-      <prefLabel lang="eng">(Nachhaltige) Städtebauliche Gestaltung und Freiraumplanung (Städtebaulicher Entwurf)</prefLabel>
+      <prefLabel lang="en">(Nachhaltige) Städtebauliche Gestaltung und Freiraumplanung (Städtebaulicher Entwurf)</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Studierenden trainieren mit dem städtebaulich-freiraumplanerischen Entwurf
 	- die analytische und entwerferische Kompetenz und die Entwicklung innovativer planerischer Lösungen für komplexe Planungsaufgaben
 	- die Einbeziehung und Abwägung entwurfs- und konzeptbeeinflussender Faktoren
 	- die Diskurs- und Kommunikationsfähigkeit
 	- die Entwicklung angemessener Abgabe- und Darstellungsformate und die Kommunikation und Präsentation von Arbeitsergebnissen und Zwischenständen.</text>
-        <text content-type="text/plain" lang="eng">Die Studierenden trainieren mit dem städtebaulich-freiraumplanerischen Entwurf
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Die Studierenden trainieren mit dem städtebaulich-freiraumplanerischen Entwurf
 	- die analytische und entwerferische Kompetenz und die Entwicklung innovativer planerischer Lösungen für komplexe Planungsaufgaben
 	- die Einbeziehung und Abwägung entwurfs- und konzeptbeeinflussender Faktoren
 	- die Diskurs- und Kommunikationsfähigkeit
@@ -127,7 +147,7 @@
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13245#1">
       <prefLabel lang="de">Gemeinschaftliche Konzepte in der Planung</prefLabel>
-      <prefLabel lang="eng">Gemeinschaftliche Konzepte in der Planung</prefLabel>
+      <prefLabel lang="en">Gemeinschaftliche Konzepte in der Planung</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Studierende erlangen Wissen zu:
 - Problemlagen, die kooperativ oder kollektiv gelöst werden müssen;
@@ -135,7 +155,9 @@
 - Möglichkeiten der staatlichen Förderung gemeinschaftlicher Ansätze;
 - dem Umgang mit Partikularinteressen und Nimby-Haltungen;
 - Chancen gemeinschaftlichen Agierens im Wohnungsbau, der Quartiersentwicklung, der Daseinsvorsorge etc.</text>
-        <text content-type="text/plain" lang="eng">Studierende erlangen Wissen zu:
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Studierende erlangen Wissen zu:
 - Problemlagen, die kooperativ oder kollektiv gelöst werden müssen;
 - Ansätzen kooperativen Handelns in der Stadtentwicklung mit ihren jeweiligen Vor- und Nachteilen;
 - Möglichkeiten der staatlichen Förderung gemeinschaftlicher Ansätze;
@@ -145,33 +167,39 @@
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13228#1">
       <prefLabel lang="de">Integrierte Planung / Städtebaurecht aktuell</prefLabel>
-      <prefLabel lang="eng">Integrierte Planung / Städtebaurecht aktuell</prefLabel>
+      <prefLabel lang="en">Integrierte Planung / Städtebaurecht aktuell</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Studierende haben sich mit planungstheoretischen und inhaltlichen Konzepten einer integrierten Planung zur Lösung komplexer urbaner Probleme auseinandergesetzt und können Einsatzgebiete und Anforderungen bestimmen und bewerten. Durch die Analyse von jeweils aktuellen Planungsfällen und -prozessen integrierter Stadtentwicklung werden Möglichkeiten und Strategien des planerischen Handelns kritisch reflektiert und können für die Gestaltung von integrierten Planungsprozessen als Grundlagen herangezogen werden.
 Instrumente und Anwendungen digital gestützter Planung sind bekannt und können in Bezug auf mögliche Einsatzgebiete bewertet werden. Die jeweils aktuellen Entwicklungen im deutschen Bauplanungsrecht zur Steuerung der räumlichen Entwicklung sind den Studierenden bekannt und können im Hinblick auf zukünftige Handlungsfelder und Aufgaben eingeordnet und in Projekten angewandt werden.</text>
-        <text content-type="text/plain" lang="eng">Studierende haben sich mit planungstheoretischen und inhaltlichen Konzepten einer integrierten Planung zur Lösung komplexer urbaner Probleme auseinandergesetzt und können Einsatzgebiete und Anforderungen bestimmen und bewerten. Durch die Analyse von jeweils aktuellen Planungsfällen und -prozessen integrierter Stadtentwicklung werden Möglichkeiten und Strategien des planerischen Handelns kritisch reflektiert und können für die Gestaltung von integrierten Planungsprozessen als Grundlagen herangezogen werden.
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Studierende haben sich mit planungstheoretischen und inhaltlichen Konzepten einer integrierten Planung zur Lösung komplexer urbaner Probleme auseinandergesetzt und können Einsatzgebiete und Anforderungen bestimmen und bewerten. Durch die Analyse von jeweils aktuellen Planungsfällen und -prozessen integrierter Stadtentwicklung werden Möglichkeiten und Strategien des planerischen Handelns kritisch reflektiert und können für die Gestaltung von integrierten Planungsprozessen als Grundlagen herangezogen werden.
 Instrumente und Anwendungen digital gestützter Planung sind bekannt und können in Bezug auf mögliche Einsatzgebiete bewertet werden. Die jeweils aktuellen Entwicklungen im deutschen Bauplanungsrecht zur Steuerung der räumlichen Entwicklung sind den Studierenden bekannt und können im Hinblick auf zukünftige Handlungsfelder und Aufgaben eingeordnet und in Projekten angewandt werden.</text>
       </description>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13211#1">
       <prefLabel lang="de">Projekt: Quartiersentwicklungskonzept</prefLabel>
-      <prefLabel lang="eng">Projekt: Quartiersentwicklungskonzept</prefLabel>
+      <prefLabel lang="en">Projekt: Quartiersentwicklungskonzept</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Studierenden erlernen das methodische Vorgehen zur Erstellung eines städtebaulichen oder integrierten Entwicklungskonzepts auf Quartiersebene. Sie können komplexe räumliche Zusammenhänge in städtebaulich-gestalterischer, funktionaler, sozialer und ökologischer Hinsicht analysieren und mit Blick auf bestehende Missstände bewerten. Sie entwickeln die Kompetenz für ein konzeptionelles Vorgehen und das Entwickeln von Leitideen und Perspektiven integrierter räumlicher Entwicklung. Durch die Auseinandersetzung mit einem konkreten Planungsfall werden die Studierenden in die Lage versetzt werden, die aktuellen Probleme und Herausforderungen des bearbeiteten Quartiers selbstständig zu bearbeiten.</text>
-        <text content-type="text/plain" lang="eng">Die Studierenden erlernen das methodische Vorgehen zur Erstellung eines städtebaulichen oder integrierten Entwicklungskonzepts auf Quartiersebene. Sie können komplexe räumliche Zusammenhänge in städtebaulich-gestalterischer, funktionaler, sozialer und ökologischer Hinsicht analysieren und mit Blick auf bestehende Missstände bewerten. Sie entwickeln die Kompetenz für ein konzeptionelles Vorgehen und das Entwickeln von Leitideen und Perspektiven integrierter räumlicher Entwicklung. Durch die Auseinandersetzung mit einem konkreten Planungsfall werden die Studierenden in die Lage versetzt werden, die aktuellen Probleme und Herausforderungen des bearbeiteten Quartiers selbstständig zu bearbeiten.</text>
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Die Studierenden erlernen das methodische Vorgehen zur Erstellung eines städtebaulichen oder integrierten Entwicklungskonzepts auf Quartiersebene. Sie können komplexe räumliche Zusammenhänge in städtebaulich-gestalterischer, funktionaler, sozialer und ökologischer Hinsicht analysieren und mit Blick auf bestehende Missstände bewerten. Sie entwickeln die Kompetenz für ein konzeptionelles Vorgehen und das Entwickeln von Leitideen und Perspektiven integrierter räumlicher Entwicklung. Durch die Auseinandersetzung mit einem konkreten Planungsfall werden die Studierenden in die Lage versetzt werden, die aktuellen Probleme und Herausforderungen des bearbeiteten Quartiers selbstständig zu bearbeiten.</text>
       </description>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13194#1">
       <prefLabel lang="de">Projekt: Städtebauliches Entwicklungskonzept</prefLabel>
-      <prefLabel lang="eng">Projekt: Städtebauliches Entwicklungskonzept</prefLabel>
+      <prefLabel lang="en">Projekt: Städtebauliches Entwicklungskonzept</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Studierenden können eigenständig ein integriertes städtebauliches Konzept für die Gestaltung und Entwicklung eines bestehenden Quartiers oder eines Ortes erstellen. Durch die Auseinandersetzung mit einem konkreten Planungsfall können die Studierenden aktuelle Probleme und Herausforderungen urbaner Transformationen eigenständig bearbeiten. Sie haben auf der Grundlage eigener Analysen und Problemdefinitionen ein methodisches und konzeptionelles Vorgehen zur Entwicklung eines größeren Projektes mit hoher Komplexität eingeübt und im Ergebnis eine umfassende städtebauliche Entwicklungsplanung erstellt und Prozess- und Verfahrensschritte zur Umsetzung entwickelt.</text>
-        <text content-type="text/plain" lang="eng">Die Studierenden können eigenständig ein integriertes städtebauliches Konzept für die Gestaltung und Entwicklung eines bestehenden Quartiers oder eines Ortes erstellen. Durch die Auseinandersetzung mit einem konkreten Planungsfall können die Studierenden aktuelle Probleme und Herausforderungen urbaner Transformationen eigenständig bearbeiten. Sie haben auf der Grundlage eigener Analysen und Problemdefinitionen ein methodisches und konzeptionelles Vorgehen zur Entwicklung eines größeren Projektes mit hoher Komplexität eingeübt und im Ergebnis eine umfassende städtebauliche Entwicklungsplanung erstellt und Prozess- und Verfahrensschritte zur Umsetzung entwickelt.</text>
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Die Studierenden können eigenständig ein integriertes städtebauliches Konzept für die Gestaltung und Entwicklung eines bestehenden Quartiers oder eines Ortes erstellen. Durch die Auseinandersetzung mit einem konkreten Planungsfall können die Studierenden aktuelle Probleme und Herausforderungen urbaner Transformationen eigenständig bearbeiten. Sie haben auf der Grundlage eigener Analysen und Problemdefinitionen ein methodisches und konzeptionelles Vorgehen zur Entwicklung eines größeren Projektes mit hoher Komplexität eingeübt und im Ergebnis eine umfassende städtebauliche Entwicklungsplanung erstellt und Prozess- und Verfahrensschritte zur Umsetzung entwickelt.</text>
       </description>
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13177#1">
       <prefLabel lang="de">Partizipation und Kommunikation</prefLabel>
-      <prefLabel lang="eng">Partizipation und Kommunikation</prefLabel>
+      <prefLabel lang="en">Partizipation und Kommunikation</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Studierende erlernen:
 - Rolle, Aufgaben, Rechte und Interessen der unterschiedlichen öffentlichen, privaten und zivilgesellschaftlichen Akteure
@@ -179,7 +207,9 @@ Instrumente und Anwendungen digital gestützter Planung sind bekannt und können
 - Kommunikation in Gruppen, Organisationen und Institutionen
 - Öffentliche Beteiligungsverfahren
 - Methoden der Partizipation und der Aktivierung von Bürger*innen</text>
-        <text content-type="text/plain" lang="eng">Studierende erlernen:
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Studierende erlernen:
 - Rolle, Aufgaben, Rechte und Interessen der unterschiedlichen öffentlichen, privaten und zivilgesellschaftlichen Akteure
 - Beteiligungsformen und Institutionalisierte Kommunikationsprozesse
 - Kommunikation in Gruppen, Organisationen und Institutionen
@@ -189,13 +219,15 @@ Instrumente und Anwendungen digital gestützter Planung sind bekannt und können
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13160#1">
       <prefLabel lang="de">Wohnungswesen und Wohnungsbau</prefLabel>
-      <prefLabel lang="eng">Wohnungswesen und Wohnungsbau</prefLabel>
+      <prefLabel lang="en">Wohnungswesen und Wohnungsbau</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Studierende erwerben Kenntnisse zu:
 - Grundlagen, Geschichte und Instrumenten der Wohnungspolitik und des Wohnungsbaus;
 - Handlungslogiken von Akteurinnen und Akteuren im Bereich des Wohnungsbaus und der Wohnungspolitik;
 - aktuellen Fragestellungen, Diskursen und konzeptionellen Ansätzen imWohnungswesen und Wohnungsbau.</text>
-        <text content-type="text/plain" lang="eng">Studierende erwerben Kenntnisse zu:
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Studierende erwerben Kenntnisse zu:
 - Grundlagen, Geschichte und Instrumenten der Wohnungspolitik und des Wohnungsbaus;
 - Handlungslogiken von Akteurinnen und Akteuren im Bereich des Wohnungsbaus und der Wohnungspolitik;
 - aktuellen Fragestellungen, Diskursen und konzeptionellen Ansätzen imWohnungswesen und Wohnungsbau.</text>
@@ -203,14 +235,16 @@ Instrumente und Anwendungen digital gestützter Planung sind bekannt und können
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13143#1">
       <prefLabel lang="de">Strategien der Stadterneuerung und der Quartiersentwicklung</prefLabel>
-      <prefLabel lang="eng">Strategien der Stadterneuerung und der Quartiersentwicklung</prefLabel>
+      <prefLabel lang="en">Strategien der Stadterneuerung und der Quartiersentwicklung</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">Die Studierenden kennen unterschiedliche Methoden, sowie Prozesse und Strategien zur Einschätzung von Handlungsbedarfen und Entwicklung von Konzepten für Bestandsgebiete und neue Quartiere.
 Sie haben sich mit aktuellen (stadt-)politische, planerische und (förder-)rechtliche Rahmenbedingungen auseinandergesetzt und können diese anwendungsorientiert für eigene Projekte und Konzepte einsetzen.
 Sie haben unterschiedliche Interessen, Wertsysteme und Zielvorstellungen in räumlichen Interventionen kennengelernt und können diese in Wirkungsdimensionen einschätzen.
 Sie sind in der Lage Bewertungen zu räumlichen Entwicklungs- und Steuerungsprozessen vorzunehmen auf eigene Aufgaben zu übertragen.
 Anhand von Fallbeispielen und konkreten Untersuchungsfällen können die Erkenntnisse eigenständig angewandt werden.</text>
-        <text content-type="text/plain" lang="eng">Die Studierenden kennen unterschiedliche Methoden, sowie Prozesse und Strategien zur Einschätzung von Handlungsbedarfen und Entwicklung von Konzepten für Bestandsgebiete und neue Quartiere.
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">Die Studierenden kennen unterschiedliche Methoden, sowie Prozesse und Strategien zur Einschätzung von Handlungsbedarfen und Entwicklung von Konzepten für Bestandsgebiete und neue Quartiere.
 Sie haben sich mit aktuellen (stadt-)politische, planerische und (förder-)rechtliche Rahmenbedingungen auseinandergesetzt und können diese anwendungsorientiert für eigene Projekte und Konzepte einsetzen.
 Sie haben unterschiedliche Interessen, Wertsysteme und Zielvorstellungen in räumlichen Interventionen kennengelernt und können diese in Wirkungsdimensionen einschätzen.
 Sie sind in der Lage Bewertungen zu räumlichen Entwicklungs- und Steuerungsprozessen vorzunehmen auf eigene Aufgaben zu übertragen.
@@ -219,13 +253,15 @@ Anhand von Fallbeispielen und konkreten Untersuchungsfällen können die Erkennt
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13126#1">
       <prefLabel lang="de">Projekt: Städtebau im Quartier</prefLabel>
-      <prefLabel lang="eng">Projekt: Städtebau im Quartier</prefLabel>
+      <prefLabel lang="en">Projekt: Städtebau im Quartier</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">- die analytische und entwerferische Kompetenz für die Entwicklung angemessener städtebaulicher Lösungen
 	- die Einbeziehung und Abwägung entwurfs- und konzeptbeeinflussender Faktoren
 	- die Diskurs- und Kommunikationsfähigkeit
 	- die Entwicklung geeigneter Abgabe- und Darstellungsformate und die Kommunikation und Präsentation von Arbeitsergebnissen und Zwischenständen.</text>
-        <text content-type="text/plain" lang="eng">- die analytische und entwerferische Kompetenz für die Entwicklung angemessener städtebaulicher Lösungen
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">- die analytische und entwerferische Kompetenz für die Entwicklung angemessener städtebaulicher Lösungen
 	- die Einbeziehung und Abwägung entwurfs- und konzeptbeeinflussender Faktoren
 	- die Diskurs- und Kommunikationsfähigkeit
 	- die Entwicklung geeigneter Abgabe- und Darstellungsformate und die Kommunikation und Präsentation von Arbeitsergebnissen und Zwischenständen.</text>
@@ -233,14 +269,16 @@ Anhand von Fallbeispielen und konkreten Untersuchungsfällen können die Erkennt
     </learningOutcome>
     <learningOutcome id="urn:thl:learningoutcome:13109#1">
       <prefLabel lang="de">Projekt: Städtebau im Bestand</prefLabel>
-      <prefLabel lang="eng">Projekt: Städtebau im Bestand</prefLabel>
+      <prefLabel lang="en">Projekt: Städtebau im Bestand</prefLabel>
       <description>
         <text content-type="text/plain" lang="de">- Fähigkeit eigenständig Analysen und Erfassung von baulich-räumlichen Situationen zu konzipieren und durchzuführen.
 	- Komplexe städtebauliche Situationen im Bestand können erfasst und in unterschiedliche räumliche und kulturelle Kontexte eingeordnet werden.
 	- Fähigkeit den gebauten Bestand historisch einzuordnen und dessen Schutzwürdigkeit zu bewerten.
 	- Anforderungen an räumlich-funktionale wie auch gesellschaftliche, ökonomische und ökologische Konzepte zur städtebaulichen Weiterentwicklung werden ortsbezogen angewandt.
 	- Kreative, gestalterische Konzepte und Entwürfe können umfassend und eigenständig entwickelt und in Zeichnungen und Modellen umgesetzt werden.</text>
-        <text content-type="text/plain" lang="eng">- Fähigkeit eigenständig Analysen und Erfassung von baulich-räumlichen Situationen zu konzipieren und durchzuführen.
+      </description>
+      <description>
+        <text content-type="text/plain" lang="en">- Fähigkeit eigenständig Analysen und Erfassung von baulich-räumlichen Situationen zu konzipieren und durchzuführen.
 	- Komplexe städtebauliche Situationen im Bestand können erfasst und in unterschiedliche räumliche und kulturelle Kontexte eingeordnet werden.
 	- Fähigkeit den gebauten Bestand historisch einzuordnen und dessen Schutzwürdigkeit zu bewerten.
 	- Anforderungen an räumlich-funktionale wie auch gesellschaftliche, ökonomische und ökologische Konzepte zur städtebaulichen Weiterentwicklung werden ortsbezogen angewandt.
@@ -249,20 +287,20 @@ Anhand von Fallbeispielen und konkreten Untersuchungsfällen können die Erkennt
     </learningOutcome>
     <studyProgramme id="urn:thl:learning:spec:studyprogramme:8377">
       <title lang="de">Stadtplanung, Master</title>
-      <title lang="eng">Stadtplanung, Master</title>
+      <title lang="en">Stadtplanung, Master</title>
       <hasEducationLevel>
         <targetName lang="de">M. Sc.</targetName>
-        <targetName lang="eng">M. Sc.</targetName>
+        <targetName lang="en">M. Sc.</targetName>
       </hasEducationLevel>
     </studyProgramme>
     <stupo id="urn:thl:learning:spec:stupo:8377">
       <title lang="de">Stadtplanung, Master</title>
-      <title lang="eng">Stadtplanung, Master</title>
+      <title lang="en">Stadtplanung, Master</title>
       <specializationOf idref="urn:thl:learning:spec:studyprogramme:8377"/>
     </stupo>
     <studySection id="urn:thl:learning:spec:studysection:8377">
       <title lang="de">Stadtplanung, Master</title>
-      <title lang="eng">Stadtplanung, Master</title>
+      <title lang="en">Stadtplanung, Master</title>
       <hasPart idref="urn:thl:learning:spec:13109#1"/>
       <hasPart idref="urn:thl:learning:spec:13126#1"/>
       <hasPart idref="urn:thl:learning:spec:13143#1"/>
@@ -286,14 +324,16 @@ Anhand von Fallbeispielen und konkreten Untersuchungsfällen können die Erkennt
       <identifier>13109#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Projekt: Städtebau im Bestand</title>
-      <title lang="eng">Projekt: Städtebau im Bestand</title>
+      <title lang="en">Projekt: Städtebau im Bestand</title>
       <definition>
         <text content-type="text/plain" lang="de">Projekt: Städtebau im Bestand:
 	- Analyse und Erhebungstechniken im Städtebau und der Stadtanalyse (Fokus Bestand)
 	- Stadtmorphologische Analysen und Konzepte
 	- Konzepte und Strategien des Bauens im Bestand und der Baukultur
 	- Konzeptentwicklung und Entwurfsstrategien</text>
-        <text content-type="text/plain" lang="eng">Projekt: Städtebau im Bestand:
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Projekt: Städtebau im Bestand:
 	- Analyse und Erhebungstechniken im Städtebau und der Stadtanalyse (Fokus Bestand)
 	- Stadtmorphologische Analysen und Konzepte
 	- Konzepte und Strategien des Bauens im Bestand und der Baukultur
@@ -307,7 +347,9 @@ Die morphologische Betrachtungsweise von Stadt und Territorium
 ZHAW (Hrsg.), Andri Gerber, Stefan Kurath, Holger Schurk, Roland Züger Methodenhandbuch für das Entwerfen in Architektur und Städtebau
 Gehl, Jan (2015) Städte für Menschen
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Oliveira, Vitor (2016) Urban Morpholgy - An Introduction to the Study of the Physical Form of Cities
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Oliveira, Vitor (2016) Urban Morpholgy - An Introduction to the Study of the Physical Form of Cities
 Rowe, Colin &amp; Koetter, Fred (1984) Collage City
 ZHAW (Hrsg.), Sylvain Malfroy, Gianfranco Caniggia
 Die morphologische Betrachtungsweise von Stadt und Territorium
@@ -317,11 +359,15 @@ Gehl, Jan (2015) Städte für Menschen
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13109&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -334,7 +380,9 @@ Gehl, Jan (2015) Städte für Menschen
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13109#1"/>
@@ -353,39 +401,47 @@ Gehl, Jan (2015) Städte für Menschen
     <learningEvent id="urn:thl:learning:spec:13109#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Projekt: Städtebau im Bestand</title>
-      <title lang="eng">Projekt: Städtebau im Bestand</title>
+      <title lang="en">Projekt: Städtebau im Bestand</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13109#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13109">
       <identifier>13109</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13109</title>
-      <title lang="eng">Modul 13109</title>
+      <title lang="en">Modul 13109</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13126#1">
       <identifier>13126#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Projekt: Städtebau im Quartier</title>
-      <title lang="eng">Projekt: Städtebau im Quartier</title>
+      <title lang="en">Projekt: Städtebau im Quartier</title>
       <definition>
         <text content-type="text/plain" lang="de">Projekt: Städtebau im Quartier:
 In einem städtebaulichen Entwurf auf Quartiersebene entwickeln die Studierenden anhand einer praxisnahen Aufgabenstellung ein tragfähiges stadträumliches Konzept. Hierbei werden die Ergebnisse einer umfassenden kontextbezogenen Analyse in eine planerische Lösung überführt, die in allen erforderlichen städtebaulichen Maßstabsebenen in Plan- und Modelldarstellungen und mit grafischen und textlichen Erläuterungen im Kursverlauf ausgearbeitet wird.</text>
-        <text content-type="text/plain" lang="eng">Projekt: Städtebau im Quartier:
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Projekt: Städtebau im Quartier:
 In einem städtebaulichen Entwurf auf Quartiersebene entwickeln die Studierenden anhand einer praxisnahen Aufgabenstellung ein tragfähiges stadträumliches Konzept. Hierbei werden die Ergebnisse einer umfassenden kontextbezogenen Analyse in eine planerische Lösung überführt, die in allen erforderlichen städtebaulichen Maßstabsebenen in Plan- und Modelldarstellungen und mit grafischen und textlichen Erläuterungen im Kursverlauf ausgearbeitet wird.</text>
       </definition>
       <additionalNote>
         <text content-type="text/plain" lang="de">Literaturangaben: Literaturhinweise werden den Studierenden kursbezogen und projektspezifisch zur Verfügung gestellt.
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Literaturhinweise werden den Studierenden kursbezogen und projektspezifisch zur Verfügung gestellt.
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Literaturhinweise werden den Studierenden kursbezogen und projektspezifisch zur Verfügung gestellt.
 </text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13126&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -398,7 +454,9 @@ In einem städtebaulichen Entwurf auf Quartiersebene entwickeln die Studierenden
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13126#1"/>
@@ -417,20 +475,20 @@ In einem städtebaulichen Entwurf auf Quartiersebene entwickeln die Studierenden
     <learningEvent id="urn:thl:learning:spec:13126#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Projekt: Städtebau im Quartier</title>
-      <title lang="eng">Projekt: Städtebau im Quartier</title>
+      <title lang="en">Projekt: Städtebau im Quartier</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13126#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13126">
       <identifier>13126</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13126</title>
-      <title lang="eng">Modul 13126</title>
+      <title lang="en">Modul 13126</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13143#1">
       <identifier>13143#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Strategien der Stadterneuerung und der Quartiersentwicklung</title>
-      <title lang="eng">Strategien der Stadterneuerung und der Quartiersentwicklung</title>
+      <title lang="en">Strategien der Stadterneuerung und der Quartiersentwicklung</title>
       <definition>
         <text content-type="text/plain" lang="de">Strategien der Stadterneuerung und der Quartiersentwicklung:
 	- Stadtentwicklung und Baukultur
@@ -439,7 +497,9 @@ In einem städtebaulichen Entwurf auf Quartiersebene entwickeln die Studierenden
 	- Formelle und informelle Steuerung und förderrechtliche Aspekte
 	- Strategien in der Stadtentwicklung und strategische Planung
 	- Aktuelle Konzepte und Fallbeispiele</text>
-        <text content-type="text/plain" lang="eng">Strategien der Stadterneuerung und der Quartiersentwicklung:
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Strategien der Stadterneuerung und der Quartiersentwicklung:
 	- Stadtentwicklung und Baukultur
 	- Quartier als Handlungseinheit
 	- Stadterneuerung und Bestandsentwicklung
@@ -455,7 +515,9 @@ Werner Durth u. Paul Sigel (2016) Baukultur - Studienausgabe
 Spiegel gesellschaftlichen Wandels
 Drilling u. Schur (Hg.) (2012) Nachhaltige Quartiersentwicklung
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Stijn Oosterlynck, Jef Van den Broeck, Louis Albrechts, Frank Moulaert, Ann Verhetsel (Hg.) (2010): Strategic Spatial Projects
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Stijn Oosterlynck, Jef Van den Broeck, Louis Albrechts, Frank Moulaert, Ann Verhetsel (Hg.) (2010): Strategic Spatial Projects
 Catalysts for Change
 Roberts, Peter W.; Sykes, Hugh (Hg.) (2000): Urban regeneration. A handbook.
 Werner Durth u. Paul Sigel (2016) Baukultur - Studienausgabe
@@ -465,11 +527,15 @@ Drilling u. Schur (Hg.) (2012) Nachhaltige Quartiersentwicklung
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13143&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -482,7 +548,9 @@ Drilling u. Schur (Hg.) (2012) Nachhaltige Quartiersentwicklung
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13143#1"/>
@@ -501,27 +569,29 @@ Drilling u. Schur (Hg.) (2012) Nachhaltige Quartiersentwicklung
     <learningEvent id="urn:thl:learning:spec:13143#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Strategien der Stadterneuerung und der Quartiersentwicklung</title>
-      <title lang="eng">Strategien der Stadterneuerung und der Quartiersentwicklung</title>
+      <title lang="en">Strategien der Stadterneuerung und der Quartiersentwicklung</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13143#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13143">
       <identifier>13143</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13143</title>
-      <title lang="eng">Modul 13143</title>
+      <title lang="en">Modul 13143</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13160#1">
       <identifier>13160#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Wohnungswesen und Wohnungsbau</title>
-      <title lang="eng">Wohnungswesen und Wohnungsbau</title>
+      <title lang="en">Wohnungswesen und Wohnungsbau</title>
       <definition>
         <text content-type="text/plain" lang="de">Wohnungswesen und Wohnungsbau:
 - Funktionsweise der Wohnungsmärkte (soziale, ökonomische, ökologische und politische Rahmenbedingungen des Wohnungswesens; räumliche und funktionale Teilmärkte);
 - Grundsätze und Instrumente der Wohnungspolitik und des Zusammenwirkens von Akteurinnen und Akteuren aus den Bereichen Staat, Markt und Zivilgesellschaft;
 - Analyse von Konzepten im Bereich des Wohnungsbaus, v.a. im 20. Jahrhundert
 - Aktuelle Herausforderungen in Wohnungswesen und -bau (z.B. Demographischer Wandel, Wohntrends, Revitalisierung von Wohnsiedlungen).</text>
-        <text content-type="text/plain" lang="eng">Wohnungswesen und Wohnungsbau:
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Wohnungswesen und Wohnungsbau:
 - Funktionsweise der Wohnungsmärkte (soziale, ökonomische, ökologische und politische Rahmenbedingungen des Wohnungswesens; räumliche und funktionale Teilmärkte);
 - Grundsätze und Instrumente der Wohnungspolitik und des Zusammenwirkens von Akteurinnen und Akteuren aus den Bereichen Staat, Markt und Zivilgesellschaft;
 - Analyse von Konzepten im Bereich des Wohnungsbaus, v.a. im 20. Jahrhundert
@@ -532,18 +602,24 @@ Drilling u. Schur (Hg.) (2012) Nachhaltige Quartiersentwicklung
 Schönig, B. (Hg.)(2017): Wohnraum für alle?! Bielefeld.
 Dömer / Drexler / Schultz-Granberg (2016): Bezahlbar. Gut. Wohnen. Strategien für erschwinglichen Wohnraum, Jovis, Berlin.
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Flagge, I. (Hg.)(1999): Geschichte des Wohnens, Band 5: Von 1945 bis heute, Aufbau-Neubau-Umbau, Stuttgart.
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Flagge, I. (Hg.)(1999): Geschichte des Wohnens, Band 5: Von 1945 bis heute, Aufbau-Neubau-Umbau, Stuttgart.
 Schönig, B. (Hg.)(2017): Wohnraum für alle?! Bielefeld.
 Dömer / Drexler / Schultz-Granberg (2016): Bezahlbar. Gut. Wohnen. Strategien für erschwinglichen Wohnraum, Jovis, Berlin.
 </text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13160&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -556,7 +632,9 @@ Dömer / Drexler / Schultz-Granberg (2016): Bezahlbar. Gut. Wohnen. Strategien f
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13160#1"/>
@@ -575,41 +653,49 @@ Dömer / Drexler / Schultz-Granberg (2016): Bezahlbar. Gut. Wohnen. Strategien f
     <learningEvent id="urn:thl:learning:spec:13160#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Wohnungswesen und Wohnungsbau</title>
-      <title lang="eng">Wohnungswesen und Wohnungsbau</title>
+      <title lang="en">Wohnungswesen und Wohnungsbau</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13160#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13160">
       <identifier>13160</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13160</title>
-      <title lang="eng">Modul 13160</title>
+      <title lang="en">Modul 13160</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13177#1">
       <identifier>13177#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Partizipation und Kommunikation</title>
-      <title lang="eng">Partizipation und Kommunikation</title>
+      <title lang="en">Partizipation und Kommunikation</title>
       <definition>
         <text content-type="text/plain" lang="de">Partizipation und Kommunikation:
 Ausgehend vom Governanceansatz vermittelt das Seminar Grundlagen und Konzepte kooperativer Planung und der Prozessteuerung in Planungs- und Entwicklungsvorhaben. Die Analyse akteursbezogener Interessen und ihre Rolle im Planungsprozess werden ebenso erlernt wie theoretische Grundlagen der Kommunikation. Die Veranstaltung hat zum Ziel, Anforderungen an die Kommunikation in und mit Gruppen ebenso wie die situationsbezogene Entwicklung geeigneter Informations-, Beteiligungs- und Aktivierungsverfahren zu vermitteln und zu erproben.</text>
-        <text content-type="text/plain" lang="eng">Partizipation und Kommunikation:
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Partizipation und Kommunikation:
 Ausgehend vom Governanceansatz vermittelt das Seminar Grundlagen und Konzepte kooperativer Planung und der Prozessteuerung in Planungs- und Entwicklungsvorhaben. Die Analyse akteursbezogener Interessen und ihre Rolle im Planungsprozess werden ebenso erlernt wie theoretische Grundlagen der Kommunikation. Die Veranstaltung hat zum Ziel, Anforderungen an die Kommunikation in und mit Gruppen ebenso wie die situationsbezogene Entwicklung geeigneter Informations-, Beteiligungs- und Aktivierungsverfahren zu vermitteln und zu erproben.</text>
       </definition>
       <additionalNote>
         <text content-type="text/plain" lang="de">Literaturangaben: Selle, K.: Über Bürgerbeteiligung hinaus, Detmold 2013.
 Schulz von Thun, F.: Miteinander Reden, Reinbek 1981.
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Selle, K.: Über Bürgerbeteiligung hinaus, Detmold 2013.
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Selle, K.: Über Bürgerbeteiligung hinaus, Detmold 2013.
 Schulz von Thun, F.: Miteinander Reden, Reinbek 1981.
 </text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13177&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -622,7 +708,9 @@ Schulz von Thun, F.: Miteinander Reden, Reinbek 1981.
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13177#1"/>
@@ -641,20 +729,20 @@ Schulz von Thun, F.: Miteinander Reden, Reinbek 1981.
     <learningEvent id="urn:thl:learning:spec:13177#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Partizipation und Kommunikation</title>
-      <title lang="eng">Partizipation und Kommunikation</title>
+      <title lang="en">Partizipation und Kommunikation</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13177#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13177">
       <identifier>13177</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13177</title>
-      <title lang="eng">Modul 13177</title>
+      <title lang="en">Modul 13177</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13194#1">
       <identifier>13194#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Projekt: Städtebauliches Entwicklungskonzept</title>
-      <title lang="eng">Projekt: Städtebauliches Entwicklungskonzept</title>
+      <title lang="en">Projekt: Städtebauliches Entwicklungskonzept</title>
       <definition>
         <text content-type="text/plain" lang="de">Projekt: Städtebauliches Entwicklungskonzept:
 Studierende lernen
@@ -663,7 +751,9 @@ Studierende lernen
 	- ggf. eigenständig Gespräche mit Externen durchzuführen
 	- die Arbeitsergebnisse (öffentlich) vorzustellen
 	- Ergebnisse zusammenfassend in einem städtebaulichen Entwicklungskonzept darzustellen.</text>
-        <text content-type="text/plain" lang="eng">Projekt: Städtebauliches Entwicklungskonzept:
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Projekt: Städtebauliches Entwicklungskonzept:
 Studierende lernen
 	- methodische Vorgehensweisen zur Erstellung integrierter Entwicklungskonzepte
 	- Bestandserhebung + Analyse, Zieldiskussion und städtebauliche Leitidee / alternative Konzeptionen, Umsetzung im Entwurf oder Konzept
@@ -674,16 +764,22 @@ Studierende lernen
       <additionalNote>
         <text content-type="text/plain" lang="de">Literaturangaben: Literatur wird projektbezogen bereitgestellt
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Literatur wird projektbezogen bereitgestellt
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Literatur wird projektbezogen bereitgestellt
 </text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13194&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -696,7 +792,9 @@ Studierende lernen
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13194#1"/>
@@ -715,20 +813,20 @@ Studierende lernen
     <learningEvent id="urn:thl:learning:spec:13194#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Projekt: Städtebauliches Entwicklungskonzept</title>
-      <title lang="eng">Projekt: Städtebauliches Entwicklungskonzept</title>
+      <title lang="en">Projekt: Städtebauliches Entwicklungskonzept</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13194#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13194">
       <identifier>13194</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13194</title>
-      <title lang="eng">Modul 13194</title>
+      <title lang="en">Modul 13194</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13211#1">
       <identifier>13211#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Projekt: Quartiersentwicklungskonzept</title>
-      <title lang="eng">Projekt: Quartiersentwicklungskonzept</title>
+      <title lang="en">Projekt: Quartiersentwicklungskonzept</title>
       <definition>
         <text content-type="text/plain" lang="de">Projekt: Quartiersentwicklungskonzept:
 • Erhebungs- und Analysemethoden und -instrumente
@@ -736,7 +834,9 @@ Studierende lernen
 • Konzept- und Strategieentwicklung
 • Ausarbeitung eines Konzeptes in textlicher und graphischer Form
 • Umsetzung in Gestaltungspläne und Maßnahmenprogramme</text>
-        <text content-type="text/plain" lang="eng">Projekt: Quartiersentwicklungskonzept:
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Projekt: Quartiersentwicklungskonzept:
 • Erhebungs- und Analysemethoden und -instrumente
 • Beurteilung und Bewertungsmethoden
 • Konzept- und Strategieentwicklung
@@ -746,16 +846,22 @@ Studierende lernen
       <additionalNote>
         <text content-type="text/plain" lang="de">Literaturangaben: Literatur wird in der Veranstaltung zur Verfügung gestellt.
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Literatur wird in der Veranstaltung zur Verfügung gestellt.
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Literatur wird in der Veranstaltung zur Verfügung gestellt.
 </text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13211&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -768,7 +874,9 @@ Studierende lernen
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13211#1"/>
@@ -787,20 +895,20 @@ Studierende lernen
     <learningEvent id="urn:thl:learning:spec:13211#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Projekt: Quartiersentwicklungskonzept</title>
-      <title lang="eng">Projekt: Quartiersentwicklungskonzept</title>
+      <title lang="en">Projekt: Quartiersentwicklungskonzept</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13211#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13211">
       <identifier>13211</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13211</title>
-      <title lang="eng">Modul 13211</title>
+      <title lang="en">Modul 13211</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13228#1">
       <identifier>13228#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Integrierte Planung / Städtebaurecht aktuell</title>
-      <title lang="eng">Integrierte Planung / Städtebaurecht aktuell</title>
+      <title lang="en">Integrierte Planung / Städtebaurecht aktuell</title>
       <definition>
         <text content-type="text/plain" lang="de">Integrierte Planung / Städtebaurecht aktuell:
 Planungstheoretische Grundlagen des Planens
@@ -808,7 +916,9 @@ Methoden und Strategien integrierter Planung und Lösungen komplexer Probleme
 Aktuelle Prozesse und Projekte der integrierten städtebaulichen Planung
 Digitalgestützte Werkzeuge und Verfahren in der Stadtplanung
 Aktuelle Entwicklung im Städtebaurecht</text>
-        <text content-type="text/plain" lang="eng">Integrierte Planung / Städtebaurecht aktuell:
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Integrierte Planung / Städtebaurecht aktuell:
 Planungstheoretische Grundlagen des Planens
 Methoden und Strategien integrierter Planung und Lösungen komplexer Probleme
 Aktuelle Prozesse und Projekte der integrierten städtebaulichen Planung
@@ -820,18 +930,24 @@ Aktuelle Entwicklung im Städtebaurecht</text>
 Walter Schönwandt u.a. (2013) Solving complex problems – A Handbook.
 Umwelt- und Planungsrecht (Zeitschrift)
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Ravetz, Joe (2020) Deeper City – Collective Intelligence and Pathways from Smart to Wise
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Ravetz, Joe (2020) Deeper City – Collective Intelligence and Pathways from Smart to Wise
 Walter Schönwandt u.a. (2013) Solving complex problems – A Handbook.
 Umwelt- und Planungsrecht (Zeitschrift)
 </text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13228&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -844,7 +960,9 @@ Umwelt- und Planungsrecht (Zeitschrift)
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13228#1"/>
@@ -863,41 +981,49 @@ Umwelt- und Planungsrecht (Zeitschrift)
     <learningEvent id="urn:thl:learning:spec:13228#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Integrierte Planung / Städtebaurecht aktuell</title>
-      <title lang="eng">Integrierte Planung / Städtebaurecht aktuell</title>
+      <title lang="en">Integrierte Planung / Städtebaurecht aktuell</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13228#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13228">
       <identifier>13228</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13228</title>
-      <title lang="eng">Modul 13228</title>
+      <title lang="en">Modul 13228</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13245#1">
       <identifier>13245#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Gemeinschaftliche Konzepte in der Planung</title>
-      <title lang="eng">Gemeinschaftliche Konzepte in der Planung</title>
+      <title lang="en">Gemeinschaftliche Konzepte in der Planung</title>
       <definition>
         <text content-type="text/plain" lang="de">Gemeinschaftliche Konzepte in der Planung:
 Ausgehend von den Handlungslogiken unterschiedlicher Akteurstypen (Staat, Markt, Zivilgesellschaft) wird vermittelt, welche Möglichkeiten kooperativen Agierens in der Stadtentwicklung bestehen. Historische wie aktuelle Beispiele in unterschiedlichen Themenfeldern (Wohnen, Daseinsvorsorge, Mobilität, Betreuung und Pflege) werden näher untersucht. Ein besonderer Schwerpunkt liegt auf der Frage, inwieweit Nahräume / Quartiere prädestiniert sind, die Umsetzung gemeinschaftlicher Konzepte zu befördern.</text>
-        <text content-type="text/plain" lang="eng">Gemeinschaftliche Konzepte in der Planung:
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Gemeinschaftliche Konzepte in der Planung:
 Ausgehend von den Handlungslogiken unterschiedlicher Akteurstypen (Staat, Markt, Zivilgesellschaft) wird vermittelt, welche Möglichkeiten kooperativen Agierens in der Stadtentwicklung bestehen. Historische wie aktuelle Beispiele in unterschiedlichen Themenfeldern (Wohnen, Daseinsvorsorge, Mobilität, Betreuung und Pflege) werden näher untersucht. Ein besonderer Schwerpunkt liegt auf der Frage, inwieweit Nahräume / Quartiere prädestiniert sind, die Umsetzung gemeinschaftlicher Konzepte zu befördern.</text>
       </definition>
       <additionalNote>
         <text content-type="text/plain" lang="de">Literaturangaben: Helfrich, S./Bollier, D.: Frei, fair und lebendig. Die Macht der Commons. Bielefeld 2020.
 Grzesiok, S.: Bündnisse für Wohnen im Quartier: Ein Format integrierter und kooperativer Quartiersentwicklung. Wiesbaden 2018.
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Helfrich, S./Bollier, D.: Frei, fair und lebendig. Die Macht der Commons. Bielefeld 2020.
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Helfrich, S./Bollier, D.: Frei, fair und lebendig. Die Macht der Commons. Bielefeld 2020.
 Grzesiok, S.: Bündnisse für Wohnen im Quartier: Ein Format integrierter und kooperativer Quartiersentwicklung. Wiesbaden 2018.
 </text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13245&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -910,7 +1036,9 @@ Grzesiok, S.: Bündnisse für Wohnen im Quartier: Ein Format integrierter und ko
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13245#1"/>
@@ -929,41 +1057,49 @@ Grzesiok, S.: Bündnisse für Wohnen im Quartier: Ein Format integrierter und ko
     <learningEvent id="urn:thl:learning:spec:13245#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Gemeinschaftliche Konzepte in der Planung</title>
-      <title lang="eng">Gemeinschaftliche Konzepte in der Planung</title>
+      <title lang="en">Gemeinschaftliche Konzepte in der Planung</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13245#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13245">
       <identifier>13245</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13245</title>
-      <title lang="eng">Modul 13245</title>
+      <title lang="en">Modul 13245</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13262#1">
       <identifier>13262#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">(Nachhaltige) Städtebauliche Gestaltung und Freiraumplanung (Städtebaulicher Entwurf)</title>
-      <title lang="eng">(Nachhaltige) Städtebauliche Gestaltung und Freiraumplanung (Städtebaulicher Entwurf)</title>
+      <title lang="en">(Nachhaltige) Städtebauliche Gestaltung und Freiraumplanung (Städtebaulicher Entwurf)</title>
       <definition>
         <text content-type="text/plain" lang="de">(Nachhaltige) Städtebauliche Gestaltung und Freiraumplanung (Städtebaulicher Entwurf):
 Auf der Grundlage einer spezifischen aktuellen Fragestellung mit hohem Praxisbezug erarbeiten die Studierenden in einem städtebaulich-freiraumplanerischen Entwurf tragfähige und nachhaltige Planungs- und Gestaltungskonzeptionen. Eine kontextbezogene Analyse des untersuchten Planungsgebietes und daraus resultierende Entwurfsvarianten und räumliche Leitbilder werden im Kursverlauf in ein entwurfliches und programmatisches Konzept überführt, das in Abhängigkeit zur jeweiligen Aufgabenstellung bis hin zur Ausdifferenzierung der Gebäudetypologien auf hochbaulicher Ebene und Darstellung freiräumlicher Details in allen erforderlichen städtebaulich-freiraumplanerischen Maßstabsebenen durchgearbeitet wird.</text>
-        <text content-type="text/plain" lang="eng">(Nachhaltige) Städtebauliche Gestaltung und Freiraumplanung (Städtebaulicher Entwurf):
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">(Nachhaltige) Städtebauliche Gestaltung und Freiraumplanung (Städtebaulicher Entwurf):
 Auf der Grundlage einer spezifischen aktuellen Fragestellung mit hohem Praxisbezug erarbeiten die Studierenden in einem städtebaulich-freiraumplanerischen Entwurf tragfähige und nachhaltige Planungs- und Gestaltungskonzeptionen. Eine kontextbezogene Analyse des untersuchten Planungsgebietes und daraus resultierende Entwurfsvarianten und räumliche Leitbilder werden im Kursverlauf in ein entwurfliches und programmatisches Konzept überführt, das in Abhängigkeit zur jeweiligen Aufgabenstellung bis hin zur Ausdifferenzierung der Gebäudetypologien auf hochbaulicher Ebene und Darstellung freiräumlicher Details in allen erforderlichen städtebaulich-freiraumplanerischen Maßstabsebenen durchgearbeitet wird.</text>
       </definition>
       <additionalNote>
         <text content-type="text/plain" lang="de">Literaturangaben: Gerber, Kurath, Schurk, Züger (2017): Methodenhandbuch für das Entwerfen in Architektur und Städtebau, Triest Verlag.
 Weitere Literaturhinweise werden den Studierenden kursbezogen und projektspezifisch zur Verfügung gestellt.
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Gerber, Kurath, Schurk, Züger (2017): Methodenhandbuch für das Entwerfen in Architektur und Städtebau, Triest Verlag.
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Gerber, Kurath, Schurk, Züger (2017): Methodenhandbuch für das Entwerfen in Architektur und Städtebau, Triest Verlag.
 Weitere Literaturhinweise werden den Studierenden kursbezogen und projektspezifisch zur Verfügung gestellt.
 </text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13262&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -976,7 +1112,9 @@ Weitere Literaturhinweise werden den Studierenden kursbezogen und projektspezifi
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13262#1"/>
@@ -995,39 +1133,47 @@ Weitere Literaturhinweise werden den Studierenden kursbezogen und projektspezifi
     <learningEvent id="urn:thl:learning:spec:13262#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">(Nachhaltige) Städtebauliche Gestaltung und Freiraumplanung (Städtebaulicher Entwurf)</title>
-      <title lang="eng">(Nachhaltige) Städtebauliche Gestaltung und Freiraumplanung (Städtebaulicher Entwurf)</title>
+      <title lang="en">(Nachhaltige) Städtebauliche Gestaltung und Freiraumplanung (Städtebaulicher Entwurf)</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13262#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13262">
       <identifier>13262</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13262</title>
-      <title lang="eng">Modul 13262</title>
+      <title lang="en">Modul 13262</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13279#1">
       <identifier>13279#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Eigenständige Studienprojekte</title>
-      <title lang="eng">Eigenständige Studienprojekte</title>
+      <title lang="en">Eigenständige Studienprojekte</title>
       <definition>
         <text content-type="text/plain" lang="de">Eigenständige Studienprojekte:
 Aufbauend auf den im bisherigen Studienverlauf erworbenen Kenntnissen und Methoden bearbeiten die Studierenden eigenständig ein Projekt mit innerhalb des Studiengangsspektrums frei wählbarem thematischen Schwerpunkt. Eine Begleitung durch die Lehrenden erfolgt in Form von Inputs und Konsultationen während des Bearbeitungszeitraumes.</text>
-        <text content-type="text/plain" lang="eng">Eigenständige Studienprojekte:
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Eigenständige Studienprojekte:
 Aufbauend auf den im bisherigen Studienverlauf erworbenen Kenntnissen und Methoden bearbeiten die Studierenden eigenständig ein Projekt mit innerhalb des Studiengangsspektrums frei wählbarem thematischen Schwerpunkt. Eine Begleitung durch die Lehrenden erfolgt in Form von Inputs und Konsultationen während des Bearbeitungszeitraumes.</text>
       </definition>
       <additionalNote>
         <text content-type="text/plain" lang="de">Literaturangaben: Literaturhinweise erfolgen projektspezifisch durch die jeweilige Betreuerin / den jeweiligen Betreuer der Arbeit.
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Literaturhinweise erfolgen projektspezifisch durch die jeweilige Betreuerin / den jeweiligen Betreuer der Arbeit.
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Literaturhinweise erfolgen projektspezifisch durch die jeweilige Betreuerin / den jeweiligen Betreuer der Arbeit.
 </text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13279&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -1040,7 +1186,9 @@ Aufbauend auf den im bisherigen Studienverlauf erworbenen Kenntnissen und Method
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13279#1"/>
@@ -1059,20 +1207,20 @@ Aufbauend auf den im bisherigen Studienverlauf erworbenen Kenntnissen und Method
     <learningEvent id="urn:thl:learning:spec:13279#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Eigenständige Studienprojekte</title>
-      <title lang="eng">Eigenständige Studienprojekte</title>
+      <title lang="en">Eigenständige Studienprojekte</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13279#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13279">
       <identifier>13279</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13279</title>
-      <title lang="eng">Modul 13279</title>
+      <title lang="en">Modul 13279</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13296#1">
       <identifier>13296#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Nachhaltige Bodennutzung und -politik</title>
-      <title lang="eng">Nachhaltige Bodennutzung und -politik</title>
+      <title lang="en">Nachhaltige Bodennutzung und -politik</title>
       <definition>
         <text content-type="text/plain" lang="de">Nachhaltige Bodennutzung und -politik:
 
@@ -1081,7 +1229,9 @@ Aufbauend auf den im bisherigen Studienverlauf erworbenen Kenntnissen und Method
 	- Konzepte einer integrierten Stadtentwicklungs- und Liegenschaftspolitik
 	- Handlungsfelder des Flächenmanagements wie Baulückenaktivierung, Sanierung und Umnutzung alter Bausubstanz, Nachverdichtung, das Flächenrecycling und flächensparendes Bauen
 Methoden und Instrumente der Bestandserfassung</text>
-        <text content-type="text/plain" lang="eng">Nachhaltige Bodennutzung und -politik:
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Nachhaltige Bodennutzung und -politik:
 
 	- Ökonomische, technische und ökologische Aspekte des nachhaltigen Flächenmanagements
 	- Rechtliche und organisatorische Aspekte der Baulandentwicklung
@@ -1091,15 +1241,21 @@ Methoden und Instrumente der Bestandserfassung</text>
       </definition>
       <additionalNote>
         <text content-type="text/plain" lang="de">Literaturangaben: </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: </text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: </text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13296&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -1112,7 +1268,9 @@ Methoden und Instrumente der Bestandserfassung</text>
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13296#1"/>
@@ -1131,39 +1289,47 @@ Methoden und Instrumente der Bestandserfassung</text>
     <learningEvent id="urn:thl:learning:spec:13296#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Nachhaltige Bodennutzung und -politik</title>
-      <title lang="eng">Nachhaltige Bodennutzung und -politik</title>
+      <title lang="en">Nachhaltige Bodennutzung und -politik</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13296#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13296">
       <identifier>13296</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13296</title>
-      <title lang="eng">Modul 13296</title>
+      <title lang="en">Modul 13296</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13313#1">
       <identifier>13313#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Sonderthemen in Architektur und Planung I</title>
-      <title lang="eng">Sonderthemen in Architektur und Planung I</title>
+      <title lang="en">Sonderthemen in Architektur und Planung I</title>
       <definition>
         <text content-type="text/plain" lang="de">Sonderthemen in Architektur und Planung I:
 Ziel ist es, aktuelle Fragestellungen in Architektur und Planung aufgreifen, erarbeiten, diskutieren und konzeptionell entwickeln zu können. Die genauen Inhalte variieren je nach konkreter Fragestellung.</text>
-        <text content-type="text/plain" lang="eng">Sonderthemen in Architektur und Planung I:
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Sonderthemen in Architektur und Planung I:
 Ziel ist es, aktuelle Fragestellungen in Architektur und Planung aufgreifen, erarbeiten, diskutieren und konzeptionell entwickeln zu können. Die genauen Inhalte variieren je nach konkreter Fragestellung.</text>
       </definition>
       <additionalNote>
         <text content-type="text/plain" lang="de">Literaturangaben: Unterscheidet sich je nach Thema, wird in Veranstaltung ausgegeben.
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Unterscheidet sich je nach Thema, wird in Veranstaltung ausgegeben.
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Unterscheidet sich je nach Thema, wird in Veranstaltung ausgegeben.
 </text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13313&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -1176,7 +1342,9 @@ Ziel ist es, aktuelle Fragestellungen in Architektur und Planung aufgreifen, era
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13313#1"/>
@@ -1195,39 +1363,47 @@ Ziel ist es, aktuelle Fragestellungen in Architektur und Planung aufgreifen, era
     <learningEvent id="urn:thl:learning:spec:13313#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Sonderthemen in Architektur und Planung I</title>
-      <title lang="eng">Sonderthemen in Architektur und Planung I</title>
+      <title lang="en">Sonderthemen in Architektur und Planung I</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13313#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13313">
       <identifier>13313</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13313</title>
-      <title lang="eng">Modul 13313</title>
+      <title lang="en">Modul 13313</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13330#1">
       <identifier>13330#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Sonderthemen in Architektur und Planung II</title>
-      <title lang="eng">Sonderthemen in Architektur und Planung II</title>
+      <title lang="en">Sonderthemen in Architektur und Planung II</title>
       <definition>
         <text content-type="text/plain" lang="de">Sonderthemen in Architektur und Planung II:
 Ziel ist es, aktuelle Fragestellungen in Architektur und Planung aufgreifen, erarbeiten, diskutieren und konzeptionell entwickeln zu können. Die genauen Inhalte variieren je nach konkreter Fragestellung.</text>
-        <text content-type="text/plain" lang="eng">Sonderthemen in Architektur und Planung II:
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Sonderthemen in Architektur und Planung II:
 Ziel ist es, aktuelle Fragestellungen in Architektur und Planung aufgreifen, erarbeiten, diskutieren und konzeptionell entwickeln zu können. Die genauen Inhalte variieren je nach konkreter Fragestellung.</text>
       </definition>
       <additionalNote>
         <text content-type="text/plain" lang="de">Literaturangaben: Unterscheidet sich je nach Thema, wird in Veranstaltung ausgegeben.
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Unterscheidet sich je nach Thema, wird in Veranstaltung ausgegeben.
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Unterscheidet sich je nach Thema, wird in Veranstaltung ausgegeben.
 </text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13330&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -1240,7 +1416,9 @@ Ziel ist es, aktuelle Fragestellungen in Architektur und Planung aufgreifen, era
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13330#1"/>
@@ -1259,27 +1437,29 @@ Ziel ist es, aktuelle Fragestellungen in Architektur und Planung aufgreifen, era
     <learningEvent id="urn:thl:learning:spec:13330#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Sonderthemen in Architektur und Planung II</title>
-      <title lang="eng">Sonderthemen in Architektur und Planung II</title>
+      <title lang="en">Sonderthemen in Architektur und Planung II</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13330#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13330">
       <identifier>13330</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13330</title>
-      <title lang="eng">Modul 13330</title>
+      <title lang="en">Modul 13330</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13347#1">
       <identifier>13347#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Exkursion</title>
-      <title lang="eng">Exkursion</title>
+      <title lang="en">Exkursion</title>
       <definition>
         <text content-type="text/plain" lang="de">Exkursion:
 Studierende erlernen:
 - die Zusammenhänge zwischen gesellschaftlicher Entwicklung und Veränderung und Architektur und Städtebau sowie das Einordnen der Auswirkungen unterschiedlicher kultureller Hintergründe.
 - Sprach- und Kommunikationskompetenz
 Studierende sind in der Lage, die auf der Exkursion gewonnenen Kenntnisse und Fertigkeiten anzuwenden und zu kommunizieren.</text>
-        <text content-type="text/plain" lang="eng">Exkursion:
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Exkursion:
 Studierende erlernen:
 - die Zusammenhänge zwischen gesellschaftlicher Entwicklung und Veränderung und Architektur und Städtebau sowie das Einordnen der Auswirkungen unterschiedlicher kultureller Hintergründe.
 - Sprach- und Kommunikationskompetenz
@@ -1288,16 +1468,22 @@ Studierende sind in der Lage, die auf der Exkursion gewonnenen Kenntnisse und Fe
       <additionalNote>
         <text content-type="text/plain" lang="de">Literaturangaben: Werden je nach Ziel und Thema der Exkursion von den Lehrenden zur Verfügung gestellt.
 </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: Werden je nach Ziel und Thema der Exkursion von den Lehrenden zur Verfügung gestellt.
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: Werden je nach Ziel und Thema der Exkursion von den Lehrenden zur Verfügung gestellt.
 </text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13347&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -1310,7 +1496,9 @@ Studierende sind in der Lage, die auf der Exkursion gewonnenen Kenntnisse und Fe
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13347#1"/>
@@ -1329,20 +1517,20 @@ Studierende sind in der Lage, die auf der Exkursion gewonnenen Kenntnisse und Fe
     <learningEvent id="urn:thl:learning:spec:13347#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Exkursion</title>
-      <title lang="eng">Exkursion</title>
+      <title lang="en">Exkursion</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13347#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13347">
       <identifier>13347</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13347</title>
-      <title lang="eng">Modul 13347</title>
+      <title lang="en">Modul 13347</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13364#1">
       <identifier>13364#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Masterseminar</title>
-      <title lang="eng">Masterseminar</title>
+      <title lang="en">Masterseminar</title>
       <definition>
         <text content-type="text/plain" lang="de">Masterseminar:
 Studierende erlernen:
@@ -1350,7 +1538,9 @@ Studierende erlernen:
 - Wissenschaftliche Textsorten: Thesenpapier, Abstract, Exposé, Rezension, Forschungsbericht, Poster,
 - gestalterische, planerische bzw. wissenschaftliche Probleme im städtischen bzw. urbanen Kontext zu erkennen
 - Frage- bzw. Aufgabenstellungen aus dem Bereich städtebaulicher Entwürfe bzw. stadtplanerischer Herausforderungen und Problemlagen abzuleiten und die methodische und inhaltliche Bearbeitung für eine komplexe Frage- bzw. Aufgabenstellung zu konzipieren</text>
-        <text content-type="text/plain" lang="eng">Masterseminar:
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Masterseminar:
 Studierende erlernen:
 - Literatur recherchieren, organisieren und verwalten
 - Wissenschaftliche Textsorten: Thesenpapier, Abstract, Exposé, Rezension, Forschungsbericht, Poster,
@@ -1359,15 +1549,21 @@ Studierende erlernen:
       </definition>
       <additionalNote>
         <text content-type="text/plain" lang="de">Literaturangaben: </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: </text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: </text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13364&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -1380,7 +1576,9 @@ Studierende erlernen:
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13364#1"/>
@@ -1399,35 +1597,43 @@ Studierende erlernen:
     <learningEvent id="urn:thl:learning:spec:13364#1-1">
       <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
       <title lang="de">Masterseminar</title>
-      <title lang="eng">Masterseminar</title>
+      <title lang="en">Masterseminar</title>
       <learningActivitySpecification idref="urn:thl:learningactivity:spec:13364#1-1"/>
     </learningEvent>
     <modul id="urn:thl:learning:spec:13364">
       <identifier>13364</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13364</title>
-      <title lang="eng">Modul 13364</title>
+      <title lang="en">Modul 13364</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13381#1">
       <identifier>13381#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Masterarbeit</title>
-      <title lang="eng">Masterarbeit</title>
+      <title lang="en">Masterarbeit</title>
       <definition>
         <text content-type="text/plain" lang="de">Masterarbeit:</text>
-        <text content-type="text/plain" lang="eng">Masterarbeit:</text>
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Masterarbeit:</text>
       </definition>
       <additionalNote>
         <text content-type="text/plain" lang="de">Literaturangaben: </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: </text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: </text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13381&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -1440,7 +1646,9 @@ Studierende erlernen:
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13381#1"/>
@@ -1459,28 +1667,36 @@ Studierende erlernen:
       <identifier>13381</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13381</title>
-      <title lang="eng">Modul 13381</title>
+      <title lang="en">Modul 13381</title>
     </modul>
     <modulSpecialization id="urn:thl:learning:spec:13398#1">
       <identifier>13398#1</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
       <title lang="de">Kolloquium</title>
-      <title lang="eng">Kolloquium</title>
+      <title lang="en">Kolloquium</title>
       <definition>
         <text content-type="text/plain" lang="de">Kolloquium:</text>
-        <text content-type="text/plain" lang="eng">Kolloquium:</text>
+      </definition>
+      <definition>
+        <text content-type="text/plain" lang="en">Kolloquium:</text>
       </definition>
       <additionalNote>
         <text content-type="text/plain" lang="de">Literaturangaben: </text>
-        <text content-type="text/plain" lang="eng">Literaturangaben: </text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literaturangaben: </text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
-        <text content-type="text/plain" lang="eng">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
       </additionalNote>
       <additionalNote>
         <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
-        <text content-type="text/plain" lang="eng">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Gültigkeit: Seit 14.11.2020</text>
       </additionalNote>
       <supplementaryDoc uri="https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=13398&amp;amp;version=1">
         <subject uri="http://data.europa.eu/esco/qualification-topics#entry-requirements"/>
@@ -1493,7 +1709,9 @@ Studierende erlernen:
       <targetGroup uri="http://data.europa.eu/europass/targetGroup/adults"/>
       <entryRequirementsNote>
         <text content-type="text/html" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
-        <text content-type="text/html" lang="eng">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/html" lang="en">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
       </entryRequirementsNote>
       <learningOutcomes>
         <learningOutcome idref="urn:thl:learningoutcome:13398#1"/>
@@ -1512,214 +1730,214 @@ Studierende erlernen:
       <identifier>13398</identifier>
       <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
       <title lang="de">Modul 13398</title>
-      <title lang="eng">Modul 13398</title>
+      <title lang="en">Modul 13398</title>
     </modul>
   </learningSpecificationReferences>
   <learningActivitySpecificationReferences>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13109#1-1">
       <title lang="de">Projekt: Städtebau im Bestand</title>
-      <title lang="eng">Projekt: Städtebau im Bestand</title>
+      <title lang="en">Projekt: Städtebau im Bestand</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13126#1-1">
       <title lang="de">Projekt: Städtebau im Quartier</title>
-      <title lang="eng">Projekt: Städtebau im Quartier</title>
+      <title lang="en">Projekt: Städtebau im Quartier</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13143#1-1">
       <title lang="de">Strategien der Stadterneuerung und der Quartiersentwicklung</title>
-      <title lang="eng">Strategien der Stadterneuerung und der Quartiersentwicklung</title>
+      <title lang="en">Strategien der Stadterneuerung und der Quartiersentwicklung</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13160#1-1">
       <title lang="de">Wohnungswesen und Wohnungsbau</title>
-      <title lang="eng">Wohnungswesen und Wohnungsbau</title>
+      <title lang="en">Wohnungswesen und Wohnungsbau</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13177#1-1">
       <title lang="de">Partizipation und Kommunikation</title>
-      <title lang="eng">Partizipation und Kommunikation</title>
+      <title lang="en">Partizipation und Kommunikation</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13194#1-1">
       <title lang="de">Projekt: Städtebauliches Entwicklungskonzept</title>
-      <title lang="eng">Projekt: Städtebauliches Entwicklungskonzept</title>
+      <title lang="en">Projekt: Städtebauliches Entwicklungskonzept</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13211#1-1">
       <title lang="de">Projekt: Quartiersentwicklungskonzept</title>
-      <title lang="eng">Projekt: Quartiersentwicklungskonzept</title>
+      <title lang="en">Projekt: Quartiersentwicklungskonzept</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13228#1-1">
       <title lang="de">Integrierte Planung / Städtebaurecht aktuell</title>
-      <title lang="eng">Integrierte Planung / Städtebaurecht aktuell</title>
+      <title lang="en">Integrierte Planung / Städtebaurecht aktuell</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13245#1-1">
       <title lang="de">Gemeinschaftliche Konzepte in der Planung</title>
-      <title lang="eng">Gemeinschaftliche Konzepte in der Planung</title>
+      <title lang="en">Gemeinschaftliche Konzepte in der Planung</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13262#1-1">
       <title lang="de">(Nachhaltige) Städtebauliche Gestaltung und Freiraumplanung (Städtebaulicher Entwurf)</title>
-      <title lang="eng">(Nachhaltige) Städtebauliche Gestaltung und Freiraumplanung (Städtebaulicher Entwurf)</title>
+      <title lang="en">(Nachhaltige) Städtebauliche Gestaltung und Freiraumplanung (Städtebaulicher Entwurf)</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13279#1-1">
       <title lang="de">Eigenständige Studienprojekte</title>
-      <title lang="eng">Eigenständige Studienprojekte</title>
+      <title lang="en">Eigenständige Studienprojekte</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13296#1-1">
       <title lang="de">Nachhaltige Bodennutzung und -politik</title>
-      <title lang="eng">Nachhaltige Bodennutzung und -politik</title>
+      <title lang="en">Nachhaltige Bodennutzung und -politik</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13313#1-1">
       <title lang="de">Sonderthemen in Architektur und Planung I</title>
-      <title lang="eng">Sonderthemen in Architektur und Planung I</title>
+      <title lang="en">Sonderthemen in Architektur und Planung I</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13330#1-1">
       <title lang="de">Sonderthemen in Architektur und Planung II</title>
-      <title lang="eng">Sonderthemen in Architektur und Planung II</title>
+      <title lang="en">Sonderthemen in Architektur und Planung II</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13347#1-1">
       <title lang="de">Exkursion</title>
-      <title lang="eng">Exkursion</title>
+      <title lang="en">Exkursion</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
     <learningActivitySpecification id="urn:thl:learningactivity:spec:13364#1-1">
       <title lang="de">Masterseminar</title>
-      <title lang="eng">Masterseminar</title>
+      <title lang="en">Masterseminar</title>
       <type uri="http://data.europa.eu/europass/learningActivityType/workShop"/>
     </learningActivitySpecification>
   </learningActivitySpecificationReferences>
   <assessmentSpecificationReferences>
     <assessmentSpecification id="urn:thl:assessment:spec:13109#1">
       <title lang="de">Projekt: Städtebau im Bestand</title>
-      <title lang="eng">Projekt: Städtebau im Bestand</title>
+      <title lang="en">Projekt: Städtebau im Bestand</title>
       <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:13109#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13126#1">
       <title lang="de">Projekt: Städtebau im Quartier</title>
-      <title lang="eng">Projekt: Städtebau im Quartier</title>
+      <title lang="en">Projekt: Städtebau im Quartier</title>
       <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:13126#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13143#1">
       <title lang="de">Strategien der Stadterneuerung und der Quartiersentwicklung</title>
-      <title lang="eng">Strategien der Stadterneuerung und der Quartiersentwicklung</title>
+      <title lang="en">Strategien der Stadterneuerung und der Quartiersentwicklung</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:13143#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13160#1">
       <title lang="de">Wohnungswesen und Wohnungsbau</title>
-      <title lang="eng">Wohnungswesen und Wohnungsbau</title>
+      <title lang="en">Wohnungswesen und Wohnungsbau</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:13160#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13177#1">
       <title lang="de">Partizipation und Kommunikation</title>
-      <title lang="eng">Partizipation und Kommunikation</title>
+      <title lang="en">Partizipation und Kommunikation</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:13177#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13194#1">
       <title lang="de">Projekt: Städtebauliches Entwicklungskonzept</title>
-      <title lang="eng">Projekt: Städtebauliches Entwicklungskonzept</title>
+      <title lang="en">Projekt: Städtebauliches Entwicklungskonzept</title>
       <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:13194#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13211#1">
       <title lang="de">Projekt: Quartiersentwicklungskonzept</title>
-      <title lang="eng">Projekt: Quartiersentwicklungskonzept</title>
+      <title lang="en">Projekt: Quartiersentwicklungskonzept</title>
       <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:13211#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13228#1">
       <title lang="de">Integrierte Planung / Städtebaurecht aktuell</title>
-      <title lang="eng">Integrierte Planung / Städtebaurecht aktuell</title>
+      <title lang="en">Integrierte Planung / Städtebaurecht aktuell</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:13228#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13245#1">
       <title lang="de">Gemeinschaftliche Konzepte in der Planung</title>
-      <title lang="eng">Gemeinschaftliche Konzepte in der Planung</title>
+      <title lang="en">Gemeinschaftliche Konzepte in der Planung</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:13245#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13262#1">
       <title lang="de">(Nachhaltige) Städtebauliche Gestaltung und Freiraumplanung (Städtebaulicher Entwurf)</title>
-      <title lang="eng">(Nachhaltige) Städtebauliche Gestaltung und Freiraumplanung (Städtebaulicher Entwurf)</title>
+      <title lang="en">(Nachhaltige) Städtebauliche Gestaltung und Freiraumplanung (Städtebaulicher Entwurf)</title>
       <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:13262#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13279#1">
       <title lang="de">Eigenständige Studienprojekte</title>
-      <title lang="eng">Eigenständige Studienprojekte</title>
+      <title lang="en">Eigenständige Studienprojekte</title>
       <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:13279#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13296#1">
       <title lang="de">Nachhaltige Bodennutzung und -politik</title>
-      <title lang="eng">Nachhaltige Bodennutzung und -politik</title>
+      <title lang="en">Nachhaltige Bodennutzung und -politik</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:13296#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13313#1">
       <title lang="de">Sonderthemen in Architektur und Planung I</title>
-      <title lang="eng">Sonderthemen in Architektur und Planung I</title>
+      <title lang="en">Sonderthemen in Architektur und Planung I</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:13313#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13330#1">
       <title lang="de">Sonderthemen in Architektur und Planung II</title>
-      <title lang="eng">Sonderthemen in Architektur und Planung II</title>
+      <title lang="en">Sonderthemen in Architektur und Planung II</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:13330#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13347#1">
       <title lang="de">Exkursion</title>
-      <title lang="eng">Exkursion</title>
+      <title lang="en">Exkursion</title>
       <type uri="http://data.europa.eu/europass/assessmentType/continuousEvaluation"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:13347#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13364#1">
       <title lang="de">Masterseminar</title>
-      <title lang="eng">Masterseminar</title>
+      <title lang="en">Masterseminar</title>
       <type uri="http://data.europa.eu/europass/assessmentType/oralExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
       <proves idref="urn:thl:learningoutcome:13364#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13381#1">
       <title lang="de">Masterarbeit</title>
-      <title lang="eng">Masterarbeit</title>
+      <title lang="en">Masterarbeit</title>
       <type uri="http://data.europa.eu/europass/assessmentType/markedAssignment"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
       <proves idref="urn:thl:learningoutcome:13381#1"/>
     </assessmentSpecification>
     <assessmentSpecification id="urn:thl:assessment:spec:13398#1">
       <title lang="de">Kolloquium</title>
-      <title lang="eng">Kolloquium</title>
+      <title lang="en">Kolloquium</title>
       <type uri="http://data.europa.eu/europass/assessmentType/oralExamen"/>
       <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
       <proves idref="urn:thl:learningoutcome:13398#1"/>
@@ -1732,7 +1950,7 @@ Studierende erlernen:
       <registration spatialID="http://publications.europa.eu/resource/authority/country/DEU">DUMMY-REGISTRATION</registration>
       <type uri="http://data.europa.eu/esco/agent-type#academic-institution"/>
       <prefLabel lang="de">Technische Hochschule Lübeck</prefLabel>
-      <prefLabel lang="eng">Technische Hochschule Lübeck</prefLabel>
+      <prefLabel lang="en">Technische Hochschule Lübeck</prefLabel>
       <hasLocation>
         <spatialCode uri="http://publications.europa.eu/resource/authority/country/DEU"/>
       </hasLocation>
