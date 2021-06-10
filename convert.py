@@ -2,22 +2,30 @@ import os
 import itertools
 from lxml import etree as et
 import xmltodict
+import re
 
 # Following Mappings map the values used in the xml files of the THL
 # to the according values of the edci format
 veranstaltungsart_mapping = {
-    # possible EDCI types: classroom, workShop, lab
-    "Vorlesung": "http://data.europa.eu/europass/learningActivityType/classroom",
-    "Lecture": "http://data.europa.eu/europass/learningActivityType/classroom",
-    "Online-Lehrveranstaltung": "http://data.europa.eu/europass/learningActivityType/classroom",
-    "Seminar": "http://data.europa.eu/europass/learningActivityType/workShop",
-    "Übung": "http://data.europa.eu/europass/learningActivityType/workShop",
-    "Exercise": "http://data.europa.eu/europass/learningActivityType/workShop",
-    "Project Work": "http://data.europa.eu/europass/learningActivityType/workShop",
-    "Praktikum": "http://data.europa.eu/europass/learningActivityType/lab",
-    "Practical Training": "http://data.europa.eu/europass/learningActivityType/lab",
-    "Projekt": "http://data.europa.eu/europass/learningActivityType/workShop",
-    "Exkursion": "http://data.europa.eu/europass/learningActivityType/workShop"
+    # possible EDCI types:
+    # http://data.europa.eu/snb/learning-activity/efff75e10a = Workshop, Seminar oder Konferenz
+    # http://data.europa.eu/snb/learning-activity/bf5588ff84 = Praktikum
+    # http://data.europa.eu/snb/learning-activity/b660f5dcea = Selbststudium
+    # http://data.europa.eu/snb/learning-activity/ff436ea7c9 = Präsenzunterricht
+    # http://data.europa.eu/snb/learning-activity/3c8bd58d62 = Unterricht in Form von Laborarbeit, Simulationen oder Praxisarbeit
+    # http://data.europa.eu/snb/learning-activity/bf2e3a7bae = Unterricht durch E-Learning
+    # http://data.europa.eu/snb/learning-activity/a7e556215a = Forschung
+    "Vorlesung": "http://data.europa.eu/snb/learning-activity/ff436ea7c9",
+    "Lecture": "http://data.europa.eu/snb/learning-activity/ff436ea7c9",
+    "Online-Lehrveranstaltung": "http://data.europa.eu/snb/learning-activity/bf2e3a7bae",
+    "Seminar": "http://data.europa.eu/snb/learning-activity/efff75e10a",
+    "Übung": "http://data.europa.eu/snb/learning-activity/3c8bd58d62",
+    "Exercise": "http://data.europa.eu/snb/learning-activity/3c8bd58d62",
+    "Project Work": "http://data.europa.eu/snb/learning-activity/3c8bd58d62",
+    "Praktikum": "http://data.europa.eu/snb/learning-activity/bf5588ff84",
+    "Practical Training": "http://data.europa.eu/snb/learning-activity/3c8bd58d62",
+    "Projekt": "http://data.europa.eu/snb/learning-activity/3c8bd58d62",
+    "Exkursion": "http://data.europa.eu/snb/learning-activity/efff75e10a"
 }
 sprachen_mapping = {
     "Deutsch": "http://publications.europa.eu/resource/authority/language/DEU",
@@ -30,21 +38,35 @@ sprachen_mapping = {
     "Gelehrte Fremdsprache": "http://publications.europa.eu/resource/authority/language/ENG"
 }
 assessmentType_mapping = {
-    # possible EDCI types: writtenExamen, oralExamen, markedAssignment und continuousEvaluation
-    "Klausur": "http://data.europa.eu/europass/assessmentType/writtenExamen",
-    "Written Exam": "http://data.europa.eu/europass/assessmentType/writtenExamen",
-    "Studienarbeit": "http://data.europa.eu/europass/assessmentType/continuousEvaluation",
-    "Projektarbeit": "http://data.europa.eu/europass/assessmentType/continuousEvaluation",
-    "Project Work": "http://data.europa.eu/europass/assessmentType/continuousEvaluation",
-    "Portfolio-Prüfung": "http://data.europa.eu/europass/assessmentType/markedAssignment",
-    "Portfolio Exam": "http://data.europa.eu/europass/assessmentType/markedAssignment",
-    "Thesis": "http://data.europa.eu/europass/assessmentType/markedAssignment",
-    "Abschlussarbeit": "http://data.europa.eu/europass/assessmentType/markedAssignment",
-    "Colloquium": "http://data.europa.eu/europass/assessmentType/oralExamen",
-    "Kolloquium": "http://data.europa.eu/europass/assessmentType/oralExamen",
-    "Oral Exam": "http://data.europa.eu/europass/assessmentType/oralExamen",
-    "Mündliche Prüfung": "http://data.europa.eu/europass/assessmentType/oralExamen",
-    "Prüfungsvortrag": "http://data.europa.eu/europass/assessmentType/oralExamen"
+    # possible EDCI types:
+    # http://data.europa.eu/snb/assessment/d30284d7df = Mündliche Prüfung
+    # http://data.europa.eu/snb/assessment/2939dae15f = Benotete Aufgabe
+    # http://data.europa.eu/snb/assessment/3484bd7e51 = Fortlaufende Evaluierung
+    # http://data.europa.eu/snb/assessment/6e6cb2cc78 = Schriftliche Prüfung
+    # http://data.europa.eu/snb/assessment/19a2e5e671 = Peer Assessment
+    # http://data.europa.eu/snb/assessment/4f03b91c0e = Portfolio
+    # http://data.europa.eu/snb/assessment/7331eb4762 = Anwesenheit
+    # http://data.europa.eu/snb/assessment/795dac4096 = Projektarbeit
+    # http://data.europa.eu/snb/assessment/56539a6507 = Gruppenleistung
+    # http://data.europa.eu/snb/assessment/6a4db9f11d = Praktische Beurteilung
+    # http://data.europa.eu/snb/assessment/de4d165a6c = Beurteilung eines Werks
+    # http://data.europa.eu/snb/assessment/b1b68f6735 = Quiz
+    # http://data.europa.eu/snb/assessment/812e3b0ae1 = Peer-Review
+    # http://data.europa.eu/snb/assessment/c4256a2726 = Problemorientiertes Lernen
+    "Klausur": "http://data.europa.eu/snb/assessment/6e6cb2cc78",
+    "Written Exam": "http://data.europa.eu/snb/assessment/6e6cb2cc78",
+    "Studienarbeit": "http://data.europa.eu/snb/assessment/795dac4096",
+    "Projektarbeit": "http://data.europa.eu/snb/assessment/795dac4096",
+    "Project Work": "http://data.europa.eu/snb/assessment/795dac4096",
+    "Portfolio-Prüfung": "http://data.europa.eu/snb/assessment/4f03b91c0e",
+    "Portfolio Exam": "http://data.europa.eu/snb/assessment/4f03b91c0e",
+    "Thesis": "http://data.europa.eu/snb/assessment/6e6cb2cc78",
+    "Abschlussarbeit": "http://data.europa.eu/snb/assessment/6e6cb2cc78",
+    "Colloquium": "http://data.europa.eu/snb/assessment/d30284d7df",
+    "Kolloquium": "http://data.europa.eu/snb/assessment/d30284d7df",
+    "Oral Exam": "http://data.europa.eu/snb/assessment/d30284d7df",
+    "Mündliche Prüfung": "http://data.europa.eu/snb/assessment/d30284d7df",
+    "Prüfungsvortrag": "http://data.europa.eu/snb/assessment/d30284d7df"
 }
 # The Validity is the date of the last reaccreditation
 fachbereich_validity_mapping = {
@@ -55,57 +77,67 @@ fachbereich_validity_mapping = {
     "Mechanical Engineering and Business Administration": "Seit 14.11.2020",
     "Bauwesen": "Seit 14.11.2020"
 }
-organization = {
-    "id": "urn:epass:thl:organization:927",
-    "title": "Technische Hochschule Lübeck",
-    "type": "http://data.europa.eu/esco/agent-type#academic-institution",
-    "location": "http://publications.europa.eu/resource/authority/country/DEU",
-    "registration": "DUMMY-REGISTRATION"
+
+fachbereich_org_mapping = {
+    "Angewandte Naturwissenschaften": "urn:epass:thl:organization:110",
+    "Elektrotechnik und Informatik": "urn:epass:thl:organization:130",
+    "Electrical Engineering and Computer Science": "urn:epass:thl:organization:130",
+    "Maschinenbau und Wirtschaft": "urn:epass:thl:organization:140",
+    "Mechanical Engineering and Business Administration": "urn:epass:thl:organization:140",
+    "Bauwesen": "urn:epass:thl:organization:120"
 }
 
+root_org = {
+    "id": "urn:epass:thl:organization:100",
+    "title": "Technische Hochschule Lübeck",
+}
+
+fachbereiche = [
+    {
+        "id": "urn:epass:thl:organization:110",
+        "title": "Fachbereich Angewandte Naturwissenschaften",
+        "unitOf": "urn:epass:thl:organization:100",
+    },
+    {
+        "id": "urn:epass:thl:organization:120",
+        "title": "Fachbereich Bauwesen",
+        "unitOf": "urn:epass:thl:organization:100",
+    },
+    {
+        "id": "urn:epass:thl:organization:130",
+        "title": "Fachbereich Elektrotechnik und Informatik",
+        "unitOf": "urn:epass:thl:organization:100",
+    },
+    {
+        "id": "urn:epass:thl:organization:140",
+        "title": "Fachbereich Maschinenbau und Wirtschaft",
+        "unitOf": "urn:epass:thl:organization:100",
+    }
+]
+
 # xml namespaces
-DEFAULT_NS = 'http://data.europa.eu/europass/model/credentials#'
+DEFAULT_NS = 'http://data.europa.eu/snb'
 DEFAULT = '{%s}' % DEFAULT_NS
-EUP_NS = 'http://data.europa.eu/europass/model/credentials#'
+CRED_NS = 'http://data.europa.eu/europass/model/credentials/w3c#'
+CRED = '{%s}' % CRED_NS
+EUP_NS = 'http://data.europa.eu/snb'
 EUP = '{%s}' % EUP_NS
-NS2_NS = 'http://uri.etsi.org/01903/v1.3.2#'
+NS2_NS = 'http://data.europa.eu/europass/model/credentials/w3c#'
 NS2 = '{%s}' % NS2_NS
 NS3_NS = 'http://www.w3.org/2000/09/xmldsig#'
 NS3 = '{%s}' % NS3_NS
-NS4_NS = 'http://uri.etsi.org/01903/v1.4.1#'
+NS4_NS = 'http://uri.etsi.org/01903/v1.3.2#'
 NS4 = '{%s}' % NS4_NS
-NS5_NS = 'http://data.europa.eu/europass/model/credentials#'
+NS5_NS = 'http://data.europa.eu/snb'
 NS5 = '{%s}' % NS5_NS
 XSI_NS = 'http://www.w3.org/2001/XMLSchema-instance'
 XSI = '{%s}' % XSI_NS
 
-SCHEMALOCATION = "http://data.europa.eu/europass/model/credentials# pim_edci_credential.xsd"
 
-NSMAP = {None: DEFAULT_NS, 'eup': EUP_NS, 'ns2': NS2_NS,
+SCHEMALOCATION = "http://data.europa.eu/snb https://data.europa.eu/snb/resource/distribution/v1/xsd/schema/genericschema.xsd"
+
+NSMAP = {None: DEFAULT_NS, 'cred': CRED_NS, 'eup': EUP_NS, 'ns2': NS2_NS,
          'ns3': NS3_NS, 'ns4': NS4_NS, 'ns5': NS5_NS, 'xsi': XSI_NS}
-
-# Returns only the text inside a given dictionary, and formats the the text according to the xml tag
-
-
-def unpackDict(d, key=''):
-    result = ''
-    if isinstance(d, dict):
-        for (k, v) in d.items():
-            result += unpackDict(v, k)
-            if((k == 'li' or k == 'p') and not result.endswith('\n')):
-                result += "\n"
-    elif isinstance(d, list):
-        for v in d:
-            if key == 'li':
-                result += '\t- '
-            result += unpackDict(v)
-            if not result.endswith('\n'):
-                result += '\n'
-    elif isinstance(d, str):
-        result += d
-        result = result.strip()
-
-    return result
 
 
 class LearnSpecRef:
@@ -134,34 +166,31 @@ class LearnSpecRef:
             'id', self.studyProgramme_id)
         studyProgramme_title_node = et.SubElement(
             studyProgramme_node, NS5+'title')
-        studyProgramme_title_node.set('lang', 'de')
-        studyProgramme_title_node.text = self.studyProgramme
-
-        studyProgramme_title_node = et.SubElement(
-            studyProgramme_node, NS5+'title')
-        studyProgramme_title_node.set('lang', 'en')
-        studyProgramme_title_node.text = self.studyProgramme
+        add_text_node(studyProgramme_title_node, self.studyProgramme, 'de')
+        add_text_node(studyProgramme_title_node, self.studyProgramme, 'en')
 
         education_node = et.SubElement(
             studyProgramme_node, NS5+'hasEducationLevel')
+        education_node.set(
+            'targetFrameworkUrl', 'https://publications.europa.eu/resource/authority/snb/eqf/25831c2')
+        education_node.set(
+            'targetID', 'https://publications.europa.eu/resource/authority/snb/eqf/6')
+        education_node.set(
+            'uri', 'http://publications.europa.eu/resource/authority/eurovoc/2059')
         education_targetName_node = et.SubElement(
             education_node, NS5+'targetName')
-        education_targetName_node.set('lang', 'de')
-        education_targetName_node.text = self.degree
-        education_targetName_node = et.SubElement(
-            education_node, NS5+'targetName')
-        education_targetName_node.set('lang', 'en')
-        education_targetName_node.text = self.degree
+        add_text_node(education_targetName_node, self.degree, 'en')
+        education_target_framework_node = et.SubElement(
+            education_node, NS5+'targetFrameworkName')
+        add_text_node(education_target_framework_node,
+                      'European Qualifications Framework', 'en')
 
         # Create Stupo
         stupo_node = et.SubElement(self.node, NS5+'stupo')
         stupo_node.set('id', "urn:thl:learning:spec:stupo:" + self.id)
         stupo_title_node = et.SubElement(stupo_node, NS5+'title')
-        stupo_title_node.set('lang', 'de')
-        stupo_title_node.text = self.studyProgramme
-        stupo_title_node = et.SubElement(stupo_node, NS5+'title')
-        stupo_title_node.set('lang', 'en')
-        stupo_title_node.text = self.studyProgramme
+        add_text_node(stupo_title_node, self.studyProgramme, 'de')
+        add_text_node(stupo_title_node, self.studyProgramme, 'en')
         stupo_specOf_node = et.SubElement(stupo_node, NS5+'specializationOf')
         stupo_specOf_node.set('idref', self.studyProgramme_id)
 
@@ -170,14 +199,16 @@ class LearnSpecRef:
         studySection_node.set(
             'id', "urn:thl:learning:spec:studysection:" + self.id)
         studySection_title_node = et.SubElement(studySection_node, NS5+'title')
-        studySection_title_node.set('lang', 'de')
-        studySection_title_node.text = self.studyProgramme
-        studySection_title_node = et.SubElement(studySection_node, NS5+'title')
-        studySection_title_node.set('lang', 'en')
-        studySection_title_node.text = self.studyProgramme
+        add_text_node(studySection_title_node, self.studyProgramme, 'de')
+        # add_text_node(studySection_title_node, self.studyProgramme, 'en')
 
         for module in self.modules:
             module.build(self.node, studySection_node)
+
+        studySection_specOf_node = et.SubElement(
+            studySection_node, NS5+'specializationOf')
+        studySection_specOf_node.set(
+            'idref', "urn:thl:learning:spec:stupo:" + self.id)
 
 
 class Module:
@@ -197,11 +228,14 @@ class Module:
         # Module Specialization
         self.mspec_id = self.module_id + '#1'
         self.full_id = "urn:thl:learning:spec:" + self.mspec_id
-        alllearningEvents = [LearningEvent(lehrveranstaltungen[key], self.mspec_id, str(index+1)) for (
+        self.language = sprachen_mapping[modul['M_Lehrsprache']]
+        self.text_lang = 'de' if self.language == 'http://publications.europa.eu/resource/authority/language/DEU' else 'en'
+        alllearningEvents = [LearningEvent(lehrveranstaltungen[key], self.mspec_id, str(index+1), self.text_lang) for (
             index, key) in enumerate(lehrveranstaltungen)]
         self.learningEvents = [
             x for x in alllearningEvents if (x.learnActSpec.type != "" and x.learnActSpec.title != "")]
-        self.learningOutcome = LearningOutcome(xml, self.mspec_id)
+        self.learningOutcome = LearningOutcome(
+            xml, self.mspec_id, self.text_lang)
         self.description = Module.generateDescription(lehrveranstaltungen)
         self.mspec_title = modul['M_Modulname']
         self.mspec_type = "http://data.europa.eu/europass/learningOpportunityType/course"
@@ -214,32 +248,34 @@ class Module:
             else:
                 self.volumeOfLearning += int(unpackDict(
                     modul['M_Arbeitsaufwand_in_Stunden']))
-        self.language = sprachen_mapping[modul['M_Lehrsprache']]
 
         self.mode = Module.generateMode(modul)
 
         self.duration = int(modul['M_Dauer_in_Semestern']) * 6
         self.targetGroup = "http://data.europa.eu/europass/targetGroup/adults"
-        self.entryRequirementsNote = "&lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&lt;br/&gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&gt;"
+        self.entryRequirementsNote_de = "&lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&lt;br/&gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&gt;"
+        self.entryRequirementsNote_en = "&lt;![CDATA[Desirable prerequisites for participation in the courses: null;&lt;br/&gt;Mandatory requirements for the module test application: null]]&gt;"
         self.literature = unpackDict(
             lehrveranstaltungen['Lehrveranstaltung1']['L1_Literatur'])
         self.enrollment_formalities = "Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten."
         # !!! Dummy data
         self.validity = fachbereich_validity_mapping[modul['M_Fachbereich']]
+        self.assessmentSpecification = AssessmentSpecification(
+            xml, self.mspec_id, self.full_id)
 
     @staticmethod
     def generateMode(modul):
         # mode = "http://data.europa.eu/europass/modeOfLearningAndAssessment/online"
         # if modul['M_Praesenzstunden'] is not None and int(modul['M_Praesenzstunden']) > 0:
         #     if modul['M_Selbststudiumsstunden'] is not None and int(modul['M_Selbststudiumsstunden']) > 0:
-        #         mode = "http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"
+        #         mode = "http://data.europa.eu/snb/learning-assessment/e92d221e4d"
         #     else:
-        #         mode = "http://data.europa.eu/europass/modeOfLearningAndAssessment/presential"
+        #         mode = "undefined"
 
         # return mode
 
         # blended is the only supported edci value at the moment
-        return "http://data.europa.eu/europass/modeOfLearningAndAssessment/blended"
+        return "http://data.europa.eu/snb/learning-assessment/e92d221e4d"
 
     # returns a string that holds the description of a module based on the "Lehrninhalte"
     # of the corresponding "Lehrveranstaltugen"
@@ -269,18 +305,51 @@ class Module:
             awardingOpportunities_node, NS5+'awardingOpportunity')
         organization_node = et.SubElement(
             awardingOpportunity_node, NS5+'organization')
-        organization_node.set('idref', organization['id'])
+        organization_node.set(
+            'idref', fachbereich_org_mapping[self.xml['Modul']['M_Fachbereich']])
         location_node = et.SubElement(awardingOpportunity_node, NS5+'location')
-        location_node.set("uri", organization['location'])
+        location_node.set(
+            "targetFrameworkUrl", 'http://publications.europa.eu/resource/authority/country')
+        location_node.set(
+            "uri", 'http://publications.europa.eu/resource/authority/country/DEU')
+        et.SubElement(location_node, NS5+'targetName')
+        location_targetFrameworkName = et.SubElement(
+            location_node, NS5+'targetFrameworkName')
+        add_text_node(location_targetFrameworkName, 'Country', 'en')
         startedAtTime_node = et.SubElement(
             awardingOpportunity_node, NS5+'startedAtTime')
-        startedAtTime_node.text = "2018-03-31T23:59:59.000Z"
+        # TODO set Date to PO validity date
+        # startedAtTime_node.text = "2018-03-31T23:59:59.000Z"
+        res = re.findall(r"(\d+)\.(\d+)\.(\d+)", self.validity)
+        startedAtTime = res[0][2]+"-"+res[0][1]+"-"+res[0][0]+"T00:00:00.000Z"
+        startedAtTime_node.text = startedAtTime
 
     # Creates xml data
     def build(self, parent, studySection_node):
         # Create Ref in StudySection
         studySection_ref_node = et.SubElement(studySection_node, NS5+'hasPart')
         studySection_ref_node.set('idref', self.full_id)
+
+        # Create module tag
+        module_root = et.SubElement(parent, NS5+'modul')
+        module_root.set('id', self.module_full_id)
+
+        # Create Module-identifier
+        module_id_node = et.SubElement(module_root, NS5+'identifier')
+        module_id_node.text = self.module_id
+
+        # Create Module-Type-Tag
+        module_type_node = et.SubElement(module_root, NS5+'type')
+        module_type_node.set(
+            'uri', self.module_type)
+
+        # Create Module-Title
+        module_title_node = et.SubElement(module_root, NS5+'title')
+        add_text_node(module_title_node, self.module_title, 'de')
+        module_title_node = et.SubElement(module_root, NS5+'title')
+        add_text_node(module_title_node, self.module_title, 'en')
+
+        # et.SubElement(module_root, NS5+'learningOutcomes')
 
         # Create modulSpecialization
         root = et.SubElement(parent,
@@ -298,73 +367,47 @@ class Module:
 
         # Create Title
         title_node = et.SubElement(root, NS5+'title')
-        title_node.set('lang', 'de')
-        title_node.text = self.mspec_title
-        title_node = et.SubElement(root, NS5+'title')
-        title_node.set('lang', 'en')
-        title_node.text = self.mspec_title
+        add_text_node(title_node, self.mspec_title, self.text_lang)
 
         # Create Definition
         definition_node = et.SubElement(root, NS5+'definition')
-        definition_text_node = et.SubElement(definition_node, NS5+'text')
-        definition_text_node.set('content-type', 'text/plain')
-        definition_text_node.set('lang', 'de')
-        definition_text_node.text = self.description
-        definition_node = et.SubElement(root, NS5+'definition')
-        definition_text_node = et.SubElement(definition_node, NS5+'text')
-        definition_text_node.set('content-type', 'text/plain')
-        definition_text_node.set('lang', 'en')
-        definition_text_node.text = self.description
+        add_text_node(definition_node, self.description, self.text_lang)
 
         # Create additional note, Literatur
         literature_node = et.SubElement(
             root, NS5+'additionalNote')
-        literature_text_node = et.SubElement(literature_node, NS5+'text')
-        literature_text_node.set('content-type', "text/plain")
-        literature_text_node.set('lang', "de")
-        literature_text_node.text = 'Literaturangaben: ' + self.literature
+        add_text_node(literature_node, 'Literaturangaben: ' +
+                      self.literature, 'de')
         literature_node = et.SubElement(
             root, NS5+'additionalNote')
-        literature_text_node = et.SubElement(literature_node, NS5+'text')
-        literature_text_node.set('content-type', "text/plain")
-        literature_text_node.set('lang', "en")
-        literature_text_node.text = 'Literaturangaben: ' + self.literature
+        add_text_node(literature_node,
+                      'Literature references: ' + self.literature, 'en')
 
         # Create additional note, enrolement formalities
         formalities_node = et.SubElement(
             root, NS5+'additionalNote')
-        formalities_text_node = et.SubElement(formalities_node, NS5+'text')
-        formalities_text_node.set('content-type', "text/plain")
-        formalities_text_node.set('lang', "de")
-        formalities_text_node.text = 'Anmeldeformalitäten: ' + self.enrollment_formalities
+        add_text_node(formalities_node, 'Anmeldeformalitäten: ' +
+                      self.enrollment_formalities, 'de')
         formalities_node = et.SubElement(
             root, NS5+'additionalNote')
-        formalities_text_node = et.SubElement(formalities_node, NS5+'text')
-        formalities_text_node.set('content-type', "text/plain")
-        formalities_text_node.set('lang', "en")
-        formalities_text_node.text = 'Anmeldeformalitäten: ' + self.enrollment_formalities
+        add_text_node(formalities_node, 'Registration Procedures: ' +
+                      self.enrollment_formalities, 'en')
 
         # Create additional note, period of validity
         validity_node = et.SubElement(
             root, NS5+'additionalNote')
-        validity_text_node = et.SubElement(validity_node, NS5+'text')
-        validity_text_node.set('content-type', "text/plain")
-        validity_text_node.set('lang', "de")
-        validity_text_node.text = 'Gültigkeit: ' + self.validity
+        add_text_node(validity_node, 'Gültigkeit: ' + self.validity, 'de')
         validity_node = et.SubElement(
             root, NS5+'additionalNote')
-        validity_text_node = et.SubElement(validity_node, NS5+'text')
-        validity_text_node.set('content-type', "text/plain")
-        validity_text_node.set('lang', "en")
-        validity_text_node.text = 'Gültigkeit: ' + self.validity
+        add_text_node(validity_node, 'Validity: ' + self.validity, 'en')
+
+        # optional hompage not is occluded
 
         # Create supplementaryDoc
-        supplementaryDoc_node = et.SubElement(root, NS5+'supplementaryDoc')
-        supplementaryDoc_node.set(
-            'uri', "https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=" + self.module_id + "&amp;version=1")
-        subject_node = et.SubElement(supplementaryDoc_node, NS5+'subject')
-        subject_node.set(
-            'uri', "http://data.europa.eu/esco/qualification-topics#entry-requirements")
+        # supplementaryDoc_node = et.SubElement(root, NS5+'supplementaryDoc')
+        # supplementaryDoc_node.set(
+        #     'uri', "https://pim.moses.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?number=" + self.module_id + "&amp;version=1")
+        # subject_node = et.SubElement(supplementaryDoc_node, NS5+'title')
 
         # Create volumeOfLearning tag
         volumeOfLearning_node = et.SubElement(root, NS5+'volumeOfLearning')
@@ -391,20 +434,14 @@ class Module:
             str(self.duration) + 'M0DT0H0M0S'
 
         # Create targetGroup tag
-        target_node = et.SubElement(root, NS5+'targetGroup')
-        target_node.set('uri', self.targetGroup)
+        # target_node = et.SubElement(root, NS5+'targetGroup')
+        # target_node.set('uri', self.targetGroup)
 
         # Create entryRequirementsNote
         entry_node = et.SubElement(root, NS5+'entryRequirementsNote')
-        entry_text_node = et.SubElement(entry_node, NS5+'text')
-        entry_text_node.set('content-type', "text/html")
-        entry_text_node.set('lang', "de")
-        entry_text_node.text = self.entryRequirementsNote
+        add_text_node(entry_node, self.entryRequirementsNote_de, 'de')
         entry_node = et.SubElement(root, NS5+'entryRequirementsNote')
-        entry_text_node = et.SubElement(entry_node, NS5+'text')
-        entry_text_node.set('content-type', "text/html")
-        entry_text_node.set('lang', "en")
-        entry_text_node.text = self.entryRequirementsNote
+        add_text_node(entry_node, self.entryRequirementsNote_en, 'en')
 
         # Create reference to LearningOutcome
         learningOutcomes_node = et.SubElement(root, NS5+'learningOutcomes')
@@ -412,14 +449,20 @@ class Module:
             learningOutcomes_node, NS5+'learningOutcome')
         learningOutcome_node.set('idref', self.learningOutcome.full_id)
 
+        # Create AssessmentSpecs
+        self.assessmentSpecification.build()
+
         # Create assessmentSpecification Reference
         assessmentSpecificationRef_node = et.SubElement(
             root, NS5+'assessmentSpecification')
         assessmentSpecificationRef_node.set(
-            'idref', self.learningOutcome.assessmentSpecification.full_id)
+            'idref', self.assessmentSpecification.full_id)
 
         #  Create AwardingOppurtunities
         self.generateAwardingOpportunities(root)
+
+        # Create LearningOutcome
+        self.learningOutcome.build()
 
         # Create LearningEvents
         for learningEvent in self.learningEvents:
@@ -427,33 +470,9 @@ class Module:
             ref.set('idref', learningEvent.full_id)
             learningEvent.build(parent)
 
-        # Create LearningOutcome
-        self.learningOutcome.build(parent)
-
         # Create ref to Module
         moduleref_node = et.SubElement(root, NS5+'specializationOf')
         moduleref_node.set('idref', self.module_full_id)
-
-        # Create module tag
-        module_root = et.SubElement(parent, NS5+'modul')
-        module_root.set('id', self.module_full_id)
-
-        # Create Module-identifier
-        module_id_node = et.SubElement(module_root, NS5+'identifier')
-        module_id_node.text = self.module_id
-
-        # Create Module-Type-Tag
-        module_type_node = et.SubElement(module_root, NS5+'type')
-        module_type_node.set(
-            'uri', self.module_type)
-
-        # Create Module-Title
-        module_title_node = et.SubElement(module_root, NS5+'title')
-        module_title_node.set('lang', 'de')
-        module_title_node.text = self.module_title
-        module_title_node = et.SubElement(module_root, NS5+'title')
-        module_title_node.set('lang', 'en')
-        module_title_node.text = self.module_title
 
 
 class AssessmentSpecification:
@@ -506,12 +525,13 @@ class AssessmentSpecification:
             else:
                 self.language = sprachen_mapping[self.assessments[0]['language']]
         else:
-            self.type = "http://data.europa.eu/europass/assessmentType/continuousEvaluation"
+            self.type = "http://data.europa.eu/snb/assessment/3484bd7e51"
             self.language = "http://publications.europa.eu/resource/authority/language/DEU"
             for assessment in self.assessments:
                 if not assessment['language'] == "Deutsch":
                     self.language = "http://publications.europa.eu/resource/authority/language/ENG"
                     break
+        self.text_lang = 'de' if self.language == 'http://publications.europa.eu/resource/authority/language/DEU' else 'en'
 
     # Creates XML
     def build(self):
@@ -519,15 +539,25 @@ class AssessmentSpecification:
                              NS5+'assessmentSpecification')
         root.set('id', self.full_id)
         title_node = et.SubElement(root, NS5+'title')
-        title_node.set('lang', 'de')
-        title_node.text = self.title
-        title_node = et.SubElement(root, NS5+'title')
-        title_node.set('lang', 'en')
-        title_node.text = self.title
+        add_text_node(title_node, self.title, self.text_lang)
         type_node = et.SubElement(root, NS5+'type')
+        type_node.set('targetFrameworkUrl',
+                      'http://data.europa.eu/snb/assessment/25831c2')
         type_node.set('uri',  self.type)
+        et.SubElement(type_node, NS5+'targetName')
+        type_targetFrameworkName_node = et.SubElement(
+            type_node, NS5+'targetFrameworkName')
+        add_text_node(type_targetFrameworkName_node,
+                      'Europass Standard List Of Assessment Types', 'en')
         language_node = et.SubElement(root, NS5+'language')
+        language_node.set(
+            'targetFrameworkUrl',  'http://publications.europa.eu/resource/authority/language')
         language_node.set('uri', self.language)
+        et.SubElement(language_node, NS5+'targetName')
+        language_targetFrameworkName_node = et.SubElement(
+            language_node, NS5+'targetFrameworkName')
+        add_text_node(language_targetFrameworkName_node, 'Language', 'en')
+        # Optional gradingScheme
         proves_node = et.SubElement(root, NS5+'proves')
         proves_node.set('idref', self.proveId)
 
@@ -540,19 +570,31 @@ class AssessmentSpecification:
                 assessment_node.set('id', assessment['id'])
                 assessment_title_node = et.SubElement(
                     assessment_node, NS5+'title')
-                assessment_title_node.set('lang', 'de')
-                assessment_title_node.text = assessment['title']
-                assessment_title_node = et.SubElement(
-                    assessment_node, NS5+'title')
-                assessment_title_node.set('lang', 'en')
-                assessment_title_node.text = assessment['title']
+                add_text_node(assessment_title_node,
+                              assessment['title'], self.text_lang)
                 assessment_type_node = et.SubElement(
                     assessment_node, NS5+'type')
-                assessment_type_node.set(
-                    'uri',  assessment['type'])
+                assessment_type_node.set('targetFrameworkUrl',
+                                         'http://data.europa.eu/snb/assessment/25831c2')
+                assessment_type_node.set('uri',  assessment['type'])
+                et.SubElement(assessment_type_node, NS5+'targetName')
+                assessment_type_targetFrameworkName_node = et.SubElement(
+                    assessment_type_node, NS5+'targetFrameworkName')
+                add_text_node(assessment_type_targetFrameworkName_node,
+                              'Europass Standard List Of Assessment Types', 'en')
 
 
 class LearningOutcome:
+    root = None
+
+    # Creates learningOutcomeReferences Tag in root only if it dosnt already exist
+    @staticmethod
+    def getRoot():
+        if LearningOutcome.root is None:
+            LearningOutcome.root = et.SubElement(
+                root, NS5+'learningOutcomeReferences')
+
+        return LearningOutcome.root
 
     # returns a string that holds the description of a learningOutcome based on the "Lehrnergebnisse"
     # of the corresponding "Lehrveranstaltugen"
@@ -575,52 +617,35 @@ class LearningOutcome:
 
         return description.strip()
 
-    def __init__(self, xml, mspec_id):
+    def __init__(self, xml, mspec_id, text_lang):
         self.xml = xml
         self.id = mspec_id
         self.full_id = "urn:thl:learningoutcome:" + self.id
         self.prefLabel = xml['Modul']['M_Modulname']
         self.description = LearningOutcome.generateDescription(xml)
-        self.assessmentSpecification = AssessmentSpecification(
-            xml, mspec_id, self.full_id)
+        self.text_lang = text_lang
 
     # Creates XML
-    def build(self, parent):
-        root = et.SubElement(parent, NS5+'learningOutcome')
+    def build(self):
+        root = et.SubElement(LearningOutcome.getRoot(), NS5+'learningOutcome')
         root.set('id', self.full_id)
 
         prefLabel_node = et.SubElement(root, NS5+'prefLabel')
-        prefLabel_node.set('lang', 'de')
-        prefLabel_node.text = self.prefLabel
-        prefLabel_node = et.SubElement(root, NS5+'prefLabel')
-        prefLabel_node.set('lang', 'en')
-        prefLabel_node.text = self.prefLabel
-
+        add_text_node(prefLabel_node, self.prefLabel, self.text_lang)
         description_node = et.SubElement(root, NS5+'description')
-        description_text_node = et.SubElement(description_node, NS5+'text')
-        description_text_node.set('content-type', 'text/plain')
-        description_text_node.set('lang', 'de')
-        description_text_node.text = self.description
-        description_node = et.SubElement(root, NS5+'description')
-        description_text_node = et.SubElement(description_node, NS5+'text')
-        description_text_node.set('content-type', 'text/plain')
-        description_text_node.set('lang', 'en')
-        description_text_node.text = self.description
-
-        parent.insert(0, parent[-1])
-
-        self.assessmentSpecification.build()
+        add_text_node(description_node, self.description, self.text_lang)
 
 
 class LearningEvent:
 
-    def __init__(self, xml, parent_id, index):
+    def __init__(self, xml, parent_id, index, text_lang):
         self.xml = xml
         self.id = parent_id + '-' + index
         self.full_id = "urn:thl:learning:spec:" + self.id
         self.title = xml['L' + index + '_Lehrveranstaltungsname']
         self.type = 'http://data.europa.eu/europass/learningOpportunityType/class'
-        self.learnActSpec = LearnActSpec(xml, self.id, index)
+        self.learnActSpec = LearnActSpec(xml, self.id, index, text_lang)
+        self.text_lang = text_lang
 
     # Creates XML
     def build(self, parent):
@@ -638,11 +663,7 @@ class LearningEvent:
 
         # Create Title-Tag
         title_node = et.SubElement(root, NS5+'title')
-        title_node.set('lang', 'de')
-        title_node.text = self.title
-        title_node = et.SubElement(root, NS5+'title')
-        title_node.set('lang', 'en')
-        title_node.text = self.title
+        add_text_node(title_node, self.title, self.text_lang)
 
         # Create ref to learningActivitySpecification
         learnActSpec_node = et.SubElement(
@@ -662,11 +683,12 @@ class LearnActSpec:
 
         return LearnActSpec.root
 
-    def __init__(self, xml, parent_id, index):
+    def __init__(self, xml, parent_id, index, text_lang):
         self.xml = xml
         self.id = parent_id
         self.full_id = "urn:thl:learningactivity:spec:" + self.id
         self.title = xml['L' + str(index) + '_Lehrveranstaltungsname']
+        self.text_lang = text_lang
         if xml['L' + str(index) + '_Lehrveranstaltungsart'] is None:
             self.type = ""
         else:
@@ -681,65 +703,78 @@ class LearnActSpec:
 
         # Create Title-Tag
         title_node = et.SubElement(root, NS5+'title')
-        title_node.set('lang', 'de')
-        title_node.text = self.title
-        title_node = et.SubElement(root, NS5+'title')
-        title_node.set('lang', 'en')
-        title_node.text = self.title
+        add_text_node(title_node, self.title, self.text_lang)
 
         # Create Type-Tag
         type_node = et.SubElement(root, NS5+'type')
         type_node.set(
+            'targetFrameworkUrl', 'http://data.europa.eu/snb/learning-activity/25831c2')
+        type_node.set(
             'uri', self.type)
+        et.SubElement(type_node, NS5+'targetName')
+        type_targetFrameworkName_node = et.SubElement(
+            type_node, NS5+'targetFrameworkName')
+        add_text_node(type_targetFrameworkName_node,
+                      'Europass Standard List Of Learning Activity Types', 'en')
 
 
-def generateOrganization(root):
-    agentRefs_node = et.SubElement(root, NS5+'agentReferences')
-    organization_node = et.SubElement(agentRefs_node, NS5+'organization')
+def generateOrganization(root, organization):
+    organization_node = et.SubElement(root, NS5+'organization')
     organization_node.set('id', organization['id'])
-    registration_node = et.SubElement(organization_node, NS5+'registration')
-    registration_node.set('spatialID', organization['location'])
-    registration_node.text = organization['registration']
     type_node = et.SubElement(organization_node, NS5+'type')
-    type_node.set('uri', organization['type'])
+    type_node.set('targetFrameworkUrl', 'http://data.europa.eu/snb/agent-type')
+    type_node.set(
+        'uri', 'http://data.europa.eu/snb/agent-type#academic-institution')
+    et.SubElement(type_node, NS5+'targetName')
+    type_targetFrameworkName_node = et.SubElement(
+        type_node, NS5+'targetFrameworkName')
+    add_text_node(type_targetFrameworkName_node, 'Agent Type', 'en')
+    registration_node = et.SubElement(organization_node, NS5+'registration')
+    registration_node.set(
+        'spatialID', 'http://publications.europa.eu/resource/authority/country/DEU')
+    registration_node.set(XSI+'type', 'ns5:LegalIdentifierType')
+    registration_node.text = 'DUMMY-REGISTRATION'
     prefLabel_node = et.SubElement(organization_node, NS5+'prefLabel')
-    prefLabel_node.set('lang', 'de')
-    prefLabel_node.text = organization['title']
-    prefLabel_node = et.SubElement(organization_node, NS5+'prefLabel')
-    prefLabel_node.set('lang', 'en')
-    prefLabel_node.text = organization['title']
+    add_text_node(prefLabel_node, organization['title'], 'de')
     hasLocation_node = et.SubElement(organization_node, NS5+'hasLocation')
     spatialCode_node = et.SubElement(hasLocation_node, NS5+'spatialCode')
-    spatialCode_node.set('uri', organization['location'])
+    spatialCode_node.set(
+        'targetFrameworkUrl', 'http://publications.europa.eu/resource/authority/country')
+    spatialCode_node.set(
+        'uri', 'http://publications.europa.eu/resource/authority/country/DEU')
+    et.SubElement(spatialCode_node, NS5+'targetName')
+    spatialCode_targetFrameworkName_node = et.SubElement(
+        spatialCode_node, NS5+'targetFrameworkName')
+    add_text_node(spatialCode_targetFrameworkName_node, 'Country', 'en')
+    if 'unitOf' in organization:
+        unitOf_node = et.SubElement(organization_node, NS5+'unitOf')
+        unitOf_node.set('idref', organization['unitOf'])
 
 
 def generateCredentialSubject(parent):
     root = et.SubElement(parent, NS5+'credentialSubject')
     root.set('id', "DUMMY-SUBJECT")
-    nationalId_node = et.SubElement(root, NS5+'nationalId')
-    nationalId_node.set(
-        "spatialID", "http://publications.europa.eu/resource/authority/country/DEU")
-    nationalId_node.text = "DUMMY-NATIONALID"
     identifier_node = et.SubElement(root, NS5+'identifier')
     identifier_node.set(
         "spatialID", "http://publications.europa.eu/resource/authority/country/DEU")
     identifier_node.text = "DUMMY-IDENTIFIER"
+    nationalId_node = et.SubElement(root, NS5+'nationalId')
+    nationalId_node.set(
+        "spatialID", "http://publications.europa.eu/resource/authority/country/DEU")
+    nationalId_node.text = "DUMMY-NATIONALID"
     fullName_node = et.SubElement(root, NS5+'fullName')
-    fullName_node.set("lang", "en")
-    fullName_node.text = "DUMMY SUBJECT"
+    add_text_node(fullName_node, 'DUMMY SUBJECT', 'en')
     givenNames_node = et.SubElement(root, NS5+'givenNames')
-    givenNames_node.set("lang", "en")
-    givenNames_node.text = "DUMMY"
+    add_text_node(givenNames_node, 'DUMMY', 'en')
     familyName_node = et.SubElement(root, NS5+'familyName')
-    familyName_node.set("lang", "en")
-    familyName_node.text = "SUBJECT"
+    add_text_node(familyName_node, 'SUBJECT', 'en')
+    et.SubElement(root, NS5+'birthName')
+    et.SubElement(root, NS5+'patronymicName')
     birth_node = et.SubElement(root, NS5+'dateOfBirth')
     birth_node.text = "2000-10-20Z"
     et.SubElement(root, NS5+'achievements')
     et.SubElement(root, NS5+'activities')
-    et.SubElement(root, NS5+'assessments')
     et.SubElement(root, NS5+'entitlements')
-    et.SubElement(root, NS5+'awardings')
 
 
 def generateScoringSchemeRefs(root):
@@ -749,40 +784,42 @@ def generateScoringSchemeRefs(root):
 def genereateCredential():
     AssessmentSpecification.root = None
     LearnActSpec.root = None
+    LearningOutcome.root = None
 
     # set schema location, id and xsdVersion
+    root.set(CRED+"id", "dummy-id")
+    root.set("xsdVersion", "0.10.0")
     root.set(XSI + 'schemaLocation', SCHEMALOCATION)
-    root.set("id", "urn:epass:credential:b576d4a4-c669-458b-ba17-23bd3237e177")
-    root.set("xsdVersion", "0.4.0")
 
     # set attributes of europassCredential (root Tag)
     type_node = et.SubElement(root, NS5+'type')
     type_node.set(
-        'uri', "http://data.europa.eu/europass/credentialType/learning")
-    issuanceDate_node = et.SubElement(root, NS5+'issuanceDate')
-    issuanceDate_node.text = "2021-01-21T16:01:34.979+02:00"
-    issuer_node = et.SubElement(root, NS5+'issuer')
-    issuer_node.set('idref', organization['id'])
+        'targetFrameworkUrl', "http://data.europa.eu/snb/credential/25831c2")
+    type_node.set(
+        'uri', "http://data.europa.eu/snb/credential/e34929035b")
+    target_name_node = et.SubElement(type_node, NS5+'targetName')
+    add_text_node(target_name_node, 'Generic', 'en')
+    target_description_node = et.SubElement(type_node, NS5+'targetDescription')
+    add_text_node(target_description_node,
+                  'This is the default Europass credential type.', 'en')
+    target_framework_node = et.SubElement(type_node, NS5+'targetFrameworkName')
+    add_text_node(target_framework_node,
+                  'Europass Standard List of Credential Types', 'en')
+    issued_node = et.SubElement(root, NS2+'issued')
+    issued_node.text = "2021-06-09T16:01:34.979+02:00"
+    issuer_node = et.SubElement(root, NS2+'issuer')
+    issuer_node.set('idref', root_org['id'])
     title_node = et.SubElement(root, NS5+'title')
-    title_node.set('lang', 'de')
-    title_node.text = xml_in['Modulbeschreibungen']['Modulbeschreibung'][0]['Modul']['M_Studiengang']
-    title_node = et.SubElement(root, NS5+'title')
-    title_node.set('lang', 'en')
-    title_node.text = xml_in['Modulbeschreibungen']['Modulbeschreibung'][0]['Modul']['M_Studiengang']
+    add_text_node(title_node, xml_in['Modulbeschreibungen']
+                  ['Modulbeschreibung'][0]['Modul']['M_Studiengang'], 'de')
+    add_text_node(title_node, xml_in['Modulbeschreibungen']
+                  ['Modulbeschreibung'][0]['Modul']['M_Studiengang'], 'en')
     description_node = et.SubElement(root, NS5+'description')
-    description_text_node = et.SubElement(description_node, NS5+'text')
-    description_text_node.set('content-type', "text/plain")
-    description_text_node.set("lang", "de")
-    description_text_node.text = "Dies ist der Studiengang " + \
+    description_text = "Dies ist der Studiengang " + \
         xml_in['Modulbeschreibungen']['Modulbeschreibung'][0]['Modul']['M_Studiengang'] + " aus dem Fachbereich " + \
         xml_in['Modulbeschreibungen']['Modulbeschreibung'][0]['Modul']['M_Fachbereich'] + "."
-    description_node = et.SubElement(root, NS5+'description')
-    description_text_node = et.SubElement(description_node, NS5+'text')
-    description_text_node.set('content-type', "text/plain")
-    description_text_node.set("lang", "en")
-    description_text_node.text = "Dies ist der Studiengang " + \
-        xml_in['Modulbeschreibungen']['Modulbeschreibung'][0]['Modul']['M_Studiengang'] + " aus dem Fachbereich " + \
-        xml_in['Modulbeschreibungen']['Modulbeschreibung'][0]['Modul']['M_Fachbereich'] + "."
+    add_text_node(description_node, description_text, 'de')
+    add_text_node(description_node, description_text, 'en')
 
     generateCredentialSubject(root)
 
@@ -792,8 +829,13 @@ def genereateCredential():
     et.SubElement(root, NS5+'entitlementSpecificationReferences')
     et.SubElement(root, NS5+'learningOpportunityReferences')
 
+    root.insert(-2, root[-5])
+
     # Create Organizations
-    generateOrganization(root)
+    agentRefs_node = et.SubElement(root, NS5+'agentReferences')
+    generateOrganization(agentRefs_node, root_org)
+    for org in fachbereiche:
+        generateOrganization(agentRefs_node, org)
 
     et.SubElement(root, NS5+'accreditationReferences')
 
@@ -804,6 +846,13 @@ def genereateCredential():
     et.SubElement(root, NS5+'proof')
 
     return root
+
+
+def add_text_node(node, text, lang):
+    text_node = et.SubElement(node, NS5+"text")
+    text_node.set('content-type', 'text/plain')
+    text_node.set('lang', lang)
+    text_node.text = text
 
 
 # returns a String of numbers, that is supposed to look like a study proframm id
@@ -819,6 +868,28 @@ def generateIdFromFilename(filename):
     return id
 
 
+# Returns only the text inside a given dictionary, and formats the the text according to the xml tag
+def unpackDict(d, key=''):
+    result = ''
+    if isinstance(d, dict):
+        for (k, v) in d.items():
+            result += unpackDict(v, k)
+            if((k == 'li' or k == 'p') and not result.endswith('\n')):
+                result += "\n"
+    elif isinstance(d, list):
+        for v in d:
+            if key == 'li':
+                result += '\t- '
+            result += unpackDict(v)
+            if not result.endswith('\n'):
+                result += '\n'
+    elif isinstance(d, str):
+        result += d
+        result = result.strip()
+
+    return result
+
+
 # Open a file
 path = r"./input"
 
@@ -830,7 +901,8 @@ with os.scandir(path) as dirs:
                 for file in subdir:
                     if os.path.isfile(file):
                         filename = file.name
-                        output_filename = filename.replace('.xml', '_pim.xml')
+                        output_filename = filename.replace(
+                            '.xml', '_pim_edciv010.xml')
 
                         # Read THL Moduldescriptions and convert them to dictionary
                         xml_in = open(

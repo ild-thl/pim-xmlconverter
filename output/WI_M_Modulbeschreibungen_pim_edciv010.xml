@@ -1,0 +1,2539 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<europassCredential xmlns="http://data.europa.eu/snb" xmlns:cred="http://data.europa.eu/europass/model/credentials/w3c#" xmlns:eup="http://data.europa.eu/snb" xmlns:ns2="http://data.europa.eu/europass/model/credentials/w3c#" xmlns:ns3="http://www.w3.org/2000/09/xmldsig#" xmlns:ns4="http://uri.etsi.org/01903/v1.3.2#" xmlns:ns5="http://data.europa.eu/snb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" cred:id="dummy-id" xsdVersion="0.10.0" xsi:schemaLocation="http://data.europa.eu/snb https://data.europa.eu/snb/resource/distribution/v1/xsd/schema/genericschema.xsd">
+  <type targetFrameworkUrl="http://data.europa.eu/snb/credential/25831c2" uri="http://data.europa.eu/snb/credential/e34929035b">
+    <targetName>
+      <text content-type="text/plain" lang="en">Generic</text>
+    </targetName>
+    <targetDescription>
+      <text content-type="text/plain" lang="en">This is the default Europass credential type.</text>
+    </targetDescription>
+    <targetFrameworkName>
+      <text content-type="text/plain" lang="en">Europass Standard List of Credential Types</text>
+    </targetFrameworkName>
+  </type>
+  <cred:issued>2021-06-09T16:01:34.979+02:00</cred:issued>
+  <cred:issuer idref="urn:epass:thl:organization:100"/>
+  <title>
+    <text content-type="text/plain" lang="de">Wirtschaftsingenieurwesen, Master</text>
+    <text content-type="text/plain" lang="en">Wirtschaftsingenieurwesen, Master</text>
+  </title>
+  <description>
+    <text content-type="text/plain" lang="de">Dies ist der Studiengang Wirtschaftsingenieurwesen, Master aus dem Fachbereich Maschinenbau und Wirtschaft.</text>
+    <text content-type="text/plain" lang="en">Dies ist der Studiengang Wirtschaftsingenieurwesen, Master aus dem Fachbereich Maschinenbau und Wirtschaft.</text>
+  </description>
+  <credentialSubject id="DUMMY-SUBJECT">
+    <identifier spatialID="http://publications.europa.eu/resource/authority/country/DEU">DUMMY-IDENTIFIER</identifier>
+    <nationalId spatialID="http://publications.europa.eu/resource/authority/country/DEU">DUMMY-NATIONALID</nationalId>
+    <fullName>
+      <text content-type="text/plain" lang="en">DUMMY SUBJECT</text>
+    </fullName>
+    <givenNames>
+      <text content-type="text/plain" lang="en">DUMMY</text>
+    </givenNames>
+    <familyName>
+      <text content-type="text/plain" lang="en">SUBJECT</text>
+    </familyName>
+    <birthName/>
+    <patronymicName/>
+    <dateOfBirth>2000-10-20Z</dateOfBirth>
+    <achievements/>
+    <activities/>
+    <entitlements/>
+  </credentialSubject>
+  <learningSpecificationReferences>
+    <studyProgramme id="urn:thl:learning:spec:studyprogramme:877377">
+      <title>
+        <text content-type="text/plain" lang="de">Wirtschaftsingenieurwesen, Master</text>
+        <text content-type="text/plain" lang="en">Wirtschaftsingenieurwesen, Master</text>
+      </title>
+      <hasEducationLevel targetFrameworkUrl="https://publications.europa.eu/resource/authority/snb/eqf/25831c2" targetID="https://publications.europa.eu/resource/authority/snb/eqf/6" uri="http://publications.europa.eu/resource/authority/eurovoc/2059">
+        <targetName>
+          <text content-type="text/plain" lang="en">B. Sc.</text>
+        </targetName>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">European Qualifications Framework</text>
+        </targetFrameworkName>
+      </hasEducationLevel>
+    </studyProgramme>
+    <stupo id="urn:thl:learning:spec:stupo:877377">
+      <title>
+        <text content-type="text/plain" lang="de">Wirtschaftsingenieurwesen, Master</text>
+        <text content-type="text/plain" lang="en">Wirtschaftsingenieurwesen, Master</text>
+      </title>
+      <specializationOf idref="urn:thl:learning:spec:studyprogramme:877377"/>
+    </stupo>
+    <studySection id="urn:thl:learning:spec:studysection:877377">
+      <title>
+        <text content-type="text/plain" lang="de">Wirtschaftsingenieurwesen, Master</text>
+      </title>
+      <hasPart idref="urn:thl:learning:spec:21575#1"/>
+      <hasPart idref="urn:thl:learning:spec:21592#1"/>
+      <hasPart idref="urn:thl:learning:spec:21609#1"/>
+      <hasPart idref="urn:thl:learning:spec:21626#1"/>
+      <hasPart idref="urn:thl:learning:spec:21643#1"/>
+      <hasPart idref="urn:thl:learning:spec:21660#1"/>
+      <hasPart idref="urn:thl:learning:spec:21677#1"/>
+      <hasPart idref="urn:thl:learning:spec:21694#1"/>
+      <hasPart idref="urn:thl:learning:spec:21711#1"/>
+      <hasPart idref="urn:thl:learning:spec:21728#1"/>
+      <hasPart idref="urn:thl:learning:spec:21745#1"/>
+      <hasPart idref="urn:thl:learning:spec:21762#1"/>
+      <hasPart idref="urn:thl:learning:spec:21779#1"/>
+      <hasPart idref="urn:thl:learning:spec:21796#1"/>
+      <hasPart idref="urn:thl:learning:spec:21813#1"/>
+      <hasPart idref="urn:thl:learning:spec:21830#1"/>
+      <hasPart idref="urn:thl:learning:spec:21847#1"/>
+      <specializationOf idref="urn:thl:learning:spec:stupo:877377"/>
+    </studySection>
+    <modul id="urn:thl:learning:spec:21575">
+      <identifier>21575</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title>
+        <text content-type="text/plain" lang="de">Modul 21575</text>
+      </title>
+      <title>
+        <text content-type="text/plain" lang="en">Modul 21575</text>
+      </title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:21575#1">
+      <identifier>21575#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title>
+        <text content-type="text/plain" lang="de">IT-Management und E-Business</text>
+      </title>
+      <definition>
+        <text content-type="text/plain" lang="de">- Vermittlung der Grundlagen von IT-Prozessen, IT-Governance und IT-Management
+	- Vermittlung der Grundlagen von E-Business, E-Marketing, E-Commerce und E-Procurement
+Studierende sollen die Fähigkeit erwerben, vorstehende Themen für einen möglichen Einsatz in ihrer späteren beruflichen Praxis beurteilen und Abhängigkeiten erkennen zu können.</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: Literatur (in Auswahl):
+	- Div. aktuelle Artikel etc.
+	- Hans Robert Hansen, Gustaf Neumann: Wirtschaftsinformatik 1, Grundlagen und Anwendungen
+	- Tobias Kollmann: E-Business - Grundlagen elektronischer Geschäftsprozesse in der Net Economy, Gabler
+	- Kenneth C. Laudon, Jane P. Laudon, Detlef Schoder: Wirtschaftsinformatik - Eine Einführung, Pearson
+	- Christian Maaß: E-Business-Management, UTB
+	- Andreas Meier, Henrik Stormer: eBusiness &amp; eCommerce - Management der digitalen Wertschöpfungskette, Springer
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literature references: Literatur (in Auswahl):
+	- Div. aktuelle Artikel etc.
+	- Hans Robert Hansen, Gustaf Neumann: Wirtschaftsinformatik 1, Grundlagen und Anwendungen
+	- Tobias Kollmann: E-Business - Grundlagen elektronischer Geschäftsprozesse in der Net Economy, Gabler
+	- Kenneth C. Laudon, Jane P. Laudon, Detlef Schoder: Wirtschaftsinformatik - Eine Einführung, Pearson
+	- Christian Maaß: E-Business-Management, UTB
+	- Andreas Meier, Henrik Stormer: eBusiness &amp; eCommerce - Management der digitalen Wertschöpfungskette, Springer
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Registration Procedures: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Validity: Seit 14.11.2020</text>
+      </additionalNote>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <mode uri="http://data.europa.eu/snb/learning-assessment/e92d221e4d"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="en">&amp;lt;![CDATA[Desirable prerequisites for participation in the courses: null;&amp;lt;br/&amp;gt;Mandatory requirements for the module test application: null]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:21575#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21575#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:140"/>
+          <location targetFrameworkUrl="http://publications.europa.eu/resource/authority/country" uri="http://publications.europa.eu/resource/authority/country/DEU">
+            <targetName/>
+            <targetFrameworkName>
+              <text content-type="text/plain" lang="en">Country</text>
+            </targetFrameworkName>
+          </location>
+          <startedAtTime>2020-11-14T00:00:00.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:21575#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:21575"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:21575#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title>
+        <text content-type="text/plain" lang="de">IT-Management und E-Business</text>
+      </title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21575#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:21592">
+      <identifier>21592</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title>
+        <text content-type="text/plain" lang="de">Modul 21592</text>
+      </title>
+      <title>
+        <text content-type="text/plain" lang="en">Modul 21592</text>
+      </title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:21592#1">
+      <identifier>21592#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title>
+        <text content-type="text/plain" lang="de">Produktionsmanagement und Fabrikplanung</text>
+      </title>
+      <definition>
+        <text content-type="text/plain" lang="de">- Einführung
+	- Fabrikplanung
+	- Produktionsmanagement
+	- Fabrikplanungssystematik
+	- Standort- und Layoutplanung
+	- Fallstudie
+	- Strategisches Produktionsmanagement
+	- Operatives Produktionsmanagement
+	- Fallstudie</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: Corsten, H.; Gössinger, R.: Produktionswirtschaft. Oldenbourg: München und Wien 2016
+Domschke, W.; Drexl, A.: Logistik: Standorte. München, Wien: Oldenbourg 1996
+Eversheim, W.; Schuh, G. (Hrsg): Gestaltung von Produktionssystemen. Berlin u.a.: Springer 1999
+Grundig, C.-G.: Fabrikplanung. München: Hanser 2016
+Heizer, J.: Render; B. Operations Management. Boston et al.: Pearson: 2015
+McGrath, R. G.: The End of Competitive Advantage. Boston: Harvard Business Review Press 2013
+Schenk, M.; Wirth, S. (Hrsg.) Fabrikplanung und Fabrikbetrieb. Berlin u.a.: Springer 2004
+Thonemann, U.: Operations Management. Pearson: München  2015
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literature references: Corsten, H.; Gössinger, R.: Produktionswirtschaft. Oldenbourg: München und Wien 2016
+Domschke, W.; Drexl, A.: Logistik: Standorte. München, Wien: Oldenbourg 1996
+Eversheim, W.; Schuh, G. (Hrsg): Gestaltung von Produktionssystemen. Berlin u.a.: Springer 1999
+Grundig, C.-G.: Fabrikplanung. München: Hanser 2016
+Heizer, J.: Render; B. Operations Management. Boston et al.: Pearson: 2015
+McGrath, R. G.: The End of Competitive Advantage. Boston: Harvard Business Review Press 2013
+Schenk, M.; Wirth, S. (Hrsg.) Fabrikplanung und Fabrikbetrieb. Berlin u.a.: Springer 2004
+Thonemann, U.: Operations Management. Pearson: München  2015
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Registration Procedures: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Validity: Seit 14.11.2020</text>
+      </additionalNote>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <mode uri="http://data.europa.eu/snb/learning-assessment/e92d221e4d"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="en">&amp;lt;![CDATA[Desirable prerequisites for participation in the courses: null;&amp;lt;br/&amp;gt;Mandatory requirements for the module test application: null]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:21592#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21592#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:140"/>
+          <location targetFrameworkUrl="http://publications.europa.eu/resource/authority/country" uri="http://publications.europa.eu/resource/authority/country/DEU">
+            <targetName/>
+            <targetFrameworkName>
+              <text content-type="text/plain" lang="en">Country</text>
+            </targetFrameworkName>
+          </location>
+          <startedAtTime>2020-11-14T00:00:00.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:21592#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:21592"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:21592#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title>
+        <text content-type="text/plain" lang="de">Produktionsmanagement und Fabrikplanung</text>
+      </title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21592#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:21609">
+      <identifier>21609</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title>
+        <text content-type="text/plain" lang="de">Modul 21609</text>
+      </title>
+      <title>
+        <text content-type="text/plain" lang="en">Modul 21609</text>
+      </title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:21609#1">
+      <identifier>21609#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title>
+        <text content-type="text/plain" lang="de">Technische Investitionsplanung</text>
+      </title>
+      <definition>
+        <text content-type="text/plain" lang="de">- Grundlagen der Investitions- und Fabrikplanung - Allgemeine Definition, Tätigkeitsprofile, Aufbauorganisation
+	- Konzeption und Auslegung technischer Anlagen
+	- Eindimensionale Bewertungsverfahren - Statische und dynamische Methoden
+	- Mehrdimensionale Bewertungsverfahren - Qualitative Bewertungsmethoden, Risikoanalysen, Sensitivitäten
+	- Fallstudien</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: Grundig, Claus-Gerold: Fabrikplanung: Planungssystematik - Methoden – Anwendungen; 2018
+Wiendahl / Reichardt/ Nyhuis: Handbuch Fabrikplanung: Konzept, Gestaltung und Umsetzung wandlungsfähiger Produktionsstätten, 2014
+Kettner / Schmidt / Greim: Leitfaden der systematischen Fabrikplanung, 1984
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literature references: Grundig, Claus-Gerold: Fabrikplanung: Planungssystematik - Methoden – Anwendungen; 2018
+Wiendahl / Reichardt/ Nyhuis: Handbuch Fabrikplanung: Konzept, Gestaltung und Umsetzung wandlungsfähiger Produktionsstätten, 2014
+Kettner / Schmidt / Greim: Leitfaden der systematischen Fabrikplanung, 1984
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Registration Procedures: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Validity: Seit 14.11.2020</text>
+      </additionalNote>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <mode uri="http://data.europa.eu/snb/learning-assessment/e92d221e4d"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="en">&amp;lt;![CDATA[Desirable prerequisites for participation in the courses: null;&amp;lt;br/&amp;gt;Mandatory requirements for the module test application: null]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:21609#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21609#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:140"/>
+          <location targetFrameworkUrl="http://publications.europa.eu/resource/authority/country" uri="http://publications.europa.eu/resource/authority/country/DEU">
+            <targetName/>
+            <targetFrameworkName>
+              <text content-type="text/plain" lang="en">Country</text>
+            </targetFrameworkName>
+          </location>
+          <startedAtTime>2020-11-14T00:00:00.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:21609#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:21609"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:21609#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title>
+        <text content-type="text/plain" lang="de">Technische Investitionsplanung</text>
+      </title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21609#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:21626">
+      <identifier>21626</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title>
+        <text content-type="text/plain" lang="de">Modul 21626</text>
+      </title>
+      <title>
+        <text content-type="text/plain" lang="en">Modul 21626</text>
+      </title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:21626#1">
+      <identifier>21626#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title>
+        <text content-type="text/plain" lang="de">Operations Research</text>
+      </title>
+      <definition>
+        <text content-type="text/plain" lang="de">- Einführung
+	- Lineare Optimierung
+	- Graphen und Netzwerke
+	- Heuristiken
+	- Ganzzahlige Optimierung
+	- Dynamische Optimierung</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: Domschke, W.; Drexl, A.; Klein, Robert; Scholl, A.: Einführung Operations Research. Berlin, Heidelberg:Springer  2015
+Domschke, W.; Drexl, A.: Logistik: Transport. München: Oldenbourg 2007
+Dürr, W.; Kleibohm, K.: Operations Research. München, Wien: Hanser 1992
+Gohout, W.: Operations Research. München: Oldenbourg 2009
+Müller-Funk, H.: Operations Research. Konstanz: UVK  2005
+Müller-Merbach, H.: Operations Research. Vahlen: München 1973
+Neumann, K.; Morlock, M.: Operations Research. München, Wien: Hanser 2004
+Nickel, St.; Stein, O.; Waldmann, K.-H.: Operations Research. Berlin, Heidelberg:Springer  2014
+Suhl, L.; Mellouli, T.: Optimierungssysteme. Berlin, Heidelberg:Springer  2013
+Thonemann, U.: Operations Management – Konzepte, Methoden, Anwendungen. Pearson:  München 2010
+Werners, B.: Grundlagen des Operations Research. Berlin, Heidelberg:Springer  2013
+Zimmermann, H.-J.: Operations Research. Wiesbaden: Vieweg 2008
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literature references: Domschke, W.; Drexl, A.; Klein, Robert; Scholl, A.: Einführung Operations Research. Berlin, Heidelberg:Springer  2015
+Domschke, W.; Drexl, A.: Logistik: Transport. München: Oldenbourg 2007
+Dürr, W.; Kleibohm, K.: Operations Research. München, Wien: Hanser 1992
+Gohout, W.: Operations Research. München: Oldenbourg 2009
+Müller-Funk, H.: Operations Research. Konstanz: UVK  2005
+Müller-Merbach, H.: Operations Research. Vahlen: München 1973
+Neumann, K.; Morlock, M.: Operations Research. München, Wien: Hanser 2004
+Nickel, St.; Stein, O.; Waldmann, K.-H.: Operations Research. Berlin, Heidelberg:Springer  2014
+Suhl, L.; Mellouli, T.: Optimierungssysteme. Berlin, Heidelberg:Springer  2013
+Thonemann, U.: Operations Management – Konzepte, Methoden, Anwendungen. Pearson:  München 2010
+Werners, B.: Grundlagen des Operations Research. Berlin, Heidelberg:Springer  2013
+Zimmermann, H.-J.: Operations Research. Wiesbaden: Vieweg 2008
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Registration Procedures: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Validity: Seit 14.11.2020</text>
+      </additionalNote>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <mode uri="http://data.europa.eu/snb/learning-assessment/e92d221e4d"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="en">&amp;lt;![CDATA[Desirable prerequisites for participation in the courses: null;&amp;lt;br/&amp;gt;Mandatory requirements for the module test application: null]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:21626#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21626#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:140"/>
+          <location targetFrameworkUrl="http://publications.europa.eu/resource/authority/country" uri="http://publications.europa.eu/resource/authority/country/DEU">
+            <targetName/>
+            <targetFrameworkName>
+              <text content-type="text/plain" lang="en">Country</text>
+            </targetFrameworkName>
+          </location>
+          <startedAtTime>2020-11-14T00:00:00.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:21626#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:21626"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:21626#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title>
+        <text content-type="text/plain" lang="de">Operations Research</text>
+      </title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21626#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:21643">
+      <identifier>21643</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title>
+        <text content-type="text/plain" lang="de">Modul 21643</text>
+      </title>
+      <title>
+        <text content-type="text/plain" lang="en">Modul 21643</text>
+      </title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:21643#1">
+      <identifier>21643#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title>
+        <text content-type="text/plain" lang="de">Organisationspsychologie und Changemanagement</text>
+      </title>
+      <definition>
+        <text content-type="text/plain" lang="de">Organisationspsychologie:
+	- Grundlagen der Organisationspsychologie
+	- Grundlagen der Sozialpsychologie
+	- Grundlagen der Persönlichkeitspsychologie
+	- Grundlagen der Personalpsychologie
+	- Arbeitszufriedenheit und Arbeitsmotivation
+	- Coaching und Organisationsberatung
+	- Gruppenverhalten, Gruppenprozesse steuern
+	- Kommunikation
+	- Werte und Einstellungen
+	- Commitment
+Personalentwicklung
+
+Changemanagement:
+	- Grundlagen des Changemanagements
+	- Diversity Management
+	- Innovationsmanagement
+	- Organisationsentwicklung/Organisationskonzepte
+	- Wissensmanagement
+	- Komplexitätsmanagement
+	- Psychologische Konsequenzen von Veränderungen
+	- Die Selbstverständlichkeit des Wandels
+	- Methoden zur Gestaltung von Veränderungsprozessen
+	- Kreativitätstechniken, Wahrnehmung, Innovationszirkel etc.
+	- Produktinnovationen
+	- Prozessinnovationen</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: 	- Dittrich-Brauner, Karin; Eberhard Dittmann, Volker List und Carmen Windisch: Interaktive Großgruppen. Change-Prozesse in Organisationen gestalten. 2. Aufl. Heidelberg: Springer, 2013
+	- Kanning, Peter Uwe und Thomas Staufenbiel: Organisationspsychologie. Reihe: Bachelorstudium Psychologie, Bd. 11. Göttingen: Hogrefe, 2012
+	- Kauffeld, Simone (Hrsg.): Arbeits-, Organisations- und Personalpsychologie. 2. Aufl. Berlin/Heidelberg: Springer, 2014
+	- König, Eckard und Gerda Volmer: Handbuch Systemische Organisationsberatung. Beltz: Weinheim und Basel, 2008
+	- Nerdinger, Friedemann W., Gerhard Blickle und Niclas Schaper (Hrsg.): Arbeits- und Organisationspsychologie. 3. Aufl. Berlin, Heidelberg: Springer, 2014
+	- Jonas/Stroebe/Newstone (Hrsg.) Sozialpsychologie, Springer Verlag Berlin Heidelberg 2014
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literature references: 	- Dittrich-Brauner, Karin; Eberhard Dittmann, Volker List und Carmen Windisch: Interaktive Großgruppen. Change-Prozesse in Organisationen gestalten. 2. Aufl. Heidelberg: Springer, 2013
+	- Kanning, Peter Uwe und Thomas Staufenbiel: Organisationspsychologie. Reihe: Bachelorstudium Psychologie, Bd. 11. Göttingen: Hogrefe, 2012
+	- Kauffeld, Simone (Hrsg.): Arbeits-, Organisations- und Personalpsychologie. 2. Aufl. Berlin/Heidelberg: Springer, 2014
+	- König, Eckard und Gerda Volmer: Handbuch Systemische Organisationsberatung. Beltz: Weinheim und Basel, 2008
+	- Nerdinger, Friedemann W., Gerhard Blickle und Niclas Schaper (Hrsg.): Arbeits- und Organisationspsychologie. 3. Aufl. Berlin, Heidelberg: Springer, 2014
+	- Jonas/Stroebe/Newstone (Hrsg.) Sozialpsychologie, Springer Verlag Berlin Heidelberg 2014
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Registration Procedures: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Validity: Seit 14.11.2020</text>
+      </additionalNote>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <mode uri="http://data.europa.eu/snb/learning-assessment/e92d221e4d"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="en">&amp;lt;![CDATA[Desirable prerequisites for participation in the courses: null;&amp;lt;br/&amp;gt;Mandatory requirements for the module test application: null]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:21643#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21643#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:140"/>
+          <location targetFrameworkUrl="http://publications.europa.eu/resource/authority/country" uri="http://publications.europa.eu/resource/authority/country/DEU">
+            <targetName/>
+            <targetFrameworkName>
+              <text content-type="text/plain" lang="en">Country</text>
+            </targetFrameworkName>
+          </location>
+          <startedAtTime>2020-11-14T00:00:00.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:21643#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:21643#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:21643"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:21643#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title>
+        <text content-type="text/plain" lang="de">Organisationspsychologie</text>
+      </title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21643#1-1"/>
+    </learningEvent>
+    <learningEvent id="urn:thl:learning:spec:21643#1-2">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title>
+        <text content-type="text/plain" lang="de">Changemanagement</text>
+      </title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21643#1-2"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:21660">
+      <identifier>21660</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title>
+        <text content-type="text/plain" lang="de">Modul 21660</text>
+      </title>
+      <title>
+        <text content-type="text/plain" lang="en">Modul 21660</text>
+      </title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:21660#1">
+      <identifier>21660#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title>
+        <text content-type="text/plain" lang="de">Simulation technischer Systeme</text>
+      </title>
+      <definition>
+        <text content-type="text/plain" lang="de">- Einführung in die Systemplanung und Simulation
+	- Struktur des Planungsprozesses
+	- Einführung in die Simulationssoftware FLEXSIM
+	- Projekt
+	- Allgemeine Definition
+	- Tätigkeitsprofile
+	- Aufbauorganisation
+	- Zielplanung
+	- Strukturplanung
+	- Ausführungsplanung
+Fallstudien</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: 	- Aggteleky, B.; Fabrikplanung - Werksentwicklung und Betriebsrationalisierung, Band 1: Grundlagen, Zielplanung, Vorarbeiten, Carl Hanser Verlag, München, Wien, 1998.
+	- Aggteleky, B.; Fabrikplanung - Werksentwicklung und Betriebsrationalisierung, Band 2: Betriebsanalyse, Feasibility- Studie, Carl Hanser Verlag, München, Wien, 2001.
+	- Aggteleky, B.: Fabrikplanung - Werksentwicklung und Betriebsrationalisierung, Band 3: Ausführungsplanung und Projektmanagement, Carl Hanser Verlag, München, Wien, 1990.
+	- Grundig, C.-G.; Fabrikplanung: Planungssystematik, Methoden, Anwendungen, München, Hanser Verlag, 2014.
+	- Kettner, H.; Leitfaden der systematischen Fabrikplanung, Hanser Fachbuchverlag, 2010.
+	- Nyhuis, von P., Wiendahl, H.-P.; Handbuch Fabrikplanung: Konzept, Gestaltung und Umsetzung wandlungsfähiger Produktionsstätten, Carl Hanser Verlag, 2014.
+	- Pawellek, G.; Ganzheitliche Fabrikplanung: Grundlagen, Vorgehensweise, VDI-Buch, Springer Verlag, Berlin, 2014.
+	- Wiendahl, H.-P.; Planung modularer Fabriken: Vorgehen und Beispiele aus der Praxis, Hanser Verlag, 2013.
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literature references: 	- Aggteleky, B.; Fabrikplanung - Werksentwicklung und Betriebsrationalisierung, Band 1: Grundlagen, Zielplanung, Vorarbeiten, Carl Hanser Verlag, München, Wien, 1998.
+	- Aggteleky, B.; Fabrikplanung - Werksentwicklung und Betriebsrationalisierung, Band 2: Betriebsanalyse, Feasibility- Studie, Carl Hanser Verlag, München, Wien, 2001.
+	- Aggteleky, B.: Fabrikplanung - Werksentwicklung und Betriebsrationalisierung, Band 3: Ausführungsplanung und Projektmanagement, Carl Hanser Verlag, München, Wien, 1990.
+	- Grundig, C.-G.; Fabrikplanung: Planungssystematik, Methoden, Anwendungen, München, Hanser Verlag, 2014.
+	- Kettner, H.; Leitfaden der systematischen Fabrikplanung, Hanser Fachbuchverlag, 2010.
+	- Nyhuis, von P., Wiendahl, H.-P.; Handbuch Fabrikplanung: Konzept, Gestaltung und Umsetzung wandlungsfähiger Produktionsstätten, Carl Hanser Verlag, 2014.
+	- Pawellek, G.; Ganzheitliche Fabrikplanung: Grundlagen, Vorgehensweise, VDI-Buch, Springer Verlag, Berlin, 2014.
+	- Wiendahl, H.-P.; Planung modularer Fabriken: Vorgehen und Beispiele aus der Praxis, Hanser Verlag, 2013.
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Registration Procedures: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Validity: Seit 14.11.2020</text>
+      </additionalNote>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <mode uri="http://data.europa.eu/snb/learning-assessment/e92d221e4d"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="en">&amp;lt;![CDATA[Desirable prerequisites for participation in the courses: null;&amp;lt;br/&amp;gt;Mandatory requirements for the module test application: null]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:21660#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21660#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:140"/>
+          <location targetFrameworkUrl="http://publications.europa.eu/resource/authority/country" uri="http://publications.europa.eu/resource/authority/country/DEU">
+            <targetName/>
+            <targetFrameworkName>
+              <text content-type="text/plain" lang="en">Country</text>
+            </targetFrameworkName>
+          </location>
+          <startedAtTime>2020-11-14T00:00:00.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:21660#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:21660"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:21660#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title>
+        <text content-type="text/plain" lang="de">Simulation technischer Systeme</text>
+      </title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21660#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:21677">
+      <identifier>21677</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title>
+        <text content-type="text/plain" lang="de">Modul 21677</text>
+      </title>
+      <title>
+        <text content-type="text/plain" lang="en">Modul 21677</text>
+      </title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:21677#1">
+      <identifier>21677#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title>
+        <text content-type="text/plain" lang="de">Advanced Planning Systems</text>
+      </title>
+      <definition>
+        <text content-type="text/plain" lang="de">- S&amp;OP und Produktionsprogrammplanung im ERP-Umfeld,
+	- 
+Advanced Planning Systems (APS)
+	- 
+Einführung SAP APO
+	- Überblick über die Komponenten (DP, SNP,…)
+	- Realisierungsbeispiele
+	- Handling des SAP - APO
+	- Sales &amp; Operations Planning Process (S&amp;OP)
+	- 
+Demand Planning (DP)
+	- 
+Supply Network Planning (SNP)
+	- Anforderungen von SCM and IT-Systeme
+	- Grundgedanken des Konzeptes APS
+	- Vorteile und Risiken dieses Konzeptes
+	- Abgrenzung zu ERP-Software (SAP ERP)
+	- Einbindung in Planungsaktivitäten im Unternehmen
+	- Stärken / Schwächen
+	- einfache und komplexe Prognosetechniken
+	- Aufbau eines Netzwerkes
+	- manuelle Bedarfsübergabe
+	- Optimierungstechniken
+	- Vergleich zu S&amp;OP u. Programmplanung im ERP</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: 	- SAP APO-System, vorbereitete Fallstudien und Vortragsunterlagen
+	- Supply Chain Management mit SAP APO, Bartsch u.a., Galileo Press, Bonn
+	- Supply Chain Management with APO: Structures, Modelling Approaches and Implementation Pecularities, Dickersbach, Springer Verlag, Berlin
+	- Supply Chain Management auf Basis von SAP-Systemen, Mertens u.a., Springer Verlag, Berlin - Supply Chain Management and Advanced Planning: Concepts, Models, Software, and Case Studies, Stadtler, Kilger, Springer Verlag, Berlin
+	- Absatz- und Bestandsplanung mit SAP APO, Hoppe, Galileo Press, Bonn
+	- Demand and Supply Planning with SAP APO, Pradhan, Galileo Press, Bonn
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literature references: 	- SAP APO-System, vorbereitete Fallstudien und Vortragsunterlagen
+	- Supply Chain Management mit SAP APO, Bartsch u.a., Galileo Press, Bonn
+	- Supply Chain Management with APO: Structures, Modelling Approaches and Implementation Pecularities, Dickersbach, Springer Verlag, Berlin
+	- Supply Chain Management auf Basis von SAP-Systemen, Mertens u.a., Springer Verlag, Berlin - Supply Chain Management and Advanced Planning: Concepts, Models, Software, and Case Studies, Stadtler, Kilger, Springer Verlag, Berlin
+	- Absatz- und Bestandsplanung mit SAP APO, Hoppe, Galileo Press, Bonn
+	- Demand and Supply Planning with SAP APO, Pradhan, Galileo Press, Bonn
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Registration Procedures: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Validity: Seit 14.11.2020</text>
+      </additionalNote>
+      <volumeOfLearning>P0Y0M0DT225H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">7.5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <mode uri="http://data.europa.eu/snb/learning-assessment/e92d221e4d"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="en">&amp;lt;![CDATA[Desirable prerequisites for participation in the courses: null;&amp;lt;br/&amp;gt;Mandatory requirements for the module test application: null]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:21677#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21677#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:140"/>
+          <location targetFrameworkUrl="http://publications.europa.eu/resource/authority/country" uri="http://publications.europa.eu/resource/authority/country/DEU">
+            <targetName/>
+            <targetFrameworkName>
+              <text content-type="text/plain" lang="en">Country</text>
+            </targetFrameworkName>
+          </location>
+          <startedAtTime>2020-11-14T00:00:00.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:21677#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:21677"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:21677#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title>
+        <text content-type="text/plain" lang="de">Advanced Planning Systems</text>
+      </title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21677#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:21694">
+      <identifier>21694</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title>
+        <text content-type="text/plain" lang="de">Modul 21694</text>
+      </title>
+      <title>
+        <text content-type="text/plain" lang="en">Modul 21694</text>
+      </title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:21694#1">
+      <identifier>21694#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title>
+        <text content-type="text/plain" lang="de">Strategisches Produktionscontrolling und Fallstudien</text>
+      </title>
+      <definition>
+        <text content-type="text/plain" lang="de">Strategisches Produktionscontrolling:
+	- Grundlagen des Controlling
+	- Strategisches Controlling
+	- Methoden des strategischen Controlling
+	- Allgemeine Definition
+	- Operatives Produktionscontrolling
+	- Status Strategisches Controlling
+	- Strategische Planung
+	- Strategische Plankontrolle – Frühwarnung
+	- Marktorientiertes Kostenmanagement -Target Costing
+	- Fallbeispiel Strategieplan
+	- Make or Buy Entscheidung
+	- Benchmarking
+	- Portfolio
+	- Szenariotechnik
+	- Lebenszykluskurven
+
+Fallstudien - Strategisches Produktionscontrolling:
+Fallstudie: Sanierung eines Unternehmens</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: 	- Horvath, P., Controlling, München, Vahlen, 2015.
+	- Kerth, K., Asum, H.; Die besten Strategietools in der Praxis, München, Carl Hanser Verlag, 2015.
+	- Kralicek, P., Böhmdorfer, F.; Kennzahlen für Geschäftsführer, Wien/Frankfurt, Wirtschaftsverlag Ueberreuter, 2013.
+	- Reichmann, T.; Controlling mit Kennzahlen, München, Vahlen, 2017.
+	- Gathen, von der A.; Das große Handbuch der Strategieinstrumente, Frankfurt, Campus Verlag, 2014.
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literature references: 	- Horvath, P., Controlling, München, Vahlen, 2015.
+	- Kerth, K., Asum, H.; Die besten Strategietools in der Praxis, München, Carl Hanser Verlag, 2015.
+	- Kralicek, P., Böhmdorfer, F.; Kennzahlen für Geschäftsführer, Wien/Frankfurt, Wirtschaftsverlag Ueberreuter, 2013.
+	- Reichmann, T.; Controlling mit Kennzahlen, München, Vahlen, 2017.
+	- Gathen, von der A.; Das große Handbuch der Strategieinstrumente, Frankfurt, Campus Verlag, 2014.
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Registration Procedures: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Validity: Seit 14.11.2020</text>
+      </additionalNote>
+      <volumeOfLearning>P0Y0M0DT225H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">7.5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <mode uri="http://data.europa.eu/snb/learning-assessment/e92d221e4d"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="en">&amp;lt;![CDATA[Desirable prerequisites for participation in the courses: null;&amp;lt;br/&amp;gt;Mandatory requirements for the module test application: null]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:21694#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21694#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:140"/>
+          <location targetFrameworkUrl="http://publications.europa.eu/resource/authority/country" uri="http://publications.europa.eu/resource/authority/country/DEU">
+            <targetName/>
+            <targetFrameworkName>
+              <text content-type="text/plain" lang="en">Country</text>
+            </targetFrameworkName>
+          </location>
+          <startedAtTime>2020-11-14T00:00:00.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:21694#1-1"/>
+      <hasPart idref="urn:thl:learning:spec:21694#1-2"/>
+      <specializationOf idref="urn:thl:learning:spec:21694"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:21694#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title>
+        <text content-type="text/plain" lang="de">Strategisches Produktionscontrolling</text>
+      </title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21694#1-1"/>
+    </learningEvent>
+    <learningEvent id="urn:thl:learning:spec:21694#1-2">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title>
+        <text content-type="text/plain" lang="de">Fallstudien - Strategisches Produktionscontrolling</text>
+      </title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21694#1-2"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:21711">
+      <identifier>21711</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title>
+        <text content-type="text/plain" lang="de">Modul 21711</text>
+      </title>
+      <title>
+        <text content-type="text/plain" lang="en">Modul 21711</text>
+      </title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:21711#1">
+      <identifier>21711#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title>
+        <text content-type="text/plain" lang="de">Telematik-Anwendungen</text>
+      </title>
+      <definition>
+        <text content-type="text/plain" lang="de">- Elemente der Verkehrs-Telematik - Ortung mobiler Objekte im Verkehrsgeschehen
+	- Wirtschaftlichkeitsbetrachtungen - Konzept des TCO Total Cost of Ownership
+	- IT-Sicherheit - Sicherheitskonzepte
+	- Zielfindungs- und Zielführungssysteme- Verkehrsleitsysteme, - Parkhausleitsysteme
+	- Routenoptimierungssysteme - Flottenmanagementsysteme
+	- Road Pricing - Mautsysteme
+	- Identifikationssysteme - LBS Location Based Services
+	- Biometrische Verfahren -Wahrnehmung, Visualisierung
+	- GIS - Geographische Informationssysteme
+	- Spezielle Anwendungen von Telematik Landwirtschaft, Medizin, Touristik, Logistik, Hausautomation etc.</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: Dochow: Grundlagen und normativer Rahmen der Telematik im Gesundheitswesen; 2017
+Leitfaden Verkehrs-Telematik-Hinweise zur Planung und Nutzung in Kommunen und Kreisen, TU Darmstadt, ZIV – Zentrum für integrierte Verkehrssysteme, 2005
+Evers, Harry. (Hrsg.): Kompendium der Verkehrs-Telematik; Technologien, Applikationen, Perspektiven
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literature references: Dochow: Grundlagen und normativer Rahmen der Telematik im Gesundheitswesen; 2017
+Leitfaden Verkehrs-Telematik-Hinweise zur Planung und Nutzung in Kommunen und Kreisen, TU Darmstadt, ZIV – Zentrum für integrierte Verkehrssysteme, 2005
+Evers, Harry. (Hrsg.): Kompendium der Verkehrs-Telematik; Technologien, Applikationen, Perspektiven
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Registration Procedures: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Validity: Seit 14.11.2020</text>
+      </additionalNote>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <mode uri="http://data.europa.eu/snb/learning-assessment/e92d221e4d"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="en">&amp;lt;![CDATA[Desirable prerequisites for participation in the courses: null;&amp;lt;br/&amp;gt;Mandatory requirements for the module test application: null]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:21711#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21711#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:140"/>
+          <location targetFrameworkUrl="http://publications.europa.eu/resource/authority/country" uri="http://publications.europa.eu/resource/authority/country/DEU">
+            <targetName/>
+            <targetFrameworkName>
+              <text content-type="text/plain" lang="en">Country</text>
+            </targetFrameworkName>
+          </location>
+          <startedAtTime>2020-11-14T00:00:00.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:21711#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:21711"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:21711#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title>
+        <text content-type="text/plain" lang="de">Telematik-Anwendungen</text>
+      </title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21711#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:21728">
+      <identifier>21728</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title>
+        <text content-type="text/plain" lang="de">Modul 21728</text>
+      </title>
+      <title>
+        <text content-type="text/plain" lang="en">Modul 21728</text>
+      </title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:21728#1">
+      <identifier>21728#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title>
+        <text content-type="text/plain" lang="en">Supply Chain Management</text>
+      </title>
+      <definition>
+        <text content-type="text/plain" lang="en">- Introduction to SCM
+	- Supply Chain Design and Operations
+	- SCM information systems
+	- Case study/Exercise:
+	- Business Game SCM
+	- Usage of cultural diversity
+	- From logistics to SCM
+	- Goals and principles of SCM
+	- Best practice examples
+	- Special SCM tools (VMI, ECR, JIT, 3 and 4 PL)
+	- Selected quantitative models
+	- Change management
+E-Business</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: Chopra, S.; Meindl, P. ; Supply Chain Management
+Pearson Education Limited; Auflage: 6th Global ed Mai 2016
+Corsten, D.; Gabriel, Chr.: Supply Chain Management
+erfolgreich umsetzen. Berlin u.a.: Springer 2002
+Corsten, D.; Gössinger, R.: Einführung in das Supply Chain
+Management. München, Wien: Oldenbourg 2001
+Eißig, M. (Hrsg.): Perspektiven des Supply Chain
+Managements. Berlin et al: Springer 2005
+Kuhn, A.; Hellingrath, H.: Supply Chain Management.
+Berlin u.a.: Springer 2002
+Schönsleben, P.: Integrated Logistics Management. Boca
+Raton et al: St. Lucie 2000
+Simchi-Levi, D.; Kaminsky, P.; Simchi-Levi, E. Designing and Managing the Supply Chain; Mcgraw-Hill Education - Europe; Auflage: 4 Rev ed. 2016
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literature references: Chopra, S.; Meindl, P. ; Supply Chain Management
+Pearson Education Limited; Auflage: 6th Global ed Mai 2016
+Corsten, D.; Gabriel, Chr.: Supply Chain Management
+erfolgreich umsetzen. Berlin u.a.: Springer 2002
+Corsten, D.; Gössinger, R.: Einführung in das Supply Chain
+Management. München, Wien: Oldenbourg 2001
+Eißig, M. (Hrsg.): Perspektiven des Supply Chain
+Managements. Berlin et al: Springer 2005
+Kuhn, A.; Hellingrath, H.: Supply Chain Management.
+Berlin u.a.: Springer 2002
+Schönsleben, P.: Integrated Logistics Management. Boca
+Raton et al: St. Lucie 2000
+Simchi-Levi, D.; Kaminsky, P.; Simchi-Levi, E. Designing and Managing the Supply Chain; Mcgraw-Hill Education - Europe; Auflage: 4 Rev ed. 2016
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Registration Procedures: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Validity: Seit 14.11.2020</text>
+      </additionalNote>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/snb/learning-assessment/e92d221e4d"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="en">&amp;lt;![CDATA[Desirable prerequisites for participation in the courses: null;&amp;lt;br/&amp;gt;Mandatory requirements for the module test application: null]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:21728#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21728#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:140"/>
+          <location targetFrameworkUrl="http://publications.europa.eu/resource/authority/country" uri="http://publications.europa.eu/resource/authority/country/DEU">
+            <targetName/>
+            <targetFrameworkName>
+              <text content-type="text/plain" lang="en">Country</text>
+            </targetFrameworkName>
+          </location>
+          <startedAtTime>2020-11-14T00:00:00.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:21728#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:21728"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:21728#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title>
+        <text content-type="text/plain" lang="en">Supply Chain Management</text>
+      </title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21728#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:21745">
+      <identifier>21745</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title>
+        <text content-type="text/plain" lang="de">Modul 21745</text>
+      </title>
+      <title>
+        <text content-type="text/plain" lang="en">Modul 21745</text>
+      </title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:21745#1">
+      <identifier>21745#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title>
+        <text content-type="text/plain" lang="de">Verkehrsbetriebslehre</text>
+      </title>
+      <definition>
+        <text content-type="text/plain" lang="de">- Unternehmensformen in Verkehr und Logistik - Verkehrsunternehmen, Spediteure, Logistikdienstleister, Reedereien etc.
+	- Anforderungen an Verkehrsbetriebe und Logistikdienstleister - Besonderheiten der betrieblichen Leistungserstellung
+	- Kerngedanken des Supply Chain Managements -Gestaltungsparameter, Rahmenbedingungen
+	- Vorgehen zur Planung der Transportlogistik - Analyse von Transport- und Distributionsnetzen
+	- Kontraktlogistik- Bestandteile, Kennzeichen, Voraussetzungen
+	- Problembereiche der Kontraktlogistik - Inhalte von Ausschreibungen
+	- Spezielle Logistik -Automobil-, Textil-, Kühl-, Getränke-, Gefahrgut-Logistik u.a.
+	- Beschaffungskonzepte
+	- Instrumente des Controllings für Verkehrs- und Logistikbetriebe -Aspekte der Preisgestaltung für Dienstleistungen in Logistik- und Verkehr</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: Clausen / Geiger (Hrsg.): Verkehrs- und Transportlogistik, Springer-Verlag Berlin Heidelberg 2013
+Holderied, C.: Güterverkehr, Spedition und Logistik: Managementkonzepte für Güterverkehrs-betriebe, Speditionsunternehmen und logistische Dienstleister, 2005
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literature references: Clausen / Geiger (Hrsg.): Verkehrs- und Transportlogistik, Springer-Verlag Berlin Heidelberg 2013
+Holderied, C.: Güterverkehr, Spedition und Logistik: Managementkonzepte für Güterverkehrs-betriebe, Speditionsunternehmen und logistische Dienstleister, 2005
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Registration Procedures: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Validity: Seit 14.11.2020</text>
+      </additionalNote>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <mode uri="http://data.europa.eu/snb/learning-assessment/e92d221e4d"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="en">&amp;lt;![CDATA[Desirable prerequisites for participation in the courses: null;&amp;lt;br/&amp;gt;Mandatory requirements for the module test application: null]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:21745#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21745#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:140"/>
+          <location targetFrameworkUrl="http://publications.europa.eu/resource/authority/country" uri="http://publications.europa.eu/resource/authority/country/DEU">
+            <targetName/>
+            <targetFrameworkName>
+              <text content-type="text/plain" lang="en">Country</text>
+            </targetFrameworkName>
+          </location>
+          <startedAtTime>2020-11-14T00:00:00.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:21745#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:21745"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:21745#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title>
+        <text content-type="text/plain" lang="de">Verkehrsbetriebslehre</text>
+      </title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21745#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:21762">
+      <identifier>21762</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title>
+        <text content-type="text/plain" lang="de">Modul 21762</text>
+      </title>
+      <title>
+        <text content-type="text/plain" lang="en">Modul 21762</text>
+      </title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:21762#1">
+      <identifier>21762#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title>
+        <text content-type="text/plain" lang="de">Businessplan</text>
+      </title>
+      <definition>
+        <text content-type="text/plain" lang="de">Im Rahmen der Veranstaltung werden die Geschäftsideen für eine potenzielle Unternehmensgründung gesammelt, bewertet und in Form eines detaillierten Business Plans ausgearbeitet. Mittels Fachvorträgen zu den einzelnen Bestandteilen des Business Plans soll dessen Relevanz für die unternehmerische Praxis gezeigt werden. Die Studierenden arbeiten in Arbeitsgruppen einen vollständigen Businessplan selbstständig aus.</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: Ries, E. (2017). The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses. London: Penguin Books.
+Kollmann, T. (2016). E-Entrepreneurship: Grundlagen der Unternehmensgründung in der Digitalen Wirtschaft. 6. Auflage. Wiesbaden: Springer Gabler.
+Kailer, N.; Weiß, G. (2018). Gründungsmanagement kompakt: Von der Idee zum Businessplan. Wien: Linde Verlag
+Hering, T.; Olbrich, M.; Klein, A. (2018). Unternehmensnachfolge (Lehr- und Handbücher der Wirtschaftswissenschaft). Berlin: Walter de Gruyter GmbH.
+Fueglistaller, U.; Müller, C.; Volery, T. (2016). Entrepreneurship. Modelle – Umsetzung – Perspektiven. Wiesbaden: Gabler.
+Vollmann, S. (2018). Innovationsmanagement unter extremer Unsicherheit: Neue Methoden zur Ideenbewertung zu Beginn des Innovationsprozesses. Marburg: Büchner Verlag
+Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderheiten, Aufgaben und Lösungsansätze für Gründungsunternehmen. Wiesbaden: Springer Gabler
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literature references: Ries, E. (2017). The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses. London: Penguin Books.
+Kollmann, T. (2016). E-Entrepreneurship: Grundlagen der Unternehmensgründung in der Digitalen Wirtschaft. 6. Auflage. Wiesbaden: Springer Gabler.
+Kailer, N.; Weiß, G. (2018). Gründungsmanagement kompakt: Von der Idee zum Businessplan. Wien: Linde Verlag
+Hering, T.; Olbrich, M.; Klein, A. (2018). Unternehmensnachfolge (Lehr- und Handbücher der Wirtschaftswissenschaft). Berlin: Walter de Gruyter GmbH.
+Fueglistaller, U.; Müller, C.; Volery, T. (2016). Entrepreneurship. Modelle – Umsetzung – Perspektiven. Wiesbaden: Gabler.
+Vollmann, S. (2018). Innovationsmanagement unter extremer Unsicherheit: Neue Methoden zur Ideenbewertung zu Beginn des Innovationsprozesses. Marburg: Büchner Verlag
+Freiling, J.; Kollmann, T. (Hrsg.) (2018). Entrepreneurial Marketing: Besonderheiten, Aufgaben und Lösungsansätze für Gründungsunternehmen. Wiesbaden: Springer Gabler
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Registration Procedures: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Validity: Seit 14.11.2020</text>
+      </additionalNote>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <mode uri="http://data.europa.eu/snb/learning-assessment/e92d221e4d"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="en">&amp;lt;![CDATA[Desirable prerequisites for participation in the courses: null;&amp;lt;br/&amp;gt;Mandatory requirements for the module test application: null]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:21762#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21762#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:140"/>
+          <location targetFrameworkUrl="http://publications.europa.eu/resource/authority/country" uri="http://publications.europa.eu/resource/authority/country/DEU">
+            <targetName/>
+            <targetFrameworkName>
+              <text content-type="text/plain" lang="en">Country</text>
+            </targetFrameworkName>
+          </location>
+          <startedAtTime>2020-11-14T00:00:00.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:21762#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:21762"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:21762#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title>
+        <text content-type="text/plain" lang="de">Businessplan</text>
+      </title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21762#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:21779">
+      <identifier>21779</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title>
+        <text content-type="text/plain" lang="de">Modul 21779</text>
+      </title>
+      <title>
+        <text content-type="text/plain" lang="en">Modul 21779</text>
+      </title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:21779#1">
+      <identifier>21779#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title>
+        <text content-type="text/plain" lang="de">Entrepreneurial Behavior</text>
+      </title>
+      <definition>
+        <text content-type="text/plain" lang="de">- Psychologie von UnternehmerInnen und unternehmerischen Teams
+	- Unternehmerische Entscheidungsfindung und Umsetzung
+	- Motivation von MitarbeiterInnen
+	- Personalführung und Persönlichkeitsentwicklung
+	- Einfluss der unternehmerischen Leidenschaft auf die Handlungen von Entrepreneuren</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: 	- Organisations- und PersonalpsychologieAnsfried B. Weinert:  - Beitz Verlag, Basel, 2004
+	- Grundlagen der OrganisationspsychologieLutz von Rosenstiel, Friedemann W. Nerdinger:  - Schaeffer Poeschel Verlag, 7. überarbeitete Auflage
+	- Psychologie für die WirtschaftLioba Werth:  - Spektrum Akademischer Verlag, 2004
+	- Sozialpsychologie - Interaktion und GruppeDieter Frey, Hans Werner Bierhoff:  - Hogrefe Verlag, Göttingen 2011
+	- International Human Resource ManagementPeter Dowling, Marion Festing, Allen D. Engle:  - 5th Edition, London, 2008
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literature references: 	- Organisations- und PersonalpsychologieAnsfried B. Weinert:  - Beitz Verlag, Basel, 2004
+	- Grundlagen der OrganisationspsychologieLutz von Rosenstiel, Friedemann W. Nerdinger:  - Schaeffer Poeschel Verlag, 7. überarbeitete Auflage
+	- Psychologie für die WirtschaftLioba Werth:  - Spektrum Akademischer Verlag, 2004
+	- Sozialpsychologie - Interaktion und GruppeDieter Frey, Hans Werner Bierhoff:  - Hogrefe Verlag, Göttingen 2011
+	- International Human Resource ManagementPeter Dowling, Marion Festing, Allen D. Engle:  - 5th Edition, London, 2008
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Registration Procedures: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Validity: Seit 14.11.2020</text>
+      </additionalNote>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <mode uri="http://data.europa.eu/snb/learning-assessment/e92d221e4d"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="en">&amp;lt;![CDATA[Desirable prerequisites for participation in the courses: null;&amp;lt;br/&amp;gt;Mandatory requirements for the module test application: null]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:21779#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21779#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:140"/>
+          <location targetFrameworkUrl="http://publications.europa.eu/resource/authority/country" uri="http://publications.europa.eu/resource/authority/country/DEU">
+            <targetName/>
+            <targetFrameworkName>
+              <text content-type="text/plain" lang="en">Country</text>
+            </targetFrameworkName>
+          </location>
+          <startedAtTime>2020-11-14T00:00:00.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:21779#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:21779"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:21779#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title>
+        <text content-type="text/plain" lang="de">Entrepreneurial Behavior</text>
+      </title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21779#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:21796">
+      <identifier>21796</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title>
+        <text content-type="text/plain" lang="de">Modul 21796</text>
+      </title>
+      <title>
+        <text content-type="text/plain" lang="en">Modul 21796</text>
+      </title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:21796#1">
+      <identifier>21796#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title>
+        <text content-type="text/plain" lang="de">Verhandlungsführung</text>
+      </title>
+      <definition>
+        <text content-type="text/plain" lang="de">- Grundlagen der Verhandlungsführung
+	- Prozessschritte von Verhandlungen
+	- Verhandlungszusammenhänge
+	- Individuelle Verhandlungsdifferenzen
+	- Lösungen für Verhandlungsdifferenzen
+	- Emotionen in Verhandlungen</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: 	- Marketing - A relationship approachHollensen, Oprensik:  - Vahlen Verlag, München, 2010
+	- Wie Manager richtig führenKotter:  - München / Wien, 1999
+	- Mikropolitik. Rationalität, Macht und Spiele in OrganisationenKüpper, Ortmann:  - Opladen, 2. Auflage, 1992
+	- Die heimlichen Spielregeln der Karriere. Wie Sie die ungeschriebenen Gesetze am Arbeitsplatz für ihren Erfolg nutzenLürssen, Opresnik:  - 3. Auflage, Frankfurt / New York, 2010
+	- Mikropolitik. Der alltägliche Aufbau und Einsatz von Macht in OrganisationenNeuberger:  - 2. Auflage, Stuttgart, 2006
+	- Die Geheimnisse erfolgreicher Verhandlungsführung - Besser verhandeln - in jeder BeziehungOpresnik:  - Springer, 2013
+	- Allgemeine Betriebs- und Managementlehre, Grundlagen und Praxis einer integrierten marktorientierten UnternehmensführungOpresnik, Rennhak:  - Gabler, 2011
+	- Visualisieren - Präsentieren - ModerierenSeifert:  - 23. Auflage, Offenbach, 2009
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literature references: 	- Marketing - A relationship approachHollensen, Oprensik:  - Vahlen Verlag, München, 2010
+	- Wie Manager richtig führenKotter:  - München / Wien, 1999
+	- Mikropolitik. Rationalität, Macht und Spiele in OrganisationenKüpper, Ortmann:  - Opladen, 2. Auflage, 1992
+	- Die heimlichen Spielregeln der Karriere. Wie Sie die ungeschriebenen Gesetze am Arbeitsplatz für ihren Erfolg nutzenLürssen, Opresnik:  - 3. Auflage, Frankfurt / New York, 2010
+	- Mikropolitik. Der alltägliche Aufbau und Einsatz von Macht in OrganisationenNeuberger:  - 2. Auflage, Stuttgart, 2006
+	- Die Geheimnisse erfolgreicher Verhandlungsführung - Besser verhandeln - in jeder BeziehungOpresnik:  - Springer, 2013
+	- Allgemeine Betriebs- und Managementlehre, Grundlagen und Praxis einer integrierten marktorientierten UnternehmensführungOpresnik, Rennhak:  - Gabler, 2011
+	- Visualisieren - Präsentieren - ModerierenSeifert:  - 23. Auflage, Offenbach, 2009
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Registration Procedures: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Validity: Seit 14.11.2020</text>
+      </additionalNote>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/DEU"/>
+      <mode uri="http://data.europa.eu/snb/learning-assessment/e92d221e4d"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="en">&amp;lt;![CDATA[Desirable prerequisites for participation in the courses: null;&amp;lt;br/&amp;gt;Mandatory requirements for the module test application: null]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:21796#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21796#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:140"/>
+          <location targetFrameworkUrl="http://publications.europa.eu/resource/authority/country" uri="http://publications.europa.eu/resource/authority/country/DEU">
+            <targetName/>
+            <targetFrameworkName>
+              <text content-type="text/plain" lang="en">Country</text>
+            </targetFrameworkName>
+          </location>
+          <startedAtTime>2020-11-14T00:00:00.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:21796#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:21796"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:21796#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title>
+        <text content-type="text/plain" lang="de">Verhandlungsführung</text>
+      </title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21796#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:21813">
+      <identifier>21813</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title>
+        <text content-type="text/plain" lang="de">Modul 21813</text>
+      </title>
+      <title>
+        <text content-type="text/plain" lang="en">Modul 21813</text>
+      </title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:21813#1">
+      <identifier>21813#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title>
+        <text content-type="text/plain" lang="en">Entrepreneurship in der digitalen Wirtschaft</text>
+      </title>
+      <definition>
+        <text content-type="text/plain" lang="en">- Im Rahmen der Veranstaltung erhalten die Studierenden unter anderem einen Einblick in den unternehmerischen Prozess, das Erkennen von Geschäftsmöglichkeiten sowie die Gestaltung und Veränderung von jungen Unternehmen. Daneben werden die Studierenden in die Lage versetzt, Geschäftsmodelle auf einfacher Ebene zu verstehen. Gleichzeitig umfasst die Veranstaltung die Strategieentwicklung, grundsätzliche Aspekte des unternehmerischen Marketing, Wachstumsformen und -strategien, Unternehmertum im Kontext etablierter Unternehmen sowie Social Entrepreneurship.
+	- Bei der Behandlung der genannten Aspekte wird ein Schwerpunkt auf Gründungen in der digitalen Wirtschaft gelegt.</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: 	- The Portable MBA in EntrepreneurshipBygrave &amp; Zacharakis:  - Wiley-Verlag: 2010
+	- EntrepreneurshipBygrave &amp; Zacharakis:  - Wiley-Verlag: 3. Auflage 2013
+	- EntrepreneurshipHisrich, Peters &amp; Shepherd:  - McGraw-Hill: International Edition 2010
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literature references: 	- The Portable MBA in EntrepreneurshipBygrave &amp; Zacharakis:  - Wiley-Verlag: 2010
+	- EntrepreneurshipBygrave &amp; Zacharakis:  - Wiley-Verlag: 3. Auflage 2013
+	- EntrepreneurshipHisrich, Peters &amp; Shepherd:  - McGraw-Hill: International Edition 2010
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Registration Procedures: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Validity: Seit 14.11.2020</text>
+      </additionalNote>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/snb/learning-assessment/e92d221e4d"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="en">&amp;lt;![CDATA[Desirable prerequisites for participation in the courses: null;&amp;lt;br/&amp;gt;Mandatory requirements for the module test application: null]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:21813#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21813#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:140"/>
+          <location targetFrameworkUrl="http://publications.europa.eu/resource/authority/country" uri="http://publications.europa.eu/resource/authority/country/DEU">
+            <targetName/>
+            <targetFrameworkName>
+              <text content-type="text/plain" lang="en">Country</text>
+            </targetFrameworkName>
+          </location>
+          <startedAtTime>2020-11-14T00:00:00.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:21813#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:21813"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:21813#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title>
+        <text content-type="text/plain" lang="en">Entrepreneurship und Innovation</text>
+      </title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21813#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:21830">
+      <identifier>21830</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title>
+        <text content-type="text/plain" lang="de">Modul 21830</text>
+      </title>
+      <title>
+        <text content-type="text/plain" lang="en">Modul 21830</text>
+      </title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:21830#1">
+      <identifier>21830#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title>
+        <text content-type="text/plain" lang="en">Entrepreneurship und Innovation</text>
+      </title>
+      <definition>
+        <text content-type="text/plain" lang="en">- Die Veranstaltung beschäftigt sich mit den grundlegenden Theorien, Konzepten und Managementinstrumenten in den Kontexten Entrepreneurship und Innovationsmanagement.
+	- Der Inhalt der Veranstaltung ist verbunden mit aktuellen und praxisrelevanten Inhalten und deckt daher relevante Anwendungsmöglichkeiten ab.
+	- Einzelne Aspekte der Veranstaltung werden anhand von Fallstudien besprochen.</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: 	- Social EntrepreneurshipNichols:  - Oxford University Press 1. Auflage 2008
+	- Innovation and EntrepreneurshipBessant &amp; Tidd:  - Wiley-Verlag 2. Auflage 2013
+	- Fallstudien zum InnovationsmanagementFisch &amp; Roß:  - Gabler-Verlag 1. Auflage 2009
+	- Managing Innovation: Integrating Technological, Market and Organizational ChangeBessant &amp; Tidd:  - Wiley-Verlag: 5. Auflage 2013
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literature references: 	- Social EntrepreneurshipNichols:  - Oxford University Press 1. Auflage 2008
+	- Innovation and EntrepreneurshipBessant &amp; Tidd:  - Wiley-Verlag 2. Auflage 2013
+	- Fallstudien zum InnovationsmanagementFisch &amp; Roß:  - Gabler-Verlag 1. Auflage 2009
+	- Managing Innovation: Integrating Technological, Market and Organizational ChangeBessant &amp; Tidd:  - Wiley-Verlag: 5. Auflage 2013
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Registration Procedures: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Validity: Seit 14.11.2020</text>
+      </additionalNote>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/snb/learning-assessment/e92d221e4d"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="en">&amp;lt;![CDATA[Desirable prerequisites for participation in the courses: null;&amp;lt;br/&amp;gt;Mandatory requirements for the module test application: null]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:21830#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21830#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:140"/>
+          <location targetFrameworkUrl="http://publications.europa.eu/resource/authority/country" uri="http://publications.europa.eu/resource/authority/country/DEU">
+            <targetName/>
+            <targetFrameworkName>
+              <text content-type="text/plain" lang="en">Country</text>
+            </targetFrameworkName>
+          </location>
+          <startedAtTime>2020-11-14T00:00:00.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:21830#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:21830"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:21830#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title>
+        <text content-type="text/plain" lang="en">Entrepreneurship und Innovation</text>
+      </title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21830#1-1"/>
+    </learningEvent>
+    <modul id="urn:thl:learning:spec:21847">
+      <identifier>21847</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/programModule"/>
+      <title>
+        <text content-type="text/plain" lang="de">Modul 21847</text>
+      </title>
+      <title>
+        <text content-type="text/plain" lang="en">Modul 21847</text>
+      </title>
+    </modul>
+    <modulSpecialization id="urn:thl:learning:spec:21847#1">
+      <identifier>21847#1</identifier>
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/course"/>
+      <title>
+        <text content-type="text/plain" lang="en">Supply Chain Management</text>
+      </title>
+      <definition>
+        <text content-type="text/plain" lang="en">- Introduction to SCM
+	- Supply Chain Design and Operations
+	- SCM information systems
+	- Case study/Exercise:
+	- Business Game SCM
+	- Usage of cultural diversity
+	- From logistics to SCM
+	- Goals and principles of SCM
+	- Best practice examples
+	- Special SCM tools (VMI, ECR, JIT, 3 and 4 PL)
+	- Selected quantitative models
+	- Change management
+E-Business</text>
+      </definition>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Literaturangaben: Chopra, S.; Meindl, P. ; Supply Chain Management
+Pearson Education Limited; Auflage: 6th Global ed Mai 2016
+Corsten, D.; Gabriel, Chr.: Supply Chain Management
+erfolgreich umsetzen. Berlin u.a.: Springer 2002
+Corsten, D.; Gössinger, R.: Einführung in das Supply Chain
+Management. München, Wien: Oldenbourg 2001
+Eißig, M. (Hrsg.): Perspektiven des Supply Chain
+Managements. Berlin et al: Springer 2005
+Kuhn, A.; Hellingrath, H.: Supply Chain Management.
+Berlin u.a.: Springer 2002
+Schönsleben, P.: Integrated Logistics Management. Boca
+Raton et al: St. Lucie 2000
+Simchi-Levi, D.; Kaminsky, P.; Simchi-Levi, E. Designing and Managing the Supply Chain; Mcgraw-Hill Education - Europe; Auflage: 4 Rev ed. 2016
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Literature references: Chopra, S.; Meindl, P. ; Supply Chain Management
+Pearson Education Limited; Auflage: 6th Global ed Mai 2016
+Corsten, D.; Gabriel, Chr.: Supply Chain Management
+erfolgreich umsetzen. Berlin u.a.: Springer 2002
+Corsten, D.; Gössinger, R.: Einführung in das Supply Chain
+Management. München, Wien: Oldenbourg 2001
+Eißig, M. (Hrsg.): Perspektiven des Supply Chain
+Managements. Berlin et al: Springer 2005
+Kuhn, A.; Hellingrath, H.: Supply Chain Management.
+Berlin u.a.: Springer 2002
+Schönsleben, P.: Integrated Logistics Management. Boca
+Raton et al: St. Lucie 2000
+Simchi-Levi, D.; Kaminsky, P.; Simchi-Levi, E. Designing and Managing the Supply Chain; Mcgraw-Hill Education - Europe; Auflage: 4 Rev ed. 2016
+</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Anmeldeformalitäten: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Registration Procedures: Die Studierenden haben keine besonderen Anmeldeformalitäten zu beachten.</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="de">Gültigkeit: Seit 14.11.2020</text>
+      </additionalNote>
+      <additionalNote>
+        <text content-type="text/plain" lang="en">Validity: Seit 14.11.2020</text>
+      </additionalNote>
+      <volumeOfLearning>P0Y0M0DT150H0M0S</volumeOfLearning>
+      <hasECTSCreditPoints schemeID="http://data.europa.eu/europass/educationalCreditPointSystem/ects">5</hasECTSCreditPoints>
+      <language uri="http://publications.europa.eu/resource/authority/language/ENG"/>
+      <mode uri="http://data.europa.eu/snb/learning-assessment/e92d221e4d"/>
+      <duration>P0Y6M0DT0H0M0S</duration>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="de">&amp;lt;![CDATA[Wünschenswerte Voraussetzungen für die Teilnahme an den Lehrveranstaltungen: null;&amp;lt;br/&amp;gt;Verpflichtende Voraussetzungen für die Modulprüfungsanmeldung: Keine Angabe]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <entryRequirementsNote>
+        <text content-type="text/plain" lang="en">&amp;lt;![CDATA[Desirable prerequisites for participation in the courses: null;&amp;lt;br/&amp;gt;Mandatory requirements for the module test application: null]]&amp;gt;</text>
+      </entryRequirementsNote>
+      <learningOutcomes>
+        <learningOutcome idref="urn:thl:learningoutcome:21847#1"/>
+      </learningOutcomes>
+      <assessmentSpecification idref="urn:thl:assessment:spec:21847#1"/>
+      <awardingOpportunities>
+        <awardingOpportunity>
+          <organization idref="urn:epass:thl:organization:140"/>
+          <location targetFrameworkUrl="http://publications.europa.eu/resource/authority/country" uri="http://publications.europa.eu/resource/authority/country/DEU">
+            <targetName/>
+            <targetFrameworkName>
+              <text content-type="text/plain" lang="en">Country</text>
+            </targetFrameworkName>
+          </location>
+          <startedAtTime>2020-11-14T00:00:00.000Z</startedAtTime>
+        </awardingOpportunity>
+      </awardingOpportunities>
+      <hasPart idref="urn:thl:learning:spec:21847#1-1"/>
+      <specializationOf idref="urn:thl:learning:spec:21847"/>
+    </modulSpecialization>
+    <learningEvent id="urn:thl:learning:spec:21847#1-1">
+      <type uri="http://data.europa.eu/europass/learningOpportunityType/class"/>
+      <title>
+        <text content-type="text/plain" lang="en">Supply Chain Management</text>
+      </title>
+      <learningActivitySpecification idref="urn:thl:learningactivity:spec:21847#1-1"/>
+    </learningEvent>
+  </learningSpecificationReferences>
+  <learningOutcomeReferences>
+    <learningOutcome id="urn:thl:learningoutcome:21575#1">
+      <prefLabel>
+        <text content-type="text/plain" lang="de">IT-Management und E-Business</text>
+      </prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Die Lehrveranstaltung vermittelt Grundlagen und Methoden für das Verständnis von IT-Management und E-Business.
+Dabei wird ein Schwerpunkt die Analyse aktueller Fälle/Beispiele sein.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:21592#1">
+      <prefLabel>
+        <text content-type="text/plain" lang="de">Produktionsmanagement und Fabrikplanung</text>
+      </prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Die Lehrveranstaltung befähigt Studierende:
+	- Strategische und operative Produktionsmanagement-Entscheidungen in einem Unternehmen vorzubereiten bzw. mitzugestalten
+	- Die wesentlichen Instrumente und Konzepte des Produktionsmanagements und der Fabrikplanung zu kennen und anwenden zu können</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:21609#1">
+      <prefLabel>
+        <text content-type="text/plain" lang="de">Technische Investitionsplanung</text>
+      </prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Die Lehrveranstaltung vermittelt Grundlagen und Methoden der Planung, so dass die Studierenden befähigt werden, in ihrer zukünftigen beruflichen Praxis technisch-fokussierte Investitionen in verschiedensten Branchen und Industrien konzipieren, dimensionieren und bewerten zu können.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:21626#1">
+      <prefLabel>
+        <text content-type="text/plain" lang="de">Operations Research</text>
+      </prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Die Lehrveranstaltung befähigt Studierende, Fragestellungen im Bereich von Logistik und Produktion  mittels mathematischer Optimierungsverfahren zu lösen.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:21643#1">
+      <prefLabel>
+        <text content-type="text/plain" lang="de">Organisationspsychologie und Changemanagement</text>
+      </prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">- Kenntnisse von Grundlagen, Methoden und Theorien zum erfolgreichen Gestalten von Zusammenarbeit in Organisationen
+	- Fähigkeit komplexe Gruppenprozesse kommunikativ zu bewerten und zu gestalten
+	- Entwicklung, Gestaltung und Bewertung von Innovations- und Veränderungsprozessen in Organisationen</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:21660#1">
+      <prefLabel>
+        <text content-type="text/plain" lang="de">Simulation technischer Systeme</text>
+      </prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Die Lehrveranstaltung vermittelt Grundlagen und aufbauende Methoden, so dass die Studierenden befähigt werden, in ihrer zukünftigen beruflichen Praxis komplexe technische Systeme zu planen und anhand der Simulation zu bewerten. Dazu zählt insbesondere die Anwendung der Simulation im Rahmen der Fabrikplanung. Nach Abschluss dieses Moduls sind die Studierenden in der Lage:
+	- die vermittelte Vorgehensweise zur Planung von Investitionen insbesondere in Fabrikanlagen sowie deren Fertigungseinrichtungen der produzierenden Unternehmen eigenständig anzuwenden.
+	- komplexe Zusammenhänge darzustellen und Lösungsansätze für die Layout-Gestaltung, Simulation und Optimierung von Fabriken und deren Prozesse mittels Software-Tools zu entwickeln.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:21677#1">
+      <prefLabel>
+        <text content-type="text/plain" lang="de">Advanced Planning Systems</text>
+      </prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Die Studierenden lernen die verschiedenen Ebenen des Supply Chain Plannings in der Theorie und in der Anwendung mit mySAP SCM kennen</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:21694#1">
+      <prefLabel>
+        <text content-type="text/plain" lang="de">Strategisches Produktionscontrolling und Fallstudien</text>
+      </prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Die Lehrveranstaltung vermittelt Grundlagen und innovative Methoden, so dass die Studierenden befähigt werden, in ihrer zukünftigen beruflichen Praxis das strategische Controlling projektorientiert in der produzierenden Industrie durchzuführen und weiterzuentwickeln. Nach Abschluss dieses Moduls sind die Studierenden in der Lage:
+	- die Schwerpunkte von strategischen Controllingfunktionen in produzierenden Unternehmen zu erklären und diese für unterschiedlichste strategische Planungsprozesse eigenständig anzuwenden
+	- komplexe Zusammenhänge zu erfassen, diese in den unternehmerischen Kontext zu stellen und Lösungsansätze für unterschiedlichste Fragestellungen in produzierenden Unternehmen zu entwickeln.
+	- umfassende aktuelle Fallstudien durchzuführen und eigenständig Lösungen für die u.g. Inhalte zu entwickeln.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:21711#1">
+      <prefLabel>
+        <text content-type="text/plain" lang="de">Telematik-Anwendungen</text>
+      </prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Die Lehrveranstaltung befähigt die Studierenden, Anwendungen von Telematik zu konzipieren und zu bewerten.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:21728#1">
+      <prefLabel>
+        <text content-type="text/plain" lang="en">Supply Chain Management</text>
+      </prefLabel>
+      <description>
+        <text content-type="text/plain" lang="en">After successful completion of this course, the students will be able to:
+	- Take cultural aspects of the participants of a supply chain into account.
+	- Prepare strategic and operational supply chain management decisions in various enterprises
+	- Understand, analyze and evaluate major SCM tools and concepts
+	- Apply SCM concepts in practice</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:21745#1">
+      <prefLabel>
+        <text content-type="text/plain" lang="de">Verkehrsbetriebslehre</text>
+      </prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Die Lehrveranstaltung befähigt die Studierenden, Dienstleistungen in Verkehr und Logistik analysieren und bewerten zu können. Darüber hinaus werden Fähigkeiten für das Management von Verkehrs- und Logistikbetrieben vermittelt.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:21762#1">
+      <prefLabel>
+        <text content-type="text/plain" lang="de">Businessplan</text>
+      </prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Zur Bearbeitung der einzelnen Businessplanbestandteile verfügen die Studierenden über erweitertes Wissen in angrenzenden Bereichen und erschließen darüber hinaus Informationen eigenständig über geeignete
+Dokumentenrecherche, Internet und/oder empirische Erhebungen.
+Die gesammelten Informationen müssen bewertet, beurteilt, verglichen und themenspezifisch als Präsentation aufbereitet
+werden. Bei unvollständigen oder widersprüchlichen Informationen wägen die Studierenden diese gegeneinander ab und entwickeln Lösungsmöglichkeiten für den Umgang fehlenden oder uneinheitlichen Informationen.
+Der Aufbau des Businessplanseminars bedingt, dass die Studierenden fachliche Entwicklungen anderer Kommilitonen ebenfalls gezielt fördern, bereichsspezifische und -übergreifende Diskussionen führen sowie wertschätzendes Feedback auf die Zwischenpräsentationen der anderen Seminarteilnehmer geben.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:21779#1">
+      <prefLabel>
+        <text content-type="text/plain" lang="de">Entrepreneurial Behavior</text>
+      </prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Nach der Teilnahme an der Veranstaltung sind die Studierenden in der Lage, psychologische Eigenschaften und Prozesse von Entrepreneuren und unternehmerischen Teams zu analysieren und zu bewerten, unternehmerische Denk- und Handlungsprinzipien anzuwenden, theoretisch fundierte unternehmerische Entscheidungen zu treffen, Motivationskonzepte zu bewerten, Personal zu führen und zu entwickeln sowie den Einfluss des Entrepreneurial Spirit auf die Handlungen einzuschätzen und zu bewerten.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:21796#1">
+      <prefLabel>
+        <text content-type="text/plain" lang="de">Verhandlungsführung</text>
+      </prefLabel>
+      <description>
+        <text content-type="text/plain" lang="de">Die Studierenden kennen grundlegende Kommunikations- und Verhandlungstechniken und können diese in typischen Gesprächssituationen von Führungskräften und in einer eigenen Verhandlung erfolgreich anwenden.
+Sie lernen außerdem, ihre eigene Wirkung auf andere durch Auftreten, Sprache und Verhalten in Gesprächen einzuschätzen und zu steuern.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:21813#1">
+      <prefLabel>
+        <text content-type="text/plain" lang="en">Entrepreneurship in der digitalen Wirtschaft</text>
+      </prefLabel>
+      <description>
+        <text content-type="text/plain" lang="en">- Die Studierenden erkennen somit die wichtigsten Fragestellungen im Rahmen eines Gründungsprozesses und verfügen anschließend über breites Wissen einschließlich der wissenschaftlichen Grundlagen und der praktischen Anwendung zur Bedeutung des Entrepreneurships im volks- und betriebswirtschaftlichen Kontext. Sie können ihr Wissen abrufen und ergänzt um eigene Beispiele, in einem geänderten Kontext wiedergeben. Die Studierenden können Merkmale und Faktoren erfolgreicher Unternehmensgründungen erschließen und Gründungsideen anhand von Kriterien und erworbenen Methoden bewerten sowie eigenständig entwickeln und visualisieren.
+	- Die Themen werden außerdem mit praktischen und aktuellen Schwerpunktthemen verknüpft um so einen Anwendungsbezug darzustellen.
+	- Einzelaspekte der Veranstaltung werden anhand von ausgewählten Fallstudien (in englischer Sprache) vertieft.
+	- Die Studierenden können wissenschaftliche Grundlagen sowie spezialisiertes und vertieftes Fachwissen im Innovations- und Technologiemanagement erläutern und anwenden.
+	- Die Studierenden können Arbeitsschritte bei der Lösung von Problemen auch in neuen und unvertrauten sowie fachübergreifenden Kontexten des Innovations- und Technologiemanagements planen und durchführen.
+	- Die Studierenden können Ziele für die eigene Entwicklung definieren sowie eigene Stärken und Schwächen reflektieren, die eigene Entwicklung planen sowie mit Blick auf gesellschaftlichen Auswirkungen reflektieren.
+	- Die Studierenden können in Gruppen kooperativ und verantwortlich arbeiten sowie das eigene Kooperationsverhalten in Gruppen kritisch reflektieren und erweitern.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:21830#1">
+      <prefLabel>
+        <text content-type="text/plain" lang="en">Entrepreneurship und Innovation</text>
+      </prefLabel>
+      <description>
+        <text content-type="text/plain" lang="en">- Die Studierenden können wissenschaftliche Grundlagen sowie spezialisiertes und vertieftes Fachwissen im Innovations- und Technologiemanagement erläutern und anwenden.
+	- Die Studierenden können Arbeitsschritte bei der Lösung von Problemen auch in neuen und unvertrauten sowie fachübergreifenden Kontexten des Innovations- und Technologiemanagements planen und durchführen.
+	- Die Studierenden können Ziele für die eigene Entwicklung definieren sowie eigene Stärken und Schwächen reflektieren, die eigene Entwicklung planen sowie mit Blick auf gesellschaftlichen Auswirkungen reflektieren.
+	- Die Studierenden können in Gruppen kooperativ und verantwortlich arbeiten sowie das eigene Kooperationsverhalten in Gruppen kritisch reflektieren und erweitern.</text>
+      </description>
+    </learningOutcome>
+    <learningOutcome id="urn:thl:learningoutcome:21847#1">
+      <prefLabel>
+        <text content-type="text/plain" lang="en">Supply Chain Management</text>
+      </prefLabel>
+      <description>
+        <text content-type="text/plain" lang="en">After successful completion of this course, the students will be able to:
+	- Take cultural aspects of the participants of a supply chain into account.
+	- Prepare strategic and operational supply chain management decisions in various enterprises
+	- Understand, analyze and evaluate major SCM tools and concepts
+	- Apply SCM concepts in practice</text>
+      </description>
+    </learningOutcome>
+  </learningOutcomeReferences>
+  <learningActivitySpecificationReferences>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21575#1-1">
+      <title>
+        <text content-type="text/plain" lang="de">IT-Management und E-Business</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/learning-activity/25831c2" uri="http://data.europa.eu/snb/learning-activity/ff436ea7c9">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Learning Activity Types</text>
+        </targetFrameworkName>
+      </type>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21592#1-1">
+      <title>
+        <text content-type="text/plain" lang="de">Produktionsmanagement und Fabrikplanung</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/learning-activity/25831c2" uri="http://data.europa.eu/snb/learning-activity/ff436ea7c9">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Learning Activity Types</text>
+        </targetFrameworkName>
+      </type>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21609#1-1">
+      <title>
+        <text content-type="text/plain" lang="de">Technische Investitionsplanung</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/learning-activity/25831c2" uri="http://data.europa.eu/snb/learning-activity/ff436ea7c9">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Learning Activity Types</text>
+        </targetFrameworkName>
+      </type>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21626#1-1">
+      <title>
+        <text content-type="text/plain" lang="de">Operations Research</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/learning-activity/25831c2" uri="http://data.europa.eu/snb/learning-activity/ff436ea7c9">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Learning Activity Types</text>
+        </targetFrameworkName>
+      </type>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21643#1-1">
+      <title>
+        <text content-type="text/plain" lang="de">Organisationspsychologie</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/learning-activity/25831c2" uri="http://data.europa.eu/snb/learning-activity/efff75e10a">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Learning Activity Types</text>
+        </targetFrameworkName>
+      </type>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21643#1-2">
+      <title>
+        <text content-type="text/plain" lang="de">Changemanagement</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/learning-activity/25831c2" uri="http://data.europa.eu/snb/learning-activity/efff75e10a">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Learning Activity Types</text>
+        </targetFrameworkName>
+      </type>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21660#1-1">
+      <title>
+        <text content-type="text/plain" lang="de">Simulation technischer Systeme</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/learning-activity/25831c2" uri="http://data.europa.eu/snb/learning-activity/ff436ea7c9">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Learning Activity Types</text>
+        </targetFrameworkName>
+      </type>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21677#1-1">
+      <title>
+        <text content-type="text/plain" lang="de">Advanced Planning Systems</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/learning-activity/25831c2" uri="http://data.europa.eu/snb/learning-activity/ff436ea7c9">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Learning Activity Types</text>
+        </targetFrameworkName>
+      </type>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21694#1-1">
+      <title>
+        <text content-type="text/plain" lang="de">Strategisches Produktionscontrolling</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/learning-activity/25831c2" uri="http://data.europa.eu/snb/learning-activity/ff436ea7c9">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Learning Activity Types</text>
+        </targetFrameworkName>
+      </type>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21694#1-2">
+      <title>
+        <text content-type="text/plain" lang="de">Fallstudien - Strategisches Produktionscontrolling</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/learning-activity/25831c2" uri="http://data.europa.eu/snb/learning-activity/efff75e10a">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Learning Activity Types</text>
+        </targetFrameworkName>
+      </type>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21711#1-1">
+      <title>
+        <text content-type="text/plain" lang="de">Telematik-Anwendungen</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/learning-activity/25831c2" uri="http://data.europa.eu/snb/learning-activity/ff436ea7c9">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Learning Activity Types</text>
+        </targetFrameworkName>
+      </type>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21728#1-1">
+      <title>
+        <text content-type="text/plain" lang="en">Supply Chain Management</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/learning-activity/25831c2" uri="http://data.europa.eu/snb/learning-activity/ff436ea7c9">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Learning Activity Types</text>
+        </targetFrameworkName>
+      </type>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21745#1-1">
+      <title>
+        <text content-type="text/plain" lang="de">Verkehrsbetriebslehre</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/learning-activity/25831c2" uri="http://data.europa.eu/snb/learning-activity/ff436ea7c9">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Learning Activity Types</text>
+        </targetFrameworkName>
+      </type>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21762#1-1">
+      <title>
+        <text content-type="text/plain" lang="de">Businessplan</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/learning-activity/25831c2" uri="http://data.europa.eu/snb/learning-activity/efff75e10a">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Learning Activity Types</text>
+        </targetFrameworkName>
+      </type>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21779#1-1">
+      <title>
+        <text content-type="text/plain" lang="de">Entrepreneurial Behavior</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/learning-activity/25831c2" uri="http://data.europa.eu/snb/learning-activity/ff436ea7c9">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Learning Activity Types</text>
+        </targetFrameworkName>
+      </type>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21796#1-1">
+      <title>
+        <text content-type="text/plain" lang="de">Verhandlungsführung</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/learning-activity/25831c2" uri="http://data.europa.eu/snb/learning-activity/ff436ea7c9">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Learning Activity Types</text>
+        </targetFrameworkName>
+      </type>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21813#1-1">
+      <title>
+        <text content-type="text/plain" lang="en">Entrepreneurship und Innovation</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/learning-activity/25831c2" uri="http://data.europa.eu/snb/learning-activity/ff436ea7c9">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Learning Activity Types</text>
+        </targetFrameworkName>
+      </type>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21830#1-1">
+      <title>
+        <text content-type="text/plain" lang="en">Entrepreneurship und Innovation</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/learning-activity/25831c2" uri="http://data.europa.eu/snb/learning-activity/ff436ea7c9">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Learning Activity Types</text>
+        </targetFrameworkName>
+      </type>
+    </learningActivitySpecification>
+    <learningActivitySpecification id="urn:thl:learningactivity:spec:21847#1-1">
+      <title>
+        <text content-type="text/plain" lang="en">Supply Chain Management</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/learning-activity/25831c2" uri="http://data.europa.eu/snb/learning-activity/ff436ea7c9">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Learning Activity Types</text>
+        </targetFrameworkName>
+      </type>
+    </learningActivitySpecification>
+  </learningActivitySpecificationReferences>
+  <assessmentSpecificationReferences>
+    <assessmentSpecification id="urn:thl:assessment:spec:21575#1">
+      <title>
+        <text content-type="text/plain" lang="de">IT-Management und E-Business</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/assessment/25831c2" uri="http://data.europa.eu/snb/assessment/4f03b91c0e">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Assessment Types</text>
+        </targetFrameworkName>
+      </type>
+      <language targetFrameworkUrl="http://publications.europa.eu/resource/authority/language" uri="http://publications.europa.eu/resource/authority/language/DEU">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Language</text>
+        </targetFrameworkName>
+      </language>
+      <proves idref="urn:thl:learning:spec:21575#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:21592#1">
+      <title>
+        <text content-type="text/plain" lang="de">Produktionsmanagement und Fabrikplanung</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/assessment/25831c2" uri="http://data.europa.eu/snb/assessment/6e6cb2cc78">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Assessment Types</text>
+        </targetFrameworkName>
+      </type>
+      <language targetFrameworkUrl="http://publications.europa.eu/resource/authority/language" uri="http://publications.europa.eu/resource/authority/language/DEU">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Language</text>
+        </targetFrameworkName>
+      </language>
+      <proves idref="urn:thl:learning:spec:21592#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:21609#1">
+      <title>
+        <text content-type="text/plain" lang="de">Technische Investitionsplanung</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/assessment/25831c2" uri="http://data.europa.eu/snb/assessment/4f03b91c0e">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Assessment Types</text>
+        </targetFrameworkName>
+      </type>
+      <language targetFrameworkUrl="http://publications.europa.eu/resource/authority/language" uri="http://publications.europa.eu/resource/authority/language/DEU">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Language</text>
+        </targetFrameworkName>
+      </language>
+      <proves idref="urn:thl:learning:spec:21609#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:21626#1">
+      <title>
+        <text content-type="text/plain" lang="de">Operations Research</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/assessment/25831c2" uri="http://data.europa.eu/snb/assessment/6e6cb2cc78">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Assessment Types</text>
+        </targetFrameworkName>
+      </type>
+      <language targetFrameworkUrl="http://publications.europa.eu/resource/authority/language" uri="http://publications.europa.eu/resource/authority/language/DEU">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Language</text>
+        </targetFrameworkName>
+      </language>
+      <proves idref="urn:thl:learning:spec:21626#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:21643#1">
+      <title>
+        <text content-type="text/plain" lang="de">Organisationspsychologie und Changemanagement</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/assessment/25831c2" uri="http://data.europa.eu/snb/assessment/4f03b91c0e">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Assessment Types</text>
+        </targetFrameworkName>
+      </type>
+      <language targetFrameworkUrl="http://publications.europa.eu/resource/authority/language" uri="http://publications.europa.eu/resource/authority/language/DEU">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Language</text>
+        </targetFrameworkName>
+      </language>
+      <proves idref="urn:thl:learning:spec:21643#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:21660#1">
+      <title>
+        <text content-type="text/plain" lang="de">Simulation technischer Systeme</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/assessment/25831c2" uri="http://data.europa.eu/snb/assessment/4f03b91c0e">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Assessment Types</text>
+        </targetFrameworkName>
+      </type>
+      <language targetFrameworkUrl="http://publications.europa.eu/resource/authority/language" uri="http://publications.europa.eu/resource/authority/language/DEU">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Language</text>
+        </targetFrameworkName>
+      </language>
+      <proves idref="urn:thl:learning:spec:21660#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:21677#1">
+      <title>
+        <text content-type="text/plain" lang="de">Advanced Planning Systems</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/assessment/25831c2" uri="http://data.europa.eu/snb/assessment/6e6cb2cc78">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Assessment Types</text>
+        </targetFrameworkName>
+      </type>
+      <language targetFrameworkUrl="http://publications.europa.eu/resource/authority/language" uri="http://publications.europa.eu/resource/authority/language/DEU">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Language</text>
+        </targetFrameworkName>
+      </language>
+      <proves idref="urn:thl:learning:spec:21677#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:21694#1">
+      <title>
+        <text content-type="text/plain" lang="de">Strategisches Produktionscontrolling und Fallstudien</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/assessment/25831c2" uri="http://data.europa.eu/snb/assessment/4f03b91c0e">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Assessment Types</text>
+        </targetFrameworkName>
+      </type>
+      <language targetFrameworkUrl="http://publications.europa.eu/resource/authority/language" uri="http://publications.europa.eu/resource/authority/language/DEU">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Language</text>
+        </targetFrameworkName>
+      </language>
+      <proves idref="urn:thl:learning:spec:21694#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:21711#1">
+      <title>
+        <text content-type="text/plain" lang="de">Telematik-Anwendungen</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/assessment/25831c2" uri="http://data.europa.eu/snb/assessment/4f03b91c0e">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Assessment Types</text>
+        </targetFrameworkName>
+      </type>
+      <language targetFrameworkUrl="http://publications.europa.eu/resource/authority/language" uri="http://publications.europa.eu/resource/authority/language/DEU">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Language</text>
+        </targetFrameworkName>
+      </language>
+      <proves idref="urn:thl:learning:spec:21711#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:21728#1">
+      <title>
+        <text content-type="text/plain" lang="en">Supply Chain Management</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/assessment/25831c2" uri="http://data.europa.eu/snb/assessment/4f03b91c0e">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Assessment Types</text>
+        </targetFrameworkName>
+      </type>
+      <language targetFrameworkUrl="http://publications.europa.eu/resource/authority/language" uri="http://publications.europa.eu/resource/authority/language/ENG">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Language</text>
+        </targetFrameworkName>
+      </language>
+      <proves idref="urn:thl:learning:spec:21728#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:21745#1">
+      <title>
+        <text content-type="text/plain" lang="de">Verkehrsbetriebslehre</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/assessment/25831c2" uri="http://data.europa.eu/snb/assessment/4f03b91c0e">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Assessment Types</text>
+        </targetFrameworkName>
+      </type>
+      <language targetFrameworkUrl="http://publications.europa.eu/resource/authority/language" uri="http://publications.europa.eu/resource/authority/language/DEU">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Language</text>
+        </targetFrameworkName>
+      </language>
+      <proves idref="urn:thl:learning:spec:21745#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:21762#1">
+      <title>
+        <text content-type="text/plain" lang="de">Businessplan</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/assessment/25831c2" uri="http://data.europa.eu/snb/assessment/795dac4096">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Assessment Types</text>
+        </targetFrameworkName>
+      </type>
+      <language targetFrameworkUrl="http://publications.europa.eu/resource/authority/language" uri="http://publications.europa.eu/resource/authority/language/DEU">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Language</text>
+        </targetFrameworkName>
+      </language>
+      <proves idref="urn:thl:learning:spec:21762#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:21779#1">
+      <title>
+        <text content-type="text/plain" lang="de">Entrepreneurial Behavior</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/assessment/25831c2" uri="http://data.europa.eu/snb/assessment/4f03b91c0e">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Assessment Types</text>
+        </targetFrameworkName>
+      </type>
+      <language targetFrameworkUrl="http://publications.europa.eu/resource/authority/language" uri="http://publications.europa.eu/resource/authority/language/DEU">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Language</text>
+        </targetFrameworkName>
+      </language>
+      <proves idref="urn:thl:learning:spec:21779#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:21796#1">
+      <title>
+        <text content-type="text/plain" lang="de">Verhandlungsführung</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/assessment/25831c2" uri="http://data.europa.eu/snb/assessment/4f03b91c0e">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Assessment Types</text>
+        </targetFrameworkName>
+      </type>
+      <language targetFrameworkUrl="http://publications.europa.eu/resource/authority/language" uri="http://publications.europa.eu/resource/authority/language/DEU">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Language</text>
+        </targetFrameworkName>
+      </language>
+      <proves idref="urn:thl:learning:spec:21796#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:21813#1">
+      <title>
+        <text content-type="text/plain" lang="de">Entrepreneurship in der digitalen Wirtschaft</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/assessment/25831c2" uri="http://data.europa.eu/snb/assessment/4f03b91c0e">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Assessment Types</text>
+        </targetFrameworkName>
+      </type>
+      <language targetFrameworkUrl="http://publications.europa.eu/resource/authority/language" uri="http://publications.europa.eu/resource/authority/language/DEU">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Language</text>
+        </targetFrameworkName>
+      </language>
+      <proves idref="urn:thl:learning:spec:21813#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:21830#1">
+      <title>
+        <text content-type="text/plain" lang="de">Entrepreneurship und Innovation</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/assessment/25831c2" uri="http://data.europa.eu/snb/assessment/4f03b91c0e">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Assessment Types</text>
+        </targetFrameworkName>
+      </type>
+      <language targetFrameworkUrl="http://publications.europa.eu/resource/authority/language" uri="http://publications.europa.eu/resource/authority/language/DEU">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Language</text>
+        </targetFrameworkName>
+      </language>
+      <proves idref="urn:thl:learning:spec:21830#1"/>
+    </assessmentSpecification>
+    <assessmentSpecification id="urn:thl:assessment:spec:21847#1">
+      <title>
+        <text content-type="text/plain" lang="en">Supply Chain Management</text>
+      </title>
+      <type targetFrameworkUrl="http://data.europa.eu/snb/assessment/25831c2" uri="http://data.europa.eu/snb/assessment/4f03b91c0e">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Europass Standard List Of Assessment Types</text>
+        </targetFrameworkName>
+      </type>
+      <language targetFrameworkUrl="http://publications.europa.eu/resource/authority/language" uri="http://publications.europa.eu/resource/authority/language/ENG">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Language</text>
+        </targetFrameworkName>
+      </language>
+      <proves idref="urn:thl:learning:spec:21847#1"/>
+    </assessmentSpecification>
+  </assessmentSpecificationReferences>
+  <entitlementSpecificationReferences/>
+  <learningOpportunityReferences/>
+  <agentReferences>
+    <organization id="urn:epass:thl:organization:100">
+      <type targetFrameworkUrl="http://data.europa.eu/snb/agent-type" uri="http://data.europa.eu/snb/agent-type#academic-institution">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Agent Type</text>
+        </targetFrameworkName>
+      </type>
+      <registration spatialID="http://publications.europa.eu/resource/authority/country/DEU" xsi:type="ns5:LegalIdentifierType">DUMMY-REGISTRATION</registration>
+      <prefLabel>
+        <text content-type="text/plain" lang="de">Technische Hochschule Lübeck</text>
+      </prefLabel>
+      <hasLocation>
+        <spatialCode targetFrameworkUrl="http://publications.europa.eu/resource/authority/country" uri="http://publications.europa.eu/resource/authority/country/DEU">
+          <targetName/>
+          <targetFrameworkName>
+            <text content-type="text/plain" lang="en">Country</text>
+          </targetFrameworkName>
+        </spatialCode>
+      </hasLocation>
+    </organization>
+    <organization id="urn:epass:thl:organization:110">
+      <type targetFrameworkUrl="http://data.europa.eu/snb/agent-type" uri="http://data.europa.eu/snb/agent-type#academic-institution">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Agent Type</text>
+        </targetFrameworkName>
+      </type>
+      <registration spatialID="http://publications.europa.eu/resource/authority/country/DEU" xsi:type="ns5:LegalIdentifierType">DUMMY-REGISTRATION</registration>
+      <prefLabel>
+        <text content-type="text/plain" lang="de">Fachbereich Angewandte Naturwissenschaften</text>
+      </prefLabel>
+      <hasLocation>
+        <spatialCode targetFrameworkUrl="http://publications.europa.eu/resource/authority/country" uri="http://publications.europa.eu/resource/authority/country/DEU">
+          <targetName/>
+          <targetFrameworkName>
+            <text content-type="text/plain" lang="en">Country</text>
+          </targetFrameworkName>
+        </spatialCode>
+      </hasLocation>
+      <unitOf idref="urn:epass:thl:organization:100"/>
+    </organization>
+    <organization id="urn:epass:thl:organization:120">
+      <type targetFrameworkUrl="http://data.europa.eu/snb/agent-type" uri="http://data.europa.eu/snb/agent-type#academic-institution">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Agent Type</text>
+        </targetFrameworkName>
+      </type>
+      <registration spatialID="http://publications.europa.eu/resource/authority/country/DEU" xsi:type="ns5:LegalIdentifierType">DUMMY-REGISTRATION</registration>
+      <prefLabel>
+        <text content-type="text/plain" lang="de">Fachbereich Bauwesen</text>
+      </prefLabel>
+      <hasLocation>
+        <spatialCode targetFrameworkUrl="http://publications.europa.eu/resource/authority/country" uri="http://publications.europa.eu/resource/authority/country/DEU">
+          <targetName/>
+          <targetFrameworkName>
+            <text content-type="text/plain" lang="en">Country</text>
+          </targetFrameworkName>
+        </spatialCode>
+      </hasLocation>
+      <unitOf idref="urn:epass:thl:organization:100"/>
+    </organization>
+    <organization id="urn:epass:thl:organization:130">
+      <type targetFrameworkUrl="http://data.europa.eu/snb/agent-type" uri="http://data.europa.eu/snb/agent-type#academic-institution">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Agent Type</text>
+        </targetFrameworkName>
+      </type>
+      <registration spatialID="http://publications.europa.eu/resource/authority/country/DEU" xsi:type="ns5:LegalIdentifierType">DUMMY-REGISTRATION</registration>
+      <prefLabel>
+        <text content-type="text/plain" lang="de">Fachbereich Elektrotechnik und Informatik</text>
+      </prefLabel>
+      <hasLocation>
+        <spatialCode targetFrameworkUrl="http://publications.europa.eu/resource/authority/country" uri="http://publications.europa.eu/resource/authority/country/DEU">
+          <targetName/>
+          <targetFrameworkName>
+            <text content-type="text/plain" lang="en">Country</text>
+          </targetFrameworkName>
+        </spatialCode>
+      </hasLocation>
+      <unitOf idref="urn:epass:thl:organization:100"/>
+    </organization>
+    <organization id="urn:epass:thl:organization:140">
+      <type targetFrameworkUrl="http://data.europa.eu/snb/agent-type" uri="http://data.europa.eu/snb/agent-type#academic-institution">
+        <targetName/>
+        <targetFrameworkName>
+          <text content-type="text/plain" lang="en">Agent Type</text>
+        </targetFrameworkName>
+      </type>
+      <registration spatialID="http://publications.europa.eu/resource/authority/country/DEU" xsi:type="ns5:LegalIdentifierType">DUMMY-REGISTRATION</registration>
+      <prefLabel>
+        <text content-type="text/plain" lang="de">Fachbereich Maschinenbau und Wirtschaft</text>
+      </prefLabel>
+      <hasLocation>
+        <spatialCode targetFrameworkUrl="http://publications.europa.eu/resource/authority/country" uri="http://publications.europa.eu/resource/authority/country/DEU">
+          <targetName/>
+          <targetFrameworkName>
+            <text content-type="text/plain" lang="en">Country</text>
+          </targetFrameworkName>
+        </spatialCode>
+      </hasLocation>
+      <unitOf idref="urn:epass:thl:organization:100"/>
+    </organization>
+  </agentReferences>
+  <accreditationReferences/>
+  <scoringSchemeReferences/>
+  <semanticFrameworkReferences/>
+  <attachmentList/>
+  <proof/>
+</europassCredential>
